@@ -1,0 +1,168 @@
+Query         FD01848346_03751 RHS repeat-associated core domain-containing protein
+Match_columns 105
+No_of_seqs    103 out of 228
+Neff          5.64072
+Searched_HMMs 86581
+Date          Tue Feb 27 21:09:44 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/3377218.hhr -oa3m ../results/3377218.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 5T87_G CdiA toxin; Contact-dep  92.3     1.7   2E-05   26.6   6.1   61   35-99      1-63  (76)
+  2 1MBY_A serine/threonine kinase  56.5      85 0.00098   20.5   5.2   43   53-101    30-72  (88)
+  3 PF16225.9 ; DUF4884 ; Domain o  49.8      46 0.00053   21.1   2.8   25   55-79      6-31  (48)
+  4 PF11603.12 ; Sir1 ; Sir1, ORC-  47.5      39 0.00044   24.2   2.6   33   32-67     57-89  (121)
+  5 5LHX_A Serine/threonine-protei  46.5 1.4E+02  0.0016   20.1   5.2   43   53-101    33-77  (93)
+  6 8HL2_L47A 50S ribosomal protei  39.9 1.5E+02  0.0017   20.7   4.3   41   59-100    24-74  (80)
+  7 PF11743.12 ; DUF3301 ; Protein  33.6      43  0.0005   23.0   1.1   39   42-82     35-78  (93)
+  8 2L93_A DNA-binding protein H-N  27.4 2.1E+02  0.0025   17.7   3.3   27   67-99      7-33  (55)
+  9 PF06174.15 ; DUF987 ; Protein   25.8 1.2E+02  0.0014   20.4   2.0   25   68-92     20-47  (65)
+ 10 PF19855.3 ; DUF6330 ; Family o  20.6 4.1E+02  0.0047   18.2   3.7   28   57-85     10-37  (69)
+ 11 5AJ4_Ad MITORIBOSOMAL PROTEIN   20.5 1.5E+02  0.0018   22.7   2.1   32   36-68    142-173 (177)
+
+No 1
+>5T87_G CdiA toxin; Contact-dependent growth inhibition, toxin, antitoxin, immunity protein, Structural Genomics, PSI-Biology, Midwest Center for Structural Genomics, MCSG; HET: MSE; 2.4A {Cupriavidus taiwanensis (strain DSM 17343 / BCRC 17206 / CIP 107171 / LMG 19424 / R1)}
+Probab=92.30  E-value=1.7  Score=26.56  Aligned_cols=61  Identities=13%  Similarity=0.183  Sum_probs=0.0  Template_Neff=10.200
+
+Q ss_pred             CCCCCCHHHHHHhcEeCC-CCCeeEEEC-CCCCEEEEeeCCCCCeeeccccCCCCCCCCCHHHHHHh
+Q FD01848346_037   35 SILPSNAEELYKHAIPDA-EGKHWYAMD-KDGVIHRYGNSNDGKAHWNGDTSQNRGVPVPKEVQRRF   99 (105)
+Q Consensus        35 ~~eP~na~~lf~~Sv~~~-~~~~r~a~d-~~G~ihRF~~~n~G~~HWsGst~~~~~~~vp~~i~k~l   99 (105)
+                      +..|.+.+..++.++... ....|+++| ..|.+..|.....+.+|+.-.+-.    .+..+.+..|
+T Consensus         1 s~~p~~~~~al~~~~~~~~~~~~r~gvd~~~g~~~~~d~~~~~~~~g~vr~~~----~~~~~~~~~l   63 (76)
+T 5T87_G            1 SRGPSNGQSVLENSVQVKETSPRRVSVDPQTGEFVVFDRTLGDVYHGHVRAWK----DLTSDMQNAL   63 (76)
+T ss_dssp             -CCCTTHHHHHHTCEEEETTEEEEEEECTTTCCEEEEEEEETTEEEEEEECGG----GSCHHHHHHH
+T ss_pred             CCCCCChHHHHhccccCCCCCCccEEEcCCCCeEEEeeCCCCCeEEeccccHH----hCCHHHHHHH
+
+
+No 2
+>1MBY_A serine/threonine kinase; POLO DOMAIN, STRAND EXCHANGE, TRANSFERASE; 2.0A {Mus musculus} SCOP: d.223.1.1
+Probab=56.45  E-value=85  Score=20.55  Aligned_cols=43  Identities=7%  Similarity=0.220  Sum_probs=0.0  Template_Neff=8.600
+
+Q ss_pred             CCCeeEEECCCCCEEEEeeCCCCCeeeccccCCCCCCCCCHHHHHHhhh
+Q FD01848346_037   53 EGKHWYAMDKDGVIHRYGNSNDGKAHWNGDTSQNRGVPVPKEVQRRFEQ  101 (105)
+Q Consensus        53 ~~~~r~a~d~~G~ihRF~~~n~G~~HWsGst~~~~~~~vp~~i~k~lg~  101 (105)
+                      ..+.+..++.++...+|...+....+|+-..      .+|.++++.|..
+T Consensus        30 ~Dgs~l~~~~~~~~v~y~~~~g~~~~f~~~~------~lP~~v~~kl~~   72 (88)
+T 1MBY_A           30 NDGSQLVMQAGVSSISYTSPDGQTTRYGENE------KLPEYIKQKLQL   72 (88)
+T ss_dssp             TTSCEEEEEEEEEEEEEECTTSCEEEEETTS------CCCHHHHHHHTT
+T ss_pred             CCCCEEEEECCCCEEEEECCCCCEEEEeCCC------cCCHHHHHHHHH
+
+
+No 3
+>PF16225.9 ; DUF4884 ; Domain of unknown function (DUF4884)
+Probab=49.77  E-value=46  Score=21.07  Aligned_cols=25  Identities=24%  Similarity=0.438  Sum_probs=0.0  Template_Neff=3.700
+
+Q ss_pred             CeeEEECCCC-CEEEEeeCCCCCeee
+Q FD01848346_037   55 KHWYAMDKDG-VIHRYGNSNDGKAHW   79 (105)
+Q Consensus        55 ~~r~a~d~~G-~ihRF~~~n~G~~HW   79 (105)
+                      ...+-..-+| .+|||.++..|.++.
+T Consensus         6 ~Ve~LFe~DGCkVYRF~D~~~g~~vY   31 (48)
+T R6FE76_9BACE/3    6 RVSYLFEHDGCRVYRFYDSWSGSYVY   31 (48)
+T ss_pred             eeeEEEEECCEEEEEEEeCCCCeEEE
+
+
+No 4
+>PF11603.12 ; Sir1 ; Sir1, ORC-binding domain
+Probab=47.54  E-value=39  Score=24.22  Aligned_cols=33  Identities=15%  Similarity=0.395  Sum_probs=0.0  Template_Neff=7.300
+
+Q ss_pred             CCCCCCCCCHHHHHHhcEeCCCCCeeEEECCCCCEE
+Q FD01848346_037   32 SQTSILPSNAEELYKHAIPDAEGKHWYAMDKDGVIH   67 (105)
+Q Consensus        32 ~~~~~eP~na~~lf~~Sv~~~~~~~r~a~d~~G~ih   67 (105)
+                      |...+.|.++.+||+.+=...   .+|..+++|.++
+T Consensus        57 ~~~~lip~~S~~LF~~v~t~~---~~F~~~~~G~~~   89 (121)
+T G0VIY8_NAUCC/5   57 PNTDLVPCSSKELFAQSHLEV---KKFVRTDEGFKL   89 (121)
+T ss_pred             CCCceeecCCHHHHHhCccEE---EEEEECCCccEE
+
+
+No 5
+>5LHX_A Serine/threonine-protein kinase PLK4; Polo box domain, Centriole, transferase, structural protein; 1.53A {Drosophila melanogaster} SCOP: d.223.1.0
+Probab=46.51  E-value=1.4e+02  Score=20.08  Aligned_cols=43  Identities=16%  Similarity=0.125  Sum_probs=0.0  Template_Neff=8.000
+
+Q ss_pred             CCCeeEEECCCCC--EEEEeeCCCCCeeeccccCCCCCCCCCHHHHHHhhh
+Q FD01848346_037   53 EGKHWYAMDKDGV--IHRYGNSNDGKAHWNGDTSQNRGVPVPKEVQRRFEQ  101 (105)
+Q Consensus        53 ~~~~r~a~d~~G~--ihRF~~~n~G~~HWsGst~~~~~~~vp~~i~k~lg~  101 (105)
+                      ..+.++.++.+..  ..+|...+....+|+-..      .+|..|++.|..
+T Consensus        33 ~DGs~l~~~~~~~~~~i~y~~~~g~~~~y~~~~------~lP~~v~~kL~~   77 (93)
+T 5LHX_A           33 YDGSVVSVIPSMQGGGITYTQPNGTSTHFGKGD------DLPFPVRDRVGQ   77 (93)
+T ss_dssp             TTSCEEEECCGGGTCCEEEECTTSCEEEECTTC------CCCTTHHHHHTT
+T ss_pred             CCCCEEEEecCCCcCeEEEECCCCCEEEeeCCC------CCCHHHHHHHhh
+
+
+No 6
+>8HL2_L47A 50S ribosomal protein L47A; Sulfolobus acidocaldarius ribosome small subunit, RIBOSOME; HET: GNP, UNK;{Sulfolobus acidocaldarius DSM 639}
+Probab=39.90  E-value=1.5e+02  Score=20.71  Aligned_cols=41  Identities=20%  Similarity=0.450  Sum_probs=0.0  Template_Neff=4.400
+
+Q ss_pred             EECCCC-CEEEEee-----CCCCCeeeccccCCCCCC----CCCHHHHHHhh
+Q FD01848346_037   59 AMDKDG-VIHRYGN-----SNDGKAHWNGDTSQNRGV----PVPKEVQRRFE  100 (105)
+Q Consensus        59 a~d~~G-~ihRF~~-----~n~G~~HWsGst~~~~~~----~vp~~i~k~lg  100 (105)
+                      +++++| .++-|+.     .++|.- |+=.+.+....    .+|++||+.|.
+T Consensus        24 ~r~e~Ge~~vv~~~~~~~~~~~gee-W~~d~~~akeid~~~~Lp~dirk~Ls   74 (80)
+T 8HL2_L47A        24 ARNEKGEKIIIFQSLTSAKLLNNEE-WKENTTDAKNVEKREDLPQDVRKITG   74 (80)
+T ss_pred             EeCCCCCEEEEEEEeeEEecCCCcc-cCCCcccceeccchhhCCHHHHHHHH
+
+
+No 7
+>PF11743.12 ; DUF3301 ; Protein of unknown function (DUF3301)
+Probab=33.60  E-value=43  Score=23.03  Aligned_cols=39  Identities=10%  Similarity=0.118  Sum_probs=0.0  Template_Neff=6.900
+
+Q ss_pred             HHHHHhcEeCCCCCeeEEECCCC-----CEEEEeeCCCCCeeeccc
+Q FD01848346_037   42 EELYKHAIPDAEGKHWYAMDKDG-----VIHRYGNSNDGKAHWNGD   82 (105)
+Q Consensus        42 ~~lf~~Sv~~~~~~~r~a~d~~G-----~ihRF~~~n~G~~HWsGs   82 (105)
+                      .+|.+.+|...  +.++.++.+|     ..|+|.-+.+|.-.+.|.
+T Consensus        35 lQlLD~tv~l~--~~~~~r~~~g~~~~~R~Y~FEFS~~G~~Ry~G~   78 (93)
+T C5BMU7_TERTT/8   35 VNLLDQSIVLR--RISLRPSASSLFAVRRVYSFEFATLGDERYPGT   78 (93)
+T ss_pred             CEEeeheEEee--eeeeccCCCCCeEEEEEEEEEEcCCCCceEEEE
+
+
+No 8
+>2L93_A DNA-binding protein H-NS; H-NS, AT hook, DNA Binding Protein; NMR {Salmonella typhimurium} SCOP: a.155.1.1, l.1.1.1
+Probab=27.42  E-value=2.1e+02  Score=17.66  Aligned_cols=27  Identities=19%  Similarity=0.505  Sum_probs=0.0  Template_Neff=6.900
+
+Q ss_pred             EEEeeCCCCCeeeccccCCCCCCCCCHHHHHHh
+Q FD01848346_037   67 HRYGNSNDGKAHWNGDTSQNRGVPVPKEVQRRF   99 (105)
+Q Consensus        67 hRF~~~n~G~~HWsGst~~~~~~~vp~~i~k~l   99 (105)
+                      |||.+..+...-|+|.-      ..|..+++.+
+T Consensus         7 Yry~~p~~~~~tWsGrG------r~P~wl~~~~   33 (55)
+T 2L93_A            7 YSYVDENGETKTWTGQG------RTPAVIKKAM   33 (55)
+T ss_dssp             EEEESSSSEEEEECSCS------SCCHHHHHHH
+T ss_pred             eEEECCCCCeeeeeCCC------CCCHHHHHHH
+
+
+No 9
+>PF06174.15 ; DUF987 ; Protein of unknown function (DUF987)
+Probab=25.79  E-value=1.2e+02  Score=20.38  Aligned_cols=25  Identities=24%  Similarity=0.448  Sum_probs=0.0  Template_Neff=4.200
+
+Q ss_pred             EEeeCCCCCeeeccccCCCCCC---CCC
+Q FD01848346_037   68 RYGNSNDGKAHWNGDTSQNRGV---PVP   92 (105)
+Q Consensus        68 RF~~~n~G~~HWsGst~~~~~~---~vp   92 (105)
+                      |++.--+|.|.|.||...-...   +||
+T Consensus        20 rlf~fctGKY~WhGS~~~YtGrevqdi~   47 (65)
+T YPJJ_ECOLI/1-6   20 RIFRYCTGKYQWHGSVCHYTGRDVPDIT   47 (65)
+T ss_pred             eecccCCCcceecCccccccCceecCCC
+
+
+No 10
+>PF19855.3 ; DUF6330 ; Family of unknown function (DUF6330)
+Probab=20.56  E-value=4.1e+02  Score=18.21  Aligned_cols=28  Identities=18%  Similarity=0.172  Sum_probs=0.0  Template_Neff=2.000
+
+Q ss_pred             eEEECCCCCEEEEeeCCCCCeeeccccCC
+Q FD01848346_037   57 WYAMDKDGVIHRYGNSNDGKAHWNGDTSQ   85 (105)
+Q Consensus        57 r~a~d~~G~ihRF~~~n~G~~HWsGst~~   85 (105)
+                      +.|.+.+|.-++..-.. |-|-||-|.+.
+T Consensus        10 rVAc~~dG~R~iitf~r-gaYwWS~sega   37 (69)
+T A0A166RVU3_9RH   10 RVACFNDGRRKIITFKR-GAYWWSAAEGA   37 (69)
+T ss_pred             EEEEcCCCceEEEEEcC-ceEEeeccCCc
+
+
+No 11
+>5AJ4_Ad MITORIBOSOMAL PROTEIN MS26, MRPS26; RIBOSOME, TRANSLATION, MITOCHONDRIA, MAMMALIAN 55S MITORIBOSOME, MAMMALIAN 55S MITOCHONDRIAL RIBOSOME, 28S SMALL SUBUNIT, 39S LARGE SUBUNIT; HET: Y5P, GDP, P5P, MG; 3.8A {SUS SCROFA}
+Probab=20.48  E-value=1.5e+02  Score=22.70  Aligned_cols=32  Identities=22%  Similarity=0.351  Sum_probs=0.0  Template_Neff=7.200
+
+Q ss_pred             CCCCCHHHHHHhcEeCCCCCeeEEECCCCCEEE
+Q FD01848346_037   36 ILPSNAEELYKHAIPDAEGKHWYAMDKDGVIHR   68 (105)
+Q Consensus        36 ~eP~na~~lf~~Sv~~~~~~~r~a~d~~G~ihR   68 (105)
+                      |-+.|-.+..++|+... -..-||+|.+|.+|+
+T Consensus       142 IT~ENLDe~Ie~aL~~~-vdYNfAID~~G~i~~  173 (177)
+T 5AJ4_Ad         142 ITRENLEARVEEALDSP-KSYNWAITREGLVVR  173 (177)
+T ss_pred             CChhhHHHHHHHHHhCC-CCCCceecCCCceec
+
+

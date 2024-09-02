@@ -1,0 +1,735 @@
+Query         FD01850236_04389 hypothetical protein
+Match_columns 154
+No_of_seqs    7 out of 10
+Neff          3.18799
+Searched_HMMs 86581
+Date          Tue Feb 27 19:33:44 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/6531299.hhr -oa3m ../results/6531299.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 PF17376.6 ; DUF5398 ; Family o  92.7    0.42 4.8E-06   36.5   4.4   63   75-137    19-81  (81)
+  2 7FIM_R Glucagon-like peptide 1  72.9     6.2 7.1E-05   35.6   2.8   52    3-55    540-591 (597)
+  3 7D68_R Glucagon-like peptide 2  72.3     6.1 7.1E-05   37.4   2.7   51    4-55    608-658 (664)
+  4 8IRU_R D(4) dopamine receptor;  70.0       8 9.3E-05   37.2   3.0   50    5-55    730-779 (785)
+  5 8EA0_A Muscarinic acetylcholin  65.5      12 0.00014   33.3   3.0   51    4-55    497-547 (568)
+  6 7DW9_R Vasopressin V2 receptor  61.9      13 0.00015   33.7   2.6   31   25-55    609-639 (645)
+  7 5VNY_A Lethal (2) giant discs   58.9      78  0.0009   21.4   5.3   50   87-136     1-50  (66)
+  8 7X5H_R Soluble cytochrome b562  51.6      28 0.00033   32.3   3.0   50    5-55    635-684 (690)
+  9 PF02169.20 ; LPP20 ; LPP20 lip  51.3      33 0.00038   23.0   2.6   21   36-56     59-79  (83)
+ 10 7ZSS_P de novo designed binder  50.1 1.3E+02  0.0015   21.5   5.5   51   86-136     5-55  (79)
+ 11 PF21231.1 ; XylC_M ; Beta-xylo  49.3      24 0.00028   26.2   1.8   15   44-58    138-153 (153)
+ 12 7EIB_A B1 bradykinin receptor;  46.7      44 0.00051   30.0   3.3   35   21-55    573-607 (613)
+ 13 8K2X_R Soluble cytochrome b562  46.3      33 0.00038   31.3   2.5   31   25-55    621-651 (657)
+ 14 7F9Y_R Soluble cytochrome b562  45.4      42 0.00048   30.8   3.1   50    5-55    606-655 (661)
+ 15 3UDC_E Small-conductance mecha  43.3 2.9E+02  0.0033   22.8   7.4   76   27-103   127-210 (285)
+ 16 PF01473.24 ; Choline_bind_1 ;   42.3      39 0.00045   15.3   1.4   14   46-59      3-16  (19)
+ 17 5VO5_A Coiled-coil and C2 doma  35.1 2.4E+02  0.0028   22.1   5.4   50   87-136     1-50  (190)
+ 18 6URT_A Low conductance mechano  35.0 3.9E+02  0.0045   23.0   6.9   75   27-101   177-261 (343)
+ 19 7F2O_R B2 bradykinin receptor;  34.2      95  0.0011   27.5   3.4   35   21-55    555-589 (595)
+ 20 8IZB_R Probable G-protein coup  34.0      68 0.00079   28.6   2.5   31   25-55    532-562 (568)
+ 21 8IY5_R Endothelin type B recep  33.5      94  0.0011   28.4   3.3   35   21-55    548-582 (609)
+ 22 4HW9_F Mechanosensitive channe  32.1   5E+02  0.0057   22.3   8.7   74   26-99    140-223 (309)
+ 23 2WCR_A TNF-ALPHA INDUCER PROTE  31.4      82 0.00094   24.8   2.4   19   36-54     87-106 (159)
+ 24 2ALJ_A cell-division initiatio  31.0   2E+02  0.0023   20.1   4.0   54   45-111    17-70  (119)
+ 25 PF13953.10 ; PapC_C ; PapC C-t  30.0 2.2E+02  0.0026   17.7   3.9   38   18-55      1-38  (67)
+ 26 PF20529.2 ; DUF6744 ; Family o  29.5      50 0.00057   29.3   1.0   12   47-59    182-193 (320)
+ 27 6VXN_C Mechanosensitive ion ch  29.0 4.8E+02  0.0055   23.4   6.8   84   16-99    253-344 (428)
+ 28 PF16753.9 ; Tipalpha ; TNF-alp  28.8   1E+02  0.0012   23.5   2.5   21   36-56     89-109 (150)
+ 29 7VUL_A Non-contractile tail fi  28.6 2.1E+02  0.0024   29.6   5.0   65    3-73    589-663 (663)
+ 30 2XET_A F1 CAPSULE-ANCHORING PR  28.3 2.1E+02  0.0024   19.1   3.6   42   14-55      1-42  (89)
+ 31 3W5F_B Beta-galactosidase; Tim  26.9 1.4E+02  0.0016   28.6   3.4   37   33-69    625-689 (718)
+ 32 6LYP_E Mechanosensitive ion ch  26.6 6.6E+02  0.0076   24.2   7.5   86   16-101   331-424 (497)
+ 33 6RLD_F Small-conductance mecha  26.4 5.7E+02  0.0066   21.2   8.8   73   27-99    128-210 (286)
+ 34 6ZVO_A Mixed lineage kinase do  26.3 3.1E+02  0.0036   19.3   4.3   74   81-154    21-95  (153)
+ 35 3GIO_B Putative uncharacterize  24.0 1.6E+02  0.0018   24.3   2.9   20   37-56    115-135 (186)
+ 36 PF20045.3 ; DUF6447 ; Family o  23.6 3.3E+02  0.0038   19.6   4.1   41   62-103     8-48  (75)
+ 37 2WB7_A PT26-6P; EXTRA CHROMOSO  23.4 5.6E+02  0.0064   26.5   6.8  110   17-147   359-475 (526)
+ 38 6ZYD_D Low conductance mechano  23.0 8.7E+02    0.01   22.1   7.5   75   27-101   245-329 (419)
+ 39 PF20346.2 ; DUF6641 ; Family o  22.7 4.4E+02  0.0051   21.7   5.1   43   45-106    87-135 (143)
+ 40 PF10670.13 ; DUF4198 ; Domain   22.7 2.8E+02  0.0032   22.6   3.9   35   24-59    165-206 (218)
+ 41 8FA5_B Beta-galactosidase; bet  22.1 2.2E+02  0.0026   26.0   3.6   37   33-69    530-567 (591)
+ 42 7TRY_P Corticotropin-releasing  20.6 1.7E+02   0.002   26.8   2.7   52    3-55    503-554 (560)
+ 43 3L48_D Outer membrane usher pr  20.4 3.8E+02  0.0044   19.1   3.9   46    9-55      2-47  (94)
+
+No 1
+>PF17376.6 ; DUF5398 ; Family of unknown function (DUF5398)
+Probab=92.71  E-value=0.42  Score=36.48  Aligned_cols=63  Identities=14%  Similarity=0.194  Sum_probs=0.0  Template_Neff=4.300
+
+Q ss_pred             eeeecceehhcchHHHHHHHHHHHHHHHHHHHhhccccccchhHHhHHHHHHHHHHHHHHHHC
+Q FD01850236_043   75 LFLERNVVEAANNFEYIDVLSDQMNVFKDFTSLYKSEECDSYDSAFINGYLRYSNALDNLVLK  137 (154)
+Q Consensus        75 ~~lE~~ls~~~~~~e~idSLs~Q~eiL~~~~~~~k~~g~d~~d~i~~~Gy~Ry~~~L~~i~~~  137 (154)
+                      |+||.++.-.....++.+.+.+.+..|+.+.++-.....=..-.++.+||.-++++|..+...
+T Consensus        19 FDLEkelkd~~k~k~i~~~ie~riq~iK~~LR~G~~ke~Fdk~g~LL~GY~AL~KVl~Ri~~k   81 (81)
+T Y665_CHLTR/1-8   19 FDLEQDMHDVTKAHEVNANVQSKVQTLTSSLREGASKESFEKQQTLLAGYVALQKVLGRINRK   81 (81)
+T ss_pred             cchHHHcCCHHHHHHHHHHHHHHHHHHHHHHhcCCChhhHHHHHHHHHHHHHHHHHHHHhhcC
+
+
+No 2
+>7FIM_R Glucagon-like peptide 1 receptor,Glucagon-like peptide 1 receptor,Glucagon-like peptide 1 receptor,Glucagon-like peptide 1 receptor,human glucagon like peptide 1 receptor; Cryo-electron microscopy  G protein-coupled receptor  ligand recognition  receptor activation  unimolecular agonist, STRUCTURAL; HET: AIB; 3.4A {synthetic construct}
+Probab=72.93  E-value=6.2  Score=35.63  Aligned_cols=52  Identities=29%  Similarity=0.337  Sum_probs=0.0  Template_Neff=10.500
+
+Q ss_pred             ceeecCceeeecccHheEEEeeCCccccCCCeEEECCeeeeEEEEccCCcEEE
+Q FD01850236_043    3 IRVVPNIQLTGSLGVIAYIERLDGKKLYLNDFITIGLNEIHEKWLSKDGRLFF   55 (154)
+Q Consensus         3 ~rv~P~~~ls~~~gvia~IErldGk~~~~~~~i~Ig~~~I~d~Wis~dGraYF   55 (154)
+                      ++++|+ .|+----=...|-..|||+|.-++++..|+..|++.-+.+||+.-|
+T Consensus       540 ~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  591 (597)
+T 7FIM_R          540 DGVTPN-MLNYFGRPYEGIAVFDGKKITVTGTLWNGNKIIDERLITPDGSMLF  591 (597)
+T ss_dssp             -----------------------------------------------------
+T ss_pred             cCCCcc-cccccCCCCCcceeeCCceEEEecceecCcccccceeeCCCCceEE
+
+
+No 3
+>7D68_R Glucagon-like peptide 2 receptor; Glucagon-like peptide-2 receptor, Drug target, Class B GPCR, BIOSYNTHETIC PROTEIN;{Bos taurus}
+Probab=72.25  E-value=6.1  Score=37.45  Aligned_cols=51  Identities=29%  Similarity=0.369  Sum_probs=0.0  Template_Neff=9.200
+
+Q ss_pred             eeecCceeeecccHheEEEeeCCccccCCCeEEECCeeeeEEEEccCCcEEE
+Q FD01850236_043    4 RVVPNIQLTGSLGVIAYIERLDGKKLYLNDFITIGLNEIHEKWLSKDGRLFF   55 (154)
+Q Consensus         4 rv~P~~~ls~~~gvia~IErldGk~~~~~~~i~Ig~~~I~d~Wis~dGraYF   55 (154)
+                      +++|+ .+.--..=..-|++-|||+|..++++.=|+.-|++.-|.+||+.-|
+T Consensus       608 ~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  658 (664)
+T 7D68_R          608 GVTPN-MLNYFGRPYEGIAVFDGKKITVTGTLWNGNKIIDERLITPDGSMLF  658 (664)
+T ss_dssp             ----------------------------------------------------
+T ss_pred             CCCcc-cccccCCCCCcceeeCCceEEEecceecCcccccceeeCCCCceeE
+
+
+No 4
+>8IRU_R D(4) dopamine receptor; Dopamine, Dopamine receptor, GPCR, D4R, Gi, Rotigotine, Polypharmacology Parkinson's disease, Restless legs syndrome, MEMBRANE PROTEIN; HET: R5F, CLR; 3.2A {Homo sapiens}
+Probab=69.96  E-value=8  Score=37.23  Aligned_cols=50  Identities=30%  Similarity=0.383  Sum_probs=0.0  Template_Neff=9.500
+
+Q ss_pred             eecCceeeecccHheEEEeeCCccccCCCeEEECCeeeeEEEEccCCcEEE
+Q FD01850236_043    5 VVPNIQLTGSLGVIAYIERLDGKKLYLNDFITIGLNEIHEKWLSKDGRLFF   55 (154)
+Q Consensus         5 v~P~~~ls~~~gvia~IErldGk~~~~~~~i~Ig~~~I~d~Wis~dGraYF   55 (154)
+                      |||| -|.--------|--.|||+|.-++++.=|+.-|+|.-|..||-..|
+T Consensus       730 ~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  779 (785)
+T 8IRU_R          730 VTPN-MLNYFGRPYEGIAVFDGKKITVTGTLWNGNKIIDERLITPDGSMLF  779 (785)
+T ss_dssp             ---------------------------------------------------
+T ss_pred             CChh-hhhhcCcccCeeEEECCceEEEEEeeecCCeeeceeeeCCCCCeeE
+
+
+No 5
+>8EA0_A Muscarinic acetylcholine receptor M3; GPCR, IXO, active state, MEMBRANE PROTEIN, hM3R, Iperoxo; HET: Y01, IXO;{Homo sapiens}
+Probab=65.45  E-value=12  Score=33.25  Aligned_cols=51  Identities=29%  Similarity=0.369  Sum_probs=0.0  Template_Neff=10.800
+
+Q ss_pred             eeecCceeeecccHheEEEeeCCccccCCCeEEECCeeeeEEEEccCCcEEE
+Q FD01850236_043    4 RVVPNIQLTGSLGVIAYIERLDGKKLYLNDFITIGLNEIHEKWLSKDGRLFF   55 (154)
+Q Consensus         4 rv~P~~~ls~~~gvia~IErldGk~~~~~~~i~Ig~~~I~d~Wis~dGraYF   55 (154)
+                      +++|+ -|+...--.+-|-+.|||+|..++++.=|+..|++.-+.+||+.-|
+T Consensus       497 ~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  547 (568)
+T 8EA0_A          497 GVTPN-MLNYFGRPYEGIAVFDGKKITVTGTLWNGNKIIDERLITPDGSMLF  547 (568)
+T ss_dssp             ----------------------------------------------------
+T ss_pred             CCChh-hhhhcCcccceeEEECCceEEEEEeeecCCeeeceeeeCCCCCEEE
+
+
+No 6
+>7DW9_R Vasopressin V2 receptor; V2R, GPCR, Cryo-EM, AVP, MEMBRANE PROTEIN; HET: CLR;{Homo sapiens}
+Probab=61.86  E-value=13  Score=33.74  Aligned_cols=31  Identities=32%  Similarity=0.577  Sum_probs=0.0  Template_Neff=10.800
+
+Q ss_pred             CCccccCCCeEEECCeeeeEEEEccCCcEEE
+Q FD01850236_043   25 DGKKLYLNDFITIGLNEIHEKWLSKDGRLFF   55 (154)
+Q Consensus        25 dGk~~~~~~~i~Ig~~~I~d~Wis~dGraYF   55 (154)
+                      |||++..+++|.=|+.-|+|.-|..||-.-|
+T Consensus       609 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  639 (645)
+T 7DW9_R          609 DGKKITVTGTLWNGNKIIDERLITPDGSMLF  639 (645)
+T ss_dssp             -------------------------------
+T ss_pred             CCceEEEEEeeecCCeeeceeeeCCCCCeeE
+
+
+No 7
+>5VNY_A Lethal (2) giant discs 1, isoform B; ESCRT, ENDOCYTOSIS, PROTEIN BINDING; HET: MSE; 1.101A {Drosophila melanogaster}
+Probab=58.95  E-value=78  Score=21.43  Aligned_cols=50  Identities=12%  Similarity=0.200  Sum_probs=0.0  Template_Neff=8.400
+
+Q ss_pred             hHHHHHHHHHHHHHHHHHHHhhccccccchhHHhHHHHHHHHHHHHHHHH
+Q FD01850236_043   87 NFEYIDVLSDQMNVFKDFTSLYKSEECDSYDSAFINGYLRYSNALDNLVL  136 (154)
+Q Consensus        87 ~~e~idSLs~Q~eiL~~~~~~~k~~g~d~~d~i~~~Gy~Ry~~~L~~i~~  136 (154)
+                      +...++.|.+.++..+.++...+..|....-.-+..++-.|..++..+..
+T Consensus         1 ~~~~~~~L~~R~~~y~~a~~~ak~~g~~~kar~~~r~~k~~~~~i~~~~~   50 (66)
+T 5VNY_A            1 STNMLEALQQRLEKYQSVEAAAKAENNSGKARRFGRIVKQYEDAIKLYKA   50 (66)
+T ss_dssp             -CCHHHHHHHHHHHHHHHHHHHHTTTCHHHHHHHHHHHHHHHHHHHHHHT
+T ss_pred             CchHHHHHHHHHHHHHHHHHHHHHcCcHHHHHHHHHHHHHHHHHHHHHHC
+
+
+No 8
+>7X5H_R Soluble cytochrome b562,5-hydroxytryptamine receptor 5A,hydroxytryptamine receptor 5A; Serotonin, 5-HT, GPCR, Gi, 5-CT, MEMBRANE PROTEIN; HET: 8K3;{Homo sapiens}
+Probab=51.59  E-value=28  Score=32.26  Aligned_cols=50  Identities=30%  Similarity=0.383  Sum_probs=0.0  Template_Neff=10.500
+
+Q ss_pred             eecCceeeecccHheEEEeeCCccccCCCeEEECCeeeeEEEEccCCcEEE
+Q FD01850236_043    5 VVPNIQLTGSLGVIAYIERLDGKKLYLNDFITIGLNEIHEKWLSKDGRLFF   55 (154)
+Q Consensus         5 v~P~~~ls~~~gvia~IErldGk~~~~~~~i~Ig~~~I~d~Wis~dGraYF   55 (154)
+                      ++|| .+.-..-=..-|-+.|||+|.-++++.=|+.-|++.-+.+||..-|
+T Consensus       635 ~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  684 (690)
+T 7X5H_R          635 VTPN-MLNYFGRPYEGIAVFDGKKITVTGTLWNGNKIIDERLITPDGSMLF  684 (690)
+T ss_dssp             ---------------------------------------------------
+T ss_pred             CChh-hhhhcCCccCeeEEECCceEEEEEeeecCCeeeceeeeCCCCCeeE
+
+
+No 9
+>PF02169.20 ; LPP20 ; LPP20 lipoprotein
+Probab=51.30  E-value=33  Score=22.98  Aligned_cols=21  Identities=14%  Similarity=0.020  Sum_probs=0.0  Template_Neff=9.900
+
+Q ss_pred             EECCeeeeEEEEccCCcEEEe
+Q FD01850236_043   36 TIGLNEIHEKWLSKDGRLFFI   56 (154)
+Q Consensus        36 ~Ig~~~I~d~Wis~dGraYFI   56 (154)
+                      .+-|.+|.+.|.+++|..|..
+T Consensus        59 ~l~~~~v~~~~~~~~g~~~v~   79 (83)
+T Q7NWS4_CHRVO/1   59 YLRGVTIVSTVMKPDGTSEAV   79 (83)
+T ss_pred             hccCcEEEEEEECCCCcEEEE
+
+
+No 10
+>7ZSS_P de novo designed binder; SARS-COV2, de novo, design binder, spike, RBD, receptor binding domain, ANTIVIRAL PROTEIN; HET: NAG;{Severe acute respiratory syndrome coronavirus 2}
+Probab=50.13  E-value=1.3e+02  Score=21.51  Aligned_cols=51  Identities=10%  Similarity=0.136  Sum_probs=0.0  Template_Neff=7.800
+
+Q ss_pred             chHHHHHHHHHHHHHHHHHHHhhccccccchhHHhHHHHHHHHHHHHHHHH
+Q FD01850236_043   86 NNFEYIDVLSDQMNVFKDFTSLYKSEECDSYDSAFINGYLRYSNALDNLVL  136 (154)
+Q Consensus        86 ~~~e~idSLs~Q~eiL~~~~~~~k~~g~d~~d~i~~~Gy~Ry~~~L~~i~~  136 (154)
+                      .+...++.|.+.++..+.++...+..|....-.-+..++-.|..++..+..
+T Consensus         5 ~p~~~l~~L~~R~~~yk~a~~~ak~~gd~~karr~~r~~k~~~~~i~~~~~   55 (79)
+T 7ZSS_P            5 SSTNMLEALQQRLQFYHGQVARAALENNSGKARRFGRIVKQYEDAIKLYKA   55 (79)
+T ss_dssp             --CHHHHHHHHHHHHHHHHHHHHHHHTCHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             CchHHHHHHHHHHHHHHHHHHHHHHcCcHHHHHHHHHHHHHHHHHHHHHHC
+
+
+No 11
+>PF21231.1 ; XylC_M ; Beta-xylosidase (XylC) insertion beta sandwich domain
+Probab=49.32  E-value=24  Score=26.21  Aligned_cols=15  Identities=20%  Similarity=0.632  Sum_probs=0.0  Template_Neff=10.200
+
+Q ss_pred             EEEEccC-CcEEEeCh
+Q FD01850236_043   44 EKWLSKD-GRLFFIPP   58 (154)
+Q Consensus        44 d~Wis~d-GraYFIPP   58 (154)
+                      |.+++.+ |++|++||
+T Consensus       138 Ew~~D~~~~~Ly~~P~  153 (153)
+T H1YEN7_9SPHI/1  138 EWYLDAKNRKIYYWPR  153 (153)
+T ss_pred             cEEEECCCCEEEEecC
+
+
+No 12
+>7EIB_A B1 bradykinin receptor; Bradykinin receptors, Kinin, GPCR, MEMBRANE PROTEIN;{Homo sapiens}
+Probab=46.74  E-value=44  Score=30.00  Aligned_cols=35  Identities=31%  Similarity=0.549  Sum_probs=0.0  Template_Neff=11.100
+
+Q ss_pred             EEeeCCccccCCCeEEECCeeeeEEEEccCCcEEE
+Q FD01850236_043   21 IERLDGKKLYLNDFITIGLNEIHEKWLSKDGRLFF   55 (154)
+Q Consensus        21 IErldGk~~~~~~~i~Ig~~~I~d~Wis~dGraYF   55 (154)
+                      |+..|||+|..+++++=|+.-|++.-+.+||+.-|
+T Consensus       573 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  607 (613)
+T 7EIB_A          573 IAVFDGKKITVTGTLWNGNKIIDERLITPDGSMLF  607 (613)
+T ss_dssp             -----------------------------------
+T ss_pred             eEEECCceEEEEEeeecCCeeeceeeeCCCCCeeE
+
+
+No 13
+>8K2X_R Soluble cytochrome b562,C-X-C chemokine receptor type 3,Oplophorus-luciferin 2-monooxygenase catalytic subunit; G protein coupled receptor, chemokine receptor, CXCR3, CXCL10, complex, SIGNALING PROTEIN; HET: CLR; 3.2A {Homo sapiens}
+Probab=46.33  E-value=33  Score=31.30  Aligned_cols=31  Identities=32%  Similarity=0.577  Sum_probs=0.0  Template_Neff=10.900
+
+Q ss_pred             CCccccCCCeEEECCeeeeEEEEccCCcEEE
+Q FD01850236_043   25 DGKKLYLNDFITIGLNEIHEKWLSKDGRLFF   55 (154)
+Q Consensus        25 dGk~~~~~~~i~Ig~~~I~d~Wis~dGraYF   55 (154)
+                      ||++|.-++++.=|+.-|+|.-|.+||-.-|
+T Consensus       621 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  651 (657)
+T 8K2X_R          621 DGKKITVTGTLWNGNKIIDERLITPDGSMLF  651 (657)
+T ss_dssp             -------------------------------
+T ss_pred             CCceEEEEEeeecCCeeeceeeeCCCCCeeE
+
+
+No 14
+>7F9Y_R Soluble cytochrome b562; ghrelin, GPCR, Gq, MEMBRANE PROTEIN; HET: CLR; 2.9A {Homo sapiens}
+Probab=45.43  E-value=42  Score=30.77  Aligned_cols=50  Identities=30%  Similarity=0.383  Sum_probs=0.0  Template_Neff=10.800
+
+Q ss_pred             eecCceeeecccHheEEEeeCCccccCCCeEEECCeeeeEEEEccCCcEEE
+Q FD01850236_043    5 VVPNIQLTGSLGVIAYIERLDGKKLYLNDFITIGLNEIHEKWLSKDGRLFF   55 (154)
+Q Consensus         5 v~P~~~ls~~~gvia~IErldGk~~~~~~~i~Ig~~~I~d~Wis~dGraYF   55 (154)
+                      ++|+ -|..-.--...|..-|||+|.-++++.=|+.-|++.-+..||..-|
+T Consensus       606 ~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  655 (661)
+T 7F9Y_R          606 VTPN-MLNYFGRPYEGIAVFDGKKITVTGTLWNGNKIIDERLITPDGSMLF  655 (661)
+T ss_dssp             ---------------------------------------------------
+T ss_pred             CChh-hhhhcCCccCeeEEECCceEEEEEeEecCCeeeceeeeCCCCCeeE
+
+
+No 15
+>3UDC_E Small-conductance mechanosensitive channel, C-terminal peptide from Small-conductance mechanosensitive channel; membrane protein, channel, Mechanosensitive; 3.355A {Thermoanaerobacter tengcongensis}
+Probab=43.32  E-value=2.9e+02  Score=22.85  Aligned_cols=76  Identities=13%  Similarity=0.120  Sum_probs=0.0  Template_Neff=10.400
+
+Q ss_pred             ccccCCCeEEECCee--------eeEEEEccCCcEEEeChhhcCCCCeEEECCeEEeeeecceehhcchHHHHHHHHHHH
+Q FD01850236_043   27 KKLYLNDFITIGLNE--------IHEKWLSKDGRLFFIPPERMSFSDKIYINEVETLFLERNVVEAANNFEYIDVLSDQM   98 (154)
+Q Consensus        27 k~~~~~~~i~Ig~~~--------I~d~Wis~dGraYFIPPk~is~~~ti~I~~~e~~~lE~~ls~~~~~~e~idSLs~Q~   98 (154)
+                      +++..+|.|+|++..        ..-.-.+.||...+||-..+.......=.. .+..+.-.+....+.....+.+.+..
+T Consensus       127 ~~~~~GD~I~i~~~~G~V~~i~l~~t~l~~~~g~~v~iPN~~l~~i~n~~~~~-~~~~~~~~~~~~~~~~~~~~~l~~~~  205 (285)
+T 3UDC_E          127 DQFSVGDYVTINGISGTVEEIGLRVTKIRGFSDGLHIIPNGEIKMVTNLTKDS-MMAVVNIAFPIDEDVDKIIEGLQEIC  205 (285)
+T ss_dssp             TSSCTTCEEEETTEEEEEEEECSSEEEEEETTTEEEEEEGGGCSCEEESSSSC-EEEEEEEEEETTSCHHHHHHHHHHHH
+T ss_pred             CCCCCCCEEEECCEEEEEEEEEeeEEEEEeCCCcEEEEeccceEEEEECCCCC-ceEEEEEEEecCCCHHHHHHHHHHHH
+
+
+Q ss_pred             HHHHH
+Q FD01850236_043   99 NVFKD  103 (154)
+Q Consensus        99 eiL~~  103 (154)
+                      ..+.+
+T Consensus       206 ~~~~~  210 (285)
+T 3UDC_E          206 EEVKK  210 (285)
+T ss_dssp             HHHHH
+T ss_pred             HHHHh
+
+
+No 16
+>PF01473.24 ; Choline_bind_1 ; Putative cell wall binding repeat
+Probab=42.31  E-value=39  Score=15.31  Aligned_cols=14  Identities=14%  Similarity=0.852  Sum_probs=0.0  Template_Neff=10.700
+
+Q ss_pred             EEccCCcEEEeChh
+Q FD01850236_043   46 WLSKDGRLFFIPPE   59 (154)
+Q Consensus        46 Wis~dGraYFIPPk   59 (154)
+                      |+..+|+.|+..+.
+T Consensus         3 w~~~~~~~y~~~~~   16 (19)
+T Q8DP99_STRR6/7    3 WVQVNGSWYYLNSN   16 (19)
+T ss_pred             eEEECCEEEEECCC
+
+
+No 17
+>5VO5_A Coiled-coil and C2 domain-containing protein 1-like,GH13992p; ESCRT, TRANSPORT PROTEIN; 2.004A {Drosophila melanogaster}
+Probab=35.06  E-value=2.4e+02  Score=22.12  Aligned_cols=50  Identities=12%  Similarity=0.200  Sum_probs=0.0  Template_Neff=9.900
+
+Q ss_pred             hHHHHHHHHHHHHHHHHHHHhhccccccchhHHhHHHHHHHHHHHHHHHH
+Q FD01850236_043   87 NFEYIDVLSDQMNVFKDFTSLYKSEECDSYDSAFINGYLRYSNALDNLVL  136 (154)
+Q Consensus        87 ~~e~idSLs~Q~eiL~~~~~~~k~~g~d~~d~i~~~Gy~Ry~~~L~~i~~  136 (154)
+                      ..+.++-|.+.+...+.++...+..|....-..|..|+-.|..++..+..
+T Consensus         1 ~~~~~~~l~~r~~~y~~a~~~~k~~~~~~~~r~~~r~~k~~~~~l~~~~~   50 (190)
+T 5VO5_A            1 STNMLEALQQRLEKYQSVEAAAKAENNSGKARRFGRIVKQYEDAIKLYKA   50 (190)
+T ss_dssp             --CHHHHHHHHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHHHHHHT
+T ss_pred             ChhHHHHHHHHHHHHHHHHHHHHHcchHHHHHHHHHHHHHHHHHHHHHHc
+
+
+No 18
+>6URT_A Low conductance mechanosensitive channel YnaI; mechanosensitive channel, Phosphoserine lipid, complete paddle, MEMBRANE PROTEIN; HET: QGD; 3.27A {Escherichia coli (strain K12)}
+Probab=34.95  E-value=3.9e+02  Score=22.97  Aligned_cols=75  Identities=11%  Similarity=0.111  Sum_probs=0.0  Template_Neff=10.200
+
+Q ss_pred             ccccCCCeEEECCee----------eeEEEEccCCcEEEeChhhcCCCCeEEECCeEEeeeecceehhcchHHHHHHHHH
+Q FD01850236_043   27 KKLYLNDFITIGLNE----------IHEKWLSKDGRLFFIPPERMSFSDKIYINEVETLFLERNVVEAANNFEYIDVLSD   96 (154)
+Q Consensus        27 k~~~~~~~i~Ig~~~----------I~d~Wis~dGraYFIPPk~is~~~ti~I~~~e~~~lE~~ls~~~~~~e~idSLs~   96 (154)
+                      +++..+|.++|++..          -.-.-.+.+|+.++||-..+................+-.+....+..+-++.+.+
+T Consensus       177 ~~~~~Gd~i~i~~~~~~G~V~~i~l~~t~l~~~~g~~~~iPn~~l~~~~i~n~s~~~~~~~~~~~~~~~~~~~~~~~~~~  256 (343)
+T 6URT_A          177 RPFSIGDWIRSPDRNIEGTVAEIGWRITKITTFDNRPLYVPNSLFSSISVENPGRMTNRRITTTIGLRYEDAAKVGVIVE  256 (343)
+T ss_dssp             CSSCSSSEEBCSSSCCCEEEEEECSSEEEEECTTSCEEEEEGGGGGTSCEECGGGCSCCEEEEECCBCSSCCTTHHHHHH
+T ss_pred             CCCCCCCEEEcCCCCeEEEEEEEEeeEEEEEcCCCCEEEEehHHHccCeEEcCCCCCceEEEEEEEccCCCHHHHHHHHH
+
+
+Q ss_pred             HHHHH
+Q FD01850236_043   97 QMNVF  101 (154)
+Q Consensus        97 Q~eiL  101 (154)
+                      .+...
+T Consensus       257 ~l~~~  261 (343)
+T 6URT_A          257 AVREM  261 (343)
+T ss_dssp             HHHHH
+T ss_pred             HHHHH
+
+
+No 19
+>7F2O_R B2 bradykinin receptor; GPCR, Complex, MEMBRANE PROTEIN;{Homo sapiens}
+Probab=34.25  E-value=95  Score=27.46  Aligned_cols=35  Identities=31%  Similarity=0.549  Sum_probs=0.0  Template_Neff=11.600
+
+Q ss_pred             EEeeCCccccCCCeEEECCeeeeEEEEccCCcEEE
+Q FD01850236_043   21 IERLDGKKLYLNDFITIGLNEIHEKWLSKDGRLFF   55 (154)
+Q Consensus        21 IErldGk~~~~~~~i~Ig~~~I~d~Wis~dGraYF   55 (154)
+                      +-.-|||+|..+++++=|+.-|++.-+.+||+.-|
+T Consensus       555 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  589 (595)
+T 7F2O_R          555 IAVFDGKKITVTGTLWNGNKIIDERLITPDGSMLF  589 (595)
+T ss_dssp             -----------------------------------
+T ss_pred             eEEECCceEEEEEeeecCCeeeceeeeCCCCCeeE
+
+
+No 20
+>8IZB_R Probable G-protein coupled receptor 174; Complex, SIGNALING PROTEIN; HET: UBL, CLR;{Homo sapiens}
+Probab=34.02  E-value=68  Score=28.57  Aligned_cols=31  Identities=32%  Similarity=0.577  Sum_probs=0.0  Template_Neff=11.100
+
+Q ss_pred             CCccccCCCeEEECCeeeeEEEEccCCcEEE
+Q FD01850236_043   25 DGKKLYLNDFITIGLNEIHEKWLSKDGRLFF   55 (154)
+Q Consensus        25 dGk~~~~~~~i~Ig~~~I~d~Wis~dGraYF   55 (154)
+                      |||+|.-++++.=|+.-|+|.-+.+||-.-|
+T Consensus       532 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  562 (568)
+T 8IZB_R          532 DGKKITVTGTLWNGNKIIDERLITPDGSMLF  562 (568)
+T ss_dssp             -------------------------------
+T ss_pred             CCceEEEEEeEecCCeeeceeeeCCCCCeEE
+
+
+No 21
+>8IY5_R Endothelin type B receptor; Class A GPCR, Endothelin, Gi, Vasoactive peptide, PEPTIDE BINDING PROTEIN; 2.8A {Homo sapiens}
+Probab=33.49  E-value=94  Score=28.40  Aligned_cols=35  Identities=31%  Similarity=0.549  Sum_probs=0.0  Template_Neff=10.700
+
+Q ss_pred             EEeeCCccccCCCeEEECCeeeeEEEEccCCcEEE
+Q FD01850236_043   21 IERLDGKKLYLNDFITIGLNEIHEKWLSKDGRLFF   55 (154)
+Q Consensus        21 IErldGk~~~~~~~i~Ig~~~I~d~Wis~dGraYF   55 (154)
+                      |--.||+.+.-++++.=|+.-|+|..+..||...|
+T Consensus       548 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  582 (609)
+T 8IY5_R          548 IAVFDGKKITVTGTLWNGNKIIDERLITPDGSMLF  582 (609)
+T ss_dssp             -----------------------------------
+T ss_pred             eEEECCceEEEEEeeecCCeeeceeeeCCCCCeEE
+
+
+No 22
+>4HW9_F Mechanosensitive channel MscS; Mechanosensitive Channel, Membrane, MEMBRANE PROTEIN; 4.14A {Helicobacter pylori}
+Probab=32.13  E-value=5e+02  Score=22.32  Aligned_cols=74  Identities=19%  Similarity=0.142  Sum_probs=0.0  Template_Neff=9.700
+
+Q ss_pred             CccccCCCeEEECCee--------eeEEEEccCCcEEEeChhhcCCCCeEEECCe--EEeeeecceehhcchHHHHHHHH
+Q FD01850236_043   26 GKKLYLNDFITIGLNE--------IHEKWLSKDGRLFFIPPERMSFSDKIYINEV--ETLFLERNVVEAANNFEYIDVLS   95 (154)
+Q Consensus        26 Gk~~~~~~~i~Ig~~~--------I~d~Wis~dGraYFIPPk~is~~~ti~I~~~--e~~~lE~~ls~~~~~~e~idSLs   95 (154)
+                      .+++..+|.|.|++..        ..-.-.+.+|+..+||...+...........  .+..++-.+....+..+..+.+.
+T Consensus       140 ~~~~~~GD~I~i~~~~G~V~~i~~~~t~l~~~~g~~v~IPn~~l~~~~i~n~s~~~~~~~~~~~~v~~~~~~~~~~~~l~  219 (309)
+T 4HW9_F          140 LHPFKKGDIIEISGLEGKVEALNFFNTSLRLHDGRLAVLPNRSVANSNIINSNNTACRRIEWVCGVGYGSDIELVHKTIK  219 (309)
+T ss_dssp             TCSCCBTBEEEETTEEEEEEEECSSEEEEEESSCSEEEEEHHHHHHSCEEESTTSSEEEEEEEEEECTTSCTTHHHHHHH
+T ss_pred             CCCCCCCCEEEECCEEEEEEEEEeeEEEEEeCCCCEEEEecHHHccCcEEecCCCCCeEEEEEEEeCCCCCHHHHHHHHH
+
+
+Q ss_pred             HHHH
+Q FD01850236_043   96 DQMN   99 (154)
+Q Consensus        96 ~Q~e   99 (154)
+                      +-+.
+T Consensus       220 ~~~~  223 (309)
+T 4HW9_F          220 DVID  223 (309)
+T ss_dssp             HHHH
+T ss_pred             HHHH
+
+
+No 23
+>2WCR_A TNF-ALPHA INDUCER PROTEIN; HP0596, TIP-ALPHA, HELICOBACTER PYLORI, IMMUNE SYSTEM; 1.7A {HELICOBACTER PYLORI}
+Probab=31.41  E-value=82  Score=24.76  Aligned_cols=19  Identities=5%  Similarity=0.158  Sum_probs=0.0  Template_Neff=8.800
+
+Q ss_pred             EECCeeeeEEEEccC-CcEE
+Q FD01850236_043   36 TIGLNEIHEKWLSKD-GRLF   54 (154)
+Q Consensus        36 ~Ig~~~I~d~Wis~d-GraY   54 (154)
+                      .+.|.+|.+.|.+.+ |++|
+T Consensus        87 ~L~g~~i~~~~~~~~~~~~y  106 (159)
+T 2WCR_A           87 SLMNVDRLGIYINPNNEEVF  106 (159)
+T ss_dssp             HEEEEEEEEEEECTTTCCEE
+T ss_pred             hccCcEEEEEEECCCCCEEE
+
+
+No 24
+>2ALJ_A cell-division initiation protein; CELL-DIVISION INITIATION PROTEIN, DIVIB, FTSQ, DIVISOME, CELL CYCLE; NMR {Geobacillus stearothermophilus}
+Probab=31.03  E-value=2e+02  Score=20.06  Aligned_cols=54  Identities=19%  Similarity=0.049  Sum_probs=0.0  Template_Neff=10.700
+
+Q ss_pred             EEEccCCcEEEeChhhcCCCCeEEECCeEEeeeecceehhcchHHHHHHHHHHHHHHHHHHHhhccc
+Q FD01850236_043   45 KWLSKDGRLFFIPPERMSFSDKIYINEVETLFLERNVVEAANNFEYIDVLSDQMNVFKDFTSLYKSE  111 (154)
+Q Consensus        45 ~Wis~dGraYFIPPk~is~~~ti~I~~~e~~~lE~~ls~~~~~~e~idSLs~Q~eiL~~~~~~~k~~  111 (154)
+                      +|++++|+++-.++.......-..|.+             ....+.+..+.+++..+.+........
+T Consensus        17 ~~id~~G~i~~~~~~~~~~~~lp~i~g-------------~~~~~~~~~~~~~~~~~~~~~~~~i~~   70 (119)
+T 2ALJ_A           17 FPLLENGRLLKQEGTKTAPSDAPVLVG-------------WKDGDAIAEMTGQLAELPAAVLGAMSE   70 (119)
+T ss_dssp             EEEETTCCBCGGGCBSSCCTTSCEEES-------------CCCHHHHHHHHHHHTTSCHHHHHSCSC
+T ss_pred             EEEeCCCcEeecCCCCCCCCCCCEEec-------------CCCHHHHHHHHHHHhcCCHHHHHhccE
+
+
+No 25
+>PF13953.10 ; PapC_C ; PapC C-terminal domain
+Probab=30.04  E-value=2.2e+02  Score=17.66  Aligned_cols=38  Identities=11%  Similarity=0.346  Sum_probs=0.0  Template_Neff=10.600
+
+Q ss_pred             heEEEeeCCccccCCCeEEECCeeeeEEEEccCCcEEE
+Q FD01850236_043   18 IAYIERLDGKKLYLNDFITIGLNEIHEKWLSKDGRLFF   55 (154)
+Q Consensus        18 ia~IErldGk~~~~~~~i~Ig~~~I~d~Wis~dGraYF   55 (154)
+                      +..+..-+|+++..+..+......-...-+..+|++|+
+T Consensus         1 ~~~~~~~~g~~lp~G~~v~~~~~~~~~~~vg~~g~~~~   38 (67)
+T A8AFU6_CITK8/7    1 LLTLTRPHGSTVLFGAMVTLKGAQEQQFIVGDEGQVYL   38 (67)
+T ss_pred             CeEEECCCCCeeceeeEEEecCCCeEEEEEcCCCEEEE
+
+
+No 26
+>PF20529.2 ; DUF6744 ; Family of unknown function (DUF6744)
+Probab=29.49  E-value=50  Score=29.26  Aligned_cols=12  Identities=42%  Similarity=1.096  Sum_probs=0.0  Template_Neff=8.400
+
+Q ss_pred             EccCCcEEEeChh
+Q FD01850236_043   47 LSKDGRLFFIPPE   59 (154)
+Q Consensus        47 is~dGraYFIPPk   59 (154)
+                      +- .|.+||||+.
+T Consensus       182 lr-~GGvYFVP~~  193 (320)
+T A0A1Y4C4C6_9FI  182 IG-RGHFFFIPRD  193 (320)
+T ss_pred             cc-CCeeEEeehh
+
+
+No 27
+>6VXN_C Mechanosensitive ion channel protein 1, mitochondrial; ion channel, TRANSPORT PROTEIN; HET: D12; 2.96A {Arabidopsis thaliana}
+Probab=29.04  E-value=4.8e+02  Score=23.44  Aligned_cols=84  Identities=11%  Similarity=0.116  Sum_probs=0.0  Template_Neff=9.900
+
+Q ss_pred             cHheEEEeeCCccccCCCeEEECCeeeeEEEE--------ccCCcEEEeChhhcCCCCeEEECCeEEeeeecceehhcch
+Q FD01850236_043   16 GVIAYIERLDGKKLYLNDFITIGLNEIHEKWL--------SKDGRLFFIPPERMSFSDKIYINEVETLFLERNVVEAANN   87 (154)
+Q Consensus        16 gvia~IErldGk~~~~~~~i~Ig~~~I~d~Wi--------s~dGraYFIPPk~is~~~ti~I~~~e~~~lE~~ls~~~~~   87 (154)
+                      ++.|.+--.-.+++..+|.|+|++.+=.=.-+        +.||+..+||-..+.............-...-.+....+.
+T Consensus       253 ~~~agl~l~~~~~~~~GD~I~i~~~~G~V~~i~~~~t~l~~~~g~~v~iPn~~~~~~~i~n~s~~~~~~~~~~i~l~~~~  332 (428)
+T 6VXN_C          253 NVLSGLSMQFSRPFSMGDTIKAGSVEGQVIEMGLTTTSLLNAEKFPVLVPNSLFSSQVIVNKSRAQWRAIASKIPLQIDD  332 (428)
+T ss_dssp             HHHHHHHHHHSCSCCTTCEEEETTEEEEEEEECSSEEEEECTTCCEEEEEGGGGSSSCEEETTSCSEEEEEEEEEEECSC
+T ss_pred             HHHHHHhhhccCCCCCCCEEEeCCEEEEEEEEeceEEEEEcCCCCEEEEehHHHcCCeEEeCCcccceEEEEEeecCCCC
+
+
+Q ss_pred             HHHHHHHHHHHH
+Q FD01850236_043   88 FEYIDVLSDQMN   99 (154)
+Q Consensus        88 ~e~idSLs~Q~e   99 (154)
+                      .+.++.+.+++.
+T Consensus       333 ~~~~~~~~~~i~  344 (428)
+T 6VXN_C          333 LDMIPQISNEIK  344 (428)
+T ss_dssp             GGGHHHHHHHHH
+T ss_pred             HHHHHHHHHHHH
+
+
+No 28
+>PF16753.9 ; Tipalpha ; TNF-alpha-Inducing protein of Helicobacter
+Probab=28.84  E-value=1e+02  Score=23.48  Aligned_cols=21  Identities=5%  Similarity=0.078  Sum_probs=0.0  Template_Neff=9.400
+
+Q ss_pred             EECCeeeeEEEEccCCcEEEe
+Q FD01850236_043   36 TIGLNEIHEKWLSKDGRLFFI   56 (154)
+Q Consensus        36 ~Ig~~~I~d~Wis~dGraYFI   56 (154)
+                      .+.|.+|.+.|.+.+|.-+|+
+T Consensus        89 ~l~g~~i~~~~~~~~~~~~yv  109 (150)
+T O25318_HELPY/3   89 SLMNVDRLGIYINPNNEEVFA  109 (150)
+T ss_pred             hhcCcEEEEEEEcCCCCEEEE
+
+
+No 29
+>7VUL_A Non-contractile tail fiber protein; depolymerase, Tailspike protein, LYASE; HET: SO4; 1.59A {Klebsiella phage P560}
+Probab=28.56  E-value=2.1e+02  Score=29.58  Aligned_cols=65  Identities=22%  Similarity=0.289  Sum_probs=0.0  Template_Neff=6.200
+
+Q ss_pred             ceeecCceeeecccHheEE--------EeeCCccccCCCeEEECCeeeeEEEEccCCcEEEeChhhcCCCCe--EEECCe
+Q FD01850236_043    3 IRVVPNIQLTGSLGVIAYI--------ERLDGKKLYLNDFITIGLNEIHEKWLSKDGRLFFIPPERMSFSDK--IYINEV   72 (154)
+Q Consensus         3 ~rv~P~~~ls~~~gvia~I--------ErldGk~~~~~~~i~Ig~~~I~d~Wis~dGraYFIPPk~is~~~t--i~I~~~   72 (154)
+                      +.+.|+ .|..+++..++.        =.+||.  +....|++|+..+   |+++.|+||+-|-+..|.+.-  +.|+..
+T Consensus       589 ~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~--~~~~~~~~~~~~~---~~~~~~~l~~~~~~p~s~~~~~~~~~~~~  662 (663)
+T 7VUL_A          589 PTMLPL-ALTKGIDSGSGWVGGRTKGGIWFDGN--YRDAAVRWNGQYV---WVADNGSLKAAPTKPDSDSPSNGVVIGPL  662 (663)
+T ss_dssp             CEECSB-BCCSCBCCCTTCEEEEESSCEEECSS--TTTSCEEETTEEE---EECTTSCEEEESSCCSSSSCTTCEEEEC-
+T ss_pred             ceeccc-ccccccccCCccccccccCcEeecCc--cccceEEECCeEE---EECCCCeEEeCCCCCCCCCCCCceeeecC
+
+
+Q ss_pred             E
+Q FD01850236_043   73 E   73 (154)
+Q Consensus        73 e   73 (154)
+                      |
+T Consensus       663 ~  663 (663)
+T 7VUL_A          663 E  663 (663)
+T ss_dssp             -
+T ss_pred             C
+
+
+No 30
+>2XET_A F1 CAPSULE-ANCHORING PROTEIN; TRANSPORT PROTEIN; HET: SO4; 1.6A {YERSINIA PESTIS}
+Probab=28.33  E-value=2.1e+02  Score=19.07  Aligned_cols=42  Identities=12%  Similarity=0.201  Sum_probs=0.0  Template_Neff=10.400
+
+Q ss_pred             cccHheEEEeeCCccccCCCeEEECCeeeeEEEEccCCcEEE
+Q FD01850236_043   14 SLGVIAYIERLDGKKLYLNDFITIGLNEIHEKWLSKDGRLFF   55 (154)
+Q Consensus        14 ~~gvia~IErldGk~~~~~~~i~Ig~~~I~d~Wis~dGraYF   55 (154)
+                      +.-+++.+..-+|+++..+..+...+..-.-.-+..+|++|+
+T Consensus         1 g~~~~~~i~~~~g~~~p~Gs~v~~~~~~~~~~~vg~~g~v~~   42 (89)
+T 2XET_A            1 GGRLFLHLKRSDNKPVPFGSIVTIEGQSSSSGIVGDNSGVYL   42 (89)
+T ss_dssp             CEEEEEEEEETTSCBCCTTCEEEETTCCSCCEECCTTSEEEE
+T ss_pred             CceEEEEEEcCCCCccCeeeEEEEcCCCceEEEEcCCCEEEE
+
+
+No 31
+>3W5F_B Beta-galactosidase; Tim Barrel, beta-Sandwich, Hydrolase, Glycosylation; HET: ARG, NAG, EPE; 1.65A {Solanum lycopersicum}
+Probab=26.93  E-value=1.4e+02  Score=28.57  Aligned_cols=37  Identities=14%  Similarity=0.306  Sum_probs=0.0  Template_Neff=10.000
+
+Q ss_pred             CeEEECCeeeeEEEEc---------------------------cCCcEEEeChhhcCC-CCeEEE
+Q FD01850236_043   33 DFITIGLNEIHEKWLS---------------------------KDGRLFFIPPERMSF-SDKIYI   69 (154)
+Q Consensus        33 ~~i~Ig~~~I~d~Wis---------------------------~dGraYFIPPk~is~-~~ti~I   69 (154)
+                      +.+.|+|..|-+||-.                           .--+.||||..-|.. .++|.|
+T Consensus       625 G~v~vNG~~lGRyw~~~~~~~~~~~~~~~~~~~~~~~~~~~~~p~q~~y~vP~~~L~~g~N~lvv  689 (718)
+T 3W5F_B          625 GQIWINGEGVGRHWPGYIAQGDCSKCSYAGTFNEKKCQTNCGQPSQRWYHVPRSWLKPSGNLLVV  689 (718)
+T ss_dssp             EEEEETTEEEEEECTTSBCCSCCCCCCSCSCCCTTTTEECTTSBSCCEEEECGGGCCSSCEEEEE
+T ss_pred             cEEEECCccccccccccccCCCCccCCCCCCCCcccccCCCCCCceeeeecCHHHhCCCCcEEEE
+
+
+No 32
+>6LYP_E Mechanosensitive ion channel protein 1, mitochondrial; Mechanosensitive, Ion channel, Plant, MEMBRANE PROTEIN;{Arabidopsis thaliana}
+Probab=26.56  E-value=6.6e+02  Score=24.19  Aligned_cols=86  Identities=12%  Similarity=0.156  Sum_probs=0.0  Template_Neff=8.300
+
+Q ss_pred             cHheEEEeeCCccccCCCeEEECCee--------eeEEEEccCCcEEEeChhhcCCCCeEEECCeEEeeeecceehhcch
+Q FD01850236_043   16 GVIAYIERLDGKKLYLNDFITIGLNE--------IHEKWLSKDGRLFFIPPERMSFSDKIYINEVETLFLERNVVEAANN   87 (154)
+Q Consensus        16 gvia~IErldGk~~~~~~~i~Ig~~~--------I~d~Wis~dGraYFIPPk~is~~~ti~I~~~e~~~lE~~ls~~~~~   87 (154)
+                      ++.+.+--.-.+++..+|.|++++.+        -.-.-.+.+|...+||-..+.............-.....+....+.
+T Consensus       331 ni~aGl~l~~~~~f~vGD~I~i~~~~G~V~~I~l~~t~L~~~~g~~v~IPNs~l~~~~i~N~sr~~~~~~~~~i~~~~~~  410 (497)
+T 6LYP_E          331 NVLSGLSMQFSRPFSMGDTIKAGSVEGQVIEMGLTTTSLLNAEKFPVLVPNSLFSSQVIVNKSRAQWRAIASKIPLQIDD  410 (497)
+T ss_dssp             HHHHHHHHHHHCCCCTTCEECSSSCCEEEEEECSSEEEEEETTSCEEEEETHHHHSSCEECCSSCCSCEEECCBCEECSC
+T ss_pred             HHHHhHhhhccCCCCCCCEEEECCEEEEEEEEeCcEEEEEcCCCCEEEEehHHHccCeEEEcccccceeEEEEEeCcCCC
+
+
+Q ss_pred             HHHHHHHHHHHHHH
+Q FD01850236_043   88 FEYIDVLSDQMNVF  101 (154)
+Q Consensus        88 ~e~idSLs~Q~eiL  101 (154)
+                      .+-+..+.+++...
+T Consensus       411 ~~~i~~i~~~i~~~  424 (497)
+T 6LYP_E          411 LDMIPQISNEIKEM  424 (497)
+T ss_dssp             SSSHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHH
+
+
+No 33
+>6RLD_F Small-conductance mechanosensitive channel; MEMBRANE PROTEIN, CHANNEL, MECHANOSENSITIVE; HET: PCW; 2.93A {Escherichia coli K-12}
+Probab=26.44  E-value=5.7e+02  Score=21.20  Aligned_cols=73  Identities=12%  Similarity=0.231  Sum_probs=0.0  Template_Neff=10.400
+
+Q ss_pred             ccccCCCeEEECCee--------eeEEEEccCCcEEEeChhhcCCCCeEEECC--eEEeeeecceehhcchHHHHHHHHH
+Q FD01850236_043   27 KKLYLNDFITIGLNE--------IHEKWLSKDGRLFFIPPERMSFSDKIYINE--VETLFLERNVVEAANNFEYIDVLSD   96 (154)
+Q Consensus        27 k~~~~~~~i~Ig~~~--------I~d~Wis~dGraYFIPPk~is~~~ti~I~~--~e~~~lE~~ls~~~~~~e~idSLs~   96 (154)
+                      +++..+|.|+|++..        ..-...+.||+..+||...+....-.....  .....++=.+....+..+..+.|.+
+T Consensus       128 ~~~~~Gd~i~i~~~~G~V~~i~l~~t~l~~~~g~~v~iPn~~l~~~~i~n~~~~~~~~~~~~i~v~~~~~~~~~~~~l~~  207 (286)
+T 6RLD_F          128 RPFRAGEYVDLGGVAGTVLSVQIFSTTMRTADGKIIVIPNGKIIAGNIINFSREPVRRNEFIIGVAYDSDIDQVKQILTN  207 (286)
+T ss_dssp             CSCCSSCEEEESSCEEEEEEECSSEEEEECSSSCEEEEEHHHHHTSCEEESSSSSEEEEEEEEEECTTSCHHHHHHHHHH
+T ss_pred             CCCCCCCEEEECCEEEEEEEEEeeEEEEECCCCCEEEEeChHHhcCCEEEecCCCceEEEEEEEEcCCCCHHHHHHHHHH
+
+
+Q ss_pred             HHH
+Q FD01850236_043   97 QMN   99 (154)
+Q Consensus        97 Q~e   99 (154)
+                      -+.
+T Consensus       208 ~~~  210 (286)
+T 6RLD_F          208 IIQ  210 (286)
+T ss_dssp             HHH
+T ss_pred             HHh
+
+
+No 34
+>6ZVO_A Mixed lineage kinase domain-like protein; Necroptosis, LIPID BINDING PROTEIN; 1.371A {Homo sapiens}
+Probab=26.34  E-value=3.1e+02  Score=19.32  Aligned_cols=74  Identities=9%  Similarity=-0.017  Sum_probs=0.0  Template_Neff=11.600
+
+Q ss_pred             eehhcchHHHHHHHHHHHHHHHHHHHhhccccccchhHH-hHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHhccC
+Q FD01850236_043   81 VVEAANNFEYIDVLSDQMNVFKDFTSLYKSEECDSYDSA-FINGYLRYSNALDNLVLKNISIEEQKYLKMQKNKG  154 (154)
+Q Consensus        81 ls~~~~~~e~idSLs~Q~eiL~~~~~~~k~~g~d~~d~i-~~~Gy~Ry~~~L~~i~~~~~~~~eq~~l~~~ls~~  154 (154)
+                      +..+..+.+....|.+++..+..........+....+.- +.....++...|+.+...-.....+..+...+..+
+T Consensus        21 ~~~~~~n~~~~~~l~~~~~~~~~~l~~~~~~~~~~~~~~~~~~~l~~l~~~l~~~~~~~~~~~~~~~~~~~~~~~   95 (153)
+T 6ZVO_A           21 CEEMKYCKKQCRRLGHRVLGLIKPLEMLQDQGKRSVPSEKLTTAMNRFKAALEEANGEIEKFSNRSNICRFLTAS   95 (153)
+T ss_dssp             HHTCCSSHHHHHHHHHHHHHHHHHHHHHHTC---CCCCHHHHHHHHHHHHHHHHHHHHHHHHTSHHHHHHHHHTC
+T ss_pred             HHHHHHcHHHHHHHHHHHHHHHHHHHHHHHcCCcCCCHHHHHHHHHHHHHHHHHHHHHHHHhcCcchHHHHhccc
+
+
+No 35
+>3GIO_B Putative uncharacterized protein; antiparallel beta sheet, four-helix bundle, loop, DNA BINDING PROTEIN; HET: MSE; 2.4A {Helicobacter pylori}
+Probab=23.96  E-value=1.6e+02  Score=24.25  Aligned_cols=20  Identities=5%  Similarity=0.134  Sum_probs=0.0  Template_Neff=8.200
+
+Q ss_pred             ECCeeeeEEEEccC-CcEEEe
+Q FD01850236_043   37 IGLNEIHEKWLSKD-GRLFFI   56 (154)
+Q Consensus        37 Ig~~~I~d~Wis~d-GraYFI   56 (154)
+                      +-|.+|.+.|++.+ |.+|..
+T Consensus       115 L~g~~i~~~w~d~~~~~~yvL  135 (186)
+T 3GIO_B          115 LMNVDRLGIYINPNNEEVFAL  135 (186)
+T ss_dssp             EEEEEEEEEEEETTTTEEEEE
+T ss_pred             cCCcEEEEEEECCCCCEEEEE
+
+
+No 36
+>PF20045.3 ; DUF6447 ; Family of unknown function (DUF6447)
+Probab=23.59  E-value=3.3e+02  Score=19.57  Aligned_cols=41  Identities=10%  Similarity=0.107  Sum_probs=0.0  Template_Neff=7.400
+
+Q ss_pred             CCCCeEEECCeEEeeeecceehhcchHHHHHHHHHHHHHHHH
+Q FD01850236_043   62 SFSDKIYINEVETLFLERNVVEAANNFEYIDVLSDQMNVFKD  103 (154)
+Q Consensus        62 s~~~ti~I~~~e~~~lE~~ls~~~~~~e~idSLs~Q~eiL~~  103 (154)
+                      ....+|+||| ..|..+.-=..+......+..+..|+..|+.
+T Consensus         8 ~~~~~itidg-keY~~~~Ls~eak~~l~~l~~~d~~i~~l~~   48 (75)
+T Q46KV1_PROMT/1    8 EKEAILTFED-KKYDIKTLPKEVQELIKGMQVADAQLRMHED   48 (75)
+T ss_pred             CCCCeEEeCC-EEeehhhCCHHHHHHHHHHHHHHHHHHHHHH
+
+
+No 37
+>2WB7_A PT26-6P; EXTRA CHROMOSOMAL ELEMENTS, UNKNOWN FUNCTION; HET: MSE; 2.6A {THERMOCOCCUS SP. 26-2}
+Probab=23.43  E-value=5.6e+02  Score=26.50  Aligned_cols=110  Identities=19%  Similarity=0.256  Sum_probs=0.0  Template_Neff=4.600
+
+Q ss_pred             HheEEEeeCCccccCCCeEEECCeeeeEEEEccCCcEEEeChhhcCCCCe-------EEECCeEEeeeecceehhcchHH
+Q FD01850236_043   17 VIAYIERLDGKKLYLNDFITIGLNEIHEKWLSKDGRLFFIPPERMSFSDK-------IYINEVETLFLERNVVEAANNFE   89 (154)
+Q Consensus        17 via~IErldGk~~~~~~~i~Ig~~~I~d~Wis~dGraYFIPPk~is~~~t-------i~I~~~e~~~lE~~ls~~~~~~e   89 (154)
+                      |.|.|+|-||.+|-              .|+=..=++-.+++.++....+       ++=++       ..-++-.....
+T Consensus       359 v~~~V~rddg~~iP--------------IW~iv~P~IsV~~n~~~v~~D~~~~ei~~L~~d~-------d~e~i~~~~~s  417 (526)
+T 2WB7_A          359 VYAYVERDDGVKIP--------------IWLAAEPMISVLSNTYTVMKDQDVKNLIDLYKKK-------DREKINATTKA  417 (526)
+T ss_dssp             EEEEEECTTSCEEE--------------EEEEEEECCCCBCCCCCSSCHHHHHHHHHHHHTT-------CHHHHHHHHHH
+T ss_pred             EEEEEEcCCCCeee--------------EEEEEeccEEecCCeeEEccchhHHHHHHHhccC-------cHHHHHHHHHH
+
+
+Q ss_pred             HHHHHHHHHHHHHHHHHhhccccccchhHHhHHHHHHHHHHHHHHHHCCCCHHHHHHH
+Q FD01850236_043   90 YIDVLSDQMNVFKDFTSLYKSEECDSYDSAFINGYLRYSNALDNLVLKNISIEEQKYL  147 (154)
+Q Consensus        90 ~idSLs~Q~eiL~~~~~~~k~~g~d~~d~i~~~Gy~Ry~~~L~~i~~~~~~~~eq~~l  147 (154)
+                      .|.+|.+-++...++...-..+|.+..-...-.-..-|++|++.|+....+.+.+..+
+T Consensus       418 ~i~~L~~Ki~~Ae~~~~kae~~~n~~a~~yA~kAi~~Y~~Ai~~leki~~tdd~~~v~  475 (526)
+T 2WB7_A          418 MINSLQEKIDEAEQLLAKAKGMNNENAIEYAQGAIDEYKAAINDLQKAAQQDDYQMFL  475 (526)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHHHHHHHHTTCCSHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHhhCCcHHHHHHHHHHHHHHHHHHHHHHHhhcCCCHHHHH
+
+
+No 38
+>6ZYD_D Low conductance mechanosensitive channel YnaI,Low conductance mechanosensitive channel YnaI; YnaI small-conductance mechanosensitive channel DIBMALPs, MEMBRANE PROTEIN; HET: PEE; 3.0A {Escherichia coli (strain K12)}
+Probab=23.03  E-value=8.7e+02  Score=22.10  Aligned_cols=75  Identities=11%  Similarity=0.130  Sum_probs=0.0  Template_Neff=9.500
+
+Q ss_pred             ccccCCCeEEECC----eeeeEE------EEccCCcEEEeChhhcCCCCeEEECCeEEeeeecceehhcchHHHHHHHHH
+Q FD01850236_043   27 KKLYLNDFITIGL----NEIHEK------WLSKDGRLFFIPPERMSFSDKIYINEVETLFLERNVVEAANNFEYIDVLSD   96 (154)
+Q Consensus        27 k~~~~~~~i~Ig~----~~I~d~------Wis~dGraYFIPPk~is~~~ti~I~~~e~~~lE~~ls~~~~~~e~idSLs~   96 (154)
+                      +++..+|.|+|++    -.+.+.      -.+.||+..+||-..+.................-.+....+..+-++.+.+
+T Consensus       245 ~~~~~GD~I~i~~~~~~G~V~~i~~~~t~l~~~~g~~~~iPN~~l~~~~i~n~s~~~~~~~~~~~~l~~~~~~~~~~~~~  324 (419)
+T 6ZYD_D          245 RPFSIGDWIRSPDRNIEGTVAEIGWRITKITTFDNRPLYVPNSLFSSISVENPGRMTNRRITTTIGLRYEDAAKVGVIVE  324 (419)
+T ss_dssp             CSCCTTCEEEETTEEEEEEEEEECSSEEEEEETTSCEEEEEGGGGGTSCEECGGGCSCEEEEEEEEECGGGGGGHHHHHH
+T ss_pred             CCCCCCCEEEcCCCCeEEEEEEEEceEEEEEeCCCCEEEEehHHHccCeEEcCCCCCCeEEEEEEEcccCCHHHHHHHHH
+
+
+Q ss_pred             HHHHH
+Q FD01850236_043   97 QMNVF  101 (154)
+Q Consensus        97 Q~eiL  101 (154)
+                      .+...
+T Consensus       325 ~l~~~  329 (419)
+T 6ZYD_D          325 AVREM  329 (419)
+T ss_dssp             HHHHH
+T ss_pred             HHHHH
+
+
+No 39
+>PF20346.2 ; DUF6641 ; Family of unknown function (DUF6641)
+Probab=22.73  E-value=4.4e+02  Score=21.66  Aligned_cols=43  Identities=12%  Similarity=0.054  Sum_probs=0.0  Template_Neff=6.800
+
+Q ss_pred             EEEccCCcEEEeC-----hhhcCCCCe-EEECCeEEeeeecceehhcchHHHHHHHHHHHHHHHHHHH
+Q FD01850236_043   45 KWLSKDGRLFFIP-----PERMSFSDK-IYINEVETLFLERNVVEAANNFEYIDVLSDQMNVFKDFTS  106 (154)
+Q Consensus        45 ~Wis~dGraYFIP-----Pk~is~~~t-i~I~~~e~~~lE~~ls~~~~~~e~idSLs~Q~eiL~~~~~  106 (154)
+                      +|.+.+|.+||-|     |=.|+.+++ |.+++                   .+.+..-++.|.++..
+T Consensus        87 w~~~~~g~~~~~iRyG~~~l~l~~g~~~I~v~~-------------------~~~v~~~l~~l~~av~  135 (143)
+T A0A177HD92_9RH   87 WQQLPDGRYQIVIKYRGKMLELEAGKEAIEVSD-------------------WNDLVPTFKRIITSID  135 (143)
+T ss_pred             EEECCCCeEEEEEEECCEEEEecCCCeEEEcCC-------------------HHHHHHHHHHHHHHHH
+
+
+No 40
+>PF10670.13 ; DUF4198 ; Domain of unknown function (DUF4198)
+Probab=22.66  E-value=2.8e+02  Score=22.60  Aligned_cols=35  Identities=11%  Similarity=-0.037  Sum_probs=0.0  Template_Neff=9.500
+
+Q ss_pred             eCCccccCCCeEEE------CCeeeeEE-EEccCCcEEEeChh
+Q FD01850236_043   24 LDGKKLYLNDFITI------GLNEIHEK-WLSKDGRLFFIPPE   59 (154)
+Q Consensus        24 ldGk~~~~~~~i~I------g~~~I~d~-Wis~dGraYFIPPk   59 (154)
+                      .+|||+ .+..+.+      +....... --|++|++-|.+|+
+T Consensus       165 ~~GkPl-~~~~V~v~~~~~~~~~~~~~~~~TD~~G~~~~~~~~  206 (218)
+T A8EX19_ALIB4/1  165 FKNEPL-ASSKVYGSYAGFSNNGDYAFVTTTNKDGLAKIKLSH  206 (218)
+T ss_pred             ECCEeC-CCCEEEEEecCCCCCCCceEEEEeCCCCEEEEeCCC
+
+
+No 41
+>8FA5_B Beta-galactosidase; beta-galactosidase, xanthomonas, HYDROLASE; HET: EDO; 1.7A {Xanthomonas campestris pv. campestris}
+Probab=22.14  E-value=2.2e+02  Score=26.04  Aligned_cols=37  Identities=8%  Similarity=0.172  Sum_probs=0.0  Template_Neff=10.700
+
+Q ss_pred             CeEEECCeeeeEEEEccCCcEEEeChhhcCC-CCeEEE
+Q FD01850236_043   33 DFITIGLNEIHEKWLSKDGRLFFIPPERMSF-SDKIYI   69 (154)
+Q Consensus        33 ~~i~Ig~~~I~d~Wis~dGraYFIPPk~is~-~~ti~I   69 (154)
+                      +.+.|+|..|-+||.-.--+-||||-.-+.. .++|.|
+T Consensus       530 g~v~vNG~~lGRyw~~gpq~~~y~p~~~l~~g~N~i~i  567 (591)
+T 8FA5_B          530 GIAWANGVNLGRHWNIGPQRALYFPAPFQRKGDNTVVV  567 (591)
+T ss_dssp             EEEEETTEEEEEEETTCSBCEEEECGGGCCSEEEEEEE
+T ss_pred             EEEEECCEEecccCCCCCceEEEEcHHHccCCceEEEE
+
+
+No 42
+>7TRY_P Corticotropin-releasing factor receptor 2; GPCR, corticotropin releasing factor receptor 2, Urocortin 1, G11 protein, SIGNALING PROTEIN;{Homo sapiens}
+Probab=20.65  E-value=1.7e+02  Score=26.77  Aligned_cols=52  Identities=29%  Similarity=0.337  Sum_probs=0.0  Template_Neff=10.300
+
+Q ss_pred             ceeecCceeeecccHheEEEeeCCccccCCCeEEECCeeeeEEEEccCCcEEE
+Q FD01850236_043    3 IRVVPNIQLTGSLGVIAYIERLDGKKLYLNDFITIGLNEIHEKWLSKDGRLFF   55 (154)
+Q Consensus         3 ~rv~P~~~ls~~~gvia~IErldGk~~~~~~~i~Ig~~~I~d~Wis~dGraYF   55 (154)
+                      .++.|+ .+.-.-.=..-+-.-||++|.-++++.=|+.-|++.=++.||+.-|
+T Consensus       503 ~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  554 (560)
+T 7TRY_P          503 DGVTPN-MLNYFGRPYEGIAVFDGKKITVTGTLWNGNKIIDERLITPDGSMLF  554 (560)
+T ss_dssp             -----------------------------------------------------
+T ss_pred             cCCCcc-cccccCCCCCcceeeCCceEEeccceecCcccccceeeCCCCceee
+
+
+No 43
+>3L48_D Outer membrane usher protein PapC; Ig fold, greek key, Cell outer membrane, Fimbrium, Membrane, Transmembrane, Transport, TRANSPORT PROTEIN; 2.1A {Escherichia coli}
+Probab=20.44  E-value=3.8e+02  Score=19.06  Aligned_cols=46  Identities=11%  Similarity=0.148  Sum_probs=0.0  Template_Neff=9.000
+
+Q ss_pred             ceeeecccHheEEEeeCCccccCCCeEEECCeeeeEEEEccCCcEEE
+Q FD01850236_043    9 IQLTGSLGVIAYIERLDGKKLYLNDFITIGLNEIHEKWLSKDGRLFF   55 (154)
+Q Consensus         9 ~~ls~~~gvia~IErldGk~~~~~~~i~Ig~~~I~d~Wis~dGraYF   55 (154)
+                      +....+..++..+-.-+|+++..+..+. +...-.-.-+..+|++|+
+T Consensus         2 F~~~~~~~~~l~l~~~~G~~lp~Gs~v~-~~~~~~~~~Vg~~G~v~l   47 (94)
+T 3L48_D            2 FSVLKGKRLFAILRLADGSQPPFGASVT-SEKGRELGMVADEGLAWL   47 (94)
+T ss_dssp             -----CEEEEEEEEETTSCCCCTTCEEE-CTTSCEEEEBCGGGEEEE
+T ss_pred             cceeeeceEEEEEEcCCCCCCCCCcEEE-eCCCCEEEEEeCCCEEEE
+
+

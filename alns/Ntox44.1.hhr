@@ -1,0 +1,91 @@
+Query         FD01847549_02012 hypothetical protein
+Match_columns 100
+No_of_seqs    107 out of 203
+Neff          4.50158
+Searched_HMMs 86581
+Date          Tue Feb 27 21:01:50 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/2560567.hhr -oa3m ../results/2560567.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 PF15607.10 ; Ntox44 ; Bacteria  99.9 5.6E-24 6.5E-29  139.4   5.0   82   10-99      1-107 (107)
+  2 PF01730.20 ; UreF ; UreF        29.5 1.9E+02  0.0022   20.5   3.8   26   38-63    101-126 (149)
+  3 7AM2_BF mL99; RIBOSOME, Mitoch  28.8 1.3E+02  0.0016   22.7   2.9   32   18-50     13-44  (109)
+  4 6YXY_Bg mL99; mitoribosome, as  25.6 1.6E+02  0.0018   22.2   2.8   31   19-50     10-40  (105)
+  5 PF11372.12 ; DUF3173 ; Domain   22.5      39 0.00045   22.3  -0.7   14   87-100    27-40  (58)
+
+No 1
+>PF15607.10 ; Ntox44 ; Bacterial toxin 44
+Probab=99.90  E-value=5.6e-24  Score=139.42  Aligned_cols=82  Identities=33%  Similarity=0.507  Sum_probs=72.9  Template_Neff=9.700
+
+Q ss_pred             HHHHHhhcCCCCCccccCh-------------------------hhccccccchhHHHHHcCCCHHHHHHHHHHHHHHhC
+Q FD01847549_020   10 WFYQMVRNHGPWDYKQGHP-------------------------QYANFGNFHYGAIGAAAGIPDGVLLRGAGAAQILAG   64 (100)
+Q Consensus        10 wF~~~Vk~gG~WDyK~~G~-------------------------~yedfGNfhYG~vg~A~G~pe~~llr~AG~aQ~~~g   64 (100)
+                      ||+++|+++|+||+|....                         .++++||+|||+||+++|||+.+|+.+||++|..++
+T Consensus         1 ~~~~~v~~~g~WD~K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~gNi~yGy~g~a~G~~~~~l~~gag~~q~~~~   80 (107)
+T H6L0H2_SAPGL/4    1 NFANLVTDNAPFDLKSTSRSNLDKIPSYAAIVIGEWSMLNGRLTRYDDYGNISYGYWGRAYGYTTKTLLRGSNDNQIKKD   80 (107)
+T ss_pred             ChHHHhcCCCCCCCCchhhhhccCCcccccccccccceeCCceeeHhhhcccchhHHhHHcCCCHHHHHhhcCcccccCC
+Confidence            6899999999999997511                         357899999999999999999999999999999988
+
+
+Q ss_pred             CCCChhhhhcccCCCCCCCHHHHHHHHHHHHHHHc
+Q FD01847549_020   65 TSNPVEFAQYHAVDAYGDDPVDQSWIKAGIDYARR   99 (100)
+Q Consensus        65 ts~~~~~~~~~g~~pygDDP~DQ~~I~~Gi~yy~~   99 (100)
+                      +... .+       +++|||.|+.+|+.||++|++
+T Consensus        81 ~~~~-~~-------~~~d~~~D~~~i~~G~~~~~~  107 (107)
+T H6L0H2_SAPGL/4   81 ESGQ-TD-------GNGDEQRDIDAIKMGIKQYDN  107 (107)
+T ss_pred             CCCC-CC-------CCCCCHHHHHHHHHHHHHHhC
+Confidence            7655 33       799999999999999999975
+
+
+No 2
+>PF01730.20 ; UreF ; UreF
+Probab=29.54  E-value=1.9e+02  Score=20.55  Aligned_cols=26  Identities=12%  Similarity=-0.047  Sum_probs=0.0  Template_Neff=9.300
+
+Q ss_pred             hhHHHHHcCCCHHHHHHHHHHHHHHh
+Q FD01847549_020   38 YGAIGAAAGIPDGVLLRGAGAAQILA   63 (100)
+Q Consensus        38 YG~vg~A~G~pe~~llr~AG~aQ~~~   63 (100)
+                      ||+++..+|+|.+..+.+-.+....+
+T Consensus       101 ~g~~~~~~~i~~~~a~~~~l~~~~~~  126 (149)
+T UREF2_BRUA2/52  101 LGLAFAALDVDGRDAFGAQQYGVATT  126 (149)
+T ss_pred             HHHHHHHcCCCHHHHHHHHHHHHHHH
+
+
+No 3
+>7AM2_BF mL99; RIBOSOME, Mitochondria, Kinetoplastid; HET: ATP, GTP; 3.4A {Leishmania tarentolae}
+Probab=28.84  E-value=1.3e+02  Score=22.72  Aligned_cols=32  Identities=19%  Similarity=0.341  Sum_probs=0.0  Template_Neff=2.400
+
+Q ss_pred             CCCCCccccChhhccccccchhHHHHHcCCCHH
+Q FD01847549_020   18 HGPWDYKQGHPQYANFGNFHYGAIGAAAGIPDG   50 (100)
+Q Consensus        18 gG~WDyK~~G~~yedfGNfhYG~vg~A~G~pe~   50 (100)
+                      .+.|.=|..+ +++..|-||+=-++++++++++
+T Consensus        13 e~~w~~k~~~-~~Dr~GrfnldEAAa~L~Ld~~   44 (109)
+T 7AM2_BF          13 ERGWKDKTVH-PLDRRGRFNLDEAAAELQLDEA   44 (109)
+T ss_pred             ccCCCCCcCC-CCCCCCcccHHHHHHHcCCCHH
+
+
+No 4
+>6YXY_Bg mL99; mitoribosome, assembly, LSU, RIBOSOME; HET: ATP, SPD, MG, PM8, NAD, GTP; 3.1A {Trypanosoma brucei brucei}
+Probab=25.58  E-value=1.6e+02  Score=22.24  Aligned_cols=31  Identities=16%  Similarity=0.195  Sum_probs=0.0  Template_Neff=2.300
+
+Q ss_pred             CCCCccccChhhccccccchhHHHHHcCCCHH
+Q FD01847549_020   19 GPWDYKQGHPQYANFGNFHYGAIGAAAGIPDG   50 (100)
+Q Consensus        19 G~WDyK~~G~~yedfGNfhYG~vg~A~G~pe~   50 (100)
+                      ++|.=|..+ +++..|-||+--++++++++++
+T Consensus        10 ~~w~~k~~~-~~Dr~GrfnldEAAa~L~Ld~~   40 (105)
+T 6YXY_Bg          10 SSWRDYPLG-SRDRRGRFNMDEAAAALQLNPA   40 (105)
+T ss_pred             ccccCCCCC-CCCCCCcccHHHHHHHcCCCHH
+
+
+No 5
+>PF11372.12 ; DUF3173 ; Domain of unknown function (DUF3173)
+Probab=22.52  E-value=39  Score=22.32  Aligned_cols=14  Identities=14%  Similarity=0.349  Sum_probs=0.0  Template_Neff=5.100
+
+Q ss_pred             HHHHHHHHHHHHcC
+Q FD01847549_020   87 QSWIKAGIDYARRS  100 (100)
+Q Consensus        87 Q~~I~~Gi~yy~~~  100 (100)
+                      +.|+++|+.+|+++
+T Consensus        27 ~~lV~~G~~~Y~nk   40 (58)
+T Q8DX67_STRA5/4   27 NLMVERGYTFYDRK   40 (58)
+T ss_pred             HHHHHcCCCcccCC
+
+

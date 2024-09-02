@@ -1,0 +1,147 @@
+Query         FD01848895_02820 sugar-binding protein
+Match_columns 114
+No_of_seqs    59 out of 66
+Neff          4.02611
+Searched_HMMs 86581
+Date          Mon Feb 26 20:53:13 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/8884074.hhr -oa3m ../results/8884074.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 PF15657.10 ; Tox-HNH-EHHH ; HN  93.7     1.2 1.3E-05   26.6   6.5   68   37-113     1-76  (76)
+  2 7AGW_A K(+)/H(+) antiporter su  66.6      22 0.00025   24.6   3.8   21   48-68     15-35  (71)
+  3 2KPQ_A Uncharacterized protein  36.6      60  0.0007   23.0   2.2   27    2-28     72-98  (100)
+  4 PF14026.10 ; SCO4226-like ; Ni  31.1 1.1E+02  0.0012   19.8   2.5   21    2-26     57-77  (77)
+  5 4OI3_A Nickel responsive prote  30.2 1.4E+02  0.0016   20.4   3.1   25    2-30     65-89  (89)
+  6 2Y0O_A PROBABLE D-LYXOSE KETOL  25.5 5.2E+02   0.006   20.3   6.6   69    3-82      6-81  (175)
+  7 7JJ9_A Zinc-binding lipoprotei  23.0 2.4E+02  0.0028   25.0   4.0   41   38-79    387-438 (475)
+  8 2RH2_A Dihydrofolate reductase  21.5 4.6E+02  0.0053   18.3   4.4   50   18-77      2-52  (62)
+
+No 1
+>PF15657.10 ; Tox-HNH-EHHH ; HNH/Endo VII superfamily nuclease toxins
+Probab=93.65  E-value=1.2  Score=26.62  Aligned_cols=68  Identities=26%  Similarity=0.381  Sum_probs=0.0  Template_Neff=11.400
+
+Q ss_pred             cceecCCCCCceEEEEEECCCCCeEEEEEecCCCCC--------CCCCcccCCCCCCCCccccccCCCeecccCCCCCCC
+Q FD01848895_028   37 NYKYSEDLGSHGRYYEYTDARGHKRVIVEHTADPRA--------PGPHTHAGQPKPGADPRTYDFKNDRYQKINNPSTND  108 (114)
+Q Consensus        37 ny~ys~n~~~~Gryyey~~~~G~~rvIVeHtnDp~~--------~~pHfHaG~pK~g~~~~~~df~~~RY~kI~~~~~~d  108 (114)
+                      ..........+++.|+|+..+|...+|.+|......        ..+||++.....++.        ++.....-+ +..
+T Consensus         1 ~~~~~~~~~~~~~~~~~~~~~g~~~~~~~~~~g~~~~~~~~~~~~~~~~~~~~~~~~~~--------~~~~~~~~~-g~~   71 (76)
+T C9PMI9_9PAST/1    1 KILDQNNRPIMTREYHYTTPSGEKVVFQEHSLGHVYGPKGTLGNQGPHFNPRQYDPATG--------NGYRNKSFP-GIS   71 (76)
+T ss_pred             CccCCCCCeeeceEEEEeCCCCCeEEEeeccCCceecCCCCCCCCCCccccccCCCCCC--------CCccccccC-CCc
+
+
+Q ss_pred             CcccC
+Q FD01848895_028  109 HHIYY  113 (114)
+Q Consensus       109 HH~~Y  113 (114)
+                      .|+.|
+T Consensus        72 ~~~~~   76 (76)
+T C9PMI9_9PAST/1   72 EHYNY   76 (76)
+T ss_pred             cccCC
+
+
+No 2
+>7AGW_A K(+)/H(+) antiporter subunit KhtT; Regulatory protein of K+/H+ antiporter, TRANSPORT PROTEIN; 1.511A {Bacillus subtilis (strain 168)}
+Probab=66.63  E-value=22  Score=24.63  Aligned_cols=21  Identities=24%  Similarity=0.396  Sum_probs=0.0  Template_Neff=6.200
+
+Q ss_pred             eEEEEEECCCCCeEEEEEecC
+Q FD01848895_028   48 GRYYEYTDARGHKRVIVEHTA   68 (114)
+Q Consensus        48 Gryyey~~~~G~~rvIVeHtn   68 (114)
+                      |.-|+|++..|...+||-|.+
+T Consensus        15 G~~y~~~t~~G~~l~Vv~h~~   35 (71)
+T 7AGW_A           15 GKKFEIETRSHEKMTIIIHDD   35 (71)
+T ss_dssp             EEEEEEECTTCCEEEEEEETT
+T ss_pred             eEEEEEEcCCCCEEEEEEECC
+
+
+No 3
+>2KPQ_A Uncharacterized protein; Protein, Structural Genomics, PSI-2, Protein Structure Initiative, Northeast Structural Genomics Consortium, NESG, UNKNOWN FUNCTION; NMR {Agrobacterium tumefaciens str. C58}
+Probab=36.62  E-value=60  Score=23.02  Aligned_cols=27  Identities=19%  Similarity=0.123  Sum_probs=0.0  Template_Neff=7.800
+
+Q ss_pred             hHHHHHHHHHhCCCcccCCCceEEeCC
+Q FD01848895_028    2 RQALNEAKDLAGIPRSQQPNRQWTVGN   28 (114)
+Q Consensus         2 r~A~~~Akd~AGIPrsqqP~~qw~Vg~   28 (114)
+                      |+||-.|-..|||+-...+...+.|.+
+T Consensus        72 R~AF~~Aa~eAgi~v~~~~~~~~~~~~   98 (100)
+T 2KPQ_A           72 RTAFVAASRQAHCLMEDKAEAPNTIAS   98 (100)
+T ss_dssp             HHHHHHHHHHHTCCCCCCCSSCCCCSC
+T ss_pred             HHHHHHHHHHCCCeecCcccccccccc
+
+
+No 4
+>PF14026.10 ; SCO4226-like ; Nickel responsive protein SCO4226-like
+Probab=31.14  E-value=1.1e+02  Score=19.75  Aligned_cols=21  Identities=33%  Similarity=0.450  Sum_probs=0.0  Template_Neff=9.300
+
+Q ss_pred             hHHHHHHHHHhCCCcccCCCceEEe
+Q FD01848895_028    2 RQALNEAKDLAGIPRSQQPNRQWTV   26 (114)
+Q Consensus         2 r~A~~~Akd~AGIPrsqqP~~qw~V   26 (114)
+                      +++++++.+++|+|    .++-|.|
+T Consensus        57 ~e~v~~~~~~~g~p----~~~i~~v   77 (77)
+T J7Q501_METSZ/4   57 AAAIKEHAAQGGFP----ANRISEV   77 (77)
+T ss_pred             HHHHHHHHHHcCCC----CcEEEEC
+
+
+No 5
+>4OI3_A Nickel responsive protein; nickel responsive protein, Structural Genomics, ferredoxin-like fold, a nickel responsive protein, nickel binding, METAL BINDING PROTEIN; HET: MSE; 1.3A {Streptomyces coelicolor}
+Probab=30.17  E-value=1.4e+02  Score=20.41  Aligned_cols=25  Identities=16%  Similarity=0.187  Sum_probs=0.0  Template_Neff=8.300
+
+Q ss_pred             hHHHHHHHHHhCCCcccCCCceEEeCCCc
+Q FD01848895_028    2 RQALNEAKDLAGIPRSQQPNRQWTVGNNP   30 (114)
+Q Consensus         2 r~A~~~Akd~AGIPrsqqP~~qw~Vg~d~   30 (114)
+                      +++++++.+++|+|    +++.|+|.-..
+T Consensus        65 ~e~V~~~~~~ag~p----~d~I~eV~~~~   89 (89)
+T 4OI3_A           65 AEAVQRVHERAGHK----ADEIHEVPLSA   89 (89)
+T ss_dssp             HHHHHHHHHHHTCC----CSEEEECCEEC
+T ss_pred             HHHHHHHHHHhCCC----CCEEEEeecCC
+
+
+No 6
+>2Y0O_A PROBABLE D-LYXOSE KETOL-ISOMERASE; ISOMERASE, CARBOHYDRATE METABOLISM, METAL-BINDING, SUGAR ISOMERASE, STRESS RESPONSE; HET: SO4, MSE; 1.229A {BACILLUS SUBTILIS SUBSP. SUBTILIS}
+Probab=25.45  E-value=5.2e+02  Score=20.34  Aligned_cols=69  Identities=14%  Similarity=0.112  Sum_probs=0.0  Template_Neff=7.800
+
+Q ss_pred             HHHHHHHHHhCCCcccCCCceEEeCCCcccCCCccceecCCCCCceEEE-EEECCCCCeEEEEEecCCCCCCCCCcccC-
+Q FD01848895_028    3 QALNEAKDLAGIPRSQQPNRQWTVGNNPMRRGQTNYKYSEDLGSHGRYY-EYTDARGHKRVIVEHTADPRAPGPHTHAG-   80 (114)
+Q Consensus         3 ~A~~~Akd~AGIPrsqqP~~qw~Vg~d~~~~g~~ny~ys~n~~~~Gryy-ey~~~~G~~rvIVeHtnDp~~~~pHfHaG-   80 (114)
+                      ++++..+..++++...+...+|.|......          +...+|... .+.+.......++.-..+...+ +|.|.+ 
+T Consensus         6 ~~~~~~~~~~~~~~~~~~~~~~~i~~~~~~----------~~~~~g~~~~~~~~~~~~~~~~~~l~~g~~~~-~h~H~~~   74 (175)
+T 2Y0O_A            6 EEVNSYYQKAGIVLTDEEVDQIQLMDYGLG----------KERKVGLQLFVYVNTDRYCSKELVLFPGQTCP-EHRHPPV   74 (175)
+T ss_dssp             HHHHHHHHHTTCCCCHHHHTTCEEECTTSS----------CTTTBCEEEEEEEECSSEEEEEEEECTTCEEE-EEECCCC
+T ss_pred             HHHHHHHHHhCCCCCHHHHhceEEeecCCC----------CceeeeEEEEEEECCCcceEEEEEeCCCCCCC-ceeCCCC
+
+
+Q ss_pred             -----CC
+Q FD01848895_028   81 -----QP   82 (114)
+Q Consensus        81 -----~p   82 (114)
+                           +.
+T Consensus        75 ~~~~~~~   81 (175)
+T 2Y0O_A           75 DGQEGKQ   81 (175)
+T ss_dssp             TTSCCCC
+T ss_pred             CCCCCce
+
+
+No 7
+>7JJ9_A Zinc-binding lipoprotein AdcA; AdcA, SBP, ATP-binding cassette transporter, Zn acquisition, METAL BINDING PROTEIN; 1.58A {Streptococcus pneumoniae (strain ATCC BAA-255 / R6)}
+Probab=22.96  E-value=2.4e+02  Score=25.01  Aligned_cols=41  Identities=22%  Similarity=0.430  Sum_probs=0.0  Template_Neff=9.000
+
+Q ss_pred             ceecC------CCCCceEEEEEECCCCCe-----EEEEEecCCCCCCCCCccc
+Q FD01848895_028   38 YKYSE------DLGSHGRYYEYTDARGHK-----RVIVEHTADPRAPGPHTHA   79 (114)
+Q Consensus        38 y~ys~------n~~~~Gryyey~~~~G~~-----rvIVeHtnDp~~~~pHfHa   79 (114)
+                      |.|..      ..+..|..|.|+...+..     .+..+|...|... .|||.
+T Consensus       387 Y~y~g~~~~~~~~~~~~~~~~fe~~~~~~~~~~y~~~~~H~~~~~~~-~H~h~  438 (475)
+T 7JJ9_A          387 YKYVGKKILTYKKGNRGVRFLFEATDADAGQFKYVQFSDHNIAPVKA-EHFHI  438 (475)
+T ss_dssp             EEEEEEEEEECTTSCEEEEEEEEECCTTCGGGSEEEEECSCCSSCCC-SSEEE
+T ss_pred             EEEeCeeEEEeeCCcceEEEEEEEcCCCCCCccEEEEeCCCCCCCCC-CeEEE
+
+
+No 8
+>2RH2_A Dihydrofolate reductase type 2; FOLATE METABOLISM, PLASMID-ENCODED R67 DHFR, TMP-RESISTANT DHFR, Antibiotic resistance, Methotrexate resistance, NADP, One-carbon metabolism, Oxidoreductase, Trimethoprim; HET: MRD; 0.96A {Escherichia coli} SCOP: b.34.4.1
+Probab=21.48  E-value=4.6e+02  Score=18.33  Aligned_cols=50  Identities=16%  Similarity=0.199  Sum_probs=0.0  Template_Neff=4.800
+
+Q ss_pred             cCCCceEEeCCCcccCCCccceecCCCCCceEE-EEEECCCCCeEEEEEecCCCCCCCCCc
+Q FD01848895_028   18 QQPNRQWTVGNNPMRRGQTNYKYSEDLGSHGRY-YEYTDARGHKRVIVEHTADPRAPGPHT   77 (114)
+Q Consensus        18 qqP~~qw~Vg~d~~~~g~~ny~ys~n~~~~Gry-yey~~~~G~~rvIVeHtnDp~~~~pHf   77 (114)
+                      ......+.+||-..+..        ...-.|.. =.|.|..|.-+|+||+..++-.  .|+
+T Consensus         2 ~p~~~~F~~Gd~V~K~~--------g~~w~G~VVg~f~T~~~~~gY~VE~~~~~G~--lqI   52 (62)
+T 2RH2_A            2 FPSNATFGMGDRVRKKS--------GAAWQGQIVGWYCTNLTPEGYAVESEAHPGS--VQI   52 (62)
+T ss_dssp             ----CCCCTTCEEEESS--------SSCCEEEEEEEECCSSCSSEEEEEESSSTTC--EEE
+T ss_pred             CCCCCCCCCCCeEEEeC--------CCccCcEEEEEEeCCCCCcEEEEEeecCCCc--eee
+
+

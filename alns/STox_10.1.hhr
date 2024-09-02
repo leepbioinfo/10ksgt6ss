@@ -1,0 +1,550 @@
+Query         FD01847549_00048 RHS repeat protein
+Match_columns 254
+No_of_seqs    116 out of 167
+Neff          6.37326
+Searched_HMMs 86581
+Date          Tue Feb 27 20:13:02 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/1968345.hhr -oa3m ../results/1968345.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 7P1G_K Maltose/maltodextrin-bi  99.7 9.6E-17 1.1E-21  161.3  14.7  216    2-246   435-740 (773)
+  2 1K8T_A CALMODULIN-SENSITIVE AD  99.4 5.5E-12 6.4E-17  125.5  14.7  218    1-246    14-327 (510)
+  3 5XNW_A Adenylate cyclase ExoY;  99.4 1.4E-11 1.6E-16  117.7  16.8  217    1-246    39-345 (378)
+  4 1YRT_A Bifunctional hemolysin-  99.4 2.9E-11 3.4E-16  115.0  15.9  184    1-246    16-336 (364)
+  5 7P1H_A Maltose/maltodextrin-bi  99.4 2.1E-11 2.4E-16  125.0  15.0  196    1-246   431-763 (827)
+  6 1XFX_A Calmodulin-sensitive ad  99.4 2.1E-11 2.4E-16  126.8  15.0  200    1-246   281-594 (777)
+  7 8BJH_B Putative Adenylate cycl  99.3 2.7E-10 3.1E-15  114.9  18.0  212    4-246    38-367 (591)
+  8 8BJJ_B Putative Adenylate cycl  99.1 7.3E-09 8.4E-14  100.4  16.5  180    1-246    35-367 (413)
+  9 PF03497.20 ; Anthrax_toxA ; An  98.4   1E-06 1.2E-11   76.7   6.4   53    1-53      7-59  (172)
+ 10 PF12913.11 ; SH3_6 ; SH3 domai  36.1      53 0.00061   23.7   1.9   25  211-236    18-45  (53)
+ 11 PF21596.1 ; Bd2520-like_N ; La  23.5 1.4E+02  0.0016   19.8   2.2   20  232-251     7-26  (51)
+ 12 PF11869.12 ; DUF3389 ; Protein  21.1 4.2E+02  0.0049   21.0   4.5   33  219-251    40-75  (75)
+ 13 2KI0_A DS119; beta-alpha-beta,  21.1 3.4E+02   0.004   17.9   3.3   21    5-25     13-33  (36)
+ 14 PF15187.10 ; Augurin ; Oesopha  20.2      74 0.00086   26.8   0.4   24  172-196    86-109 (109)
+
+No 1
+>7P1G_K Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY; Bacterial toxin, F-actin, toxin; HET: GH3, PO4, HYP, MG, EEP, ADP, DTH; 3.2A {Oryctolagus cuniculus}
+Probab=99.73  E-value=9.6e-17  Score=161.31  Aligned_cols=216  Identities=15%  Similarity=0.142  Sum_probs=131.2  Template_Neff=10.700
+
+Q ss_pred             CCCCHHHHHHHHHHHHHcCEEEEEEcCCHHHHHHHHcCCCCCCccchhhcCCHHHHHHhc----------ccc---HHHH
+Q FD01847549_000    2 AFVHPLHMPVFERISLEENLSMSVREAGIYTISALGEGAAAKGHNILEKTIKPGSLKAIY----------SDN---AESI   68 (254)
+Q Consensus         2 ~fi~~~H~~ai~~~a~~~~~~IsfR~tg~~tl~~L~~Ga~~KphdIl~KTIK~~sl~~~~----------~~~---~~~~   68 (254)
+                      ..|.++|+.+|+++|++.+++|.||++|+.|+++|.+|+++||++|++||.+........          ...   ....
+T Consensus       435 ~g~~~~h~~~~~~~a~~~~~~i~~R~~~~~s~~li~~g~~~K~~~ik~Ks~~~g~~ag~v~~~~~~sk~~~~~~~~~~~~  514 (773)
+T 7P1G_K          435 VGVPVEHALRMQAVARQTNTVFGIRPVERIVTTLIEEGFPTKGFSVKGKSSNWGPQAGFICVDQHLSKREDRDTAEIRKL  514 (773)
+T ss_dssp             CCSCHHHHHHHHHHHHHHTEEEEECCCCTTTHHHHHHTCCBCTTTCCCCCCSSSTTTTBCBSSCSGGGTSSCCHHHHHHH
+T ss_pred             CCCCHHHHHHHHHHHHHcCeEEEEecCCHHHHHHHHCCCCCCCcccccccCCCCCccceeEecccccccCCCCHHHHHHH
+Confidence            478999999999999999999999999999999999999999999999998644332221          111   1111
+
+
+Q ss_pred             ---HHHHHHcCCceEEEee---cC--------C----CeeEEEEec---CCC---------Cccceeeeccccccccchh
+Q FD01847549_000   69 ---LGQAKRSGFVGRVGQW---DA--------S----GVRGIYAHN---RLG---------GEDLAYPVSLENTFANELV  118 (254)
+Q Consensus        69 ---~~~~~~~~l~GlVg~~---~~--------~----~l~G~y~~~---~~g---------~~~~~~~vd~~~l~~~i~~  118 (254)
+                         .+..-+.+..+.|...   ..        .    ...|.|...   ..+         ....++.|+.+.-...+..
+T Consensus       515 ~~~~~~~~~~~~~~~~~l~is~~r~~~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~f~~~~~~~~~~~i~~~~~~~p~~v  594 (773)
+T 7P1G_K          515 NLAVAKGMDGGAYTQTDLRISRQRLAELVRNFGLVADGVGPVRLLTAQGPSGKRYEFEARQEPDGLYRISRLGRSEAVQV  594 (773)
+T ss_dssp             HHHHHHHHHTTCEEESCCCEEHHHHHHHHHHHCCEEEEETTEEEEEEEETTTEEEEECCBCCTTSEEBCCCSSCTTCCCE
+T ss_pred             HHHHHHHHhcCCccccccccCHHHHHHHHHhcCceecCCCCeEEEEEECCCCCeEEEEEEeCCCCcEEEEECCccceeeE
+Confidence               1111112221111100   00        0    000111110   000         0000233321100001101
+
+
+Q ss_pred             hhhccCCeeCeeeecccccceeecccCC---------------------------------ccCCCCCCHHHHHHHHHHH
+Q FD01847549_000  119 NAWIKFKIITPYTGDYDMHDIIKFSHGK---------------------------------GHVPMAESNEERGVKDLIN  165 (254)
+Q Consensus       119 l~~~~~~~~~~~TGDYDlhDii~~~g~~---------------------------------~~~v~~~s~ee~~ii~~lN  165 (254)
+                      |.  .....+++||||||++|+.....-                                 ...+...|+..+.+++.||
+T Consensus       595 l~--~~~~~~p~t~DYDl~~v~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~g~~~~~~~~i~~~lN  672 (773)
+T 7P1G_K          595 LA--SPACGLAMTADYDLFLVAPSIEAHGSGGLDARRNTAVRYTPLGAKDPLSEDGFYGREDMARGNITPRTRQLVDALN  672 (773)
+T ss_dssp             EE--CSSSSSBCBCCCCEEEEEEBTTTTTSTTTTCCSSSSCSCCCCCTTCCCCHHHHHTTSBTTTBSCCHHHHHHHHHHH
+T ss_pred             ec--CcccCCCCcCCchheeeeccHHHcCCCCcchhhcccccCCCCCCCCCCCcCCCccccccccCCCCHHHHHHHHHHH
+Confidence            10  123457999999999999884210                                 1123445699999999999
+
+
+Q ss_pred             HHHhccCCCCCcccccCCceeccchhchHHHHHhcchhhhcccCCceecccCCCCCCEEE-E-------------eCCEE
+Q FD01847549_000  166 KGIAKVDPSRPFEYTAMNVIRHGPQVNFVPYMWEHEHDKVVKDNGYLGVVARPGPFPVAM-V-------------HQGEW  231 (254)
+Q Consensus       166 ~~i~~~d~~R~~~~~~~~~VqHGaQ~ny~~~~~~~e~~~~~~~~~~~~~va~p~~~pla~-~-------------~~G~w  231 (254)
+                      .++...+        ...+|+||++..........                   ++|+++ .             ..|.|
+T Consensus       673 ~~~~~~~--------g~~~v~Hg~e~~n~~~~~~~-------------------~~p~~~f~P~~~~~~~~~~~~~~~~~  725 (773)
+T 7P1G_K          673 DCLGRGE--------HREMFHHSDDAGNPGSHMGD-------------------NFPATFYLPRAMEHRVGEESVRFDEV  725 (773)
+T ss_dssp             HTTTCCT--------TCCSCCSCCGGGCTTCCGGG-------------------SCSEEEECSSCCC--------CCCSE
+T ss_pred             HHhcCCC--------CCCCccCCCCCCCCCCCccc-------------------CCCEEEEcchhHhcccCccccCCCeE
+Confidence            9887632        23899999987664443321                   577777 2             23789
+
+
+Q ss_pred             EEeCCHHHHHHHHHH
+Q FD01847549_000  232 TVFDNSKELFNFYKS  246 (254)
+Q Consensus       232 ~ii~~~~el~~fY~~  246 (254)
+                      ++++|.+||.+||+.
+T Consensus       726 ~~i~~~~~l~~~~~~  740 (773)
+T 7P1G_K          726 CVVADRKSFSLLVEC  740 (773)
+T ss_dssp             EEECSHHHHHHHHHH
+T ss_pred             EEECCHHHHHHHHHH
+Confidence            999999999999997
+
+
+No 2
+>1K8T_A CALMODULIN-SENSITIVE ADENYLATE CYCLASE; edema factor, adenylyl cyclase, anthrax, calmodulin, TOXIN, LYASE; HET: SO4; 2.6A {Bacillus anthracis} SCOP: e.41.1.1
+Probab=99.42  E-value=5.5e-12  Score=125.49  Aligned_cols=218  Identities=19%  Similarity=0.224  Sum_probs=153.6  Template_Neff=6.900
+
+Q ss_pred             CCCCCHHHHHHHHHHHHHcCEEEEEEcCCHHHHHHHHcCCCCCCccchhhcCCHHHHHHhcc--cc----------HHHH
+Q FD01847549_000    1 EAFVHPLHMPVFERISLEENLSMSVREAGIYTISALGEGAAAKGHNILEKTIKPGSLKAIYS--DN----------AESI   68 (254)
+Q Consensus         1 ~~fi~~~H~~ai~~~a~~~~~~IsfR~tg~~tl~~L~~Ga~~KphdIl~KTIK~~sl~~~~~--~~----------~~~~   68 (254)
+                      .+||+++|+.+|.++|++.+++|.||++|+.|++||++|+++|+++||+||++||+++||+.  +.          ++++
+T Consensus        14 ~sGi~~~H~~~f~~vA~~~n~vI~~Rpvn~~at~LI~~Gy~TKgl~VKgKSSdWGP~AGfIP~Dq~lSK~~~~~~~v~k~   93 (510)
+T 1K8T_A           14 ASGLVPEHADAFKKIARELNTYILFRPVNKLATNLIKSGVATKGLNVHGKSSDWGPVAGYIPFDQDLSKKHGQQLAVEKG   93 (510)
+T ss_dssp             HHCCCHHHHHHHHHHHHHHTEEEEECCCCTTTHHHHHTTCEECCTTCCCCCCSSSSSTTBCBSSGGGSSCSSCHHHHHHH
+T ss_pred             HcCCCHHHHHHHHHHHHHhCeEEEEEeCCHHHHHHHHCCCCCCCeecCcccccCCCCcceeecchhhccccccHHHHHhc
+Confidence            36999999999999999999999999999999999999999999999999999999999992  11          2233
+
+
+Q ss_pred             ---HHHHHHc--CCceEEEeec---C-------C----C----eeE--EEEecCCCC---------ccc-eeeecc----
+Q FD01847549_000   69 ---LGQAKRS--GFVGRVGQWD---A-------S----G----VRG--IYAHNRLGG---------EDL-AYPVSL----  109 (254)
+Q Consensus        69 ---~~~~~~~--~l~GlVg~~~---~-------~----~----l~G--~y~~~~~g~---------~~~-~~~vd~----  109 (254)
+                         .+++++.  +.+..+++.-   +       +    .    ..|  ++.....+.         ... .|....    
+T Consensus        94 n~~~~~si~~~~~~a~~v~L~Is~~Ri~eL~~~g~i~~~~~~~~~g~~~~~~~~~~~~y~F~~~~~~~~v~y~~~~g~~~  173 (510)
+T 1K8T_A           94 NLENKKSITEHEGEIGKIPLKLDHLRIEELKENGIILKGKKEIDNGKKYYLLESNNQVYEFRISDENNEVQYKTKEGKIT  173 (510)
+T ss_dssp             HHHHHHHHHHTTTSEEEEECBCCHHHHHHHHHTTSCBCCCEEEETTEEEEEEBCCCSSEEEEEESSSCBEEEEECSSCCC
+T ss_pred             hHHHHHHHHHccCcceecccccCHHHHHHHHHCCCeeeceeeecCCeEEEEEecCCcEEEEEEeCCCCceEEEecCCcee
+Confidence               5666664  5567777661   1       1    0    011  122221110         000 111110    
+
+
+Q ss_pred             ----ccccccchhhhhccC--CeeCeeeecccccceeecccC--------------------------------------
+Q FD01847549_000  110 ----ENTFANELVNAWIKF--KIITPYTGDYDMHDIIKFSHG--------------------------------------  145 (254)
+Q Consensus       110 ----~~l~~~i~~l~~~~~--~~~~~~TGDYDlhDii~~~g~--------------------------------------  145 (254)
+                          .....|+.||.  ++  ...+|+|+|||||.+++....                                      
+T Consensus       174 ~~~~~~~~~Pv~VLa--~~~~~~~kPvTADYDLf~V~p~~~~~~~~~p~~~~~~~v~~~~~~~~~~~i~~~~~~~~~~~~  251 (510)
+T 1K8T_A          174 VLGEKFNWRNIEVMA--KNVEGVLKPLTADYDLFALAPSLTEIKKQIPQKEWDKVVNTPNSLEKQKGVTNLLIKYGIERK  251 (510)
+T ss_dssp             TTSCCCSCEECEEEE--EESSSSEEEEECCCCEEEEEEBHHHHHHHSCHHHHHHHSSSSSCSSCCHHHHHHHHHTTSSCC
+T ss_pred             ecccccCCeeEEEEe--ecCCCCccccccceeeeecccchHHhhccCChhHHHHHhcCccchHHhhhHHHHHHHhcCcCC
+Confidence                01257888887  54  447899999999999987531                                      
+
+
+Q ss_pred             CccCCCCCCHHHHHHHHHHHHHHhccCCCCCcccccCCceeccchhchHHHHHhcchhhhcccCCceecccCCCCCCEEE
+Q FD01847549_000  146 KGHVPMAESNEERGVKDLINKGIAKVDPSRPFEYTAMNVIRHGPQVNFVPYMWEHEHDKVVKDNGYLGVVARPGPFPVAM  225 (254)
+Q Consensus       146 ~~~~v~~~s~ee~~ii~~lN~~i~~~d~~R~~~~~~~~~VqHGaQ~ny~~~~~~~e~~~~~~~~~~~~~va~p~~~pla~  225 (254)
+                      ..+.+|+++++...+++.||.++.+..-      .+..+||||+++.|+.+...                    |+|+++
+T Consensus       252 ~~~~~G~is~~~~~ii~~lN~~l~~~G~------~G~~vV~HGaE~~Np~fp~~--------------------D~pi~v  305 (510)
+T 1K8T_A          252 PDSTKGTLSNWQKQMLDRLNEAVKYTGY------TGGDVVNHGTEQDNEEFPEK--------------------DNEIFI  305 (510)
+T ss_dssp             SSCCTTCCCHHHHHHHHHHHHHHHTTTC------CSSCSCCCCC-------------------------------CCEEE
+T ss_pred             CCcCCCCCCHHHHHHHHHHHHHHHHhCC------CCCccEecCCCCCCCCCCcc--------------------cCcEEE
+Confidence            0346799999999999999999975321      15689999999999877654                    569999
+
+
+Q ss_pred             -EeCCEEEEeCCHHHHHHHHHH
+Q FD01847549_000  226 -VHQGEWTVFDNSKELFNFYKS  246 (254)
+Q Consensus       226 -~~~G~w~ii~~~~el~~fY~~  246 (254)
+                       +.+|..+.+.|.++|++|+..
+T Consensus       306 f~P~g~~~~i~n~~el~~fl~~  327 (510)
+T 1K8T_A          306 INPEGEFILTKNWEMTGRFIEK  327 (510)
+T ss_dssp             ECTTSCEEEESSHHHHHHHCCC
+T ss_pred             EeCCCCeeEecCHHHHHHHHHH
+Confidence             788999999999999999975
+
+
+No 3
+>5XNW_A Adenylate cyclase ExoY; nucleotidyl cyclase, virulence effectors, type three secretion system (T3SS), secondary messengers, LYASE; HET: GOL; 2.201A {Pseudomonas aeruginosa}
+Probab=99.41  E-value=1.4e-11  Score=117.67  Aligned_cols=217  Identities=14%  Similarity=0.129  Sum_probs=155.3  Template_Neff=8.300
+
+Q ss_pred             CCCCCHHHHHHHHHHHHHcCEEEEEEcCCHHHHHHHHcCCCCCCccchhhcCCHHHHHHhcc--cc-----------HHH
+Q FD01847549_000    1 EAFVHPLHMPVFERISLEENLSMSVREAGIYTISALGEGAAAKGHNILEKTIKPGSLKAIYS--DN-----------AES   67 (254)
+Q Consensus         1 ~~fi~~~H~~ai~~~a~~~~~~IsfR~tg~~tl~~L~~Ga~~KphdIl~KTIK~~sl~~~~~--~~-----------~~~   67 (254)
+                      .+||+++|+.+|+++|++++++|++|++++.|++||++||++|+++||+|||+||+++||+|  |.           +++
+T Consensus        39 ~~Gi~~~h~~~~~~vA~~~~~vi~vR~vn~~a~~li~~G~~tK~~~IK~KSsdwGp~aGfIp~dq~lSK~~~~~~~~i~k  118 (378)
+T 5XNW_A           39 GVGVPVEHALRMQAVARQTNTVFGIRPVERIVTTLIEEGFPTKGFSVKGKSSNWGPQAGFICVDQHLSKREDRDTAEIRK  118 (378)
+T ss_dssp             TCCSCHHHHHHHHHHHHHHTEEEEECCCCGGGHHHHHTTCCBCCTTCCSCCCSSSTTTTSCBSSGGGSTTTTSCHHHHHH
+T ss_pred             hcCCCHHHHHHHHHHHHHhCeEEEEeeCCHHHHHHHHCCCCCCCccCCCcccCCCCcceeeEecccccccCCCCHHHHHH
+Confidence            37999999999999999999999999999999999999999999999999999999999996  32           223
+
+
+Q ss_pred             H---HHHHHHcCCceEEEeecC-----------CCe----e-E-EEEec-CCCCc---------cceeeeccccccccch
+Q FD01847549_000   68 I---LGQAKRSGFVGRVGQWDA-----------SGV----R-G-IYAHN-RLGGE---------DLAYPVSLENTFANEL  117 (254)
+Q Consensus        68 ~---~~~~~~~~l~GlVg~~~~-----------~~l----~-G-~y~~~-~~g~~---------~~~~~vd~~~l~~~i~  117 (254)
+                      +   ++++++.+.+..+++...           +..    . . .+... +.+..         .+.|.+.......++.
+T Consensus       119 ~~~~~~~al~~~~a~~~~L~is~~rl~eL~~~~~~i~~~~~~~~~~~~~~~~g~~~~f~~~~~~~~~~~v~~~~~~~pv~  198 (378)
+T 5XNW_A          119 LNLAVAKGMDGGAYTQTDLRISRQRLAELVRNFGLVADGVGPVRLLTAQGPSGKRYEFEARQEPDGLYRISRLGRSEAVQ  198 (378)
+T ss_dssp             HHHHHHHHHTTTTCEEEECEECHHHHHHHHHHSCCEEECCTTEEEEEEECTTSCEEEEEEEECTTSCEEEEETTCSSBCE
+T ss_pred             HHHHHHHHhhCCCcceeccccCHHHHHHHHHhhCCeeeCCCCeEEEEEeCCCCCEEEEEEEcCCCCcEEEEeCCeeccEE
+Confidence            3   677888888888888853           100    0 0 11111 11110         0023332222345899
+
+
+Q ss_pred             hhhhccCCeeCeeeecccccceeecccC---------------------------------CccCCCCCCHHHHHHHHHH
+Q FD01847549_000  118 VNAWIKFKIITPYTGDYDMHDIIKFSHG---------------------------------KGHVPMAESNEERGVKDLI  164 (254)
+Q Consensus       118 ~l~~~~~~~~~~~TGDYDlhDii~~~g~---------------------------------~~~~v~~~s~ee~~ii~~l  164 (254)
+                      ||+  ++..++++|||||||.|++..++                                 .++.+|++|++...+++.|
+T Consensus       199 Vla--~~~~~~pltaDYDL~~i~p~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~G~is~~~~~i~~~l  276 (378)
+T 5XNW_A          199 VLA--SPACGLAMTADYDLFLVAPSIEAHGSGGLDARRNTAVRYTPLGAKDPLSEDGFYGREDMARGNITPRTRQLVDAL  276 (378)
+T ss_dssp             EEE--CTTTCCBCBCCCCEEEEEEBCC-------------------------------------------CCCHHHHHHH
+T ss_pred             Eee--ccccCccccccceEEEEecCHHHccCCCCccccCCCccccccCcCCCCCcCCCCCccccccCcCCHHHHHHHHHH
+Confidence            998  77788999999999999999753                                 1345799999999999999
+
+
+Q ss_pred             HHHHhccCCCCCcccccCCceeccchhchHHHHHhcchhhhcccCCceecccCCCCCCEEE-EeC-------------CE
+Q FD01847549_000  165 NKGIAKVDPSRPFEYTAMNVIRHGPQVNFVPYMWEHEHDKVVKDNGYLGVVARPGPFPVAM-VHQ-------------GE  230 (254)
+Q Consensus       165 N~~i~~~d~~R~~~~~~~~~VqHGaQ~ny~~~~~~~e~~~~~~~~~~~~~va~p~~~pla~-~~~-------------G~  230 (254)
+                      |+++++ ++       +..+||||+++.|+......                   |+|+++ +|+             +.
+T Consensus       277 N~~~~~-g~-------g~~~vhHg~e~~np~~~~~~-------------------d~p~~~f~P~~~~~~~~~~~~~~~~  329 (378)
+T 5XNW_A          277 NDCLGR-GE-------HREMFHHSDDAGNPGSHMGD-------------------NFPATFYLPRAMEHRVGEESVRFDE  329 (378)
+T ss_dssp             HHHHCC-CT-------TCCSCCCCC------------------------------CCSEEEECSSCEEC-----CCEECS
+T ss_pred             HHHhhc-CC-------CCCccccCcccCCCCCCCcc-------------------CCCEEEEechhhccccCCccCCCCc
+Confidence            999976 32       68999999999999887643                   899999 774             45
+
+
+Q ss_pred             EEEeCCHHHHHHHHHH
+Q FD01847549_000  231 WTVFDNSKELFNFYKS  246 (254)
+Q Consensus       231 w~ii~~~~el~~fY~~  246 (254)
+                      +++|++..+|.+|++.
+T Consensus       330 ~~~i~~~~el~~~~~~  345 (378)
+T 5XNW_A          330 VCVVADRKSFSLLVEC  345 (378)
+T ss_dssp             EEEECSHHHHHHHHHH
+T ss_pred             eEEECCHHHHHHHHHH
+Confidence            7899999999999986
+
+
+No 4
+>1YRT_A Bifunctional hemolysin-adenylate cyclase; CyaA, CaM, LAYSE, TOXIN; 2.1A {Bordetella pertussis}
+Probab=99.37  E-value=2.9e-11  Score=115.00  Aligned_cols=184  Identities=21%  Similarity=0.232  Sum_probs=0.0  Template_Neff=8.300
+
+Q ss_pred             CCCCCHHHHHHHHHHHHHcCEEEEEEcCCHHHHHHHHcCCCCCCccchhhcCCHHHHHHhccccHHHHHHHHHHcCCceE
+Q FD01847549_000    1 EAFVHPLHMPVFERISLEENLSMSVREAGIYTISALGEGAAAKGHNILEKTIKPGSLKAIYSDNAESILGQAKRSGFVGR   80 (254)
+Q Consensus         1 ~~fi~~~H~~ai~~~a~~~~~~IsfR~tg~~tl~~L~~Ga~~KphdIl~KTIK~~sl~~~~~~~~~~~~~~~~~~~l~Gl   80 (254)
+                      ...|.+.|..+|+++|.+.|++|.||++|+.|..+|++|++.|+.+|+.||.+-.      |              ..|+
+T Consensus        16 ~~Gi~~~h~~~~~~vA~~~n~ii~~Rpv~~~a~~LI~~G~~tK~~~IK~KSs~wG------p--------------~aGf   75 (364)
+T 1YRT_A           16 ESGIPAAVLDGIKAVAKEKNATLMFRLVNPHSTSLIAEGVATKGLGVHAKSSDWG------L--------------QAGY   75 (364)
+T ss_dssp             HTCCCHHHHHHHHHHHHHTTEEEEEECCCHHHHHHHHTTCEECCTTCCSCCCCSG------G--------------GTTS
+T ss_pred             hcCCCHHHHHHHHHHHHHhCeEEEEEcCCHHHHHHHHCCCCCCCCccccccccCC------C--------------ccee
+
+
+Q ss_pred             EEeecC-----CCe--------------------------------------------eEEEEecCCCCccc--------
+Q FD01847549_000   81 VGQWDA-----SGV--------------------------------------------RGIYAHNRLGGEDL--------  103 (254)
+Q Consensus        81 Vg~~~~-----~~l--------------------------------------------~G~y~~~~~g~~~~--------  103 (254)
+                      |..-..     +..                                            .|.|.....+...-        
+T Consensus        76 Ip~dq~~SK~~~~~~~~i~k~~~~v~~ai~~g~~~v~L~is~~ri~eL~~~~~i~~~~~~~~~~~~~~~~~~~f~~~~~~  155 (364)
+T 1YRT_A           76 IPVNPNLSKLFGRAPEVIARADNDVNSSLAHGHTAVDLTLSKERLDYLRQAGLVTGMADGVVASNHAGYEQFEFRVKETS  155 (364)
+T ss_dssp             CBSSGGGSTTTTCCHHHHHHHHHHHHHHHHTTCEEEECEECHHHHHHHHHTTSSCEESSSBEECCSGGGGTEEEEEEECT
+T ss_pred             eecchhhccccCCcHHHHHHHHHHHHHHHHcCCCcccccCCHHHHHHHHHCCCceeccCCeEEEecCCCceEEEEEEeCC
+
+
+Q ss_pred             ------ee---------eeccccccccchhhhhccCCeeCeeeecccccceeecccCCccC-------------------
+Q FD01847549_000  104 ------AY---------PVSLENTFANELVNAWIKFKIITPYTGDYDMHDIIKFSHGKGHV-------------------  149 (254)
+Q Consensus       104 ------~~---------~vd~~~l~~~i~~l~~~~~~~~~~~TGDYDlhDii~~~g~~~~~-------------------  149 (254)
+                            ++         ||      ..|      -+...+++||||||+.|......-...                   
+T Consensus       156 ~~~~~v~~~~~~~~~~~pv------~Vl------~~~~~~pltaDYDLf~v~p~~~~~~~~~~~~v~~~~~~~~~~~~~~  223 (364)
+T 1YRT_A          156 DGRYAVQYRRKGGDDFEAV------KVI------GNAAGIPLTADIDMFAIMPHLSNFRDSARSSVTSGDSVTDYLARTR  223 (364)
+T ss_dssp             TSCEEEEEEETTCSCCEEC------EEE------ECTTSCBEECCCCEEEEEEBGGGGHHHHHHHHSSSCCHHHHHHHHS
+T ss_pred             CCcEEEEEEcCCCCceeEE------EEE------eCCCCCcccccchheeeeecHHHcccccccCCCCCcchHHHHHHHH
+
+
+Q ss_pred             ---------------------------------------------CCCCCHHHHHHHHHHHHHHhccCCCCCcccccCCc
+Q FD01847549_000  150 ---------------------------------------------PMAESNEERGVKDLINKGIAKVDPSRPFEYTAMNV  184 (254)
+Q Consensus       150 ---------------------------------------------v~~~s~ee~~ii~~lN~~i~~~d~~R~~~~~~~~~  184 (254)
+                                                                   ....|+....+++.||.++...+-.        .+
+T Consensus       224 ~~~~~~~~~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~d~~~Gnis~~~~~ii~~lN~~~~~~g~~--------~~  295 (364)
+T 1YRT_A          224 RAASEATGGLDRERIDLLWKIARAGARSAVGTEARRQFRYDGDMNIGVITDFELEVRNALNRRAHAVGAQ--------DV  295 (364)
+T ss_dssp             CC-------CCHHHHHHHHHHHHHHHHHHTTTTGGGSCEEETTEEEESCCHHHHHHHHHHHHHHHHTTCC--------CC
+T ss_pred             HHHhHhcCCCCHHHHHHHHHHHhhchhhhcchHHHHhhcccCCcccCCCCHHHHHHHHHHHHHHHHcCCc--------Cc
+
+
+Q ss_pred             eeccchhchHHHHHhcchhhhcccCCceecccCCCCCCEEE-EeCCEEEEeCCHHHHHHHHHH
+Q FD01847549_000  185 IRHGPQVNFVPYMWEHEHDKVVKDNGYLGVVARPGPFPVAM-VHQGEWTVFDNSKELFNFYKS  246 (254)
+Q Consensus       185 VqHGaQ~ny~~~~~~~e~~~~~~~~~~~~~va~p~~~pla~-~~~G~w~ii~~~~el~~fY~~  246 (254)
+                      |+||++... .+.  ..                  ++|+++ +.+|.+. |.|.+||.+||..
+T Consensus       296 vhHg~e~~n-p~~--~~------------------d~p~~~f~P~~~~~-i~~~~~l~~~~~~  336 (364)
+T 1YRT_A          296 VQHGTEQNN-PFP--EA------------------DEKIFVVSATGESQ-MLTRGQLKEYIGQ  336 (364)
+T ss_dssp             CCSCCGGGC-SSC--CC------------------CSCEEEECTTSCEE-EECHHHHHHHHHH
+T ss_pred             ccCccccCC-CCC--Cc------------------CCceEEEeCCCeEE-eCCHHHHHHHHHH
+
+
+No 5
+>7P1H_A Maltose/maltodextrin-binding periplasmic protein,RTX-toxin; Bacterial toxin, G-actin, profilin, toxin; HET: ATP, HIC;{Escherichia coli (strain K12)}
+Probab=99.36  E-value=2.1e-11  Score=125.01  Aligned_cols=196  Identities=17%  Similarity=0.172  Sum_probs=0.0  Template_Neff=10.200
+
+Q ss_pred             CCCCCHHHHHHHHHHHHHcCEEEEEEcCCHHHHHHHHcC-CCCCCccchhhcCCHHHHHHhccccHHHHHHHHHHcCCce
+Q FD01847549_000    1 EAFVHPLHMPVFERISLEENLSMSVREAGIYTISALGEG-AAAKGHNILEKTIKPGSLKAIYSDNAESILGQAKRSGFVG   79 (254)
+Q Consensus         1 ~~fi~~~H~~ai~~~a~~~~~~IsfR~tg~~tl~~L~~G-a~~KphdIl~KTIK~~sl~~~~~~~~~~~~~~~~~~~l~G   79 (254)
+                      ...|...|..+|+++|++.+++|.||++++.+..+|.+| ++.|+.+|+.||.+..      +              +.|
+T Consensus       431 ~~G~~~~h~~~~~~~A~~~~~~i~~R~~~~~s~~li~~g~~~~K~l~iK~KSs~~g------~--------------~aG  490 (827)
+T 7P1H_A          431 ELGMPDSDQKILAEVAERENVIIGVRPVDEKSKSLIDSKLYSSKGLFVKAKSSDWG------P--------------MSG  490 (827)
+T ss_dssp             HHHSCHHHHHHHHHHHHHTTEEEEECCCCHHHHHHHHHTCSCBCCSSCCCCCCCSH------H--------------HHT
+T ss_pred             ccCCCHHHHHHHHHHHHHhCeEEEEeCCCHHHHHHHHcCCCCCCCeecceecCCCC------C--------------ccc
+
+
+Q ss_pred             EEEee-------------------------------------------------------------------cCCCeeEE
+Q FD01847549_000   80 RVGQW-------------------------------------------------------------------DASGVRGI   92 (254)
+Q Consensus        80 lVg~~-------------------------------------------------------------------~~~~l~G~   92 (254)
+                      +|..-                                                                   ..++....
+T Consensus       491 fvp~~~~~sk~~~~~~~~~~~~~~~~~~~~~~a~~~~l~is~~r~~~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~f  570 (827)
+T 7P1H_A          491 FIPVDQAFAKASARRDLDKFNGYAEQSIESGNAVSADLYLNQVRIDELVSKYQSLTALEFDAESGMYKTTATNGDQTVTF  570 (827)
+T ss_dssp             SCBSSGGGSCSSCHHHHHHHHHHHHHHHHHTSCEEEECEECHHHHHCCCCCSCCSCCCEEETTTTEEEEEEESSSSEEEE
+T ss_pred             eeecCHHHHhHhhhhhHHHHHHHHHHHHHhCCceeecCeeCHHHHHHHHHhcCcccccEeeCCCCeEEEEEecCCeEEEE
+
+
+Q ss_pred             EEecCCCCccceeeeccccccccchhhhhccCCeeCeeeeccccccee--------------------------------
+Q FD01847549_000   93 YAHNRLGGEDLAYPVSLENTFANELVNAWIKFKIITPYTGDYDMHDII--------------------------------  140 (254)
+Q Consensus        93 y~~~~~g~~~~~~~vd~~~l~~~i~~l~~~~~~~~~~~TGDYDlhDii--------------------------------  140 (254)
+                      ++..........+.|-...-......+--......+++||||||+.|+                                
+T Consensus       571 ~l~~~~~~~~~~~~v~~~~~~~~~p~~vl~~~~~~kpvtaDYDLf~v~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  650 (827)
+T 7P1H_A          571 FLNKVTVDSKDLWQVHYIKDGKLAPFKVIGDPVSKQPMTADYDLLTVMYSYSDLGPQDKLKQPLTWEQWKESVTYEELTP  650 (827)
+T ss_dssp             EEEEEEETTEEEEEEEEEETTEEEECEEEECTTTCCBCBCCCCEEEEEEEGGGCCHHHHCBCCCCHHHHHHHSCTTSCCT
+T ss_pred             EEeeeecCCCceEEEEEEeCCeEeeeEEEccCcCCCCCCCCcceEEeeeCHHHcCCcccCCCCCCHHHHHhhcchhhCCH
+
+
+Q ss_pred             -------------ecccCCccCCCCCCHHHHHHHHHHHHHHhccCCCCCcccccCCceeccchhchHHHHHhcchhhhcc
+Q FD01847549_000  141 -------------KFSHGKGHVPMAESNEERGVKDLINKGIAKVDPSRPFEYTAMNVIRHGPQVNFVPYMWEHEHDKVVK  207 (254)
+Q Consensus       141 -------------~~~g~~~~~v~~~s~ee~~ii~~lN~~i~~~d~~R~~~~~~~~~VqHGaQ~ny~~~~~~~e~~~~~~  207 (254)
+                                   ...+.   .....|+..+.+++.||.++...+-.        .+|+||+...-...-...       
+T Consensus       651 ~~~~~~~~~~~~~~~~~~---~~G~~~~~~~~i~~~ln~~~~~~~g~--------~~v~Hg~e~~np~~~~~~-------  712 (827)
+T 7P1H_A          651 KYKELYNSEVLYNKKDGA---SLGVVSDRLKALKDVINTSLGRTDGL--------EMVHHGADDANPYAVMAD-------  712 (827)
+T ss_dssp             HHHHHHHCHHHHCCCCCC---HHTTCBHHHHHHHHHHHHHTTCCTTC--------CSCTTCCCSCSTTCCSGG-------
+T ss_pred             HHHHHhhcHHHhcccCCC---ccCccCHHHHHHHHHHHHHhcCCCCc--------cceecCccCCCCCccccc-------
+
+
+Q ss_pred             cCCceecccCCCCCCEEE-EeCCE-----------------------EEEeCCHHHHHHHHHH
+Q FD01847549_000  208 DNGYLGVVARPGPFPVAM-VHQGE-----------------------WTVFDNSKELFNFYKS  246 (254)
+Q Consensus       208 ~~~~~~~va~p~~~pla~-~~~G~-----------------------w~ii~~~~el~~fY~~  246 (254)
+                                  +||+++ ..++.                       +.+|+|.+||.+|+..
+T Consensus       713 ------------~~p~~~f~P~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~~l~~~~~~  763 (827)
+T 7P1H_A          713 ------------NFPATFFVPKSFFMEDGLGEGKGSIQTYFNVNEQGAVVIRDPQEFSNFQQV  763 (827)
+T ss_dssp             ------------GCSEEEECCGGGGGSSCSCCSSSCCSSCCSBCSTTCEEECSHHHHHHHHHH
+T ss_pred             ------------CCcEEEEeehhHhcccCCCCCCcccccccccCCCccEEECCHHHHHHHHHH
+
+
+No 6
+>1XFX_A Calmodulin-sensitive adenylate cyclase; protein-protein interaction, LYASE-METAL BINDING PROTEIN COMPLEX; HET: CA, MSE; 3.2A {Bacillus anthracis}
+Probab=99.36  E-value=2.1e-11  Score=126.85  Aligned_cols=200  Identities=21%  Similarity=0.215  Sum_probs=0.0  Template_Neff=7.100
+
+Q ss_pred             CCCCCHHHHHHHHHHHHHcCEEEEEEcCCHHHHHHHHcCCCCCCccchhhcCCHHHHHHhccccHHHHHHHHHHcCCceE
+Q FD01847549_000    1 EAFVHPLHMPVFERISLEENLSMSVREAGIYTISALGEGAAAKGHNILEKTIKPGSLKAIYSDNAESILGQAKRSGFVGR   80 (254)
+Q Consensus         1 ~~fi~~~H~~ai~~~a~~~~~~IsfR~tg~~tl~~L~~Ga~~KphdIl~KTIK~~sl~~~~~~~~~~~~~~~~~~~l~Gl   80 (254)
+                      ...|.+.|+.+|+++|++.+++|.||++|+.+..+|++|++.||.+|+.||..-.      |              ..|+
+T Consensus       281 ~sGi~~~H~~~f~~vA~~~n~vI~~RpVn~~at~LI~eGy~TKgl~VKgKSSdWG------P--------------~AGf  340 (777)
+T 1XFX_A          281 ASGLVPEHADAFKKIARELNTYILFRPVNKLATNLIKSGVATKGLNVHGKSSDWG------P--------------VAGY  340 (777)
+T ss_dssp             HHCSCHHHHHHHHHHCCCCCEEEEECCCCGGGHHHHHHTCEECCSSCCCCCCCST------T--------------TTTS
+T ss_pred             HcCCCHHHHHHHHHHHHHcCeEEEEEeCCHHHHHHHHCCCCCCCeeccccccCCC------C--------------ccce
+
+
+Q ss_pred             EEeecC-CCeeE-------------------------------------------------------EEEecCCCCccce
+Q FD01847549_000   81 VGQWDA-SGVRG-------------------------------------------------------IYAHNRLGGEDLA  104 (254)
+Q Consensus        81 Vg~~~~-~~l~G-------------------------------------------------------~y~~~~~g~~~~~  104 (254)
+                      |..-.. .++.|                                                       .|+........-.
+T Consensus       341 IP~Dq~lSK~~~~~~~v~k~n~~~~~sl~~~~~~a~~v~L~Is~~Ri~eL~~~g~i~~~~~~~~~~~~~~~~~~~~~~y~  420 (777)
+T 1XFX_A          341 IPFDQDLSKKHGQQLAVEKGNLENKKSITEHEGEIGKIPLKLDHLRIEELKENGIILKGKKEIDNGKKYYLLESNNQVYE  420 (777)
+T ss_dssp             CBSSGGGSSSTTCTTHHHHHHHHHHHHHHHTTTTEEEEECCCCHHHHHHHHHTTSCEEEEEEEETTEEEEEEECSCSSEE
+T ss_pred             eecccccccccccHHHHHhchHHHHHHHHHccccceecccccCHHHHHHHHHCCCeeeceeeecCCeEEEEEecCCcEEE
+
+
+Q ss_pred             eeecccccc-------------------ccchhhhhccCCeeCeeeecccccceeecc----------------------
+Q FD01847549_000  105 YPVSLENTF-------------------ANELVNAWIKFKIITPYTGDYDMHDIIKFS----------------------  143 (254)
+Q Consensus       105 ~~vd~~~l~-------------------~~i~~l~~~~~~~~~~~TGDYDlhDii~~~----------------------  143 (254)
+                      +.++-..-.                   .-+..+........+++|+||||+.|....                      
+T Consensus       421 F~~~~~~~~v~y~~~~g~~~~~~~~~~~~Pv~VLa~~~~g~~kPvTADYDLf~V~p~~~~~~~~~p~~~~~~~v~~~~~~  500 (777)
+T 1XFX_A          421 FRISDENNEVQYKTKEGKITVLGEKFNWRNIEVMAKNVEGVLKPLTADYDLFALAPSLTEIKKQIPQKEWDKVVNTPNSL  500 (777)
+T ss_dssp             EEEESSSCCEEEEECTTCCCTTSCCCCCEECEEEEECSSSSCEEEECCCCEEEEEEBHHHHHTTSCHHHHHHHHSCSCHH
+T ss_pred             EEEcCCCCceEEEecCCceeecccccCCeeEEEEeeccCCCccccccceeeeecccchHHhhccCChhHHHHHccCCcch
+
+
+Q ss_pred             ----------------cCCccCCCCCCHHHHHHHHHHHHHHhccCCCCCcccccCCceeccchhchHHHHHhcchhhhcc
+Q FD01847549_000  144 ----------------HGKGHVPMAESNEERGVKDLINKGIAKVDPSRPFEYTAMNVIRHGPQVNFVPYMWEHEHDKVVK  207 (254)
+Q Consensus       144 ----------------g~~~~~v~~~s~ee~~ii~~lN~~i~~~d~~R~~~~~~~~~VqHGaQ~ny~~~~~~~e~~~~~~  207 (254)
+                                      ..........|+....+++.||.++..      .......+|+||++..+..+-..        
+T Consensus       501 ~~~~~i~~~~~~~~~~~~~~~~~G~is~~~~~ii~~lN~al~~------~G~~G~~~V~HGaE~~Np~fp~~--------  566 (777)
+T 1XFX_A          501 EKQKGVTNLLIKYGIERKPDSTKGTLSNWQKQMLDRLNEAVKY------TGYTGGDVVNHGTEQDNEEFPEK--------  566 (777)
+T ss_dssp             HHHHHHHHHHCCCCCCCBCCTTTCSBCHHHHHHHHHHHHHTTT------TTCCSCCSCCSCCGGGCCSSCCC--------
+T ss_pred             HHhHhHHHHHHHhcCcCCCCcCCCCCCHHHHHHHHHHHHHHHH------hCCCCCcceecCCCCCCCCCCcc--------
+
+
+Q ss_pred             cCCceecccCCCCCCEEE-EeCCEEEEeCCHHHHHHHHHH
+Q FD01847549_000  208 DNGYLGVVARPGPFPVAM-VHQGEWTVFDNSKELFNFYKS  246 (254)
+Q Consensus       208 ~~~~~~~va~p~~~pla~-~~~G~w~ii~~~~el~~fY~~  246 (254)
+                                  +.|+.+ ..+|..+.+.|.+||..||..
+T Consensus       567 ------------D~pi~v~~P~g~~~~~~n~~el~~fl~~  594 (777)
+T 1XFX_A          567 ------------DNEIFIINPEGEFILTKNWEMTGRFIEK  594 (777)
+T ss_dssp             ------------CSCCEEECTTSCEEECCSHHHHHHHHCC
+T ss_pred             ------------cCceEEEcCCCCEEEECCHHHHHHHHHH
+
+
+No 7
+>8BJH_B Putative Adenylate cyclase,Profilin-1; bacterial nucleotidyl cyclase toxin, activated complex, TOXIN; HET: SO4, PEO, ADP, GOL, TRS, LAB; 1.69A {Oryctolagus cuniculus}
+Probab=99.29  E-value=2.7e-10  Score=114.91  Aligned_cols=212  Identities=17%  Similarity=0.154  Sum_probs=0.0  Template_Neff=8.300
+
+Q ss_pred             CCHHHHHHHHHHHHHcCEEEEEEcCCHHHHHHHHcC-CCCCCccchhhcC------------------------------
+Q FD01847549_000    4 VHPLHMPVFERISLEENLSMSVREAGIYTISALGEG-AAAKGHNILEKTI------------------------------   52 (254)
+Q Consensus         4 i~~~H~~ai~~~a~~~~~~IsfR~tg~~tl~~L~~G-a~~KphdIl~KTI------------------------------   52 (254)
+                      |.+.|..+|+++|++.|++|.||++++.+..+|++| ++.|+.+|+.||.                              
+T Consensus        38 i~~~h~~~~~~vA~~~n~iI~iRpv~~~at~LI~~g~y~tKgl~IKgKSsdwGp~aGfIp~dq~~SK~~~~~~i~k~n~~  117 (591)
+T 8BJH_B           38 MPEVDQSVLAEVAERENVIIGVRPVDEKSKSLIASKMYSSMGLFVKAISSDWGPMSGFIPVDQSFAKASARRDLEKFNEY  117 (591)
+T ss_dssp             SCHHHHHHHHHHHHHHTEEEEECCCCGGGHHHHHTTCSEECCSSCCSCCBSSSTTBTSCBSSGGGSCHHHHTSHHHHHHH
+T ss_pred             CCHHHHHHHHHHHHHcCeEEEEEcCCHHHHHHHHcCCcCCCCccCCcccCCCCCCccceecCHHhcchhhhHHHHHHHHH
+
+
+Q ss_pred             CHHHHHHhc----c-ccHHHHHHHHHHc-CCceEEEeecCCCeeEEEEecCCCCccceeeeccccc--------------
+Q FD01847549_000   53 KPGSLKAIY----S-DNAESILGQAKRS-GFVGRVGQWDASGVRGIYAHNRLGGEDLAYPVSLENT--------------  112 (254)
+Q Consensus        53 K~~sl~~~~----~-~~~~~~~~~~~~~-~l~GlVg~~~~~~l~G~y~~~~~g~~~~~~~vd~~~l--------------  112 (254)
+                      ....+...+    + .-..+.+..+... ...-.+.........-.......+    .+.+.+...              
+T Consensus       118 ~~~~i~~~~a~~v~L~is~~rl~eL~~~~~~i~~~~~~~~~~~~~~~~~~~~~----~~~f~l~~~~~~~~~~~~v~~~~  193 (591)
+T 8BJH_B          118 AEQSILSGNAVSANLYLNQVRIEELVSKYESLTPLELDVDSGMYKTTATNGDQ----TIPFFLNKVTVDDKELWQVHYLR  193 (591)
+T ss_dssp             HHHHHHTTSCEEEECEECHHHHHCCCCCSCCBCCCEEETTTTEEEEEBSSSCT----TCEEEEEEEEETTEEEEEEEEEE
+T ss_pred             HHHHHHcCCceecccccCHHHHHHHHHhcCCCcccEeeCCCCeEEEEEecCCc----eEEEEEeeeccCCCCcEEEEEee
+
+
+Q ss_pred             cccchhhhhc-cCCeeCeeeecccccceeec------------------------------------------ccCCccC
+Q FD01847549_000  113 FANELVNAWI-KFKIITPYTGDYDMHDIIKF------------------------------------------SHGKGHV  149 (254)
+Q Consensus       113 ~~~i~~l~~~-~~~~~~~~TGDYDlhDii~~------------------------------------------~g~~~~~  149 (254)
+                      ...+..+.-. +....+++|+||||+.|...                                          .......
+T Consensus       194 ~~~~~p~~Vl~~~~~~~pltaDYDLf~v~p~~~~~~~~~~~~~~~~~~~~~~~~~y~~l~~~~~~~~~~~~~~~~~~~~~  273 (591)
+T 8BJH_B          194 EGELAPFKVIGDPVSKQPMTADYDLLTVMYTYGDLGPQDKVKQPLTWEQWKESVTYEDLSPKYKARYDNQALYEKQDGAS  273 (591)
+T ss_dssp             TTEEEECEEEECTTTCCBEECCCCEEEEEEEGGGCSCCCCCC--------------------------------------
+T ss_pred             CCccccEEEEecCCCCCCccCCceeEEeecCHHHcCCcccCCCCCCHHHHhcccChhhcCHHHHHHhhcHHHHhhccCCc
+
+
+Q ss_pred             CCCCCHHHHHHHHHHHHHHhccCCCCCcccccCCceeccchhchHHHHHhcchhhhcccCCceecccCCCCCCEEE-EeC
+Q FD01847549_000  150 PMAESNEERGVKDLINKGIAKVDPSRPFEYTAMNVIRHGPQVNFVPYMWEHEHDKVVKDNGYLGVVARPGPFPVAM-VHQ  228 (254)
+Q Consensus       150 v~~~s~ee~~ii~~lN~~i~~~d~~R~~~~~~~~~VqHGaQ~ny~~~~~~~e~~~~~~~~~~~~~va~p~~~pla~-~~~  228 (254)
+                      ....|+..+.+++.||+++...+..        .+|+||++..........                   ++|+++ ..+
+T Consensus       274 ~Gnis~~~~~i~~~lN~~~~~~~g~--------~vvhHg~e~~np~~~~~~-------------------n~P~t~f~P~  326 (591)
+T 8BJH_B          274 LGMVSDRLKELKDVINTSLGRTDGL--------EMVHHGADDANPYAVMAD-------------------NFPATFFVPK  326 (591)
+T ss_dssp             ----CHHHHHHHHHHHHHHTCCTTC--------CSSCSSCCCCCSCCCGGG-------------------TSSEEEECCG
+T ss_pred             cCCCCHHHHHHHHHHHHHhccCCCC--------ccEecCcccCCCcccccc-------------------cCCeEEEecc
+
+
+Q ss_pred             CE-----------------------EEEeCCHHHHHHHHHH
+Q FD01847549_000  229 GE-----------------------WTVFDNSKELFNFYKS  246 (254)
+Q Consensus       229 G~-----------------------w~ii~~~~el~~fY~~  246 (254)
+                      +.                       +.+|+|.+||.+|++.
+T Consensus       327 ~~~~~~~l~~~~~~i~~~~~~~~~~~~~i~~~~el~~~~~~  367 (591)
+T 8BJH_B          327 HFFDDDGLGEGKGSIQTYFNVNEQGAVVIQNPQEFSNFQQV  367 (591)
+T ss_dssp             GGGSTTTTSTTSCCHHHHSEECTTCCEEECSHHHHHHHHHH
+T ss_pred             cccCCCCCCCCCCcccceeecCCCceEEECCHHHHHHHHHH
+
+
+No 8
+>8BJJ_B Putative Adenylate cyclase; bacterial nucleotidyl cyclase toxin, activated complex, TOXIN; HET: TRS, ATP, SO4, LAB, PG4; 1.699A {Oryctolagus cuniculus}
+Probab=99.09  E-value=7.3e-09  Score=100.44  Aligned_cols=180  Identities=19%  Similarity=0.214  Sum_probs=0.0  Template_Neff=8.300
+
+Q ss_pred             CCCCCHHHHHHHHHHHHHcCEEEEEEcCCHHHHHHHHcC-CCCCCccchhhcCCHHHHHHhccccHHHHHHHHHHcCCce
+Q FD01847549_000    1 EAFVHPLHMPVFERISLEENLSMSVREAGIYTISALGEG-AAAKGHNILEKTIKPGSLKAIYSDNAESILGQAKRSGFVG   79 (254)
+Q Consensus         1 ~~fi~~~H~~ai~~~a~~~~~~IsfR~tg~~tl~~L~~G-a~~KphdIl~KTIK~~sl~~~~~~~~~~~~~~~~~~~l~G   79 (254)
+                      +.-|.+.|..+|+++|.+.+++|.||+.++.+..+|++| ++.|+.+|+.||..-.      |              ..|
+T Consensus        35 ~~Gi~~~h~~~~~~vA~~~n~vI~~R~v~~~a~~Li~eg~y~tK~~~IK~KSsdwG------p--------------~aG   94 (413)
+T 8BJJ_B           35 ELGMPEVDQSVLAEVAERENVIIGVRPVDEKSKSLIASKMYSSKGLFVKAKSSDWG------P--------------MSG   94 (413)
+T ss_dssp             CCSSCHHHHHHHHHHHHHHTEEEEECCCCGGGHHHHHTTCSEECCTTCCSCCCCSS------T--------------TTT
+T ss_pred             hcCCCHHHHHHHHHHHHHcCEEEEEEeCCHHHHHHHHcCCCCCCCcccCcccccCC------C--------------Ccc
+
+
+Q ss_pred             EEEee---------------------------------------------------------------------------
+Q FD01847549_000   80 RVGQW---------------------------------------------------------------------------   84 (254)
+Q Consensus        80 lVg~~---------------------------------------------------------------------------   84 (254)
+                      +|..-                                                                           
+T Consensus        95 fIp~dq~~SK~~~~~~~~k~~~~~~~~i~~~~a~~v~L~is~~ri~eL~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~f  174 (413)
+T 8BJJ_B           95 FIPVDQSFAKASARRDLEKFNEYAEQSILSGNAVSANLYLNQVRIEELVSKYESLTPLELDVDSGMYKTTATNGDQTIPF  174 (413)
+T ss_dssp             SCBSSGGGSCHHHHTTHHHHHHHHHHHHHTTSCEEEECEECHHHHHCCCCCSCCBCCCEECSSSCCEEEEBSSSCTTCEE
+T ss_pred             eeeecHhhcchhhhhhHHHHHHHHHHHHHcCCceeccceeCHHHHHHHHHhcCCCccceeeCCCCeEEEEEecCCceEEE
+
+
+Q ss_pred             -------cCCCeeEEEEecCCCCccceeee-ccccccccchhhhhccCCeeCeeeecccccceeecc-------------
+Q FD01847549_000   85 -------DASGVRGIYAHNRLGGEDLAYPV-SLENTFANELVNAWIKFKIITPYTGDYDMHDIIKFS-------------  143 (254)
+Q Consensus        85 -------~~~~l~G~y~~~~~g~~~~~~~v-d~~~l~~~i~~l~~~~~~~~~~~TGDYDlhDii~~~-------------  143 (254)
+                             ..+.+-.+|....+.    +.|| -+.            .....+++||||||..|....             
+T Consensus       175 ~~~~~~~~~~~~w~v~~~~~~~----~~p~~vl~------------~~~~~~p~TaDYDLf~v~p~~~~~~~~~~~~~~~  238 (413)
+T 8BJJ_B          175 FLNKVTVDDKELWQVHYLREGE----LAPFKVIG------------DPVSKQPMTADYDLLTVMYTYGDLGPQDKVKQPL  238 (413)
+T ss_dssp             EEEEEEETTEEEEEEEEEETTE----EEECEEEE------------CTTTCCBEECCCCEEEEEEEGGGCSCCCCC----
+T ss_pred             EEeeecCCccccEEEEEeeCCc----eecEEEEc------------cCCCCCCCCCCceeeEeecCHHHcCccccCCCCC
+
+
+Q ss_pred             --------------------------------cCCccCCCCCCHHHHHHHHHHHHHHhccCCCCCcccccCCceeccchh
+Q FD01847549_000  144 --------------------------------HGKGHVPMAESNEERGVKDLINKGIAKVDPSRPFEYTAMNVIRHGPQV  191 (254)
+Q Consensus       144 --------------------------------g~~~~~v~~~s~ee~~ii~~lN~~i~~~d~~R~~~~~~~~~VqHGaQ~  191 (254)
+                                                      +.   .+...|+....+++.||.++......        .+|+||+..
+T Consensus       239 ~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~~~~---~~Gnis~~~~~i~~~lN~~~~~~~g~--------~~vhHg~e~  307 (413)
+T 8BJJ_B          239 TWEQWKESVTYEDLSPKYKARYDNQALYEKQDGA---SLGMVSDRLKELKDVINTSLGRTDGL--------EMVHHGADD  307 (413)
+T ss_dssp             ------------------------------------------CHHHHHHHHHHHHHHTCCTTC--------CSSCSSCCC
+T ss_pred             CHHHHhhhcChhhcCHHHHHHhcchHHHhhhcCc---ccccCCHHHHHHHHHHHHHhcccCCC--------ceeeccccC
+
+
+Q ss_pred             chHHHHHhcchhhhcccCCceecccCCCCCCEEE-EeCCE-----------------------EEEeCCHHHHHHHHHH
+Q FD01847549_000  192 NFVPYMWEHEHDKVVKDNGYLGVVARPGPFPVAM-VHQGE-----------------------WTVFDNSKELFNFYKS  246 (254)
+Q Consensus       192 ny~~~~~~~e~~~~~~~~~~~~~va~p~~~pla~-~~~G~-----------------------w~ii~~~~el~~fY~~  246 (254)
+                      .........                   ++|+++ +.++.                       +++|+|.+|+..|...
+T Consensus       308 ~np~~~~~~-------------------~~p~~~f~P~~~~~~~~~~~~~~~i~~~~~~~~~~~~~i~~~~~l~~~~~~  367 (413)
+T 8BJJ_B          308 ANPYAVMAD-------------------NFPATFFVPKHFFDDDGLGEGKGSIQTYFNVNEQGAVVIQNPQEFSNFQQV  367 (413)
+T ss_dssp             CCSCCCGGG-------------------TCSEEEECCGGGGSTTTTSTTTCCHHHHSEECTTCCEEECSHHHHHHHHHH
+T ss_pred             CCccccccc-------------------cCCeEEEecccccCCCCCCCCCccchhceecCCCceEEECCHHHHHHHHHH
+
+
+No 9
+>PF03497.20 ; Anthrax_toxA ; Anthrax toxin LF subunit
+Probab=98.41  E-value=1e-06  Score=76.68  Aligned_cols=53  Identities=21%  Similarity=0.256  Sum_probs=0.0  Template_Neff=6.900
+
+Q ss_pred             CCCCCHHHHHHHHHHHHHcCEEEEEEcCCHHHHHHHHcCCCCCCccchhhcCC
+Q FD01847549_000    1 EAFVHPLHMPVFERISLEENLSMSVREAGIYTISALGEGAAAKGHNILEKTIK   53 (254)
+Q Consensus         1 ~~fi~~~H~~ai~~~a~~~~~~IsfR~tg~~tl~~L~~Ga~~KphdIl~KTIK   53 (254)
+                      ...|.++|..+|+++|++.+++|.||++|+.+..+|++|+++|+.+|+.||.+
+T Consensus         7 ~~Gi~~~h~~~~~~va~~~~~vi~~R~~~~~a~~li~~g~~tK~~~ik~KSsd   59 (172)
+T CYAA_BORPE/10-    7 ESGIPAAVLDGIKAVAKEKNATLMFRLVNPHSTSLIAEGVATKGLGVHAKSSD   59 (172)
+T ss_pred             hcCCCHHHHHHHHHHHHHcCeEEEEEeCCHHHHHHHHCCCCCCCccccccccc
+
+
+No 10
+>PF12913.11 ; SH3_6 ; SH3 domain (SH3b1 type)
+Probab=36.15  E-value=53  Score=23.65  Aligned_cols=25  Identities=12%  Similarity=0.307  Sum_probs=0.0  Template_Neff=6.000
+
+Q ss_pred             ceecccCCCCCCEEE---EeCCEEEEeCC
+Q FD01847549_000  211 YLGVVARPGPFPVAM---VHQGEWTVFDN  236 (254)
+Q Consensus       211 ~~~~va~p~~~pla~---~~~G~w~ii~~  236 (254)
+                      +..+...+ ..||++   ..+|+|+.+.+
+T Consensus        18 ~Q~s~l~~-~ePv~ilh~S~D~~w~~V~t   45 (53)
+T D1B2W5_SULD5/1   18 LQTSQIHI-AEPIFVSHYSRDGAWAYVES   45 (53)
+T ss_pred             cccCccCC-CCeEEEEEEcCCCCEEEEEe
+
+
+No 11
+>PF21596.1 ; Bd2520-like_N ; Lactoylglutathione lyase, putative-like, N-terminal
+Probab=23.48  E-value=1.4e+02  Score=19.82  Aligned_cols=20  Identities=10%  Similarity=0.262  Sum_probs=0.0  Template_Neff=9.300
+
+Q ss_pred             EEeCCHHHHHHHHHHcCCCC
+Q FD01847549_000  232 TVFDNSKELFNFYKSTNTPL  251 (254)
+Q Consensus       232 ~ii~~~~el~~fY~~~g~~~  251 (254)
+                      ....|.+...+||+..|...
+T Consensus         7 l~~~d~~~~~~FY~~lG~~~   26 (51)
+T Q6MK89_BDEBA/4    7 INTSHLQGMLGFYRIIGFQF   26 (51)
+T ss_pred             EEeCCHHHHHHHHHHhCCEE
+
+
+No 12
+>PF11869.12 ; DUF3389 ; Protein of unknown function (DUF3389)
+Probab=21.13  E-value=4.2e+02  Score=21.04  Aligned_cols=33  Identities=15%  Similarity=0.291  Sum_probs=0.0  Template_Neff=4.000
+
+Q ss_pred             CCCCEEEEeCC--EEE-EeCCHHHHHHHHHHcCCCC
+Q FD01847549_000  219 GPFPVAMVHQG--EWT-VFDNSKELFNFYKSTNTPL  251 (254)
+Q Consensus       219 ~~~pla~~~~G--~w~-ii~~~~el~~fY~~~g~~~  251 (254)
+                      ++-.+.+.+.|  +|+ .++|.++|....+..|+.+
+T Consensus        40 ~~a~vi~A~~g~vkWSlkLD~~eQl~~ia~~~Gi~i   75 (75)
+T Q5E0V1_ALIF1/1   40 GGANVINAVGSGAKWSVKLDDEVQLQQLAEEIGIAV   75 (75)
+T ss_pred             cccEEEEEecCceEEEeeCCCHHHHHHHHHHhCCCC
+
+
+No 13
+>2KI0_A DS119; beta-alpha-beta, DE NOVO PROTEIN; NMR {N/A}
+Probab=21.12  E-value=3.4e+02  Score=17.92  Aligned_cols=21  Identities=10%  Similarity=0.257  Sum_probs=0.0  Template_Neff=1.000
+
+Q ss_pred             CHHHHHHHHHHHHHcCEEEEE
+Q FD01847549_000    5 HPLHMPVFERISLEENLSMSV   25 (254)
+Q Consensus         5 ~~~H~~ai~~~a~~~~~~Isf   25 (254)
+                      +|+.+..+.+-|++.|+-|+|
+T Consensus        13 tpeelkklkeeakkanirvtf   33 (36)
+T 2KI0_A           13 TPEELKKLKEEAKKANIRVTF   33 (36)
+T ss_dssp             CHHHHHHHHHHHHHHCCCCCB
+T ss_pred             CHHHHHHHHHHHHhcCeEeEe
+
+
+No 14
+>PF15187.10 ; Augurin ; Oesophageal cancer-related gene 4
+Probab=20.24  E-value=74  Score=26.79  Aligned_cols=24  Identities=33%  Similarity=0.566  Sum_probs=0.0  Template_Neff=4.300
+
+Q ss_pred             CCCCCcccccCCceeccchhchHHH
+Q FD01847549_000  172 DPSRPFEYTAMNVIRHGPQVNFVPY  196 (254)
+Q Consensus       172 d~~R~~~~~~~~~VqHGaQ~ny~~~  196 (254)
+                      |+.=|.... ....+||+.+||-.|
+T Consensus        86 de~a~~gp~-~~s~rhga~vnyd~y  109 (109)
+T H3D8P6_TETNG/3   86 DENGPLGPR-ASSYRHGADVNYDYY  109 (109)
+T ss_pred             CCCCCCCCC-CcccccCCCCCCcCC
+
+

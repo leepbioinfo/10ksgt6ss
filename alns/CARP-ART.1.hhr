@@ -1,0 +1,699 @@
+Query         FD01848796_01148 RHS repeat family protein
+Match_columns 112
+No_of_seqs    112 out of 507
+Neff          7.60896
+Searched_HMMs 86581
+Date          Tue Feb 27 21:55:00 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/8561097.hhr -oa3m ../results/8561097.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 2KXI_A Uncharacterized protein  99.6 4.6E-15 5.3E-20  103.3   3.4   99    1-112     5-137 (153)
+  2 PF02917.18 ; Pertussis_S1 ; Pe  98.5 1.6E-06 1.8E-11   64.2   7.7  110    1-112     6-143 (232)
+  3 7EE6_G Pertussis-like toxin su  98.5 2.4E-06 2.8E-11   62.8   8.5  105    1-112     4-128 (224)
+  4 6RO0_A Pertussis toxin subunit  98.3 5.7E-06 6.6E-11   62.8   7.5   97    1-112    41-176 (269)
+  5 7SNE_C Pertussis toxin subunit  98.3 9.4E-06 1.1E-10   57.3   7.9  101    1-112     9-144 (184)
+  6 2A5D_B Cholera enterotoxin, A   98.3 7.5E-06 8.7E-11   58.0   6.8   98    1-112     6-126 (193)
+  7 4Z9C_A Pertussis toxin-like su  98.2 2.2E-05 2.6E-10   58.4   9.0  104    1-112    22-146 (241)
+  8 1TII_A HEAT LABILE ENTEROTOXIN  98.2 1.5E-05 1.7E-10   56.3   6.7   98    1-112     3-123 (190)
+  9 PF21641.1 ; NarE ; NarE         98.1 6.2E-06 7.2E-11   54.8   3.7   69    1-69      2-97  (120)
+ 10 1S5D_A Cholera enterotoxin, A   98.0 3.5E-05   4E-10   57.8   6.4   98    1-112     5-125 (240)
+ 11 4TLV_D ADP-ribosylating toxin   98.0 7.5E-05 8.6E-10   62.8   8.2   98    1-112    10-147 (591)
+ 12 PF01375.21 ; Enterotoxin_a ; H  98.0 5.6E-05 6.4E-10   57.3   6.6   98    1-112    23-143 (263)
+ 13 4Z9D_C Pertussis toxin-like su  97.9 8.1E-05 9.4E-10   51.7   6.3   99    1-112     7-131 (175)
+ 14 5EWY_A Putative ADP-Ribosyltra  97.4 0.00092 1.1E-08   48.1   6.0   94    1-112    75-173 (200)
+ 15 2VSE_A MOSQUITOCIDAL TOXIN; TO  96.8  0.0011 1.2E-08   55.7   1.6   97    1-112    66-181 (841)
+ 16 2CB4_E MOSQUITOCIDAL TOXIN; TO  95.7   0.014 1.6E-07   45.3   2.2   97    1-112    78-193 (291)
+ 17 5ZJ4_C ADP-ribosyltransferase;  93.5    0.69   8E-06   31.0   6.1   84   13-112    51-135 (162)
+ 18 5H6N_C Pierisin-1; DNA-targeti  92.9    0.12 1.4E-06   39.9   1.8   96    1-112    76-186 (275)
+ 19 5H6K_A Pierisin-1; DNA-targeti  88.2    0.58 6.7E-06   36.2   1.8   86   13-112   120-216 (271)
+ 20 PF04214.17 ; DUF411 ; Protein   78.7     2.4 2.8E-05   24.7   1.2   12  100-111    12-23  (48)
+ 21 PF08867.15 ; FRG ; FRG domain   65.5      14 0.00016   25.2   2.7   25   26-54    100-124 (133)
+ 22 8TG4_A Probable RNA 2'-phospho  59.6      12 0.00014   27.5   1.6   57   39-112   137-195 (206)
+ 23 7OMV_AAA DarT domain-containin  56.9     9.2 0.00011   28.0   0.7   18   95-112   157-174 (210)
+ 24 8BAR_A E. coli C7 DarT1; TOXIN  56.6      14 0.00016   27.0   1.6   15   98-112   152-166 (208)
+ 25 8TFY_A Probable RNA 2'-phospho  56.2      17 0.00019   25.5   1.9   57   39-112   116-174 (177)
+ 26 PF14487.10 ; DarT ; ssDNA thym  55.1     7.3 8.4E-05   28.2  -0.1   15   98-112   153-167 (198)
+ 27 PF07357.15 ; DRAT ; Dinitrogen  52.5      39 0.00045   26.8   3.4   45   42-104   199-246 (253)
+ 28 7YK3_A DNA ADP-ribosyl transfe  46.2      18  0.0002   27.6   0.8   18   95-112   191-208 (242)
+ 29 7KW9_A tRNA 2'-phosphotransfer  43.7      19 0.00022   25.5   0.6   57   39-112   120-177 (178)
+ 30 7OMU_BBB Macro domain-containi  33.8      49 0.00057   26.7   1.5   15   98-112   169-183 (406)
+ 31 6EDE_A Probable RNA 2'-phospho  31.0      56 0.00065   24.0   1.4   56   39-111   143-200 (203)
+ 32 6E3A_A Probable RNA 2'-phospho  24.7 1.1E+02  0.0012   21.7   1.8   56   39-111   122-179 (182)
+ 33 2AUA_A hypothetical protein; D  23.4 3.4E+02  0.0039   20.7   4.3   65   41-106   131-210 (224)
+
+No 1
+>2KXI_A Uncharacterized protein; ADP ribosyltransferase, TRANSFERASE; NMR {Neisseria meningitidis serogroup B}
+Probab=99.55  E-value=4.6e-15  Score=103.32  Aligned_cols=99  Identities=24%  Similarity=0.294  Sum_probs=74.2  Template_Neff=7.900
+
+Q ss_pred             CccccCCCCCcc--cCccCCCCCCCCCHH--HHH------HhC-------------CC-CCCCCceecCCHHHHHHHHHh
+Q FD01848796_011    1 VYRVIRPDEDPL--SGLFSLNPNNIKTVA--GHV------TSG-------------SR-SPSQFISATKDLSIAEKWAAK   56 (112)
+Q Consensus         1 lyR~l~~~e~p~--~Gl~a~~p~~~~~i~--~Hv------~~g-------------s~-~~SpfIStT~s~~~A~~~a~~   56 (112)
+                      |||+++.++.+.  .||.|+++....++.  .|+      .+|             +. .+|+|||||++++.|..||..
+T Consensus         5 lYRg~~~~~~~~~~g~l~pk~~~~~~~~~~~~~~~~~~~~~~G~s~~na~~~H~~~~~~~~s~~IStT~s~~vA~~fA~~   84 (153)
+T 2KXI_A            5 LYRGISCQQDEQNNGQLKPKGNKAEVAIRYDGKFKYDGKATHGPSVKNAVYAHQIETGLYDGCYISTTTDKEIAKKFATS   84 (153)
+T ss_dssp             EEEEESCHHHHHHHTSSSCCCCCCCCCCCCCTTCCCCCSSCCSSSSHHHHHHCCCCCSTTSSSSEEEESCTTHHHHHHHH
+T ss_pred             eEeEeCchhHHHhCCceecCCCCcceEEeeCCEEEccCccccCCchHhHHHHHHHHhCCCCCCceEecCCHHHHHHHHhc
+Confidence            799999877444  579999977654554  555      222             21 799999999999999999977
+
+
+Q ss_pred             h---CCcEEEEEHHHCC---CcEEECCChhhHHHhcCHHHHHHhhhccEEEEe----CccCHhHcC
+Q FD01848796_011   57 T---GNRIVEIDLSKIS---GGAIDISSPKGLDLLGNQFARRLAKGSSEVLFD----GPIPAGAIN  112 (112)
+Q Consensus        57 ~---~~~i~~ID~~~l~---~~i~dl~~~~~~~~~~~~~~~~~a~~~~EvLv~----g~IP~~aIv  112 (112)
+                      .   ...|++||..+|.   +....+...             ++..++||+|.    |.||+++|+
+T Consensus        85 ~~~~~G~Vy~Id~~~l~~~~i~~~~~~~~-------------~~~~e~Ev~i~~~~~g~iP~~~Iv  137 (153)
+T 2KXI_A           85 SGIENGYIYVLNRDLFGQYSIFEYEVEHP-------------ENPNEKEVTIRAEDCGCIPEEVII  137 (153)
+T ss_dssp             TTTTEEEEEEEEHHHHHHHTCEEEEEECC-------------STTCCEEEEEECSSTTTSCSTTEE
+T ss_pred             CCCCCeEEEEEchhHcCcCCcEEEeecCC-------------CCCCccEEEEEecccCCCCHHHeE
+Confidence            4   4679999998764   333333331             45579999999    999999985
+
+
+No 2
+>PF02917.18 ; Pertussis_S1 ; Pertussis toxin, subunit 1
+Probab=98.47  E-value=1.6e-06  Score=64.16  Aligned_cols=110  Identities=21%  Similarity=0.219  Sum_probs=67.6  Template_Neff=8.700
+
+Q ss_pred             CccccCCCC--CcccCccCCCCCCCCCHHHHHHhCCCCCCCCceecCCHHHHHHHHHh---------h-CCcEEEEEHHH
+Q FD01848796_011    1 VYRVIRPDE--DPLSGLFSLNPNNIKTVAGHVTSGSRSPSQFISATKDLSIAEKWAAK---------T-GNRIVEIDLSK   68 (112)
+Q Consensus         1 lyR~l~~~e--~p~~Gl~a~~p~~~~~i~~Hv~~gs~~~SpfIStT~s~~~A~~~a~~---------~-~~~i~~ID~~~   68 (112)
+                      |||++...-  .-.+||.+.+.  +..+.+|+...+...|.|||||.+...|..|+..         . .++||+|+...
+T Consensus         6 vYR~D~R~P~~If~~GF~~~g~--~~dl~~Hv~g~s~~~s~fVSTs~s~~~A~~~a~~~~~~~~~~~~~~~yvY~I~~~~   83 (232)
+T CARDS_MYCPN/3-    6 VYRVDLRSPEEIFEHGFSTLGD--VRNFFEHILSTNFGRSYFISTSETPTAAIRFFGSWLREYVPEHPRRAYLYEIRADQ   83 (232)
+T ss_pred             EEEecCCCHHHHHhcCCCCCCC--CCCHHHHHhcCCCCCCCcEEccCCHHHHHHHHHHHHhhhCCCCCCeEEEEEEEcCC
+Confidence            689887532  11378998876  3467789865311589999999999999988642         1 58899999864
+
+
+Q ss_pred             --CCCc--EEECCChhhH--HHh----------cCHHHHHHhhhccEEEEeCccCHhHcC
+Q FD01848796_011   69 --ISGG--AIDISSPKGL--DLL----------GNQFARRLAKGSSEVLFDGPIPAGAIN  112 (112)
+Q Consensus        69 --l~~~--i~dl~~~~~~--~~~----------~~~~~~~~a~~~~EvLv~g~IP~~aIv  112 (112)
+                        +.+.  ..........  ..+          ...........++|+++.|.||++.|+
+T Consensus        84 ~~~~v~~sl~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~e~E~~~~g~Ip~~~I~  143 (232)
+T CARDS_MYCPN/3-   84 HFYNARATGENLLDLMRQRQVVFDSGDREMAQMGIRALRTSFAYQREWFTDGPIAAANVR  143 (232)
+T ss_pred             CeEeehHHHHHHHHHHHhcccccCCCchHHHHHHHHHHHHhhhhcceeeecCCCCHHHEe
+Confidence              1110  0000000000  000          000023356689999999999999874
+
+
+No 3
+>7EE6_G Pertussis-like toxin subunit ArtA; typhoid toxin, TOXIN; HET: FLC, GOL, PEG, ACN; 2.29A {Salmonella enterica subsp. enterica serovar Typhi str. CT18} SCOP: d.166.1.0
+Probab=98.46  E-value=2.4e-06  Score=62.81  Aligned_cols=105  Identities=17%  Similarity=0.096  Sum_probs=78.4  Template_Neff=8.800
+
+Q ss_pred             CccccCCCC--CcccCccCCCCCCCCCHHHHHHhCC----CCCCCCceecCCHHHHHHHHHh-------h-CCcEEEEEH
+Q FD01848796_011    1 VYRVIRPDE--DPLSGLFSLNPNNIKTVAGHVTSGS----RSPSQFISATKDLSIAEKWAAK-------T-GNRIVEIDL   66 (112)
+Q Consensus         1 lyR~l~~~e--~p~~Gl~a~~p~~~~~i~~Hv~~gs----~~~SpfIStT~s~~~A~~~a~~-------~-~~~i~~ID~   66 (112)
+                      |||+|.++|  +|..||.+++.  +.++.+|+.+.+    ...++||||+.+...|..++..       . .+|+|+|++
+T Consensus         4 vYR~D~R~P~~If~~GF~~~G~--n~~l~~Hv~g~s~~~~~~~s~fIStt~~~~~A~~~a~~~~~~~~~~~~~yiY~Ir~   81 (224)
+T 7EE6_G            4 VYRVDSTPPDVIFRDGFSLLGY--NRNFQQFISGRSCSGGSSDSRYIATTSSVNQTYAIARAYYSRSTFKGNLYRYQIRA   81 (224)
+T ss_dssp             EEEEESSCHHHHHHHCBBCSCS--BCCHHHHHTTTTSTTTTCCBSCEEEESCHHHHHHHHHHHHTCTTCCSCEEEEEEEC
+T ss_pred             EEEecCCCHHHHHhcCCCCCCC--CCcHHHHHcCCCCCCCCCCcCcEEccCCHHHHHHHHHHHHhccCCCCcEEEEEEEc
+Confidence            799999999  89999999998  889999999866    3678999999999999988764       1 579999999
+
+
+Q ss_pred             HH--CCCcEEECCChhhH-HHh---cCHHHHHHhhhccEEEEeCccCHhHcC
+Q FD01848796_011   67 SK--ISGGAIDISSPKGL-DLL---GNQFARRLAKGSSEVLFDGPIPAGAIN  112 (112)
+Q Consensus        67 ~~--l~~~i~dl~~~~~~-~~~---~~~~~~~~a~~~~EvLv~g~IP~~aIv  112 (112)
+                      ..  +++.     ..+.. ...   ........+..+.||++.++|++++|.
+T Consensus        82 ~~~fy~v~-----~sl~~~~~~~~~~~~~~~~~~~~~~E~~a~g~I~~~~I~  128 (224)
+T 7EE6_G           82 DNNFYSLL-----PSITYLETQGGHFNAYEKTMMRLQREYVSTLSILPENIQ  128 (224)
+T ss_dssp             CTTEEESH-----HHHHHHHTTTCCCCHHHHHHHHHHTEEEESSCBCGGGEE
+T ss_pred             CCCeEecH-----HHHHHHHHhCCCcchHHHHHHhhcceeeecCCCCHHHEE
+Confidence            65  3332     11000 000   001123566788999999999999884
+
+
+No 4
+>6RO0_A Pertussis toxin subunit 1; TOXIN; HET: GOL; 2.13A {Bordetella pertussis} SCOP: d.166.1.1
+Probab=98.31  E-value=5.7e-06  Score=62.80  Aligned_cols=97  Identities=26%  Similarity=0.284  Sum_probs=0.0  Template_Neff=8.200
+
+Q ss_pred             CccccCCCCCcc----cCccCCCCCCCCCHHHHHHh-----CCCCCCCCceecCCHHHHHHHHHhh-CC-----------
+Q FD01848796_011    1 VYRVIRPDEDPL----SGLFSLNPNNIKTVAGHVTS-----GSRSPSQFISATKDLSIAEKWAAKT-GN-----------   59 (112)
+Q Consensus         1 lyR~l~~~e~p~----~Gl~a~~p~~~~~i~~Hv~~-----gs~~~SpfIStT~s~~~A~~~a~~~-~~-----------   59 (112)
+                      |||+...  .|.    .||.+.+.+.  .+.+|+..     +. ..|.|||||++...|..|+... ..           
+T Consensus        41 VYR~D~R--~P~~If~~GF~~~g~~~--dl~~H~~g~s~~~~~-~~S~fISTs~~~~~A~~~a~~~~~~~~~~g~~~~~~  115 (269)
+T 6RO0_A           41 VYKYDSR--PPEDVFQNGFTAWGNND--NVLEHLTGRSCQVGS-SNSAFVSTSSSRRYTEVYLEHRMQEAVEAERAGRGT  115 (269)
+T ss_dssp             EEEEESS--CHHHHHHHCEECSSSBC--CHHHHHTTTTEETTE-ECBSEEEEESCHHHHHHHHHHHHHHHHHHHHTTSSC
+T ss_pred             EEEecCC--CHHHHHhcCccCCCCCC--cHHHHhcCCCCCCCC-CCcceEEEeCCHHHHHHHHHHHhhhhhhcccccCCC
+
+
+Q ss_pred             -----cEEEEEHHHCCCcEEECCChhhHHHhcCHHH-------------HHHhhhccEEEEeCccCHhHcC
+Q FD01848796_011   60 -----RIVEIDLSKISGGAIDISSPKGLDLLGNQFA-------------RRLAKGSSEVLFDGPIPAGAIN  112 (112)
+Q Consensus        60 -----~i~~ID~~~l~~~i~dl~~~~~~~~~~~~~~-------------~~~a~~~~EvLv~g~IP~~aIv  112 (112)
+                           .|+.|+.+.   .++++..       ....+             .+.....+|+++.|.||++.|+
+T Consensus       116 ~~~~~yiY~I~~~~---nf~~v~~-------sl~~~~~~~~~~~~~~~~~~~~~~~~E~~a~g~I~~~~I~  176 (269)
+T 6RO0_A          116 GHFIGYIYEVRADN---NFYGAAS-------SYFEYVDTYGDNAGRILAGALATYQSGYLAHRRIPPENIR  176 (269)
+T ss_dssp             SCEEEEEEEEECCT---TEEEHHH-------HHHHHHHHHCGGGSCHHHHHHHHHTTEEEEESEECGGGEE
+T ss_pred             CcceEEEEEEEcCC---CEEechH-------HHHHHHhhhcCccchhhhHhHhhhcceeeeccCCCHHHEE
+
+
+No 5
+>7SNE_C Pertussis toxin subunit 1; Whooping cough, Pertussis, pertussis toxin, S1, ADP ribosyltransferase, toxin, TRANSFERASE; HET: 9XR; 1.00010998749A {Bordetella pertussis}
+Probab=98.29  E-value=9.4e-06  Score=57.25  Aligned_cols=101  Identities=27%  Similarity=0.289  Sum_probs=0.0  Template_Neff=9.800
+
+Q ss_pred             CccccCCCCCcc----cCccCCCCCCCCCHHHHHHhC-----CCCCCCCceecCCHHHHHHHHHhhCC------------
+Q FD01848796_011    1 VYRVIRPDEDPL----SGLFSLNPNNIKTVAGHVTSG-----SRSPSQFISATKDLSIAEKWAAKTGN------------   59 (112)
+Q Consensus         1 lyR~l~~~e~p~----~Gl~a~~p~~~~~i~~Hv~~g-----s~~~SpfIStT~s~~~A~~~a~~~~~------------   59 (112)
+                      |||+...  .|.    .||.++++..  .+..|+.+.     . ..|.|||||.+...|..|+.....            
+T Consensus         9 vyR~d~r--~P~~if~~Gf~~~g~~~--~l~~h~~~~~~~~~~-~~s~~ists~~~~~a~~~~~~~~~~~~~~~~~~~~~   83 (184)
+T 7SNE_C            9 VYRYDSR--PPEDVFQNGFTAWGNND--NVLEHLTGRSSQVGS-SNSAFVSTSSSRRYTEVYLEHRMQEAVEAERAGRGT   83 (184)
+T ss_dssp             EEEEESS--CHHHHHHHCEECSSSBC--CHHHHHTTTTSTTTT-SCBSEEEEESCHHHHHHHHHHHHHHHHHHHHTTCCC
+T ss_pred             EEECCCC--CHHHHHhcCcCCCCCCc--cHHHHhcCCCCCCCC-CCCceEEEcCCHHHHHHHHHHHhhhhhhhccccCCC
+
+
+Q ss_pred             -----cEEEEEHHHCCCcEEECCCh-hhHHHhcCH--------HHHHHhhhccEEEEeCccCHhHcC
+Q FD01848796_011   60 -----RIVEIDLSKISGGAIDISSP-KGLDLLGNQ--------FARRLAKGSSEVLFDGPIPAGAIN  112 (112)
+Q Consensus        60 -----~i~~ID~~~l~~~i~dl~~~-~~~~~~~~~--------~~~~~a~~~~EvLv~g~IP~~aIv  112 (112)
+                           .|+.|+..   ..++++... ...   ...        .........+|+++.|.||++.|+
+T Consensus        84 ~~~~~yiY~I~~~---~~~~~v~~~~~~~---~~~~~~~~~~~~~~~~~~~~~E~~~~g~I~~~~I~  144 (184)
+T 7SNE_C           84 GHFIGYIYEVRAD---NNFYGAASSYFEY---VDTYGDNAGRILAGALATYQSEYLAHRRIPPENIR  144 (184)
+T ss_dssp             SSEEEEEEEEECC---TTEEEHHHHHHHH---HHHHCCGGGCCCSSCSSCCTTEEEEESEECGGGEE
+T ss_pred             CceeeEEEEEeCC---CCeEechHHHHHH---HHhhccchhHHHHHHHHHHhceeeeccCcCHHHEE
+
+
+No 6
+>2A5D_B Cholera enterotoxin, A chain; PROTEIN TRANSPORT/TRANSFERASE, PROTEIN TRANSPORT-TRANSFERASE complex; HET: GTP; 1.8A {Homo sapiens} SCOP: d.166.1.1
+Probab=98.26  E-value=7.5e-06  Score=57.98  Aligned_cols=98  Identities=17%  Similarity=0.160  Sum_probs=0.0  Template_Neff=10.000
+
+Q ss_pred             CccccCCCCCcc-----cCccCCCCCC--------CCCHHHHHHhCCCC-----CCCCceecCCHHHHHHHHHhh-----
+Q FD01848796_011    1 VYRVIRPDEDPL-----SGLFSLNPNN--------IKTVAGHVTSGSRS-----PSQFISATKDLSIAEKWAAKT-----   57 (112)
+Q Consensus         1 lyR~l~~~e~p~-----~Gl~a~~p~~--------~~~i~~Hv~~gs~~-----~SpfIStT~s~~~A~~~a~~~-----   57 (112)
+                      |||....  .|.     .||.++++..        ..++..|+..+. .     .|.|||||++...|..++...     
+T Consensus         6 vyRgd~r--~p~~i~~~~Gf~~~~~~~~~~~~~~~~~~l~~h~~~~~-~~~~~~~s~~vSts~~~~~A~~~a~~~~~~~~   82 (193)
+T 2A5D_B            6 LYRADSR--PPDEIKQSGGLMPRGQSEYFDRGTQMNINLYDHARGTQ-TGFVRHDDGYVSTSISLRSAHLVGQTILSGHS   82 (193)
+T ss_dssp             EEEEESS--CHHHHHHHTEECCHHHHHHHHHCCCCBCCHHHHHHCST-TSCCCTTBCEEEEESSHHHHHHHHHHHTTTCS
+T ss_pred             eEecCCC--CHHHHHHcCCCCCCCCcccccCCCCCCCChHHHhcCcC-CCCCCCCCCeEEEECCHHHHHHHHHHHhcCCC
+
+
+Q ss_pred             CCcEEEEEHHHCCCcEEECCChhhHHHhcCHHHHHHhhhccEEEEeCccCHhHcC
+Q FD01848796_011   58 GNRIVEIDLSKISGGAIDISSPKGLDLLGNQFARRLAKGSSEVLFDGPIPAGAIN  112 (112)
+Q Consensus        58 ~~~i~~ID~~~l~~~i~dl~~~~~~~~~~~~~~~~~a~~~~EvLv~g~IP~~aIv  112 (112)
+                      ...|++|+..   ...+++..        ...........+|+++.|.||.+.|+
+T Consensus        83 ~g~iY~I~~~---~~~i~v~~--------~~~~~~~~~~e~E~~~~g~I~~~~I~  126 (193)
+T 2A5D_B           83 TYYIYVIATA---PNMFNVND--------VLGAYSPHPDDQDVSALGGIPYSQIY  126 (193)
+T ss_dssp             EEEEEEEECC---TTEEEHHH--------HHGGGCSCGGGCEEEEETCEEGGGEE
+T ss_pred             cEEEEEEEeC---CCEEEchH--------hhhhcCCCCccccEEEeCCccHHHEE
+
+
+No 7
+>4Z9C_A Pertussis toxin-like subunit ArtA; Redox switch, Pertussis toxin, Typhoid toxin, ADP-ribosyltransferase, Escherichia coli, AB5, TRANSFERASE; 2.35A {Escherichia coli} SCOP: d.166.1.0
+Probab=98.23  E-value=2.2e-05  Score=58.36  Aligned_cols=104  Identities=25%  Similarity=0.227  Sum_probs=0.0  Template_Neff=8.800
+
+Q ss_pred             CccccCCCCCcc----cCccCCCCCCCCCHHHHHHh-----CCCCCCCCceecCCHHHHHHHHHhh--------CCcEEE
+Q FD01848796_011    1 VYRVIRPDEDPL----SGLFSLNPNNIKTVAGHVTS-----GSRSPSQFISATKDLSIAEKWAAKT--------GNRIVE   63 (112)
+Q Consensus         1 lyR~l~~~e~p~----~Gl~a~~p~~~~~i~~Hv~~-----gs~~~SpfIStT~s~~~A~~~a~~~--------~~~i~~   63 (112)
+                      |||+...  .|.    .||.+.+++.  .+.+|+..     +. ..|.|||||.+...|..++...        ...|+.
+T Consensus        22 vYR~D~R--~P~~If~~Gf~~~g~n~--~l~~h~~g~s~~~~~-~~S~fISTs~~~~~a~~~a~~~~~~~~~~~~~yiY~   96 (241)
+T 4Z9C_A           22 VYRVDSR--PPEEIFRDGFRSHGFNR--NLQQHLRGDSCAAGS-RDSAFIATTTSLIETYNIARQYYSSSGFHGRLYRYR   96 (241)
+T ss_dssp             EEEEESS--CHHHHHHHCEECSCCBC--CHHHHHTTCCCCCSS-CCBSEEEEESCHHHHHHHHHHHHTSTTCCSCEEEEE
+T ss_pred             eeeccCC--CHHHHHhcCccCCCCCC--CHHHHHcCCCCCCCC-CCCCcEEccCCHHHHHHHHHHHHhhcCCCCcEEEEE
+
+
+Q ss_pred             EEHHHCCCcEEECCCh-hhHHHh---cCHHHHHHhhhccEEEEeCccCHhHcC
+Q FD01848796_011   64 IDLSKISGGAIDISSP-KGLDLL---GNQFARRLAKGSSEVLFDGPIPAGAIN  112 (112)
+Q Consensus        64 ID~~~l~~~i~dl~~~-~~~~~~---~~~~~~~~a~~~~EvLv~g~IP~~aIv  112 (112)
+                      |+...   .++++... ......   ............+|+++.|.||++-|+
+T Consensus        97 Ir~~~---~f~~v~~sl~~~~~~~~~~~~~~~~~~~~~~E~~a~g~I~~~~I~  146 (241)
+T 4Z9C_A           97 IRANN---IFYPIQPSVNYLTQRGITFSGFERIMMREQNEIVAVEHIPGENIV  146 (241)
+T ss_dssp             EECCT---TEEEHHHHHHHHHTTTCCCCHHHHHHHHHHCEEEEESEECGGGEE
+T ss_pred             EEeCC---CEEecHHHHHHHHHcCCCcChHHHHHHHhcCcEEEecCCCHHHEE
+
+
+No 8
+>1TII_A HEAT LABILE ENTEROTOXIN TYPE IIB; ADP-RIBOSYL TRANSFERASE, ADP-RIBOSYLATION, ENTEROTOXIN, GANGLIOSIDE RECEPTOR; 2.25A {Escherichia coli} SCOP: d.166.1.1
+Probab=98.17  E-value=1.5e-05  Score=56.31  Aligned_cols=98  Identities=17%  Similarity=0.153  Sum_probs=0.0  Template_Neff=10.000
+
+Q ss_pred             CccccCCCCCcc----c-CccCCCCCC--------CCCHHHHHHhCCCC-----CCCCceecCCHHHHHHHHHhh-----
+Q FD01848796_011    1 VYRVIRPDEDPL----S-GLFSLNPNN--------IKTVAGHVTSGSRS-----PSQFISATKDLSIAEKWAAKT-----   57 (112)
+Q Consensus         1 lyR~l~~~e~p~----~-Gl~a~~p~~--------~~~i~~Hv~~gs~~-----~SpfIStT~s~~~A~~~a~~~-----   57 (112)
+                      |||....  .|.    . ||.++++..        +.++..|+.... .     .|.|||||++...|..|+...     
+T Consensus         3 vyR~d~r--~P~~i~~~gGf~~~~~~~~~~~~~~~~~~l~~h~~~~~-~~~~~~~s~~vSts~~~~~a~~~~~~~~~~~~   79 (190)
+T 1TII_A            3 YFRADSR--TPDEVRRSGGLIPRGQDEAYERGTPININLYDHARGTA-TGNTRYNDGYVSTTTTLRQAHLLGQNMLGGYN   79 (190)
+T ss_dssp             EEEEESS--CHHHHHHHTEECCTTCCSCTTTCCCSCCCHHHHHHCC--SCSSSCCTTEECCBSCHHHHHHHHHHHSTTCS
+T ss_pred             eEecCCC--CHHHHHHcCCCCCCCCchhhcCCCCCCCChHHHhcCCC-CCCCCCCCCeEEeeCCHHHHHHHHHHhhCCCC
+
+
+Q ss_pred             CCcEEEEEHHHCCCcEEECCChhhHHHhcCHHHHHHhhhccEEEEeCccCHhHcC
+Q FD01848796_011   58 GNRIVEIDLSKISGGAIDISSPKGLDLLGNQFARRLAKGSSEVLFDGPIPAGAIN  112 (112)
+Q Consensus        58 ~~~i~~ID~~~l~~~i~dl~~~~~~~~~~~~~~~~~a~~~~EvLv~g~IP~~aIv  112 (112)
+                      ...|+.|+..   ..++|+..        ...........+|+++.|.||.+.|+
+T Consensus        80 ~g~iY~I~~~---~~~idv~~--------sl~~~~~~~~~~E~~~~g~I~~~~I~  123 (190)
+T 1TII_A           80 EYYIYVVAAA---PNLFDVNG--------VLGRYSPYPSENEYAALGGIPLSQII  123 (190)
+T ss_dssp             EEEEEEEECC---TTEEEHHH--------HHGGGCSCGGGCCEEEETCEEGGGEE
+T ss_pred             eEEEEEEecC---CCEEECch--------hhcccCCCCccccEEEeCCccHHHEe
+
+
+No 9
+>PF21641.1 ; NarE ; NarE
+Probab=98.11  E-value=6.2e-06  Score=54.81  Aligned_cols=69  Identities=25%  Similarity=0.306  Sum_probs=0.0  Template_Neff=9.200
+
+Q ss_pred             CccccCCCC-CcccC-ccCCC----------------------CCCCCCHHHHHHhCCCCCCCCceecCCHHHHHHHHHh
+Q FD01848796_011    1 VYRVIRPDE-DPLSG-LFSLN----------------------PNNIKTVAGHVTSGSRSPSQFISATKDLSIAEKWAAK   56 (112)
+Q Consensus         1 lyR~l~~~e-~p~~G-l~a~~----------------------p~~~~~i~~Hv~~gs~~~SpfIStT~s~~~A~~~a~~   56 (112)
+                      |||.++..+ ....| |.|++                      |....++..|...+....++|||||++...|..||..
+T Consensus         2 lyrg~~~~~~~~~~~~l~~kg~~~~~~~~~~~~~~~~g~~~~g~~~~~~l~~h~~~~~~~~~~~vStt~~~~vA~~fa~~   81 (120)
+T Q9JZ10_NEIMB/4    2 LYRGISCQQDEQNNGQLKPKGNKAEVAIRYDGKFKYDGKATHGPSVKNAVYAHQIETGLYDGCYISTTTDKEIAKKFATS   81 (120)
+T ss_pred             ccceeCchHHHhhCCeeecCCCCCceEEEeCCeeecCCeeeecCCHHcHHHHHHHhhCCCCCCCeecCCCHHHHHHHhhc
+
+
+Q ss_pred             h---CCcEEEEEHHHC
+Q FD01848796_011   57 T---GNRIVEIDLSKI   69 (112)
+Q Consensus        57 ~---~~~i~~ID~~~l   69 (112)
+                      .   ...|++|+.+.+
+T Consensus        82 ~~~~~g~vY~I~~~~~   97 (120)
+T Q9JZ10_NEIMB/4   82 SGIENGYIYVLNRDLF   97 (120)
+T ss_pred             CCCCceEEEEEEcCCC
+
+
+No 10
+>1S5D_A Cholera enterotoxin, A chain; cholera toxin, heat-labile enterotoxin, ADP ribose transferases, AB5 toxins, TRANSFERASE, TOXIN; HET: GOL, GAL; 1.75A {Vibrio cholerae} SCOP: d.166.1.1
+Probab=98.01  E-value=3.5e-05  Score=57.75  Aligned_cols=98  Identities=18%  Similarity=0.162  Sum_probs=0.0  Template_Neff=8.100
+
+Q ss_pred             CccccCCCCCcc-----cCccCCCCCC--------CCCHHHHHHhCCCC-----CCCCceecCCHHHHHHHHHhh-----
+Q FD01848796_011    1 VYRVIRPDEDPL-----SGLFSLNPNN--------IKTVAGHVTSGSRS-----PSQFISATKDLSIAEKWAAKT-----   57 (112)
+Q Consensus         1 lyR~l~~~e~p~-----~Gl~a~~p~~--------~~~i~~Hv~~gs~~-----~SpfIStT~s~~~A~~~a~~~-----   57 (112)
+                      |||+...  .|.     .||.++++..        +.+|..|+.... .     .|.|||||+++..|..++...     
+T Consensus         5 vyRgd~r--sP~ei~~~GGf~p~g~~~~~~~~~~~~~sL~~H~~g~~-~~~~~~~s~yVSTt~~~~~A~~~a~~~~~~~~   81 (240)
+T 1S5D_A            5 LYRADSR--PPDEIKQSGGLMPRGQSESFDRGTQMNINLYDHARGTQ-TGFVRHDDGYVSTSISLRSAHLVGQTILSGHS   81 (240)
+T ss_dssp             EEEEESS--CHHHHHHHTEECCGGGC-------CCCCCHHHHHHCC--SCSSSCCTTEEEEBSSHHHHHHHHHHHSTTCS
+T ss_pred             EEEecCC--CHHHHHHcCCCCCCCCCccccCCCCCCCCHHHHHhcCC-CCCCCCCCceEEEECCHHHHHHHHHHhhCCCC
+
+
+Q ss_pred             CCcEEEEEHHHCCCcEEECCChhhHHHhcCHHHHHHhhhccEEEEeCccCHhHcC
+Q FD01848796_011   58 GNRIVEIDLSKISGGAIDISSPKGLDLLGNQFARRLAKGSSEVLFDGPIPAGAIN  112 (112)
+Q Consensus        58 ~~~i~~ID~~~l~~~i~dl~~~~~~~~~~~~~~~~~a~~~~EvLv~g~IP~~aIv  112 (112)
+                      ...|+.|+.+   ..++|+..        .-.........+|+.+.|.||.+-|+
+T Consensus        82 ~gyIY~I~~~---pn~idv~~--------sLg~~~~~~~e~E~aa~GgI~~~QI~  125 (240)
+T 1S5D_A           82 TYYIYVIATA---PNMFNVND--------VLGAYSPHPDEQEVSALGGIPYSQIY  125 (240)
+T ss_dssp             EEEEEEEECC---TTEEEHHH--------HHGGGCSCGGGCCEEEETCEEGGGEE
+T ss_pred             eEEEEEEEcC---CCeEechh--------hhccCCCCCccceEEEeCCcCHHHEE
+
+
+No 11
+>4TLV_D ADP-ribosylating toxin CARDS; MYCOPLASMA PNEUMONIAE, VIRULENCE, ATYPICAL PNEUMONIA, COMMUNITY ACQUIRED RESPIRATORY DISTRESS SYNDROME, ADP-RIBOSYL TRANSFERASE, TOXIN, TRANSFERASE; HET: SO4, ACT, GOL; 1.9A {Mycoplasma pneumoniae}
+Probab=97.97  E-value=7.5e-05  Score=62.79  Aligned_cols=98  Identities=23%  Similarity=0.248  Sum_probs=0.0  Template_Neff=7.600
+
+Q ss_pred             CccccCCCCCcc----cCccCCCCCCCCCHHHHHHhCCCCCCCCceecCCHHHHHHHHHhh----------CCcEEEEEH
+Q FD01848796_011    1 VYRVIRPDEDPL----SGLFSLNPNNIKTVAGHVTSGSRSPSQFISATKDLSIAEKWAAKT----------GNRIVEIDL   66 (112)
+Q Consensus         1 lyR~l~~~e~p~----~Gl~a~~p~~~~~i~~Hv~~gs~~~SpfIStT~s~~~A~~~a~~~----------~~~i~~ID~   66 (112)
+                      |||+...  .|.    .||.+.+.+.  .|.+|+...+...|.|||||++++.|..||...          ...|++|+.
+T Consensus        10 VYR~D~R--~P~~IF~~GF~~~G~n~--dL~~Hv~g~s~~~S~fVSTS~s~~~A~~fa~~~~~~~~~~~~~~~yvY~Ir~   85 (591)
+T 4TLV_D           10 VYRVDLR--SPEEIFEHGFSTLGDVR--NFFEHILSTNFGRSYFISTSETPTAAIRFFGSWLREYVPEHPRRAYLYEIRA   85 (591)
+T ss_dssp             EEEEESS--CHHHHHHHCBCCSCSBC--CHHHHHHTTTCSCBSEEEEESSHHHHHGGGGCCEETTCCCCCCEEEEEEEEC
+T ss_pred             EEEecCC--CHHHHHhCCCCCCCCCC--CHHHHHhcCCCCCCCceeccCCHHHHHHHHHhhhhhcCCCCCCcEEEEEEEc
+
+
+Q ss_pred             HHCCCcEEECCChhhHHHhcCHHHHHH--------------------------hhhccEEEEeCccCHhHcC
+Q FD01848796_011   67 SKISGGAIDISSPKGLDLLGNQFARRL--------------------------AKGSSEVLFDGPIPAGAIN  112 (112)
+Q Consensus        67 ~~l~~~i~dl~~~~~~~~~~~~~~~~~--------------------------a~~~~EvLv~g~IP~~aIv  112 (112)
+                      ..   .++++..       ....+...                          ....+|+.+.|.||++.|+
+T Consensus        86 ~~---nf~~v~~-------sl~~~~~~~~~~~~~~~~g~~~~~~~~l~~~~~~~~~e~E~~a~g~I~~~~I~  147 (591)
+T 4TLV_D           86 DQ---HFYNARA-------TGENLLDLMRQRQVVFDSGDREMAQMGIRALRTSFAYQREWFTDGPIAAANVR  147 (591)
+T ss_dssp             CT---TEEEHHH-------HHHHHHHHHHTTCEEEEESCHHHHHHHHHHHHTTTGGGCEEEEESCBCGGGEE
+T ss_pred             CC---CEEEchH-------HHHHHHHHHHhcccccCCchhHHHHHHHHHHHhhchhceEEEEcCCCCHHHEe
+
+
+No 12
+>PF01375.21 ; Enterotoxin_a ; Heat-labile enterotoxin alpha chain
+Probab=97.95  E-value=5.6e-05  Score=57.33  Aligned_cols=98  Identities=16%  Similarity=0.144  Sum_probs=0.0  Template_Neff=8.200
+
+Q ss_pred             CccccCCCCCcc-----cCccCCCCCC--------CCCHHHHHHhCCCC-----CCCCceecCCHHHHHHHHHhh-----
+Q FD01848796_011    1 VYRVIRPDEDPL-----SGLFSLNPNN--------IKTVAGHVTSGSRS-----PSQFISATKDLSIAEKWAAKT-----   57 (112)
+Q Consensus         1 lyR~l~~~e~p~-----~Gl~a~~p~~--------~~~i~~Hv~~gs~~-----~SpfIStT~s~~~A~~~a~~~-----   57 (112)
+                      |||....  .|.     .||.+++...        +.++.+|+.... .     .|.|||||+++..|..++...     
+T Consensus        23 vyR~d~r--sP~~i~~~gGF~p~g~~~~~~~~~~~~~sl~~h~~g~~-~~~~~~~s~yVSTt~s~~~A~~~a~~~~~~~~   99 (263)
+T E2BA_ECOLX/1-2   23 YFRADSR--TPDEVRRSGGLIPRGQDEAYERGTPININLYDHARGTA-TGNTRYNDGYVSTTTTLRQAHFLGQNMLGGYN   99 (263)
+T ss_pred             ccccCCC--CHHHHHHCCCCCCCCCchhhccCCCCCCCHHHHHcCcC-CCCCCCCCCeEEeeCCHHHHHHHHHHhhCCCC
+
+
+Q ss_pred             CCcEEEEEHHHCCCcEEECCChhhHHHhcCHHHHHHhhhccEEEEeCccCHhHcC
+Q FD01848796_011   58 GNRIVEIDLSKISGGAIDISSPKGLDLLGNQFARRLAKGSSEVLFDGPIPAGAIN  112 (112)
+Q Consensus        58 ~~~i~~ID~~~l~~~i~dl~~~~~~~~~~~~~~~~~a~~~~EvLv~g~IP~~aIv  112 (112)
+                      ...|+.|+...   .++|+..       .... .......+|+.+.|.||.+-|+
+T Consensus       100 ~gyIY~I~~tp---n~idV~~-------sLg~-~~~~~~e~E~aa~GgI~~~QI~  143 (263)
+T E2BA_ECOLX/1-2  100 EYYIYVVAAAP---NLFDVNG-------VLGR-YSPYPSENEYAALGGIPLSQII  143 (263)
+T ss_pred             eEEEEEEEcCC---CeEeccc-------cccc-CCCCcccccEEEeCCCCHHHEe
+
+
+No 13
+>4Z9D_C Pertussis toxin-like subunit ArtA; UTEC, Escherichia coli, pertussis like, Membrane glycoproteins, Toxin, AB5, Pertussis toxin, Typhoid toxin, Plt, PltAB, PltA; HET: NAD; 1.8A {Escherichia coli}
+Probab=97.90  E-value=8.1e-05  Score=51.70  Aligned_cols=99  Identities=20%  Similarity=0.169  Sum_probs=0.0  Template_Neff=10.300
+
+Q ss_pred             CccccCCCC--CcccCccCCCCCCCCCHHHHHHhC-----CCCCCCCceecCCHHHHHHHHHh--------hCCcEEEEE
+Q FD01848796_011    1 VYRVIRPDE--DPLSGLFSLNPNNIKTVAGHVTSG-----SRSPSQFISATKDLSIAEKWAAK--------TGNRIVEID   65 (112)
+Q Consensus         1 lyR~l~~~e--~p~~Gl~a~~p~~~~~i~~Hv~~g-----s~~~SpfIStT~s~~~A~~~a~~--------~~~~i~~ID   65 (112)
+                      |||+.....  ....||.+.++  ...+..|+...     . ..++|||++.+...|..|+..        ....++.|+
+T Consensus         7 lyR~d~r~p~~i~~~G~~~~~~--~~~l~~~~~~~~~~~~~-~~s~~ists~~~~~a~~~~~~~~~~~~~~~~~~iY~I~   83 (175)
+T 4Z9D_C            7 VYRVDSRPPEEIFRDGFRSHGF--NRNLQQHLRGDSCAAGS-RDSAFIATTTSLIETYNIARQYYSSSGFHGRLYRYRIR   83 (175)
+T ss_dssp             EEEEESSCHHHHHHHCEECSCC--BCCHHHHHHTTTSTTTT-SCBSEEEEESCHHHHHHHHHHHHTSTTCCSCEEEEEEE
+T ss_pred             EEEecCCCHHHHhhcCcCCCCC--CccHHHHHcCCCcCCCC-CCCCeEEecCCHHHHHHHHHHHHhhCCCCCceEEEEEE
+
+
+Q ss_pred             HHHCCCcEEECCChhhHHHhcCHH-----------HHHHhhhccEEEEeCccCHhHcC
+Q FD01848796_011   66 LSKISGGAIDISSPKGLDLLGNQF-----------ARRLAKGSSEVLFDGPIPAGAIN  112 (112)
+Q Consensus        66 ~~~l~~~i~dl~~~~~~~~~~~~~-----------~~~~a~~~~EvLv~g~IP~~aIv  112 (112)
+                      ...   ..+++..       ....           ........+|+.+.|.||++.|+
+T Consensus        84 ~~~---~~~~v~~-------~~~~~~~~~~~~~~~~~~~~~~~~E~~~~g~I~~~~I~  131 (175)
+T 4Z9D_C           84 ANN---IFYPIQP-------SVNYLTQRGITFSGFERIMMREDNDIVAVEHIPGENIV  131 (175)
+T ss_dssp             CCT---TEEESHH-------HHHHHHHTTCCCCHHHHHHTTTCCEEEEESEECGGGEE
+T ss_pred             eCC---CEEecHH-------HHHHHHHhCCCcchHHHHHhhhcccEEeeCCCCHHHEE
+
+
+No 14
+>5EWY_A Putative ADP-Ribosyltransferase Scabin; transferase, inhibitor, TRANSFERASE-TRANSFERASE INHIBITOR complex; HET: 5TQ; 1.4A {Streptomyces scabiei 87.22}
+Probab=97.42  E-value=0.00092  Score=48.14  Aligned_cols=94  Identities=22%  Similarity=0.328  Sum_probs=0.0  Template_Neff=9.400
+
+Q ss_pred             CccccCCCCCcc----cCccCCCCCC-CCCHHHHHHhCCCCCCCCceecCCHHHHHHHHHhhCCcEEEEEHHHCCCcEEE
+Q FD01848796_011    1 VYRVIRPDEDPL----SGLFSLNPNN-IKTVAGHVTSGSRSPSQFISATKDLSIAEKWAAKTGNRIVEIDLSKISGGAID   75 (112)
+Q Consensus         1 lyR~l~~~e~p~----~Gl~a~~p~~-~~~i~~Hv~~gs~~~SpfIStT~s~~~A~~~a~~~~~~i~~ID~~~l~~~i~d   75 (112)
+                      |||....  .|.    .||.++++.. ...+..|+..+  ..|.|+|||++...+..|...  ..+++||    ....++
+T Consensus        75 lyR~d~r--~p~~if~~Gf~~~~~~~~~~~l~~~~~~~--~~s~~vstt~~~~~a~~~~~~--~~~Y~I~----~p~gi~  144 (200)
+T 5EWY_A           75 LYRSDSR--GPAVVFEQGFLPKDVIDGQYDIESYVLVN--QPSPYVSTTYDHDLYKTWYKS--GYNYYID----APGGVD  144 (200)
+T ss_dssp             EEEEESS--CHHHHHHHCBCCSCTTTSCCBHHHHHHSC--CCCSEEEEESCTTGGGGSTTC--CEEEEEC----CSCCEE
+T ss_pred             EEECCCC--CHHHHHhcCCcCCCCCCCCCCHHHHhhcC--CCCCeEEeEecHHHHHHhccc--cEEEEEe----CCCcee
+
+
+Q ss_pred             CCChhhHHHhcCHHHHHHhhhccEEEEeCccCHhHcC
+Q FD01848796_011   76 ISSPKGLDLLGNQFARRLAKGSSEVLFDGPIPAGAIN  112 (112)
+Q Consensus        76 l~~~~~~~~~~~~~~~~~a~~~~EvLv~g~IP~~aIv  112 (112)
+                      +..       .......+. ..+|+++.|.||.+.|+
+T Consensus       145 v~~-------t~g~~~~~~-~~~Eva~~ggI~~~~I~  173 (200)
+T 5EWY_A          145 VNK-------TIGDRHKWA-DQVEVAFPGGIRTEFVI  173 (200)
+T ss_dssp             HHH-------HHCSCSTTG-GGCEEEEETCBCGGGEE
+T ss_pred             ccc-------hhcccccCc-cceEEEecCCCCHHHEE
+
+
+No 15
+>2VSE_A MOSQUITOCIDAL TOXIN; TOXIN, ADP-RIBOSYLTRANSFERASE, LECTIN, RICIN-B-LIKE DOMAIN; HET: MPD; 2.5A {LYSINIBACILLUS SPHAERICUS}
+Probab=96.81  E-value=0.0011  Score=55.65  Aligned_cols=97  Identities=24%  Similarity=0.264  Sum_probs=0.0  Template_Neff=11.500
+
+Q ss_pred             CccccCCCCCcc----cCccCC----CCC--CCCCHHHHHHhCCCCCCCCceecCCH-----HHHHHHHHhh----CCcE
+Q FD01848796_011    1 VYRVIRPDEDPL----SGLFSL----NPN--NIKTVAGHVTSGSRSPSQFISATKDL-----SIAEKWAAKT----GNRI   61 (112)
+Q Consensus         1 lyR~l~~~e~p~----~Gl~a~----~p~--~~~~i~~Hv~~gs~~~SpfIStT~s~-----~~A~~~a~~~----~~~i   61 (112)
+                      |||....  .|.    .||.++    ++.  ...+|..|+..+  ..|.|||||+++     ..+..|+...    ...|
+T Consensus        66 ~~r~d~r--~p~~i~~~Gf~~~~~~~~~~~~~~~~l~~~~~~~--~~s~~vstt~~~~~~~~~~~~~~~~~~~~~~~~~~  141 (841)
+T 2VSE_A           66 LLRWDRR--PPNDIFLNGFIPRVTNQNLSPVEDTHLLNYLRTN--SPSIFVSTTRARYNNLGLEITPWTPHSANNNIIYR  141 (841)
+T ss_dssp             EEEEESS--CHHHHHHHCBCCSCCCSSCCTTTTTCHHHHHHHC--CSCSEEEEEECEECTTCCEECCCEETTTTSSEEEE
+T ss_pred             eEEccCC--CHHHHHhcCccccCCCCCCCCcccccHHHHHhcC--CCcceEEeccchhccCCCccccccCCCCCCceeEE
+
+
+Q ss_pred             EEEEHHHCCCcEEECCChhhHHHhcCHHHHHHhhhccEEEEeCccCHhHcC
+Q FD01848796_011   62 VEIDLSKISGGAIDISSPKGLDLLGNQFARRLAKGSSEVLFDGPIPAGAIN  112 (112)
+Q Consensus        62 ~~ID~~~l~~~i~dl~~~~~~~~~~~~~~~~~a~~~~EvLv~g~IP~~aIv  112 (112)
+                      ++|+.    ...+|+..       ............+|+.+.|.||++.|+
+T Consensus       142 Y~I~~----~~~~dv~~-------~~~~~~~~~~~~~e~~~~g~i~~~~i~  181 (841)
+T 2VSE_A          142 YEIFA----PGGIDINA-------SFSRNHNPFPNEDEITFPGGIRPEFIR  181 (841)
+T ss_dssp             EEECC----SCCEEHHH-------HCCCC----CCTTEEEEETCBCGGGEE
+T ss_pred             EEEeC----CCCeehhH-------hcccCCCCCcccceEEecCCCCHHHEE
+
+
+No 16
+>2CB4_E MOSQUITOCIDAL TOXIN; TOXIN, ADP-RIBOSYLTRANSFERASE; HET: MSE; 2.5A {BACILLUS SPHAERICUS}
+Probab=95.67  E-value=0.014  Score=45.31  Aligned_cols=97  Identities=22%  Similarity=0.236  Sum_probs=0.0  Template_Neff=7.800
+
+Q ss_pred             CccccCCCCCcc----cCccCCCCCC------CCCHHHHHHhCCCCCCCCceecCCH-HH-HH---HHHHh----hCCcE
+Q FD01848796_011    1 VYRVIRPDEDPL----SGLFSLNPNN------IKTVAGHVTSGSRSPSQFISATKDL-SI-AE---KWAAK----TGNRI   61 (112)
+Q Consensus         1 lyR~l~~~e~p~----~Gl~a~~p~~------~~~i~~Hv~~gs~~~SpfIStT~s~-~~-A~---~~a~~----~~~~i   61 (112)
+                      |||....  .|.    .||.+.++..      ...+..|+...  ..|.|||||++. .. +.   .|+..    ....+
+T Consensus        78 l~R~D~R--~P~~If~~GF~p~~~~~~~~~~~~~dL~~~v~~n--~~s~fVSTt~~~~~~~a~~~~~~~~~~~~~~~~yv  153 (291)
+T 2CB4_E           78 LLRWDRR--PPNDIFLNGFIPRVTNQNLSPVEDTHLLNYLRTN--SPSIFVSTTRARYNNLGLEITPWTPHSANNNIIYR  153 (291)
+T ss_dssp             EEEEESS--CHHHHHHHCBCCSCCSCCCSSSGGGCHHHHHHHC--CCCSEEEEEECEECTTSCEECCCEETTTTSSEEEE
+T ss_pred             EEEecCC--CHHHHHHcCCcCCCCCCCCCCCCcccHHHHHhcC--CCCCeEEcccCHHhcccccccccccCCCCCCeEEE
+
+
+Q ss_pred             EEEEHHHCCCcEEECCChhhHHHhcCHHHHHHhhhccEEEEeCccCHhHcC
+Q FD01848796_011   62 VEIDLSKISGGAIDISSPKGLDLLGNQFARRLAKGSSEVLFDGPIPAGAIN  112 (112)
+Q Consensus        62 ~~ID~~~l~~~i~dl~~~~~~~~~~~~~~~~~a~~~~EvLv~g~IP~~aIv  112 (112)
+                      ++|+...    -+|+..       .............|+++.|.||++.|+
+T Consensus       154 YeI~apg----gidV~~-------slg~~~~~~~~e~Eia~pGgI~~e~I~  193 (291)
+T 2CB4_E          154 YEIFAPG----GIDINA-------SFSRNHNPFPNEDQITFPGGIRPEFIR  193 (291)
+T ss_dssp             EEECCSC----CEEHHH-------HSCTTTCSCGGGCEEEEETCBCGGGEE
+T ss_pred             EEEeCCC----Ceeccc-------cccCCCCCCCCceEEEcCCCCCHHHEE
+
+
+No 17
+>5ZJ4_C ADP-ribosyltransferase; ADP-ribosyltransferase, TRANSFERASE; 1.49739273546A {Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145)}
+Probab=93.52  E-value=0.69  Score=31.02  Aligned_cols=84  Identities=25%  Similarity=0.321  Sum_probs=0.0  Template_Neff=11.300
+
+Q ss_pred             cCccCCCCCC-CCCHHHHHHhCCCCCCCCceecCCHHHHHHHHHhhCCcEEEEEHHHCCCcEEECCChhhHHHhcCHHHH
+Q FD01848796_011   13 SGLFSLNPNN-IKTVAGHVTSGSRSPSQFISATKDLSIAEKWAAKTGNRIVEIDLSKISGGAIDISSPKGLDLLGNQFAR   91 (112)
+Q Consensus        13 ~Gl~a~~p~~-~~~i~~Hv~~gs~~~SpfIStT~s~~~A~~~a~~~~~~i~~ID~~~l~~~i~dl~~~~~~~~~~~~~~~   91 (112)
+                      .||.+.++.. ..++..|+..+  ..+.|+|++.+...|..+ .. ...++.|+.    ...+++....+.        .
+T Consensus        51 ~G~~~~~~~~~~~~~~~~~~~~--~~~~~~s~~~~~~~a~~~-~~-~~~~y~i~~----~~~~~~~~~~~~--------~  114 (162)
+T 5ZJ4_C           51 EGFHAKDVQNGQYDVEKYVLVN--QPSPYVSTSYDHDLYKTW-YK-SGYNYYVDA----PGGIDVNKTIGD--------T  114 (162)
+T ss_dssp             HCBCCSCTTTSCCBHHHHHHHC--CSCSEEEEESCGGGGGTT-TT-SCEEEEECC----SCCEEHHHHHCS--------C
+T ss_pred             cCccCCCCCCCCcCHHHHHHhC--CCCCEEEcEEcHHHHHHh-cc-ccEEEEEeC----CCeEecchhhcc--------c
+
+
+Q ss_pred             HHhhhccEEEEeCccCHhHcC
+Q FD01848796_011   92 RLAKGSSEVLFDGPIPAGAIN  112 (112)
+Q Consensus        92 ~~a~~~~EvLv~g~IP~~aIv  112 (112)
+                      ......+|+++.|.||.+.|.
+T Consensus       115 ~~~~~~~e~~~~g~i~~~~i~  135 (162)
+T 5ZJ4_C          115 HKWADQVEVAFPGGIQRKYII  135 (162)
+T ss_dssp             STTGGGCEEEEETCBCGGGEE
+T ss_pred             ccccceeEEEecCCcCHHHEE
+
+
+No 18
+>5H6N_C Pierisin-1; DNA-targeting ADP-ribosyltransferase, TRANSFERASE; 1.8A {Pieris rapae}
+Probab=92.90  E-value=0.12  Score=39.93  Aligned_cols=96  Identities=21%  Similarity=0.239  Sum_probs=0.0  Template_Neff=8.000
+
+Q ss_pred             CccccCCCCCcc----cCccCCCCC-----CCCCHHHHHHhCCCCCCCCceecCCHHHHH--HHHHhh----CCcEEEEE
+Q FD01848796_011    1 VYRVIRPDEDPL----SGLFSLNPN-----NIKTVAGHVTSGSRSPSQFISATKDLSIAE--KWAAKT----GNRIVEID   65 (112)
+Q Consensus         1 lyR~l~~~e~p~----~Gl~a~~p~-----~~~~i~~Hv~~gs~~~SpfIStT~s~~~A~--~~a~~~----~~~i~~ID   65 (112)
+                      |||....  .|.    .||.+..+.     ....+..|+...  ..|.|+|||++...|.  .|+...    ...+++|+
+T Consensus        76 l~R~D~R--~P~~If~~Gf~p~~~~~~~~~~~~dl~~~v~~n--~~s~fVSTt~~~~~a~~~~~~~~~~~~~~~yvYeI~  151 (275)
+T 5H6N_C           76 LVRWDRR--PPNEIFLDGFVPIVTRENPDWEETDLYGFAKNN--HPSIFVSTTKTQRNKKKYVWTPRNANRGIVYQYEIY  151 (275)
+T ss_dssp             EEEEESS--CHHHHHHHCBCCSCCCSSCCHHHHCHHHHHHHC--CSCSEEEEEECEESSSEEEEEEGGGGSSEEEEEEEC
+T ss_pred             EEEecCC--CHHHHHHcCCCCCCCCCCCCcccCCHHHHHhcC--CCCceeEcccCHHHheeeeecCCCCCCceEEEEEEe
+
+
+Q ss_pred             HHHCCCcEEECCChhhHHHhcCHHHHHHhhhccEEEEeCccCHhHcC
+Q FD01848796_011   66 LSKISGGAIDISSPKGLDLLGNQFARRLAKGSSEVLFDGPIPAGAIN  112 (112)
+Q Consensus        66 ~~~l~~~i~dl~~~~~~~~~~~~~~~~~a~~~~EvLv~g~IP~~aIv  112 (112)
+                      ...    -+|+...-+.        .......+|+++-|.||++.|+
+T Consensus       152 apg----gidV~~slg~--------~~~~~~e~EvafpGgI~~e~I~  186 (275)
+T 5H6N_C          152 APG----GVDVNDSFSD--------ASPWPNQMQVAFPGGIQNIYIR  186 (275)
+T ss_dssp             CSC----CEEHHHHHGG--------GCSCGGGCEEEEETCBCGGGEE
+T ss_pred             CCC----ceecccccCC--------CCCCccccEEEeCCCccceEEE
+
+
+No 19
+>5H6K_A Pierisin-1; DNA-targeting ADP-ribosyltransferase, TRANSFERASE; HET: EDO; 1.8A {Pieris rapae}
+Probab=88.25  E-value=0.58  Score=36.20  Aligned_cols=86  Identities=20%  Similarity=0.240  Sum_probs=0.0  Template_Neff=7.800
+
+Q ss_pred             cCccCCCCC-----CCCCHHHHHHhCCCCCCCCceecCCHHHHH--HHHHhh----CCcEEEEEHHHCCCcEEECCChhh
+Q FD01848796_011   13 SGLFSLNPN-----NIKTVAGHVTSGSRSPSQFISATKDLSIAE--KWAAKT----GNRIVEIDLSKISGGAIDISSPKG   81 (112)
+Q Consensus        13 ~Gl~a~~p~-----~~~~i~~Hv~~gs~~~SpfIStT~s~~~A~--~~a~~~----~~~i~~ID~~~l~~~i~dl~~~~~   81 (112)
+                      .||.+..+.     ....+..|+...  ..|.|+|+|++...+.  .|+...    ...+++|+...    -+|+...-+
+T Consensus       120 ~Gf~p~~~~~~~~~~~~dl~~~v~~n--~~s~fVSTt~~~~~a~~~~~~p~~~~~~~~yvYeI~apg----GidV~~slg  193 (271)
+T 5H6K_A          120 DGFVPIVTRENPDWEETDLYGFAKNN--HPSIFVSTTKTQRNKKKYVWTPRNANRGIVYQYEIYAPG----GVDVNDSFS  193 (271)
+T ss_dssp             HCBCCSCCCSSCCHHHHCHHHHHHHC--CSCSEEEEEECCCC---CCCCCTTTTSSEEEEEEECCSC----CEEHHHHHG
+T ss_pred             cCCCCCCCCCCCCcccCCHHHHHhcC--CCCcceEccCCHHHheeeeeccCCCCCCeEEEEEEeCCC----CeecccccC
+
+
+Q ss_pred             HHHhcCHHHHHHhhhccEEEEeCccCHhHcC
+Q FD01848796_011   82 LDLLGNQFARRLAKGSSEVLFDGPIPAGAIN  112 (112)
+Q Consensus        82 ~~~~~~~~~~~~a~~~~EvLv~g~IP~~aIv  112 (112)
+                      .        .......+|+++-|.||++.|+
+T Consensus       194 ~--------~~~~~~~~Eia~pGgI~~e~Ir  216 (271)
+T 5H6K_A          194 D--------ASPWPNQMQVAFPGGIQNIYIR  216 (271)
+T ss_dssp             G--------GCSCGGGCEEEEETCBCGGGEE
+T ss_pred             C--------CCCCcccceEEeCCCccceeEE
+
+
+No 20
+>PF04214.17 ; DUF411 ; Protein of unknown function, DUF
+Probab=78.72  E-value=2.4  Score=24.67  Aligned_cols=12  Identities=33%  Similarity=0.731  Sum_probs=0.0  Template_Neff=5.400
+
+Q ss_pred             EEEeCccCHhHc
+Q FD01848796_011  100 VLFDGPIPAGAI  111 (112)
+Q Consensus       100 vLv~g~IP~~aI  111 (112)
+                      +.|+|+||+++|
+T Consensus        12 y~iEGHVPa~~i   23 (48)
+T H8GJL7_METAL/7   12 YVVEGHVPAADI   23 (48)
+T ss_pred             EEEEcCccHHHH
+
+
+No 21
+>PF08867.15 ; FRG ; FRG domain
+Probab=65.49  E-value=14  Score=25.15  Aligned_cols=25  Identities=36%  Similarity=0.503  Sum_probs=0.0  Template_Neff=9.000
+
+Q ss_pred             HHHHHHhCCCCCCCCceecCCHHHHHHHH
+Q FD01848796_011   26 VAGHVTSGSRSPSQFISATKDLSIAEKWA   54 (112)
+Q Consensus        26 i~~Hv~~gs~~~SpfIStT~s~~~A~~~a   54 (112)
+                      +.+|-  |  .+|++|=.|.|+.+|..||
+T Consensus       100 ~aQHy--G--lpT~lLDwT~~~~vAlfFA  124 (133)
+T A5N489_CLOK5/3  100 LAQHC--G--VPTSLIDWSKRSYIAAYFA  124 (133)
+T ss_pred             HHHHc--C--CCccccccccCHHHHHHHH
+
+
+No 22
+>8TG4_A Probable RNA 2'-phosphotransferase; tRNA 2'-PHOSPHOTRANSFERASE, TPT1, tRNA SPLICING, ADP-ribose-2"-phosphate, Aeropyrum pernix, TRANSFERASE; HET: 9SO; 1.37A {Aeropyrum pernix}
+Probab=59.61  E-value=12  Score=27.53  Aligned_cols=57  Identities=14%  Similarity=0.048  Sum_probs=0.0  Template_Neff=8.900
+
+Q ss_pred             CCceecCCHHHHHHHHHhh--CCcEEEEEHHHCCCcEEECCChhhHHHhcCHHHHHHhhhccEEEEeCccCHhHcC
+Q FD01848796_011   39 QFISATKDLSIAEKWAAKT--GNRIVEIDLSKISGGAIDISSPKGLDLLGNQFARRLAKGSSEVLFDGPIPAGAIN  112 (112)
+Q Consensus        39 pfIStT~s~~~A~~~a~~~--~~~i~~ID~~~l~~~i~dl~~~~~~~~~~~~~~~~~a~~~~EvLv~g~IP~~aIv  112 (112)
+                      +||.++.+...|...+.+.  ..-++.||+.+                 .......|....+.+++-..||++++.
+T Consensus       137 ~~v~L~~~~~~a~~~g~R~~~~~v~i~vd~~~-----------------a~~~G~~f~~~~~~v~lt~~Ip~~~l~  195 (206)
+T 8TG4_A          137 LKVHLTSSLEDAVSTGRRHGNLVAVLLVDVEC-----------------LRRRGLKVERMSKTVYTVDWVPPECIA  195 (206)
+T ss_dssp             SSEEEESCHHHHHHHHHTTCSSEEEEEEEHHH-----------------HHHTTCCCEECSSSEEEESCBCGGGEE
+T ss_pred             ceeeecCCHHHHHHhcccCCCCeEEEEEeHHH-----------------HHHCCCEEEEeCCCEEEeCCCCHHHee
+
+
+No 23
+>7OMV_AAA DarT domain-containing protein; TOXIN-ANTITOXIN, DNA ADP-RIBOSYLATION, ADP-ribosyltransferase activity, DNA binding, TOXIN; 1.29A {Thermus sp. 2.9}
+Probab=56.88  E-value=9.2  Score=28.02  Aligned_cols=18  Identities=22%  Similarity=0.246  Sum_probs=0.0  Template_Neff=9.200
+
+Q ss_pred             hhccEEEEeCccCHhHcC
+Q FD01848796_011   95 KGSSEVLFDGPIPAGAIN  112 (112)
+Q Consensus        95 ~~~~EvLv~g~IP~~aIv  112 (112)
+                      ....||||.+.||.+.|.
+T Consensus       157 ~~qAEvLV~~~Ip~~~I~  174 (210)
+T 7OMV_AAA        157 KKQAAFLVYKAFPWALIE  174 (210)
+T ss_pred             HhhhhccccCCCCHHHcc
+
+
+No 24
+>8BAR_A E. coli C7 DarT1; TOXIN-ANTITOXIN, DNA ADP-RIBOSYLATION, ADP-ribosyltransferase activity, DNA binding, TOXIN; HET: EDO, APR; 1.63A {Escherichia coli}
+Probab=56.60  E-value=14  Score=27.04  Aligned_cols=15  Identities=27%  Similarity=0.306  Sum_probs=0.0  Template_Neff=9.200
+
+Q ss_pred             cEEEEeCccCHhHcC
+Q FD01848796_011   98 SEVLFDGPIPAGAIN  112 (112)
+Q Consensus        98 ~EvLv~g~IP~~aIv  112 (112)
+                      .||||.+.||.+.|.
+T Consensus       152 AEvLV~~~Ip~~~i~  166 (208)
+T 8BAR_A          152 AAILVFEKIPPSYII  166 (208)
+T ss_dssp             CEEEESSCBCGGGEE
+T ss_pred             EEEEecCCcCHHHcc
+
+
+No 25
+>8TFY_A Probable RNA 2'-phosphotransferase; tRNA 2'-PHOSPHOTRANSFERASE, TPT1, tRNA SPLICING, NADP, NAD, TRANSFERASE; HET: NAP; 1.54A {Pyrococcus horikoshii OT3}
+Probab=56.17  E-value=17  Score=25.49  Aligned_cols=57  Identities=14%  Similarity=0.147  Sum_probs=0.0  Template_Neff=10.000
+
+Q ss_pred             CCceecCCHHHHHHHHHhh--CCcEEEEEHHHCCCcEEECCChhhHHHhcCHHHHHHhhhccEEEEeCccCHhHcC
+Q FD01848796_011   39 QFISATKDLSIAEKWAAKT--GNRIVEIDLSKISGGAIDISSPKGLDLLGNQFARRLAKGSSEVLFDGPIPAGAIN  112 (112)
+Q Consensus        39 pfIStT~s~~~A~~~a~~~--~~~i~~ID~~~l~~~i~dl~~~~~~~~~~~~~~~~~a~~~~EvLv~g~IP~~aIv  112 (112)
+                      ++|.++.+...|..++.+.  ..-++.||+.+                 .......|....+.+++-..||++++.
+T Consensus       116 ~~i~l~~~~~~~~~~g~r~~~~~v~i~id~~~-----------------a~~~g~~f~~~~~~~~l~~~ip~~~~~  174 (177)
+T 8TFY_A          116 QYVHLSINYEDAYNTGMRHGEDVVVLIIDAEC-----------------LRNKGYKILKAGKKVRIVKHVPVDCIS  174 (177)
+T ss_dssp             SCEEEESSHHHHHHHHGGGCSSEEEEEEEHHH-----------------HHHTTCCCEECSSSEEEESCBCGGGEE
+T ss_pred             CeEEEEcCHHHHHHhccccCCCeEEEEEeHHH-----------------HHHcCCEEEEeCCcEEEeCCCCHHHee
+
+
+No 26
+>PF14487.10 ; DarT ; ssDNA thymidine ADP-ribosyltransferase, DarT
+Probab=55.07  E-value=7.3  Score=28.21  Aligned_cols=15  Identities=40%  Similarity=0.501  Sum_probs=0.0  Template_Neff=9.300
+
+Q ss_pred             cEEEEeCccCHhHcC
+Q FD01848796_011   98 SEVLFDGPIPAGAIN  112 (112)
+Q Consensus        98 ~EvLv~g~IP~~aIv  112 (112)
+                      .||||.+.||++.|.
+T Consensus       153 AEvLV~~~Ip~~~I~  167 (198)
+T H6L470_SAPGL/8  153 AEFLVYGDIPYHLIA  167 (198)
+T ss_pred             HhHhccCCCCHHHcc
+
+
+No 27
+>PF07357.15 ; DRAT ; Dinitrogenase reductase ADP-ribosyltransferase (DRAT)
+Probab=52.46  E-value=39  Score=26.82  Aligned_cols=45  Identities=18%  Similarity=0.220  Sum_probs=0.0  Template_Neff=4.400
+
+Q ss_pred             eecCCHHHHHHHHHhhCCcEEEEEHHHCCCcEEE---CCChhhHHHhcCHHHHHHhhhccEEEEeC
+Q FD01848796_011   42 SATKDLSIAEKWAAKTGNRIVEIDLSKISGGAID---ISSPKGLDLLGNQFARRLAKGSSEVLFDG  104 (112)
+Q Consensus        42 StT~s~~~A~~~a~~~~~~i~~ID~~~l~~~i~d---l~~~~~~~~~~~~~~~~~a~~~~EvLv~g  104 (112)
+                      |.|.|++.|..|+    -.|+++++..  .||+=   |..            ...-+..+||||-|
+T Consensus       199 SFT~dre~A~eFG----d~il~v~VP~--~KIlff~~LLP------------~~~L~GE~EylVIG  246 (253)
+T Q6N9V5_RHOPA/2  199 SFSDSKERAEEFG----DWVLETEVPT--VKLLFFPGLLQ------------RQVLGYEGEFLVIG  246 (253)
+T ss_pred             cCCCCHHHHHHHC----CEEEEEEcCC--cEEEecCCcCC------------cCccccCCeEEEEC
+
+
+No 28
+>7YK3_A DNA ADP-ribosyl transferase; DarT-DarG complex, Toxin-Antitoxin complex, TOXIN, Mycobacterium tuberculosis; HET: PO4; 2.2A {Mycobacterium tuberculosis H37Rv}
+Probab=46.21  E-value=18  Score=27.63  Aligned_cols=18  Identities=17%  Similarity=0.449  Sum_probs=0.0  Template_Neff=8.200
+
+Q ss_pred             hhccEEEEeCccCHhHcC
+Q FD01848796_011   95 KGSSEVLFDGPIPAGAIN  112 (112)
+Q Consensus        95 ~~~~EvLv~g~IP~~aIv  112 (112)
+                      ....||||.+.||.+.|.
+T Consensus       191 ~~qAEvLV~~~Ip~~~I~  208 (242)
+T 7YK3_A          191 RRAAAILVYGHVPFELVS  208 (242)
+T ss_dssp             HTTCEEEEESEEEGGGCC
+T ss_pred             HhhhhheeeCCcCHHHee
+
+
+No 29
+>7KW9_A tRNA 2'-phosphotransferase; tRNA 2'-phosphotransferase NAD+, TRANSFERASE; HET: NAD; NMR {Runella slithyformis}
+Probab=43.71  E-value=19  Score=25.52  Aligned_cols=57  Identities=14%  Similarity=0.157  Sum_probs=0.0  Template_Neff=9.400
+
+Q ss_pred             CCceecCCHHHHHHHHHhh-CCcEEEEEHHHCCCcEEECCChhhHHHhcCHHHHHHhhhccEEEEeCccCHhHcC
+Q FD01848796_011   39 QFISATKDLSIAEKWAAKT-GNRIVEIDLSKISGGAIDISSPKGLDLLGNQFARRLAKGSSEVLFDGPIPAGAIN  112 (112)
+Q Consensus        39 pfIStT~s~~~A~~~a~~~-~~~i~~ID~~~l~~~i~dl~~~~~~~~~~~~~~~~~a~~~~EvLv~g~IP~~aIv  112 (112)
+                      ++|.++.+...|...+.+. ..-++.||+.+                 .......|-...+.|++-..||+++|.
+T Consensus       120 ~~i~l~~~~~~~~~~g~r~~~~v~i~id~~~-----------------a~~~G~~f~~~~~~v~lt~~Ip~~~~~  177 (178)
+T 7KW9_A          120 HHVHLSQDITTARKVGMRHGKPVVLSVDAKG-----------------MADGGFDFYLSNNGVWLIDFVPAEFIK  177 (178)
+T ss_dssp             SCEEEBSSHHHHHHHHTTTSSEEECEECHHH-----------------HHHTTCCCEECTTCCEEESCBCTTTEE
+T ss_pred             CeEEEecChhcchhhcccCCCCEEEEEcHHH-----------------HHHcCCEEEEeCCcEEecCCCCHHHcc
+
+
+No 30
+>7OMU_BBB Macro domain-containing protein; TOXIN-ANTITOXIN, DNA ADP-RIBOSYLATION, ADP-RIBOSE, MACRODOMAIN, ADP-ribosyl transferase, TOXIN; HET: APR; 2.96A {Thermosipho africanus}
+Probab=33.75  E-value=49  Score=26.68  Aligned_cols=15  Identities=13%  Similarity=0.109  Sum_probs=0.0  Template_Neff=9.800
+
+Q ss_pred             cEEEEeCccCHhHcC
+Q FD01848796_011   98 SEVLFDGPIPAGAIN  112 (112)
+Q Consensus        98 ~EvLv~g~IP~~aIv  112 (112)
+                      .||||.+.||.+.|.
+T Consensus       169 AEvLv~~~ip~~~i~  183 (406)
+T 7OMU_BBB        169 AACLVPQCVDPRYIS  183 (406)
+T ss_pred             eEeeecCCCCHHHcC
+
+
+No 31
+>6EDE_A Probable RNA 2'-phosphotransferase; KptA, Tpt1, TRPT1, TRANSFERASE; HET: HQG; 1.553A {Clostridium thermocellum (strain ATCC 27405 / DSM 1237 / NBRC 103400 / NCIMB 10682 / NRRL B-4536 / VPI 7372)} SCOP: d.166.1.0
+Probab=31.01  E-value=56  Score=24.01  Aligned_cols=56  Identities=14%  Similarity=0.228  Sum_probs=0.0  Template_Neff=8.800
+
+Q ss_pred             CCceecCCHHHHHHHHHhh--CCcEEEEEHHHCCCcEEECCChhhHHHhcCHHHHHHhhhccEEEEeCccCHhHc
+Q FD01848796_011   39 QFISATKDLSIAEKWAAKT--GNRIVEIDLSKISGGAIDISSPKGLDLLGNQFARRLAKGSSEVLFDGPIPAGAI  111 (112)
+Q Consensus        39 pfIStT~s~~~A~~~a~~~--~~~i~~ID~~~l~~~i~dl~~~~~~~~~~~~~~~~~a~~~~EvLv~g~IP~~aI  111 (112)
+                      ++|.++.+...|...+.+.  ..-++.||+.+                 .......|....+.+++-..||++++
+T Consensus       143 ~~i~l~~~~~~a~~~g~r~~~~~v~i~Id~~~-----------------a~~~G~~f~~~~~gv~lt~~Ipp~~l  200 (203)
+T 6EDE_A          143 QYVHLSADVETALQVGKRRDIKPVLLIVNALE-----------------AWSEGIKFYLGNDKVWLADAIPSKYI  200 (203)
+T ss_dssp             SSEEEESSHHHHHHHHHTTCSSCEEEEECHHH-----------------HHHTTCCEEECCSSEEEESCBCGGGE
+T ss_pred             CeEEeeCChhHHHHhcccCCCCCEEEEEcHHH-----------------HHHcCCeEEEeCCcEEecCCCCHHHe
+
+
+No 32
+>6E3A_A Probable RNA 2'-phosphotransferase; KptA, Tpt1, TRPT1, TRANSFERASE; HET: COA, HQG; 1.4A {Clostridium thermocellum (strain ATCC 27405 / DSM 1237 / NBRC 103400 / NCIMB 10682 / NRRL B-4536 / VPI 7372)} SCOP: d.166.1.0
+Probab=24.68  E-value=1.1e+02  Score=21.73  Aligned_cols=56  Identities=14%  Similarity=0.228  Sum_probs=0.0  Template_Neff=9.700
+
+Q ss_pred             CCceecCCHHHHHHHHHhh--CCcEEEEEHHHCCCcEEECCChhhHHHhcCHHHHHHhhhccEEEEeCccCHhHc
+Q FD01848796_011   39 QFISATKDLSIAEKWAAKT--GNRIVEIDLSKISGGAIDISSPKGLDLLGNQFARRLAKGSSEVLFDGPIPAGAI  111 (112)
+Q Consensus        39 pfIStT~s~~~A~~~a~~~--~~~i~~ID~~~l~~~i~dl~~~~~~~~~~~~~~~~~a~~~~EvLv~g~IP~~aI  111 (112)
+                      .+|.++.+...|...+.+.  ..-++.||+.+                 .......|....+.+++-..||++++
+T Consensus       122 ~~i~l~~~~~~~~~~g~r~~~~~v~i~id~~~-----------------a~~~G~~f~~~~~~~~l~~~ip~~~l  179 (182)
+T 6E3A_A          122 QYVHLSADVETALQVGKRRDIKPVLLIVNALE-----------------AWSEGIKFYLGNDKVWLADAIPSKYI  179 (182)
+T ss_dssp             SSEEEESSHHHHHHHHHTTCSSCEEEEECHHH-----------------HHHTTCCEEECCSSEEEESCBCGGGE
+T ss_pred             CeEEeeCCHHHHHHhCCCCCCCCEEEEEEHHH-----------------HHHcCCeEEEeCCcEEEeCCCCHHHe
+
+
+No 33
+>2AUA_A hypothetical protein; Dimer, Hypothetical Protein, Structural Genomics, PSI, Protein Structure Initiative, Midwest Center for Structural Genomics, MCSG, UNKNOWN; HET: MSE; 2.35A {Bacillus cereus} SCOP: d.166.1.6, l.1.1.1
+Probab=23.37  E-value=3.4e+02  Score=20.67  Aligned_cols=65  Identities=28%  Similarity=0.306  Sum_probs=0.0  Template_Neff=7.900
+
+Q ss_pred             ceecCCHHHHHHHHHhh------CCcEEEEEHHHCC----CcEEECCChhhHHHhcCHHHHHHhhhcc-----EEEEeCc
+Q FD01848796_011   41 ISATKDLSIAEKWAAKT------GNRIVEIDLSKIS----GGAIDISSPKGLDLLGNQFARRLAKGSS-----EVLFDGP  105 (112)
+Q Consensus        41 IStT~s~~~A~~~a~~~------~~~i~~ID~~~l~----~~i~dl~~~~~~~~~~~~~~~~~a~~~~-----EvLv~g~  105 (112)
+                      |-++.+.+.|..|....      ...|++|+.+.--    ...++......... ....|.+|-....     |||++|.
+T Consensus       131 ~F~~~~~~~A~~~~~~~~~~~~~~~~i~ev~~~~~~h~~D~~ll~~~~~~~~~~-~~~~A~~YW~g~~~~p~~EvL~~g~  209 (224)
+T 2AUA_A          131 LYAAKSYEDALKWKALFDSYNREVLQIVKLRVIGSSFEGDGNLLPKEDGIPFSQ-KIEQARKYWKGNIRNELPELLINGE  209 (224)
+T ss_dssp             EEEBSSHHHHHHHHHHHHHTTCCCCEEEEEEEEEEEEEECGGGSCCSSCCCHHH-HHHHHHHHHHCC--CCSCEEEEEEE
+T ss_pred             EEECCCHHHHHHHHHHhCCCCCCceEEEEEEecCceEEechhcCCcccCCCHHH-HHHHHHHHcCCCCCCCCcEEEEeeE
+
+
+Q ss_pred             c
+Q FD01848796_011  106 I  106 (112)
+Q Consensus       106 I  106 (112)
+                      +
+T Consensus       210 v  210 (224)
+T 2AUA_A          210 I  210 (224)
+T ss_dssp             E
+T ss_pred             E
+
+

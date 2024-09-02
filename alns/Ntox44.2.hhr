@@ -1,0 +1,354 @@
+Query         FD01845954_00561 hypothetical protein
+Match_columns 88
+No_of_seqs    115 out of 242
+Neff          5.6316
+Searched_HMMs 86581
+Date          Tue Feb 27 20:58:13 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/1023231.hhr -oa3m ../results/1023231.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 PF15607.10 ; Ntox44 ; Bacteria  99.9 2.4E-21 2.8E-26  123.5   6.3   85    2-86      2-107 (107)
+  2 6IGZ_M Photosystem I reaction   52.0      18 0.00021   20.2   1.2   11   76-86     22-32  (32)
+  3 7DR1_M Photosystem I reaction   52.0      20 0.00024   19.9   1.4   11   76-86     21-31  (31)
+  4 PF07465.17 ; PsaM ; Photosyste  39.6      31 0.00036   18.9   0.9   10   76-85     20-29  (29)
+  5 7Y5E_M2 Photosystem I reaction  39.5      29 0.00033   19.2   0.8   10   76-85     21-30  (30)
+  6 7Y7B_M Photosystem I reaction   39.3      33 0.00038   19.0   1.0   10   76-85     21-30  (30)
+  7 7COY_bM Photosystem I protein   38.5      33 0.00038   19.1   0.9   10   76-85     22-31  (31)
+  8 6K61_m Photosystem I reaction   38.4      34 0.00039   19.2   0.9   10   76-85     23-32  (32)
+  9 7YCA_M Photosystem I reaction   38.3      33 0.00038   19.1   0.9   10   76-85     22-31  (31)
+ 10 6ZZY_M Photosystem I reaction   38.1      35  0.0004   19.0   0.9   10   76-85     22-31  (31)
+ 11 6L4U_M Photosystem I reaction   37.1      36 0.00041   18.8   0.9   10   76-85     21-30  (30)
+ 12 7XQP_M Photosystem I reaction   35.2      40 0.00046   18.9   0.9   10   76-85     23-32  (32)
+ 13 8T0P_A Inner kinetochore subun  34.7      39 0.00046   25.3   1.1   13    8-20      3-15  (152)
+ 14 6KMW_aM Photosystem I reaction  33.6      45 0.00052   18.6   0.9   10   76-85     22-31  (31)
+ 15 6KMX_cM Photosystem I reaction  33.6      45 0.00052   18.6   0.9   10   76-85     22-31  (31)
+ 16 7S3D_M PsaM; Photosystem I, Fa  33.5      46 0.00053   18.5   0.9   10   76-85     22-31  (31)
+ 17 2K19_A Putative piscicolin 126  30.6      31 0.00036   23.6  -0.0    7   39-45     92-98  (98)
+ 18 7Y3F_M PsaM; Photosystem I, EL  28.3      62 0.00071   19.2   0.9   10   76-85     31-40  (40)
+ 19 PF10777.13 ; YlaC ; Inner memb  25.3      61 0.00071   24.4   0.7   29    5-39    121-149 (154)
+ 20 6A7F_c major coat protein p8;   25.0      84 0.00097   19.4   1.2    9   79-87     40-48  (53)
+ 21 8B3Q_EnE Capsid protein G8P; V  23.5      94  0.0011   18.9   1.2    9   79-87     37-45  (50)
+ 22 PF19857.3 ; DUF6332 ; Family o  21.6 1.6E+02  0.0018   20.1   2.0   12   73-84      8-19  (85)
+ 23 PF08038.16 ; Tom7 ; TOM7 famil  20.8      59 0.00068   18.6  -0.1    6   41-46     14-19  (40)
+
+No 1
+>PF15607.10 ; Ntox44 ; Bacterial toxin 44
+Probab=99.85  E-value=2.4e-21  Score=123.47  Aligned_cols=85  Identities=19%  Similarity=0.231  Sum_probs=69.9  Template_Neff=9.700
+
+Q ss_pred             ccc--CCCCCCCChHHHHHHhccccc---c------CCCCeEEEeeccccCeeehHHHhcCCCHHHHHHHhcCC------
+Q FD01845954_005    2 WGD--TKISIYDFKEPIRQHYGAMLR---I------GNDAKIYSNEGFSNLDWGILSYQVGIGPDNAKMFANMD------   64 (88)
+Q Consensus         2 W~~--~~g~~WDhK~~i~~~~g~~~~---~------~~~~~~~~yDvwSNIHYGYVG~aaGf~~~~L~~GA~~~------   64 (88)
+                      |.+  .++++||+|+.+...++....   +      ......+.||+|+||||||||+++||++.+|+.||+++      
+T Consensus         2 ~~~~v~~~g~WD~K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~gNi~yGy~g~a~G~~~~~l~~gag~~q~~~~~   81 (107)
+T H6L0H2_SAPGL/4    2 FANLVTDNAPFDLKSTSRSNLDKIPSYAAIVIGEWSMLNGRLTRYDDYGNISYGYWGRAYGYTTKTLLRGSNDNQIKKDE   81 (107)
+T ss_pred             hHHHhcCCCCCCCCchhhhhccCCcccccccccccceeCCceeeHhhhcccchhHHhHHcCCCHHHHHhhcCcccccCCC
+Confidence            555  789999999999887653211   0      11334788999999999999999999999999999987      
+
+
+Q ss_pred             ----cccCCCHHHHHHHHHHHHHHHh
+Q FD01845954_005   65 ----PSSRDEIQDDIATDEGYKLAIN   86 (88)
+Q Consensus        65 ----~~~~ddp~D~~ai~iGi~L~~~   86 (88)
+                          ....|||.|+.+|++|++||++
+T Consensus        82 ~~~~~~~~d~~~D~~~i~~G~~~~~~  107 (107)
+T H6L0H2_SAPGL/4   82 SGQTDGNGDEQRDIDAIKMGIKQYDN  107 (107)
+T ss_pred             CCCCCCCCCCHHHHHHHHHHHHHHhC
+Confidence                1278999999999999999975
+
+
+No 2
+>6IGZ_M Photosystem I reaction center subunit XII; PSI-LHCI, PLANT PROTEIN; HET: XAT, DGD, CHL, 8CT, HTG, PQN, LMG, LHG, SF4, CLA;{Bryopsis corticulans}
+Probab=52.04  E-value=18  Score=20.23  Aligned_cols=11  Identities=27%  Similarity=0.084  Sum_probs=0.0  Template_Neff=3.900
+
+Q ss_pred             HHHHHHHHHHh
+Q FD01845954_005   76 ATDEGYKLAIN   86 (88)
+Q Consensus        76 ai~iGi~L~~~   86 (88)
+                      |+++|.+||++
+T Consensus        22 A~rLg~~LYk~   32 (32)
+T 6IGZ_M           22 ALRLGSTLYNS   32 (32)
+T ss_dssp             HHHHHHHHHHC
+T ss_pred             HHHHHHHHhcC
+
+
+No 3
+>7DR1_M Photosystem I reaction center subunit XII; Photosystem I, ELECTRON TRANSPORT, PHOTOSYNTHESIS; HET: CL0, PQN, LHG, CLA, SF4, LMG, BCR; 3.2A {Cyanophora paradoxa}
+Probab=51.97  E-value=20  Score=19.93  Aligned_cols=11  Identities=18%  Similarity=-0.109  Sum_probs=0.0  Template_Neff=3.800
+
+Q ss_pred             HHHHHHHHHHh
+Q FD01845954_005   76 ATDEGYKLAIN   86 (88)
+Q Consensus        76 ai~iGi~L~~~   86 (88)
+                      |+++|.+||++
+T Consensus        21 A~rLG~~Lyk~   31 (31)
+T 7DR1_M           21 ALRLALELYKF   31 (31)
+T ss_dssp             HHHHHHHHHC-
+T ss_pred             HHHHHHHHHhC
+
+
+No 4
+>PF07465.17 ; PsaM ; Photosystem I protein M (PsaM)
+Probab=39.64  E-value=31  Score=18.90  Aligned_cols=10  Identities=30%  Similarity=0.086  Sum_probs=0.0  Template_Neff=3.900
+
+Q ss_pred             HHHHHHHHHH
+Q FD01845954_005   76 ATDEGYKLAI   85 (88)
+Q Consensus        76 ai~iGi~L~~   85 (88)
+                      |+++|.+||+
+T Consensus        20 A~rLG~~LYk   29 (29)
+T Q6YXK4_PHYPA/4   20 ALRLGKSLYQ   29 (29)
+T ss_pred             HHHHHHHHhC
+
+
+No 5
+>7Y5E_M2 Photosystem I reaction center subunit XII; complex, PHOTOSYNTHESIS; HET: BCT, BCR, LHG, DGD, OEX, ZEX, 3XQ, BGC, PL9, GOL, PHO, CYC, LMG, CLA, PQN, PEB, SF4, HEM, PUB, MEN; 3.3A {Porphyridium purpureum}
+Probab=39.53  E-value=29  Score=19.21  Aligned_cols=10  Identities=30%  Similarity=0.159  Sum_probs=0.0  Template_Neff=3.800
+
+Q ss_pred             HHHHHHHHHH
+Q FD01845954_005   76 ATDEGYKLAI   85 (88)
+Q Consensus        76 ai~iGi~L~~   85 (88)
+                      |+++|.+||+
+T Consensus        21 A~rLG~~LYk   30 (30)
+T 7Y5E_M2          21 AIRLGTSLYT   30 (30)
+T ss_pred             HHHHHHHhcC
+
+
+No 6
+>7Y7B_M Photosystem I reaction center subunit XII; Cryptophyte, Photosystem I, evolution, PHOTOSYNTHESIS; HET: DGD, 8CT, LMU, KC2, II3, PQN, CLA, SF4, SQD, II0, LMG, LHG, IHT; 2.66A {Chroomonas placoidea}
+Probab=39.32  E-value=33  Score=18.97  Aligned_cols=10  Identities=30%  Similarity=0.099  Sum_probs=0.0  Template_Neff=3.900
+
+Q ss_pred             HHHHHHHHHH
+Q FD01845954_005   76 ATDEGYKLAI   85 (88)
+Q Consensus        76 ai~iGi~L~~   85 (88)
+                      |+++|.+||+
+T Consensus        21 A~rLG~~LYk   30 (30)
+T 7Y7B_M           21 AIRLGTALYQ   30 (30)
+T ss_dssp             HHHHHHHHHC
+T ss_pred             HHHHHHHHhC
+
+
+No 7
+>7COY_bM Photosystem I protein PsaM; Photosynthesis, Photosystem I, Acaryochloris marina, Light-harvesting, Chlorophyll d; HET: LHG, CL7, G9R, PHO, LMG, PQN, SF4, UNL; 2.5A {Acaryochloris marina MBIC11017}
+Probab=38.54  E-value=33  Score=19.09  Aligned_cols=10  Identities=30%  Similarity=0.262  Sum_probs=0.0  Template_Neff=3.900
+
+Q ss_pred             HHHHHHHHHH
+Q FD01845954_005   76 ATDEGYKLAI   85 (88)
+Q Consensus        76 ai~iGi~L~~   85 (88)
+                      |+++|.+||+
+T Consensus        22 A~rLG~~LYk   31 (31)
+T 7COY_bM          22 ALNLGSALSK   31 (31)
+T ss_pred             HHHHHHHHhC
+
+
+No 8
+>6K61_m Photosystem I reaction center subunit XII; Photosystem I, PSI, PCC7120, PHOTOSYNTHESIS; HET: BCR, LHG, SQD, LMG, PQN, CLA, SF4, CL0; 2.37A {Nostoc sp. PCC 7120}
+Probab=38.44  E-value=34  Score=19.17  Aligned_cols=10  Identities=20%  Similarity=-0.153  Sum_probs=0.0  Template_Neff=3.900
+
+Q ss_pred             HHHHHHHHHH
+Q FD01845954_005   76 ATDEGYKLAI   85 (88)
+Q Consensus        76 ai~iGi~L~~   85 (88)
+                      |+++|.+||+
+T Consensus        23 A~rLG~~LYk   32 (32)
+T 6K61_m           23 AWRLATELYK   32 (32)
+T ss_dssp             HHHHHHHHHC
+T ss_pred             HHHHHHHHhC
+
+
+No 9
+>7YCA_M Photosystem I reaction center subunit XII; Complex, Electron transport, Photosynthesis; HET: XAT, DGD, NEX, CHL, IWJ, CL0, Q6L, KC2, PQN, CLA, SF4, SQD, LHG, LMG, BCR, TPO;{Ostreococcus tauri}
+Probab=38.33  E-value=33  Score=19.10  Aligned_cols=10  Identities=20%  Similarity=0.089  Sum_probs=0.0  Template_Neff=3.900
+
+Q ss_pred             HHHHHHHHHH
+Q FD01845954_005   76 ATDEGYKLAI   85 (88)
+Q Consensus        76 ai~iGi~L~~   85 (88)
+                      |+++|.+||+
+T Consensus        22 A~rLg~~LYk   31 (31)
+T 7YCA_M           22 SLRLGTQLYK   31 (31)
+T ss_pred             HHHHHHHhhC
+
+
+No 10
+>6ZZY_M Photosystem I reaction center subunit XII; photosystem I, light stress, PHOTOSYNTHESIS; HET: CL0, DGD, PCW, LPX, SQD, PQN, SF4, 4RF, QTB, RRX, A8S, LHG, SPH, ECH, CLA, P5S, XAT, ERG, BCR, LUT, LAP, OLA, 3PH, PLM, CHL, C7Z, LMT, DGA, PTY;{Chlorella ohadii}
+Probab=38.14  E-value=35  Score=19.00  Aligned_cols=10  Identities=30%  Similarity=0.139  Sum_probs=0.0  Template_Neff=3.900
+
+Q ss_pred             HHHHHHHHHH
+Q FD01845954_005   76 ATDEGYKLAI   85 (88)
+Q Consensus        76 ai~iGi~L~~   85 (88)
+                      |+++|.+||+
+T Consensus        22 A~rLg~~LYk   31 (31)
+T 6ZZY_M           22 AVRLGVALYK   31 (31)
+T ss_dssp             HHHHHHHHHC
+T ss_pred             HHHHHHHHhC
+
+
+No 11
+>6L4U_M Photosystem I reaction center subunit XII; Photosystem I, ELECTRON TRANSPORT; HET: CL0, KC1, DD6, PQN, LMG, SF4, CLA, LHG, BCR, A86, LMT; 2.4A {Chaetoceros gracilis}
+Probab=37.14  E-value=36  Score=18.84  Aligned_cols=10  Identities=30%  Similarity=0.076  Sum_probs=0.0  Template_Neff=3.800
+
+Q ss_pred             HHHHHHHHHH
+Q FD01845954_005   76 ATDEGYKLAI   85 (88)
+Q Consensus        76 ai~iGi~L~~   85 (88)
+                      |+++|.+||+
+T Consensus        21 A~rLG~~Lyk   30 (30)
+T 6L4U_M           21 AIRLGATLYN   30 (30)
+T ss_dssp             HHHHHHHHHC
+T ss_pred             HHHHHHHhhC
+
+
+No 12
+>7XQP_M Photosystem I reaction center subunit XII; Supercomplex, Membrane protein, State transitions, PHOTOSYNTHESIS; HET: NEX, DGD, XAT, CHL, LMU, PQN, LMG, CLA, LHG, SF4, LUT, BCR, TPO; 2.68A {Physcomitrium patens}
+Probab=35.19  E-value=40  Score=18.89  Aligned_cols=10  Identities=30%  Similarity=0.086  Sum_probs=0.0  Template_Neff=3.900
+
+Q ss_pred             HHHHHHHHHH
+Q FD01845954_005   76 ATDEGYKLAI   85 (88)
+Q Consensus        76 ai~iGi~L~~   85 (88)
+                      |+++|.+||+
+T Consensus        23 A~rLg~~LYk   32 (32)
+T 7XQP_M           23 ALRLGKSLYQ   32 (32)
+T ss_pred             HHHHHHHHhC
+
+
+No 13
+>8T0P_A Inner kinetochore subunit OKP1; Okp1, Cse4, Ame1, Kinetochore, CELL CYCLE; HET: SO4; 1.73A {Saccharomyces cerevisiae}
+Probab=34.71  E-value=39  Score=25.30  Aligned_cols=13  Identities=23%  Similarity=0.682  Sum_probs=0.0  Template_Neff=3.900
+
+Q ss_pred             CCCCChHHHHHHh
+Q FD01845954_005    8 SIYDFKEPIRQHY   20 (88)
+Q Consensus         8 ~~WDhK~~i~~~~   20 (88)
+                      .|||+|+.|++.|
+T Consensus         3 ~pWdFk~lIr~ef   15 (152)
+T 8T0P_A            3 RPWEFRKVIQAEY   15 (152)
+T ss_dssp             CTTCHHHHHHHHH
+T ss_pred             ChhhHHHHHHHHH
+
+
+No 14
+>6KMW_aM Photosystem I reaction center subunit XII; Photosystem I, ELECTRON TRANSPORT; HET: CLA, CL0, PQN, SF4, LMG, UNL, BCR, LHG, LMT; 2.35A {Halomicronema hongdechloris C2206}
+Probab=33.58  E-value=45  Score=18.56  Aligned_cols=10  Identities=20%  Similarity=-0.114  Sum_probs=0.0  Template_Neff=3.900
+
+Q ss_pred             HHHHHHHHHH
+Q FD01845954_005   76 ATDEGYKLAI   85 (88)
+Q Consensus        76 ai~iGi~L~~   85 (88)
+                      |+++|.+||+
+T Consensus        22 A~rLg~~LYk   31 (31)
+T 6KMW_aM          22 AFRLSTELYK   31 (31)
+T ss_pred             HHHHHHHHhC
+
+
+No 15
+>6KMX_cM Photosystem I reaction center subunit XII; Photosystem I, ELECTRON TRANSPORT; HET: CLA, CL0, PQN, SF4, LMG, UNL, BCR, LHG, LMT, F6C; 2.41A {Halomicronema hongdechloris C2206}
+Probab=33.58  E-value=45  Score=18.56  Aligned_cols=10  Identities=20%  Similarity=-0.114  Sum_probs=0.0  Template_Neff=3.900
+
+Q ss_pred             HHHHHHHHHH
+Q FD01845954_005   76 ATDEGYKLAI   85 (88)
+Q Consensus        76 ai~iGi~L~~   85 (88)
+                      |+++|.+||+
+T Consensus        22 A~rLg~~LYk   31 (31)
+T 6KMX_cM          22 AFRLSTELYK   31 (31)
+T ss_pred             HHHHHHHHhC
+
+
+No 16
+>7S3D_M PsaM; Photosystem I, Far-red light photoacclimation, Chlorophyll f, Ferredoxin, PsaF, PsaJ, PHOTOSYNTHESIS; HET: CLA, FES, CL0, PQN, SF4, LMG, BCR, LHG, LMT, F6C; 2.91A {Synechococcus sp. PCC 7335}
+Probab=33.48  E-value=46  Score=18.51  Aligned_cols=10  Identities=20%  Similarity=-0.081  Sum_probs=0.0  Template_Neff=4.000
+
+Q ss_pred             HHHHHHHHHH
+Q FD01845954_005   76 ATDEGYKLAI   85 (88)
+Q Consensus        76 ai~iGi~L~~   85 (88)
+                      |+++|.+||+
+T Consensus        22 A~rLg~~LYk   31 (31)
+T 7S3D_M           22 ALRLATELYK   31 (31)
+T ss_dssp             HHHHHHHTCC
+T ss_pred             HHHHHHHHhC
+
+
+No 17
+>2K19_A Putative piscicolin 126 immunity protein; PisI, immunity protein, bacteriocin, IMMUNE SYSTEM, ANTIMICROBIAL PROTEIN; NMR {Carnobacterium maltaromaticum}
+Probab=30.63  E-value=31  Score=23.61  Aligned_cols=7  Identities=43%  Similarity=0.880  Sum_probs=0.0  Template_Neff=5.700
+
+Q ss_pred             ccCeeeh
+Q FD01845954_005   39 SNLDWGI   45 (88)
+Q Consensus        39 SNIHYGY   45 (88)
+                      |||.|||
+T Consensus        92 s~IRygy   98 (98)
+T 2K19_A           92 SNIRYGY   98 (98)
+T ss_dssp             CSCCTTC
+T ss_pred             HccccCC
+
+
+No 18
+>7Y3F_M PsaM; Photosystem I, ELECTRON TRANSPORT, isiA, PHOTOSYNTHESIS; HET: CL0, PQN, LHG, CLA, SF4, LMG, BCR, LMT; 2.62A {Nostoc sp.}
+Probab=28.27  E-value=62  Score=19.16  Aligned_cols=10  Identities=20%  Similarity=-0.153  Sum_probs=0.0  Template_Neff=3.400
+
+Q ss_pred             HHHHHHHHHH
+Q FD01845954_005   76 ATDEGYKLAI   85 (88)
+Q Consensus        76 ai~iGi~L~~   85 (88)
+                      |+++|.+||+
+T Consensus        31 A~rLG~~LYk   40 (40)
+T 7Y3F_M           31 AWRLATELYK   40 (40)
+T ss_dssp             HHHHHHHHHC
+T ss_pred             HHHHHHHHhC
+
+
+No 19
+>PF10777.13 ; YlaC ; Inner membrane protein YlaC
+Probab=25.32  E-value=61  Score=24.39  Aligned_cols=29  Identities=10%  Similarity=-0.007  Sum_probs=0.0  Template_Neff=3.900
+
+Q ss_pred             CCCCCCCChHHHHHHhccccccCCCCeEEEeeccc
+Q FD01845954_005    5 TKISIYDFKEPIRQHYGAMLRIGNDAKIYSNEGFS   39 (88)
+Q Consensus         5 ~~g~~WDhK~~i~~~~g~~~~~~~~~~~~~yDvwS   39 (88)
+                      .|.-+-.+|..|++++..      .+..++|||++
+T Consensus       121 sp~V~~~~K~~l~~~~~~------KG~l~FyDvy~  149 (154)
+T J7SKC9_MORMO/1  121 HPQVSDSLKQEIRHMTET------KGTVSFYDLHL  149 (154)
+T ss_pred             CCCCCHHHHHHHHHHHhc------cCCcccchhhh
+
+
+No 20
+>6A7F_c major coat protein p8; filamentous bacteriophage, major coat protein, VIRAL PROTEIN; 3.4A {Filamentous phage}
+Probab=25.01  E-value=84  Score=19.35  Aligned_cols=9  Identities=11%  Similarity=-0.238  Sum_probs=0.0  Template_Neff=5.000
+
+Q ss_pred             HHHHHHHhc
+Q FD01845954_005   79 EGYKLAINS   87 (88)
+Q Consensus        79 iGi~L~~~y   87 (88)
+                      |||+|++|+
+T Consensus        40 igikLfKK~   48 (53)
+T 6A7F_c           40 LVIRLFKKF   48 (53)
+T ss_dssp             HHHHHHHHH
+T ss_pred             HHHHHHHHH
+
+
+No 21
+>8B3Q_EnE Capsid protein G8P; Viral proteins, capsid, VIRUS; 2.58A {Enterobacteria phage f1}
+Probab=23.55  E-value=94  Score=18.89  Aligned_cols=9  Identities=33%  Similarity=0.150  Sum_probs=0.0  Template_Neff=5.100
+
+Q ss_pred             HHHHHHHhc
+Q FD01845954_005   79 EGYKLAINS   87 (88)
+Q Consensus        79 iGi~L~~~y   87 (88)
+                      |||+|++|+
+T Consensus        37 igikLfKKf   45 (50)
+T 8B3Q_EnE         37 IGIKLFKKF   45 (50)
+T ss_pred             HHHHHHHHH
+
+
+No 22
+>PF19857.3 ; DUF6332 ; Family of unknown function (DUF6332)
+Probab=21.61  E-value=1.6e+02  Score=20.10  Aligned_cols=12  Identities=33%  Similarity=0.742  Sum_probs=0.0  Template_Neff=4.400
+
+Q ss_pred             HHHHHHHHHHHH
+Q FD01845954_005   73 DDIATDEGYKLA   84 (88)
+Q Consensus        73 D~~ai~iGi~L~   84 (88)
+                      |..+||||+.|.
+T Consensus         8 DA~TVEI~yAl~   19 (85)
+T A0A0U3FFK6_9AC    8 DALTVEVGYALV   19 (85)
+T ss_pred             HHHHHHHHHHHH
+
+
+No 23
+>PF08038.16 ; Tom7 ; TOM7 family
+Probab=20.77  E-value=59  Score=18.56  Aligned_cols=6  Identities=33%  Similarity=0.955  Sum_probs=0.0  Template_Neff=5.900
+
+Q ss_pred             CeeehH
+Q FD01845954_005   41 LDWGIL   46 (88)
+Q Consensus        41 IHYGYV   46 (88)
+                      +||||+
+T Consensus        14 ~h~Gfi   19 (40)
+T G0SE07_CHATD/2   14 IHYGYL   19 (40)
+T ss_pred             hhcccc
+
+

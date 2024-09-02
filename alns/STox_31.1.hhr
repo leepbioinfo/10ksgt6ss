@@ -1,0 +1,88 @@
+Query         FD01847507_03300 hypothetical protein
+Match_columns 206
+No_of_seqs    103 out of 124
+Neff          5.87533
+Searched_HMMs 86581
+Date          Tue Feb 27 19:01:11 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/8986487.hhr -oa3m ../results/8986487.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 PF13265.10 ; DUF4056 ; Protein 100.0 1.7E-30 1.9E-35  229.6   9.7  146    2-165    56-232 (266)
+  2 PF10043.13 ; DUF2279 ; Predict  44.3 1.8E+02  0.0021   20.8   6.1   46   85-136    35-80  (89)
+  3 8K00_B Double-strand break rep  41.1      21 0.00025   22.8   0.4   10  123-132     6-15  (31)
+  4 PF20196.2 ; DUF6559 ; Family o  33.1      49 0.00057   26.8   1.5   44   85-132    42-85  (111)
+
+No 1
+>PF13265.10 ; DUF4056 ; Protein of unknown function (DUF4056)
+Probab=99.97  E-value=1.7e-30  Score=229.65  Aligned_cols=146  Identities=19%  Similarity=0.261  Sum_probs=123.6  Template_Neff=6.300
+
+Q ss_pred             HHhhcCCccccccCCcEEEecccEeeeccccCCc--cHHHHHHHHHhccccCCcceEEEEEecceecccccceeeeceeE
+Q FD01847507_033    2 REEIKGNQKLDELKFGIVYTEVLGWLDMGHAGGD--DISLLKQQFDAGESSGNKYYSVIYKQNMRIRSKTLRQEMGTGKF   79 (206)
+Q Consensus         2 r~dI~d~~~~~~~~~~lvYT~~~GWID~gHA~~~--~~~~L~~~i~~~~~~~~~~~~v~y~Q~M~~~~~~~~~~~~~g~~   79 (206)
+                      |+||.+.   ...+.||||||+|||||++|+++.  .+..|+++|..+...   .+.|.|.|+|+.+.      +..++.
+T Consensus        56 ~~~i~~~---~~e~~GlvYT~r~G~ID~~H~r~~AD~t~~L~~~i~~~l~~---~~~v~~~~e~~~~~------v~~~~~  123 (266)
+T Q7MB90_PHOLL/4   56 VASLTGL---SNEKVGMIYTRRGGFIDISHVRDTADNAVFLFSQIWPRLGE---EWQIELSSELALRR------IQFYQF  123 (266)
+T ss_pred             chhhccC---ccccCeeEEEEeceeccHHHhccCchHHHHHHHHHHhhcCc---eEEEEeehhhhcCc------eecccC
+Confidence            5566542   347899999999999999999999  999999999988644   48999999998764      444433
+
+
+Q ss_pred             EEEEEeCCCCHHHHHHHHHHHHHHHH------HHHH---HHHhhcccccccCCCCChhhHHHHHHHhhhccC--------
+Q FD01847507_033   80 TRWEIQRGRTQDEINSIMLAMMMNTA------LKFE---AYQSLKAFSWHTDSGFSGEDLVSDLFGFYRFMI--------  142 (206)
+Q Consensus        80 ~~~~Ik~gls~~e~~sVAL~I~m~~S------~~FE---~~Q~~~~~~~~tdSgFS~EDLvSnliGFYrav~--------  142 (206)
+                         .  .+++.+||+.|||+|++.+|      ++||   .+|..++|+ .++|+||.|||+|||||||+|+.        
+T Consensus       124 ---~--~~ls~~~~~~vAl~ia~~~a~~~~~WHEi~tW~g~~s~~~~~-e~~SaFS~EDl~SNllG~~~a~~~l~~~~~~  197 (266)
+T Q7MB90_PHOLL/4  124 ---T--PPASIEQRYTLTAYLAAKLAFELAAWHEIAQWYGYQSVPGFS-EKVSAFSPEDLYSNLLGARLSLSLILAGQVP  197 (266)
+T ss_pred             ---C--CCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHccccccCCCC-CCCCCCChHHHHhcHHHHHHHHHHHHcCCCC
+Confidence               2  29999999999999999999      9999   566666565 57999999999999999999988        
+
+
+Q ss_pred             ------------cccHHHHcCCCCHHHhhcccccc
+Q FD01847507_033  143 ------------PGKYSSLVRPVSYNDAVSRWDFY  165 (206)
+Q Consensus       143 ------------~~~~~~~~~~vs~~~al~~Wd~y  165 (206)
+                                  ..+....|++|++++|.+.|+..
+T Consensus       198 ~~~~y~~amt~~l~~~L~~L~~v~~~~a~~~~~~v  232 (266)
+T Q7MB90_PHOLL/4  198 SMKQYRLSMQAILPPALRELEALSPDETRKMFEQV  232 (266)
+T ss_pred             CHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHhh
+Confidence                        24778889999999999999977
+
+
+No 2
+>PF10043.13 ; DUF2279 ; Predicted periplasmic lipoprotein (DUF2279)
+Probab=44.26  E-value=1.8e+02  Score=20.80  Aligned_cols=46  Identities=17%  Similarity=0.160  Sum_probs=0.0  Template_Neff=10.000
+
+Q ss_pred             eCCCCHHHHHHHHHHHHHHHHHHHHHHHhhcccccccCCCCChhhHHHHHHH
+Q FD01847507_033   85 QRGRTQDEINSIMLAMMMNTALKFEAYQSLKAFSWHTDSGFSGEDLVSDLFG  136 (206)
+Q Consensus        85 k~gls~~e~~sVAL~I~m~~S~~FE~~Q~~~~~~~~tdSgFS~EDLvSnliG  136 (206)
+                      .++.+...+.-+++.+.+-.+..-|-.|... .     ..|+..|+..|++|
+T Consensus        35 ~~~~~~~~~~~~~~~~~~~~~~~~E~~q~~~-~-----r~~~~~D~~~~~~G   80 (89)
+T I5B2G2_9DELT/7   35 HWCFEKENAALYGSLSLFAIMGYMEFGDSFS-E-----YGFSYEDMIANFLG   80 (89)
+T ss_pred             hcCCCHHHHHHHHHHHHHHHHHHHHHHHHhc-c-----CCCCHHHHHHHHHH
+
+
+No 3
+>8K00_B Double-strand break repair protein MRE11; RPA, 70N, MRE11, DNA BINDING PROTEIN; 1.4A {Homo sapiens}
+Probab=41.10  E-value=21  Score=22.81  Aligned_cols=10  Identities=60%  Similarity=0.919  Sum_probs=0.0  Template_Neff=2.300
+
+Q ss_pred             CCCChhhHHH
+Q FD01847507_033  123 SGFSGEDLVS  132 (206)
+Q Consensus       123 SgFS~EDLvS  132 (206)
+                      |+||.+||+|
+T Consensus         6 sa~s~~dlms   15 (31)
+T 8K00_B            6 SAFSADDLMS   15 (31)
+T ss_dssp             CCCCHHHHHH
+T ss_pred             cccCHHHhcc
+
+
+No 4
+>PF20196.2 ; DUF6559 ; Family of unknown function (DUF6559)
+Probab=33.10  E-value=49  Score=26.76  Aligned_cols=44  Identities=11%  Similarity=0.134  Sum_probs=0.0  Template_Neff=6.400
+
+Q ss_pred             eCCCCHHHHHHHHHHHHHHHHHHHHHHHhhcccccccCCCCChhhHHH
+Q FD01847507_033   85 QRGRTQDEINSIMLAMMMNTALKFEAYQSLKAFSWHTDSGFSGEDLVS  132 (206)
+Q Consensus        85 k~gls~~e~~sVAL~I~m~~S~~FE~~Q~~~~~~~~tdSgFS~EDLvS  132 (206)
+                      +.|++ ..-...|+|||++-+.   .++....-..+..+.|+.+||.+
+T Consensus        42 ~~~l~-~~~~~yAyamf~~~~~---~lR~eia~~~F~g~~f~~~~~~~   85 (111)
+T A0A0C5WH24_9GA   42 QSGLS-RRYEHYAYALFGDQYP---DLHQELADGLFAGTAFNALQIID   85 (111)
+T ss_pred             HcCCC-ccHHHHHhHHHcCCch---HHHHHHHHHHhcCCCCCHHHHHH
+
+

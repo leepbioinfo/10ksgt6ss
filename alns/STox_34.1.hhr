@@ -1,0 +1,77 @@
+Query         FD01872492_04568 DUF4329 domain-containing protein
+Match_columns 115
+No_of_seqs    9 out of 14
+Neff          2.47118
+Searched_HMMs 86581
+Date          Mon Mar 11 18:50:05 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/3725451.hhr -oa3m ../results/3725451.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 PF15606.10 ; Ntox34 ; Bacteria  95.6   0.012 1.4E-07   41.5   1.5   53   45-115     1-75  (75)
+  2 2BSK_C MITOCHONDRIAL IMPORT IN  34.3 2.1E+02  0.0025   19.2   4.4   38   61-107    19-56  (89)
+  3 2NB2_A nigellin-1.1; AMP, anti  23.4      94  0.0011   20.6   1.2   34   61-107     1-34  (38)
+  4 PF21376.1 ; TOR1A_C ; Torsin-1  21.0 1.8E+02  0.0021   15.8   1.9   13   96-108     6-18  (58)
+
+No 1
+>PF15606.10 ; Ntox34 ; Bacterial toxin 34
+Probab=95.62  E-value=0.012  Score=41.50  Aligned_cols=53  Identities=28%  Similarity=0.411  Sum_probs=0.0  Template_Neff=5.200
+
+Q ss_pred             hHHHHHHHHHHccCc------chHHHHHHHHHHHHHHHhhccCCCCCCCCCCchhhHHHHH-HHHHHHhcc---------
+Q FD01872492_045   45 AGLALLVCAAQSSGE------SRRCAKVKEKCHDQCADIFADTPDLLPGSGRDLAGRLRRC-IRECIEDHG---------  108 (115)
+Q Consensus        45 ~gl~~l~~~~~~~~~------t~rv~~iis~~~~~~~~k~~~~~~~~P~s~~D~aGr~rrC-I~~~l~d~G---------  108 (115)
+                      .|++..+...++.||      .++|++.+++.++..+++.            |      +| +++.|.++|         
+T Consensus         1 ~~~~~~~~~ma~~GNvaDtgI~~~~~~~i~~~~~~~gk~~------------~------~C~aL~~l~~~~d~~~~~iK~   62 (75)
+T RHSA_ECOLI/129    1 PGLALDITMIASRGNVADTGITDRVNDIINDRFWSDGKKP------------D------RCDVLQELIDCGDISAKDAKS   62 (75)
+T ss_pred             CCccchhheecccCccccccHHHHHHHHHHHHHhcCCCCC------------C------HHHHHHHHHHcCCCChHhhHH
+
+
+Q ss_pred             ------cccccCC
+Q FD01872492_045  109 ------CRAGTTS  115 (115)
+Q Consensus       109 ------Cr~~~~s  115 (115)
+                            ||++|.|
+T Consensus        63 TqKa~gcr~sr~s   75 (75)
+T RHSA_ECOLI/129   63 TQKAWNCRHSRQS   75 (75)
+T ss_pred             HHHHhcccccCCC
+
+
+No 2
+>2BSK_C MITOCHONDRIAL IMPORT INNER MEMBRANE TRANSLOCASE SUBUNIT TIM9 A; PROTEIN TRANSPORT, TIM9, TIM10, MITOCHONDRIAL PROTEIN IMPORT, TIM COMPLEX; HET: MSE; 3.3A {HOMO SAPIENS} SCOP: g.83.1.1
+Probab=34.33  E-value=2.1e+02  Score=19.20  Aligned_cols=38  Identities=18%  Similarity=0.424  Sum_probs=0.0  Template_Neff=8.600
+
+Q ss_pred             hHHHHHHHHHHHHHHHhhccCCCCCCCCCCchhhHHHHHHHHHHHhc
+Q FD01872492_045   61 RRCAKVKEKCHDQCADIFADTPDLLPGSGRDLAGRLRRCIRECIEDH  107 (115)
+Q Consensus        61 ~rv~~iis~~~~~~~~k~~~~~~~~P~s~~D~aGr~rrCI~~~l~d~  107 (115)
+                      ..++.+.+.|+..|...+       |.+.+|....  .||..|....
+T Consensus        19 ~~~~~lt~~Cf~kCv~~~-------~~~~L~~~e~--~Ci~~C~~k~   56 (89)
+T 2BSK_C           19 GTYNKLTETCFLDCVKDF-------TTREVKPEET--TCSEHCLQKY   56 (89)
+T ss_dssp             HHHHHHHHHHHHHSCCCC-------SCSSCCHHHH--HHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHhcCC-------CCCCCCHhHH--HHHHHHHHHH
+
+
+No 3
+>2NB2_A nigellin-1.1; AMP, antimicrobial peptide, ANTIMICROBIAL PROTEIN, plant antimicrobial peptides, defense peptides, blackseed, antifungal activity, antibacterial activity, hairpin-like; NMR {Nigella sativa L}
+Probab=23.37  E-value=94  Score=20.62  Aligned_cols=34  Identities=32%  Similarity=0.673  Sum_probs=0.0  Template_Neff=1.000
+
+Q ss_pred             hHHHHHHHHHHHHHHHhhccCCCCCCCCCCchhhHHHHHHHHHHHhc
+Q FD01872492_045   61 RRCAKVKEKCHDQCADIFADTPDLLPGSGRDLAGRLRRCIRECIEDH  107 (115)
+Q Consensus        61 ~rv~~iis~~~~~~~~k~~~~~~~~P~s~~D~aGr~rrCI~~~l~d~  107 (115)
+                      +|-++-+++|...|--..            |-|| ||-||--|.-+|
+T Consensus         1 dryqdclsecnsrctyip------------dyag-mraciglcapac   34 (38)
+T 2NB2_A            1 DRYQDCLSECNSRCTYIP------------DYAG-MRACIGLCAPAC   34 (38)
+T ss_dssp             CHHHHHHHHHHHHHTTCS------------CHHH-HHHHHHHHHHHH
+T ss_pred             ChhHHHHHHhhhccccCC------------Cccc-HHHHHhhhchhh
+
+
+No 4
+>PF21376.1 ; TOR1A_C ; Torsin-1A, C-terminal domain
+Probab=21.03  E-value=1.8e+02  Score=15.83  Aligned_cols=13  Identities=23%  Similarity=0.779  Sum_probs=0.0  Template_Neff=11.300
+
+Q ss_pred             HHHHHHHHHHhcc
+Q FD01872492_045   96 LRRCIRECIEDHG  108 (115)
+Q Consensus        96 ~rrCI~~~l~d~G  108 (115)
+                      ++.||+.++...|
+T Consensus         6 v~~C~~~~~~~~~   18 (58)
+T Q28CP8_XENTR/2    6 VKMCVRAELRQRG   18 (58)
+T ss_pred             HHHHHHHHHHHCC
+
+

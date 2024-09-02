@@ -1,0 +1,81 @@
+<pre>Query         FD01543135_04329 hypothetical protein
+</pre><pre>Match_columns 177
+</pre><pre>No_of_seqs    29 out of 35
+</pre><pre>Neff          3.58139
+</pre><pre>Searched_HMMs 86581
+</pre><pre>Date          Tue Feb 27 23:47:47 2024
+</pre><pre>Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/4436608.hhr -oa3m ../results/4436608.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+</pre><pre>
+</pre><pre> No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+</pre><pre>  1 PF18347.5 ; DUF5606 ; Domain o  40.8      28 0.00033   24.4   1.1   20  146-165     2-21  (46)
+</pre><pre>  2 PF14462.10 ; Prok-E2_E ; Proka  37.4 1.2E+02  0.0014   23.3   4.1   31  124-155     3-33  (122)
+</pre><pre>  3 PF13991.10 ; BssS ; BssS prote  36.0      71 0.00081   22.8   2.5   22   41-62     33-54  (69)
+</pre><pre>  4 PF03243.19 ; MerB ; Alkylmercu  30.3      61  0.0007   25.3   1.5   38   25-62     84-122 (122)
+</pre><pre>  5 PF20099.3 ; DUF6489 ; Family o  21.0      92  0.0011   24.1   1.0   10   50-59      9-18  (80)
+</pre><pre>
+</pre><pre>No 1
+</pre><pre>>PF18347.5 ; DUF5606 ; Domain of unknown function (DUF5606)
+</pre><pre>Probab=40.80  E-value=28  Score=24.44  Aligned_cols=20  Identities=30%  Similarity=0.511  Sum_probs=0.0  Template_Neff=5.100
+</pre><pre>
+</pre><pre>Q ss_pred             EEEEEEccCHHHHHHHCCee
+</pre><pre>Q FD01543135_043  146 KTYIKITGYAGLRRILNGVR  165 (177)
+</pre><pre>Q Consensus       146 k~YIKITGypgLRrILnGTR  165 (177)
+</pre><pre>                      ++.+-|+|.|||=+++..++
+</pre><pre>T Consensus         2 ~~IvsIsGkpGLfk~vs~~k   21 (46)
+</pre><pre>T A0A0S2I5B1_9BA    2 KDILAITGEPGLYKLVSKTP   21 (46)
+</pre><pre>T ss_pred             CceEEEeCCcchhhhcccCC
+</pre><pre>
+</pre><pre>
+</pre><pre>No 2
+</pre><pre>>PF14462.10 ; Prok-E2_E ; Prokaryotic E2 family E
+</pre><pre>Probab=37.39  E-value=1.2e+02  Score=23.31  Aligned_cols=31  Identities=13%  Similarity=-0.057  Sum_probs=0.0  Template_Neff=8.900
+</pre><pre>
+</pre><pre>Q ss_pred             HHHHHHhhhccCceEEEEEECCEEEEEEccCH
+</pre><pre>Q FD01543135_043  124 NNLAWNISQVWKVKAITYIANGKTYIKITGYA  155 (177)
+</pre><pre>Q Consensus       124 ~~lv~~~k~l~gIKA~~y~~nGk~YIKITGyp  155 (177)
+</pre><pre>                      .+.+..|+++ |.++.....+|..+|.|.+++
+</pre><pre>T Consensus         3 ~~~~~~L~~~-g~~~~~~~~~~~~~v~v~~~~   33 (122)
+</pre><pre>T A1WP99_VEREI/1    3 DADERYLSSH-GVVFETVSDGAHTGVIFKQLP   33 (122)
+</pre><pre>T ss_pred             HHHHHHHHHc-CCceEEEecCCeEEEEEeCcc
+</pre><pre>
+</pre><pre>
+</pre><pre>No 3
+</pre><pre>>PF13991.10 ; BssS ; BssS protein family
+</pre><pre>Probab=35.99  E-value=71  Score=22.83  Aligned_cols=22  Identities=18%  Similarity=0.051  Sum_probs=0.0  Template_Neff=7.800
+</pre><pre>
+</pre><pre>Q ss_pred             ccCceEEEEEeHHHHHHHHHhh
+</pre><pre>Q FD01543135_043   41 TKKTVDIILLTIPEAMRLVYDK   62 (177)
+</pre><pre>Q Consensus        41 ~~nt~~i~LLTl~EA~~Il~dl   62 (177)
+</pre><pre>                      .......+.||++.|+++.++|
+</pre><pre>T Consensus        33 ~~~~~~~~~LT~eQAr~La~~L   54 (69)
+</pre><pre>T J7SKD0_MORMO/1   33 HAEVDKTMWLTTDVARQLIDIL   54 (69)
+</pre><pre>T ss_pred             cCccCceeeeCHHHHHHHHHHH
+</pre><pre>
+</pre><pre>
+</pre><pre>No 4
+</pre><pre>>PF03243.19 ; MerB ; Alkylmercury lyase
+</pre><pre>Probab=30.32  E-value=61  Score=25.29  Aligned_cols=38  Identities=8%  Similarity=0.197  Sum_probs=0.0  Template_Neff=8.400
+</pre><pre>
+</pre><pre>Q ss_pred             CCChHHhccccHHHHhccCc-eEEEEEeHHHHHHHHHhh
+</pre><pre>Q FD01543135_043   25 PQHPYLKDVQGLEEFQTKKT-VDIILLTIPEAMRLVYDK   62 (177)
+</pre><pre>Q Consensus        25 Pqhp~l~d~~~Le~~l~~nt-~~i~LLTl~EA~~Il~dl   62 (177)
+</pre><pre>                      |.-.||.+-..+|+..++.. ..-..||++||.++..++
+</pre><pre>T Consensus        84 ~~~~fF~s~e~~~~W~~~~~~~~g~~l~l~ea~~~a~~~  122 (122)
+</pre><pre>T K0EVI4_NOCBR/9   84 DYNSFFASEEAAEQWRRAHPEIKGVTRAPEQMSRLITEL  122 (122)
+</pre><pre>T ss_pred             CCeeeeCCHHHHHHHHHHCCCCCceEeCHHHHHHHHhcC
+</pre><pre>
+</pre><pre>
+</pre><pre>No 5
+</pre><pre>>PF20099.3 ; DUF6489 ; Family of unknown function (DUF6489)
+</pre><pre>Probab=21.04  E-value=92  Score=24.12  Aligned_cols=10  Identities=30%  Similarity=0.318  Sum_probs=0.0  Template_Neff=5.700
+</pre><pre>
+</pre><pre>Q ss_pred             EeHHHHHHHH
+</pre><pre>Q FD01543135_043   50 LTIPEAMRLV   59 (177)
+</pre><pre>Q Consensus        50 LTl~EA~~Il   59 (177)
+</pre><pre>                      +|||||++.+
+</pre><pre>T Consensus         9 cTPeEaR~fl   18 (80)
+</pre><pre>T A0A1V1PLH7_9PR    9 CSPEEARRFM   18 (80)
+</pre><pre>T ss_pred             cCHHHHHHHc
+</pre><pre>
+</pre><pre>
+</pre>

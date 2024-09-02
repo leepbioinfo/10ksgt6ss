@@ -1,0 +1,404 @@
+>FD01543233_04014 type IV secretion protein Rhs
+ILADTDIVCRAGT----C-NAGQFENGSGVTVD------SEG-KL--SGISTQA---KPG
+AT-IDVLAK--------PIP------NGQVGVATVGEIEKA--GGTI-----TLDGKLNS
+PNGRM---IMNHATVDG--------LTAQQAQDLFQPTRDNP---VP----K
+>WP_087465102.1/207-316 RHS repeat-associated core domain-containing protein [Cellvibrio sp. PSBB006]
+RLPDNALVCRGGT----C-TADRFASGSGVKTD------AAG-KL--DGVSVNS---ASG
+RT-LEDLTV--------GIP------HPQVGVTTVGDVRRA--GGDV-----VPSPT---
+---RN---NPYHATMKG--------ITPQQAQDLMTPTKKNP---HK----R
+>WP_198207894.1/1394-1511 DUF6531 domain-containing protein [Snodgrassella sp. W6238H14]
+ILPDDAIVCRGGA----C-LADSFKNGSGVVVD------GTG-KL--DGVSVNS---AAG
+KT-LDQLTE--------GIP------HNKVGVTTVGDIRAA--GGDV-----IPSPT---
+---KN---NPHHATLSG--------ITAKQAEALMTPTQKNP---SA----K
+>WP_082576521.1/240-349 RHS repeat-associated core domain-containing protein [Lysobacter sp. Root604]
+RLPDSTLVCRGGA----C-TADRFRNGSGVTID------GNG-NL--QGVSVNS---APG
+KS-VAELSE--------GIP------NGQVGVTTVGDIRKA--GGDV-----VPSPR---
+--GAR---NPDHCTMCG--------ITPEKAEELFTPTVRNP---NR-----
+>EBX7348412.1/111-231 RHS repeat protein [Salmonella enterica subsp. enterica serovar Livingstone]
+ILADTDIVCRAGT----C-NAGQFENGSGVTVD------SEG-KL--SGISTQA---KPG
+AT-IDVLAK--------PIP------NGQVGVATVGEIEKA--GGTI-----TLDGKLNS
+PNGRM---IMNHATVDG--------LTAQQAQDLFQPTRDNP---VP----K
+>WP_202262960.1/1252-1361 MULTISPECIES: polymorphic toxin type 10 domain-containing protein [unclassified Alteromonas]
+ALSDSAIVCRGGS----C-TADRFANGSGVTTD------AAG-NL--DGVSVNS---ANG
+AS-LGELTQ--------GVP------HNSVGVTTVGDVRAA--GGDV-----IASPT---
+---KN---NPNHATLSG--------VTAEQAEKLMTPTVKNP---NK----K
+>TXR28166.1/111-230 hypothetical protein FV460_21215 [Escherichia coli]
+ILADTDIVCRGGT----C-SADNFKNGSGVSAD------ANG-KL--SGISTQA---KPN
+AG-LETLSQ--------PFK------NNQIGVATVADIEKA--GGTI-----TLDGKLNS
+PNGSM---MMNHATVDG--------LTAEQAEKLFHPTQPNP---IS----V
+>MBR4733724.1/121-232 hypothetical protein [Lachnospiraceae bacterium]
+RISDDAYVIRGGT----N-TVDRFIEGSGVTVD------SDG-KL--HGVSVNC---KDG
+LE-IKDLSK--------GIK------NGKIGITTVGEIRKL--GGDV-----IPNPS---
+---KD---NPNHALLSG--------ITPEQASELFTPVVDNP---EK----K
+>MBN1207446.1/717-826 RHS repeat-associated core domain-containing protein [Myxococcaceae bacterium]
+GLPDDALVCRGGT----C-TADRFAQGTGVTLD------DAR-KL--QGVSVNS---VPG
+VS-LEQVTV--------GIP------NKQVGVTTVGEVRAA--GGDV-----LPSPT---
+---RN---NPAHCTLCG--------ITPQKAEELFTPTVRNP---NA----R
+>WP_232446603.1/61-171 RHS repeat-associated core domain-containing protein, partial [Burkholderia ubonensis]
+RLPNEAIVCRGGS----C-TAEKFRQGSGVTVG------ADG-KL--DGVSVNS---ATG
+RS-LDELTD--------GIP------HGKVGVTTVGNVRAA--GGDV-----VASPT---
+---RN---NPNHATLSG--------ITAERAEALMTPTVRNP---NA----R
+>MCC7075330.1/2204-2312 hypothetical protein [Deltaproteobacteria bacterium]
+-LPDNALVCRGGA----C-TAERFSGGSGATLD------EAG-KL--DGVSVTS---APG
+AS-LEGLTV--------GIP------NKQVGVTTVGDVRAA--GGDV-----IPSPT---
+---KT---NPVHCTLCG--------VTPKKAEELFTPTVPNP---NA----R
+>MBL0320049.1/72-178 hypothetical protein [Alphaproteobacteria bacterium]
+DLPNDTLVCRGGR----C-TEDTFINGSGVSVD------EYG-NL--HGVSVNS---SPG
+KS-LAELSE--------TIP------HKQVGVTSVGKIKEA--GGTI-----VLSPT---
+---KN---NPNHATLSG--------ISPKAAESLMTPTIKNP----------
+>WP_208933399.1/142-250 WP_208933399.1 RHS repeat-associated core domain-containing protein [Rheinheimera sp. F8]
+VLRNSDNVVRGGT----N-TAERFTNGSGVTIG------ADG-TL--NGVSVTS---APG
+AS-VEQLSQ--------GIL------NGQVGITTVGEIRAA--GGNV-----IPSPT---
+---TN---NPNHCTMCG--------ITAEKAEELFHPTIKNP---SK-----
+>AXI04030.1/1461-1574 hypothetical protein HYN46_14970 [Aquirhabdus parva]
+SLPNSALVCRGGA----C-KADSFANGSGVTKA------ADG-TL--QGVSTQS---RAG
+AT-VEELSK--------PFK------NNQVGVTTVGKIREA--GGKV-----TADGH---
+---PN---NPNHATVDN--------LTPQQLEGLFSPTRANP---VP----P
+>MBS4051171.1/897-1008 RHS domain-containing protein [Methylomonas sp.]
+RYRNPQKVVRGGM----C-TADRFATGSGVTLD------QNG-LL--NGVSVQS---FPN
+TS-VQELSQ------RQWVP------NGQIGVTTVGDIQDA--GGDV-----IPDPT---
+---RN---NPYHSELIG--------ITPEAAQQLFTPTIPNP---NP----R
+>WP_073280607.1/242-362 WP_073280607.1 RHS repeat-associated core domain-containing protein [Anaerocolumna jejuensis]
+ILKDIDIVVRGGQ----C-SSASFINGSGVVQD------ALG-KL--SGISTQA---SSG
+AG-LAELAQ--------VYQ------HNQVGVATVGAIEKA--GGTI-----TLDGKLNS
+TNGTM---MANHATVDG--------LTAQQAEDLFTPTQKNP---VP----K
+>HCA67596.1/220-334 hypothetical protein [Candidatus Jacksonbacteria bacterium]
+SLPDSALCVRGGQ----C-TAEQFRNASGVTYN------KQT-NTLEDGVSVNS---APN
+KS-VEELSK--------GIK------NGQIGVTTVGDVRKA--GGDV-----IPSQS---
+---GQ---NPNHATLQG--------ITPEQAQKSFQPTRPNP---TR----V
+>WP_217468869.1/19-137 hypothetical protein, partial [Burkholderia paludis]
+-LADTDLVCRGGA----C-TAESFQTGSGVMSD------ANG-KL--SGISTQA---APG
+AT-LETLSQ--------PFQ------HNQVGVATVGDIERA--GGTI-----TLDGKLNS
+TTGSM---VMNHATVDG--------LTAQDAQRLFQPTKQNP---IP----R
+>WP_207860628.1/3198-3306 hypothetical protein [Acanthopleuribacter pedis]
+--PDDALVLRGGQ----S-LPENFEKGSGVVKG------PDG-KL--DQVSVNS---AAG
+KS-TKELTK--------TIR------NGQVGQTTVGNVRKA--GGDV-----VPSPN---
+---VK---NPDHATLSG--------LTGDEASSLMRPTTKNP---TK----K
+>MBA3559090.1/145-246 hypothetical protein [Gemmatimonadaceae bacterium]
+-------VCRGGS----C-TAERFVQGSGVSLD------KAG-KL--QGVSVNS---APG
+AS-LEKLTS--------TIP------NKQVGVTTVGKIRQA--GGTV-----TPSPT---
+---TN---NPTHCTMCG--------ITPTQAEKLFRPTVPNP---NP-----
+>MBS1511483.1/1400-1508 hypothetical protein [Bacteroidetes bacterium]
+GLPDHANVVRGGL----N-TADRFTNGSGVTTA------QDG-TL--NGVSVNS---ASG
+KS-IVELSV--------NIP------NKQIGTTTVGLIRQA--GGDV-----VPSPT---
+---NG---NPFHSTLYG--------IDAKTAEKLFTPTTQNP---NH-----
+>MBI2807073.1/7-127 flavoredoxin [Planctomycetota bacterium]
+RLPDDALVVYGGR----N-MPENFVKGSGVVIR------SDG-SM--DGVSVNC---APD
+AT-LDELTMPIAATDHPGIR------NGQIGVTSVGKIRAA--GGDV-----VAEPS---
+---ET---NAKHATLIG--------LTPEKASELFRPTLANP---AK----R
+>WP_082485956.1/214-327 MULTISPECIES: RHS domain-containing protein [unclassified Acidovorax]
+VLEDSALVCRGGE----C-KAENFVKGSGVKEA------ADG-TL--SGVSTQS---KNG
+GS-VAELAQ--------PFK------NNQIGITTVGDIRRA--GGRV-----TADGN---
+---SK---NPNHATVDG--------LTGQQLEKLFSPTRHNP---VP----P
+>MBM3235664.1/16-134 flavoredoxin [Candidatus Poribacteria bacterium]
+PLPDDAFVVRGGQ----N-LPINFAKASGVAVD------EGE-KL--QNVSVNC---APD
+LS-VEELTAPNPQTGYPGIP------HNHVGVTTVGAIRAA--GGDV-----VLSPT---
+---RT---NPNHATLSG--------LTPDEASQLFRPTIKNP---GK----R
+>KKW18095.1/2750-2860 NHL/RHS/YD repeat protein [Candidatus Kaiserbacteria bacterium GW2011_GWB1_50_17]
+--PDSALVCRGGT----C-STNQFKNAKGATLD------ASG-KL--EGVSVNS---GAD
+AS-LLDLTR--------SLP------HNQVGVTTVGDVRKI--GGDV-----LPSPRLN-
+-GSNP---NPFHSTLQG--------VTPQQAEQLFKPTVPNP---SR-----
+>WP_198218035.1/1372-1488 DUF6531 domain-containing protein [Snodgrassella sp. M0110]
+TLSDNDIVCRGGT----C-KAENFKNGSGVKTD------ANG-KL--REVSTQA---KPG
+AD-LETLAK--------AFN------HNQVGIATVGEIEKA--GGTI-----ILDGKSN-
+VGGPH---KMNHATVEG--------LTAEQLEQLFTPTQKNP---AK----K
+>PYP89930.1/1643-1750 hypothetical protein DMF61_01645 [Blastocatellia bacterium AA13]
+--AEDSFVVRGGR----N-MPENFSNGSGVTLD------EAG-NL--QNVSVNS---AVG
+RS-VQELSE--------TIP------HRQVGVTTVGAVRAA--GGSI-----RPKPT---
+---SG---NPFHCELCG--------IPPGEASKLFTPTQKNP---NV----R
+>WP_179830556.1/871-979 RHS repeat protein [Variovorax sp. YR752]
+PLPDSAYVCRGGL----C-TADRFAGGSGVTID------SAG-KM--CRASVNS---AAG
+KS-VQELST--------GIP------NPKMGVTTVGDVRRL--GGDV-----VPDPT---
+---PK---NPDHCLMCG--------ITPAQAERLFTPVVPNP---NR-----
+>RKZ78628.1/45-154 hypothetical protein DRR19_26120 [Gammaproteobacteria bacterium]
+ALPSDAYACRGGT----C-TAKRFVSGSGVKLD------SQG-KL--SGVSVNS---APS
+QS-VKELTT--------TIP------NRQVGITTVAEIRKT--GGEV-----IPSGT---
+---PT---NPYHCMLSG--------ITPQTAEELFTPTIRNP---NV----K
+>MBN8787899.1/236-338 hypothetical protein [Terrimonas sp.]
+--PDDAKVVRGGK----N-TPEAIEAGTGIH---------PE-GV--KGVSVEC---G-S
+CS-VEELSK--------AIP------HGQVGVTTVGEVRKA--GGDV-----IKT-S---
+---GK---SPNHATLTG--------ISPEKTSELLTPTIKNP---SK----K
+>KQT28482.1/197-303 hypothetical protein ASG22_19975 [Chryseobacterium sp. Leaf405]
+--NEEIHVIRGGT----C-LACQFENGSGVIID------AKG-LL--NGVSVNS---AKG
+LS-ISDLSV--------GIP------NGKIGTTTVSQIKAL--GGKV-----IASPT---
+---KN---NPFHSTLSG--------ITAAQAEKLFNPIIKNP---LK-----
+>MBI3425800.1/1113-1222 RHS repeat-associated core domain-containing protein [Acidobacteria bacterium]
+VIPDEALVVRGGL----N-LPENFINGSKVFVD------AAN-QL--HGVSVTS---EAG
+VS-VAELSQ--------TVR------NGQIGVTTAREIRAA--GGAI-----FPSMR---
+--SAR---NPFHCTVCN--------LSPQEASKLFTPTRPNP---NK-----
+>MBI3411485.1/2-121 flavoredoxin [Planctomycetota bacterium]
+ALPDDALVVRGGE----N-LPESFALGSGVTVD------LSG-KV--QGVSVNA---APG
+LT-VTDLTAPNAKMGYPGIP------HNQVGVTTVGRIRAH--GGVV-----DPSPR---
+---KK---NPNHATLSG--------LTPEQASSLFRPTVKNP---RR----T
+>MBI5692759.1/2055-2167 RHS repeat-associated core domain-containing protein [Verrucomicrobia bacterium]
+RLPDSAIVVRGGI----N-SPQSIANGAGVVVG------ADG-RI--VGLSVQS---APG
+ES-LQVLAN------RVHVP------HNQIGVTTVGAIRAA--GGDV-----VVTPG---
+--------RGFHAEVQG--------LTPEKMSQLLS-IQPNP---NP----K
+>WP_191187582.1/1109-1216 DUF6443 domain-containing protein [Mucilaginibacter pankratovii]
+-FADEALVVRGGI----A-TPERIAASIGEH---------PS-GV--IGFSVEC---GT-
+CT-LEELGN--------GVP------HPQIGVTTVGDVRQA--GGDV-----IKTPS---
+---AR---SPNHATVTN--------LSPNAATELLTPPIKNP---NP----R
+>WP_223154833.1/281-389 pre-toxin TG domain-containing protein, partial [Aestuariibaculum sediminum]
+KLSDDVPVVRGGS----N-TPDRFDGGSGVFSRL-----SDK-SL--DGISVNS---KAN
+KS-IDALSV--------GIP------HNKIGVTTVGDVRKA--GGDV-----ISSPT---
+---KN---NPNHATMSI--------PNSKVASELME-IIKNP---NK-----
+>MBI3797223.1/2-121 flavoredoxin [Deltaproteobacteria bacterium]
+ALPDEALVVRGGQ----N-LPTNFAQGSGVQVE------TGG-KF--QGVSVNS---SSA
+VT-VQTLTAPNPQTGYPGIL------HTQIGVTTVGAVRAA--GGDI-----VPAPT---
+---RT---NPYHALLDG--------LTPEQASVLFQPPVKNP---NK----R
+>MBV7270741.1/218-329 hypothetical protein [Winogradskyella sp. WHY3]
+ALSDDALVVRGGS----N-TPDRFDGGSGVSSRL-----SDR-ML--DGISVNS---KTG
+ST-IEELSK--------GIP------HKKVGVTTVGAVRKA--GGDV-----ISSPT---
+---KY---NPNHATMSI--------PNSKTASSLMN-VIIKPIFNNQ-----
+>MBD2612831.1/2-107 flavoredoxin [Nostoc punctiforme FACHB-252]
+RIPDEALVVRGGR----N-LPEDIRRGTGTH---------PC-GV--TGISVQC---ALG
+LP-LKELAI--------NIR------NGQVGVTTVGEVRKA--GGDV-----IRT-S---
+---G----SPHHATLSG--------LTPEKISNLLTPTVPNP---AR----Q
+>MBI4924128.1/2022-2134 hypothetical protein [Devosia nanyangense]
+IIPEYQLVIRGGT----C-TLERFCEGSGITID------ANG-TL--QGISVQS---WPN
+TP-AGELSR------RQWVP------QNQIGISSVPIIQDV--GGSI-----VPDPT---
+---PT---NPYHAILSG--------LTPEQAVILFTPTFPNP---NP----K
+>WP_052116111.1/122-231 hypothetical protein [Lysobacter dokdonensis]
+RLPDAATVCRGGT----C-TAATFSNGTGVTLD------SQG-KL--QNVSVTS---SAT
+GD-VPVLSA--------TIK------HGKVGSTTVGDVRAA--GGDV-----VPTPR---
+---AH---NVDHCTLCG--------ITAEQAEALFK-VAPNP---NT----K
+>MBI1916066.1/3-109 flavoredoxin [Planctomycetota bacterium]
+RIPDEALVVRGGR----N-LPGDLRRGIATH---------PS-GV--TGASVEC---ADG
+LS-VEDLAA--------AIP------HGQVGVTTVGAIRAA--GGDV-----VRT-S---
+---GR---SPHHATLVG--------LSPEEVSRLLTPTIPNP---AR----K
+>WP_027402420.1/2-103 MULTISPECIES: hypothetical protein [Aphanizomenonaceae]
+KIPDEALVVRGGR----N-RPEDIQMGIGTH---------PS-GI--IGISIQC---EVG
+LS-IEELVK--------VIP------HGQIGVTTVGEVRKA--CGDV-----IRT-S---
+---GR---G-YHATLTG--------LTPEQISNLLTPTIPKP----------
+>WP_154663955.1/1-117 hypothetical protein [Escherichia marmotae]
+--ADTDLVCRGGT----C-LADQFTHGSGVSTN------ADG-TL--NGVSTQA---KPG
+AP-IEVLAQ--------PYK------NGTVGVTTVADIEKA--GGKI-----ILDGVFNS
+TNGTN---GSNHATVSG--------ITAEQAEVLFK-TEENP---VP----K
+>NQE32519.1/32-135 hypothetical protein [Microcoleus asticus IPMA8]
+IIPNEALVVRGGR----N-HPEDIQRAIGTH---------PS-GI--TGISVEC---AVE
+LS-VTELAL--------AIP------HRQVGVTTVAKVRSE--GGDV-----IRT-S---
+---GR---SLNHATLTG--------LTPEKASLLLIPTIPNP---S------
+>MBD2495334.1/4-110 MBD2495334.1 flavoredoxin [Nostoc sp. FACHB-280]
+KIPDEAIVIRGGR----N-RPEDIERGFGTH---------PI-GV--TGISVES---AIG
+LS-IEQLAA--------TIP------HGQIGVTSVGAVRAL--GGDV-----IRT-S---
+---GR---SPSHATLTG--------LTPQQISSLLTPTIANP---AK----A
+>WP_190816778.1/2-109 WP_190816778.1 flavoredoxin [Coleofasciculus sp. FACHB-1120]
+RISDEALVVRGGA----N-RPVDIQRGIGIHPS-------PS-GV--SGVSVQS---AAG
+VS-LAELAA--------AIP------HTQVGVTTVEEVRQA--GGDV-----IRT-S---
+---GR---SPYHATLTG--------LFPEQMSALLTPTIANP---AR----E
+>WP_133228749.1/3062-3166 pre-toxin TG domain-containing protein [Mucilaginibacter psychrotolerans]
+KIGDDATVVRGGL----N-KAKDIERGTGKH---------PS-GI--VGVSVEC---G-N
+CS-VKELSK--------DLP------HGSVGVTTAGKIREA--GGDV-----VRT-S---
+---GR---SPNHATVTG--------LSNEKASELLNPVIKNP---NK----Q
+>RKU25685.1/7-112 flavoredoxin [Candidatus Poribacteria bacterium]
+-IPDDALVIRGGK----N-HASDIQRGTGTH---------PN-GV--TGESVEC---AED
+VP-VTELAK--------NIP------HGQIGRTTVAEVRKA--GGDV-----VRT-S---
+---GR---SPYHATLTG--------LTPEQVSKLLTPTIPNP---GR----E
+>MBI2804405.1/3-109 flavoredoxin [Planctomycetota bacterium]
+PIPDEAYVVRGGQ----N-RPADLRRKIGTH---------PS-GV--TGLSVEC---DVG
+MT-IEELAV--------FVP------HGQFGVTTVGEIRAA--GGDV-----IRT-T---
+---GK---SPHHATLVG--------LSADEASRLLNPTQANP---AK----K
+>WP_006296393.1/258-360 hypothetical protein, partial [Hylemonella gracilis]
+DIPDSTIVCRGGS----C-TADAFKNGRGVTSD------AAG-NL--SGIST-----GIG
+DS-VASASQ--------NIP------HTKVGVTTVGDIRAA--GGQV-----DND-----
+--------HGNHANVSG--------ITAEQAADLFKNVVKNP---NK-----
+>WP_101201385.1/104-213 polymorphic toxin type 10 domain-containing protein, partial [Paraglaciecola sp. MB-3u-78]
+ALSDSALVARGGA----NITPQSIENATSTH---------PS-GV--TGFSAQC---NGG
+TC-LNELGA--------NIP------NGQMGVTTVGDVRAA--GGDV-----VVTSG---
+--------IGNHATVTG--------LERNTASQLLSPSVPNP---VP----K
+>MBL0028891.1/18-131 flavoredoxin [Rhodanobacteraceae bacterium]
+RIGDDALVVRGGSAEGAN-SVQGIATGTGTH---------PQ-GV--TGFSAES---ANG
+AT-LCELCT--------NIN------HNQVGVTTAGEIRAA--GGDV-----VAT-G---
+---GR---SPNHATVTG--------LTPEKANSLLTPTQANP---VP----K
+>WP_223250373.1/132-243 RHS repeat-associated core domain-containing protein [Lysobacter maris]
+RLADGALVVRGGSTAGAN-SAEGLAKGIGTH---------PA-GV--TGFSAES---ANG
+AS-LCQLCT--------NVQ------HNQVGVTTVGQVRAA--GGDV-----IST-G---
+---GR---SPNHATVTG--------LAPEKAAELMA-VQPNP---VP----A
+>VUQ38996.1/260-372 VUQ38996.1 tRNA(Glu)-specific nuclease WapA [Stenotrophomonas maltophilia]
+RLANSALVVRGGSAQGAN-SAAGIGKGTGQH---------PA-GP--FGFSAES---ANG
+SS-FCQLCS--------NIT------HNQVGVSTVGQVRAA--GGDV-----IST-G---
+---GV---SPTHATVVG--------LEPEAASRLFSPTVSNP---VP----A
+>WP_143137973.1/1-97 hypothetical protein [Burkholderia ubonensis]
+--------------------AENFENGSGATQN------LDG-ML--NGASVQS---RNN
+GT-VQTLSI--------PFK------NGQVGVTTVADIEAA--GGKI-----VYDGT---
+---SH---NPNHATVSG--------MTARKLQGLFMPTIKNP---AK----A
+>NHA16195.1/10-123 flavoredoxin [Thioalkalivibrio sp. XN279]
+RIADDSLVVRGGSPANAN-SPGGIAAGTSTR--------GDN-GI--TGFSAES---ANA
+AS-LCELCA--------NVP------NNQVGVTTAGQVRAA--GGEV-----TAT-P---
+---GR---SPNHATVSG--------LTPEAASEILTP-MRNP---VP----K
+>WP_223974180.1/2-72 hypothetical protein [Rivularia sp. IAM M-261]
+-----------------------------------------------------S---AIG
+LS-IGELAA--------KIP------HGQVGVTTVGEIRAI--GGDV-----IRT-S---
+---GR---SPYHATLTG--------LTPQQISNLLTPTIYNP---AK----L
+>WP_015207870.1/2-112 hypothetical protein [Cylindrospermum stagnale]
+TADDNAIVIRGGR----I-SQDNFINGGTLD--------INN-RL--NDVSVQC---SGT
+TA-VKNVNIATIALWRGPIP------AGPVGATTVKKIRQK--GGNV-----ILSPGV--
+--GGG---GPNHCTLFG--------ITPKDAAEIFTQY--------------
+>WP_230526730.1/144-233 hypothetical protein [Lysobacter sp. A6]
+---------------------QKIAEGTKLH---------PD-GV--LGFSAQS---AAD
+AT-LCQLCA--------SIP------NGQVGVTTVGQVRQS--GGDV-----IST-S---
+---GQ---SSSHVTVTG--------LDPNTAQGLFR-IEPNP---AK----Q
+>WP_152289378.1/3-70 hypothetical protein [Chryseobacterium viscerum]
+------------------------------------------------------------
+LS-VEQLSS--------GIP------NGSVGTTTVGEIEAV--GGNV-----EPSPT---
+---NN---NPNHATLSG--------ITPEQAQQLFSPTIKNP---SK----S
+>MBM3242357.1/38-156 hypothetical protein [Candidatus Poribacteria bacterium]
+PGGRSDIVFRGGI----A-TPQQLQKGIAEHAR------VEG--L--TGFSVQS---AHG
+KT-INELAA------AGQFR------NKQISVTTVGELEDA--GWSLGFNV-RVIPS---
+---PG---RGFHNTVTTPNP--LPDDLAEALSEVFRQ-MPNP---SP-----
+>MBK8252951.1/335-449 RHS repeat-associated core domain-containing protein [Polyangiaceae bacterium]
+AIGDDANVVRGGI----A-TPDQIAKGTGPHRN------VPD--L--SGFSAQS---RNG
+AT-VTELAA-NGGVGGGPFP------HGKVSVTTAGKLRGI--GCEV-----VPSPG---
+-------AGANHVTVVPGG------ASPAEISQQFVV-ISNP---GK-----
+>WP_157652057.1/9-85 hypothetical protein [Burkholderia ubonensis]
+------------------------------------------------------------
+GP-IYSLAT--------PFR------NGLVGVATVADIEAA--GGTI-----TLDGKLNS
+AGGTH---LANHATVDG--------ITAEQAEKLFGPPKENP---VP----K
+>MBI4613834.1/2287-2407 RHS repeat protein [Planctomycetota bacterium]
+-------VVRGGM----A-TPENLQAGSAEHRG------VPG--V--LGFSVQS---APG
+VS-VEDLAR------AGRFP------NVTISVTTVARLQAA--GAAVGVVI-LVVPS---
+---PG---AGYHATVTTPVP--LSFELATALSCAFDR-RPNP---YPHHPGR
+>HBE78587.1/3086-3194 hypothetical protein [Firmicutes bacterium]
+--PDNAVVVRGGE----S-KAGDLIKNQTKGSD--------------GTLSANG---GVG
+LS-ERELSI--------GLP------QNKISITTVGELRAK--GYDV-----VSSPT---
+---AN---NPNHVSIITPGGQVLTDAEAANLQSTFTI-KLNP---SK-----
+>WP_066196744.1/2-114 hypothetical protein [Bacillus sp. FJAT-27225]
+KMNNEAYVVRGGV----C-AAETLIKAQERDPQ--------------YHISVNS---ANG
+YS-VKELCK------YGPIE-----GYKKVSVTTVGNIRLN--KWEV-----ISSPI---
+---EDPLPNPVHASIECFGL--LDSITSQKLSTLFET-IFNP----------
+>MBV8129421.1/22-134 hypothetical protein [Planctomycetaceae bacterium]
+RLPDEAFVVRCGL----P-PFRGRPLFTACDDH------PDG--V--YGFSVQS---AAA
+LT-VEQLAS--------ACR------NKTVGATTVARIREM--GFDV-----VPTSG---
+--------QWWHATVVVPKG--WSQAEAEGLSLLFEP-ISNP---AA----R
+>HAP74486.1/2-82 hypothetical protein [Acidimicrobiaceae bacterium]
+-------LVRGGL----N-GPEKFTGGTGVVQH------ADG-TL--SDVSVFS---GST
+VE-DAVRNS--------PIK------NGQVGSATAGEVRAA--GGTV-----TSTPS---
+---GP---WANHCSI-------------------------------------
+>WP_109102337.1/1313-1424 RHS repeat-associated core domain-containing protein [Caulobacter endophyticus]
+---KPQYVVRGGI----A-TPDALIKGTTPVSF-------PG-VS--SGFSATS---APR
+MS-VEQLAH------AANYP------NGSISYTTVQQLRSI--GVNV-----VNSPT---
+---GS---NKLHVTVSVPYP--LSREQAEKVSAQFKV-RPNP---AK-----
+>MBP2010825.1/2728-2839 MBP2010825.1 RHS repeat-associated protein [Cohnella suwonensis]
+--PGDAVIVRGGV----A-KPGDLIANQKLDTK-------------NNTLSANG---GMG
+VS-NETLAA--------GLK------NNQISVVSVGKLNDA--GYKV-----VATPT---
+---AN---NPYHVSIYTPGGAKLTDAEAARLSSQFTQ-VPNP---TLNR---
+>WP_068536386.1/72-184 hypothetical protein [Paenibacillus glacialis]
+-LDDDALVVRGGQ----S-SPDNLLLNQNKDAR--------------GHISCNT-----G
+SNNLDELST-----TLEAFK------NGSLTVTTVGDIRRLGEGWDV-----IKDPT---
+---KN---NSLHGSIIPPNTP-LTKEQAEALSRIFNI-VPNK---WK-----
+>NUJ03956.1/11-122 NUJ03956.1 hypothetical protein HUO01_29035 [Paenibacillus alvei]
+KLPDNTTIVRGGE----S-KAGDLQKNQAKDTK-------------GNTLSANG---GVG
+FT-ERELSQ--------GLP------QNKISVTTAGELRAK--GYDV-----VSTPT---
+---AN---NPNHVSIVTPSGKILTDAEAANLQRMFTV-KPNP---SK-----
+>MSP00160.1/6-115 hypothetical protein [Acetobacteraceae bacterium]
+-------VVRAGI----A-RPSDLIVGTREHRD------VPG--L--FGFSVQS---WPG
+VT-VEELAR------AGRLP------HARISVTTRDTLWWL--GFEV-----VLSTP---
+---GK---GDYHATVRAPFP--LPRDIATRLGMVFTR-RRNP---WP----V
+>OGS50447.1/129-231 hypothetical protein A3K65_08695 [Euryarchaeota archaeon RBG_16_68_12]
+-AGHDDVVVRGGK----N-RPQDLQKNLD----------RTG-GV--SGLAGKS---EDD
+LA-QELAKR--------GRW------DGKYGTTTVAEIRKK--GGDV-----FYDNT---
+-------LDPQHVTIVPGPG--GI----DELSALFRPVKDNP----------
+>OGZ45577.1/17-119 hypothetical protein A2756_01000 [Candidatus Ryanbacteria bacterium RIFCSPHIGHO2_01_FULL_48_27]
+KLPDSTLVCRGGA----C-TAEEFLKGTGVKQS------TDG-KL--SDVSVYI---EMN
+KEGREGLLG--------MLPARF---ERKGQFTTLGELRSS--HATF-------NPG---
+---GK---DPNHFGVGN--------LTVKQHINLFN----------------
+>MCA1586192.1/40-113 hypothetical protein [Acidobacteria bacterium]
+---------------------------------------------------VFM---DPA
+VP-LFELAR--------SCR------NNQVRRTTVGAILKA--GGRI-----RES-----
+---SG---PPHHHDLYG--------LTPQEFDAILGVPEPNP---VP----R
+>WP_075016837.1/2196-2297 polymorphic toxin-type HINT domain-containing protein [Streptomyces rubidus]
+QVPDDFIIARGGT----KPMPG-------------------------PGETFSG---NMG
+SD-ELEAGG--------GLP------HGQIRVTTAGAIRAA--GGTV-----DYLPEPV-
+ADGSA--INYNHVDVTMGDA---D---------PFSELQPNP---VP----K
+>MBX9585247.1/22-120 hypothetical protein [Gemmataceae bacterium]
+VIPDEYVVVRGGT----KPLPP-------------------------PGTVFST---SVG
+PT-LEAAGC--------GVQ------HGQLRATTAGAIRAA--GGVV-----EWVPQP--
+SPRGT--MNNQHAHVTEPGP---T---------VFSELAPNP---VP----R
+>MBN9064178.1/151-259 RHS repeat-associated core domain-containing protein [Hyphomicrobiales bacterium]
+-------VVRGGA----G-ASKTFETGTALTQN-------------GYGFSVQT---APG
+VS-VQELAK------GGRFP------NAQISVSTVHLLQKI--PGVV-----VRWPT---
+---PG--AGDYHGTVNIPYP--PPAGIFNLISSQFQQ-QRNP---FP----V
+>WP_188429707.1/2-130 hypothetical protein [Ornithinimicrobium tianjinense]
+-LADDALVVRGGI----ARDASSVADRVEDAIE------SDG--V--AVLSVYAGQASPT
+ED-QSDLLL--RICRTADLR------HGQVQTARAGDLRAA--GFEIRHE--VADGE---
+--------QPNHYHVYFQVP--MTELQAQVFIDCFDGPKPNP---RP----A
+>WP_173153295.1/220-300 Hint domain-containing protein [Phytohabitans suffuscus]
+-------------------------------------------------VEFSG---SMG
+TS-VEDAAS--------AVP------HNQVRVTTAGEIRAA--GGTV-----DYAPEP--
+GLGGA--MNYKHVDVTLGDA---N---------PFSDPVPNP---VP----K
+>WP_226654910.1/15-129 hypothetical protein [Leifsonia sp. LS1]
+PLPDDAIVVRGGI----M-LRASVEAAAVTNYR------DYG--F--YGVSTFA---IPG
+LT-ASEIWE--------KSPKIAPPNYRRIRVTTAGAVRAA--GFEL-------SPT---
+-------WESDHFDIVLDNP--PDETTWSKLDELFSPPTNQP----------
+>MBL8260845.1/1509-1606 RHS repeat protein [Xanthomonadaceae bacterium]
+--PNQDVIVRGGI----GDKPE-------------------------TGTTYSG---SQG
+RT-VEEAGR--------GVP------NGQLRETTAGQIRQN--GGTV-----EVKPEP--
+SRSGN--INYQHVNVREGGA---A--------SRLGPLRENP---VP----K
+>MBV8987446.1/8-137 hypothetical protein [Solirubrobacterales bacterium]
+ILPDEAVVVRGGILG--G-GVEELQEQAEDEFTRLLVEGDPD-PV--YGLSVCS---LPN
+MT-ADEIAV---AVGPERLP------HARMRTTTVEALRAC--GYEV-----VPSAW---
+---RG------HATIVLRGP--ATEEDWHNLQESFGEPMDNP---VG----R
+>WP_102395082.1/47-144 hypothetical protein [Enterovibrio norvegicus]
+-------VIRAGK----C-SATAFKNGSGVHVA------GDGDTI--SGLSVNC---TTV
+TSDKANYGA-----YLTGIG-----GYGQYCVSTVAGLNKI--GAKV-----VTDPI---
+---PN---NADHCLLSG--------KASKIAGKL------------------
+>MBS1790163.1/6-103 hypothetical protein [Acidobacteria bacterium]
+--IDLVIVVRGGA----SNLPP-------------------------PGTIFSG---AVG
+ET-LEEAAA--------FVP------HGTIRFTTVGAILAG--GGSV-----ALKPEM--
+TRSGK--INERHVDVIEGLS---P--------STFSDAFPNP---VP----K
+>WP_167222901.1/44-139 hypothetical protein [Massilia rubra]
+-----GLVIRGGT----C-SADAFKKGAEL--S------QDD-TI--TNLSANC---TSA
+TNDKTKFAA-----YTAGIP------GPNYCVGTLAAVEKN--SGKV-----KSDPK---
+---TG---NPLHCLVSG--------KASKLAGVL------------------
+>KQN96007.1/59-170 hypothetical protein ASF12_24540 [Paenibacillus sp. Leaf72]
+--PRNATIVRGGS----A-QPKHLIENQELDQK-------------NNTLSANG---GLG
+VS-NAALSP--------NLK------NKQISVVTVGQLNDA--GYKV-----VATPT---
+---VGANPNPYHVSIYTPGGRQLTETEAANLSKQFTQ-VPNP---N------
+>WP_170036459.1/631-702 WP_170036459.1 RHS repeat-associated core domain-containing protein [Longimicrobium terrae]
+------------------------------------------------------------
+ST-LDEAAA--------AVP------HGTIQATTAGEIRAA--GGTV-----THAPEM--
+TRGGV--LNERHVDICKGSG---P--------CPFGQQTPNP---IP----K
+>WP_075343587.1/57-153 hypothetical protein [Tenacibaculum agarivorans]
+--------VRGFSSC-DN-ILQKIEDATSPHIG------PNE-PL--VNLSVSA---SNV
+LT-YKKLAK--------NLP------HNFYACATLGELRNK--NTHISI---VSDPT---
+---NE---DPNHCLISN--------ITPKQLSSVM-----------------
+>PKQ31645.1/1892-1990 hypothetical protein CVT62_07305 [Actinobacteria bacterium HGW-Actinobacteria-2]
+--PDETVIARGGV----NDIPG-------------------------PGEVFSG---AQG
+KS-VEEAAA--------GLK------HGTMRTTTAGDIRRS--GGTV-----EAAPEFD-
+PRVGE--VNYQHVDVCLGPG---V--------CKWSDLTPNP---VP----K
+>MBS0219459.1/233-350 hypothetical protein [Proteobacteria bacterium]
+-----QYVLRGGL----A-APANLQQGVGVVTG-------YE-PM--TGFSVTS---APN
+MT-LDQLAK------YAQYP------NAMISFTTTRDLANM--GYPV-----APTPLN--
+RPDGP---DPLHSTVQTPMP--LPDAEAQAISKAFARKMQNL---YK----R
+>MCC6739388.1/248-361 RHS repeat-associated core domain-containing protein [Planctomycetia bacterium]
+--------VRGGL----S-APETLIENAAKSVGE---------AR--TGLSCQT---APG
+MS-VEQLAR--------ELPY----SPKWITVSTPEELAAA--GKSVGYDVEVVAPT---
+---PG---PGKHGTITTPAA--LPEDLARALHKAFKP-KPNPWW-------K
+>WP_141622421.1/31-127 hypothetical protein [Lysobacter alkalisoli]
+-------IVRGYNGGPPC-DPQTIGDGSAPKAG------PDE-DM--SNLSVSC-SADRN
+VG-WTQLRA--------NLP------NPHACVATLGDLRKQ--RREVTI---VRDPT---
+---DD---NPHHCVLST--------ITPRQ----------------------
+>VUN54587.1/129-227 VUN54587.1 hypothetical protein CPDIOOCO_03669 [Stenotrophomonas maltophilia]
+--PNANVIVRGGA----GEMPA-------------------------QGSAFSA---SQG
+RS-VQEAGA--------GVP------HGTIRTSTAGEIRSG--GGKV-----DVAPEP--
+TRAGN--VNFQHVNVAEGRG---A-------PSSFSPPQSNP---VP----K
+>HIF10387.1/51-144 hypothetical protein [Sneathiellales bacterium]
+--------VRGVNGG-FC-SAAAIGNGNDPRVK------PTE-DL--TNLSVSC-SDNKS
+DT-AKDLQQ--------YLT------NANICYSTLRDLRKS--WREVVV---VRDPT---
+---AA---NPYHCLLGT--------ITPNE----------------------
+>WP_082591201.1/218-314 RHS repeat-associated core domain-containing protein [Stenotrophomonas pavanii]
+--PNAGVIVRGGA----GEMPA-------------------------PGGVFSG---SQG
+RS-IEEAAA--------GVP------HGTIRSTTAGEIRAG--GGKV-----DVAPEP--
+TKSGQ--INYQHVNVREGAG---G---------SFGSPQSNP---VP----K
+>MCC6227147.1/13-122 hypothetical protein [Microthrixaceae bacterium]
+--DDAVVVIRAGV----L-SEQSVEDAANRCLE------GYG--L--LGISVEG---AMD
+LS-VPEACR--------TSPRLR--RYRQVRLSTFGRLRAA--GFPV-----VAT-----
+-------FDAPHYTIALSD---LSEVTLGRLLRCFDEPIPNP----------
+>KJS53024.1/405-505 hypothetical protein VM98_27755 [Streptomyces rubellomurinus subsp. indigoferus]
+--PDDYIIIRGGQ----SPMPG-------------------------AGVEFSG---SMG
+TT-LNEAGA--------GVP------HGSLRATTAGAIRAA--GGTV-----EYAPEPIA
+GEGSA--LNYNHLNVKLGSG---D---------SFGAIEANP---VP----K
+>MBY0513590.1/25-120 hypothetical protein [Gemmataceae bacterium]
+---DDYVVVRGGT----SPLPG-------------------------PGVVFSC---STG
+PT-LEAAAC--------AVP------YGQMRATTAGAIRAA--GGTV-----AWKAEF--
+SHRRT--MNKQHVHVAEPGA---T---------TFGGLRPNP---AP----K

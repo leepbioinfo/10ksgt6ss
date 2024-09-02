@@ -1,0 +1,312 @@
+Query         FD01852914_04161 RHS repeat family protein
+Match_columns 114
+No_of_seqs    18 out of 21
+Neff          3.17548
+Searched_HMMs 86581
+Date          Tue Feb 27 19:04:09 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/6433129.hhr -oa3m ../results/6433129.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 PF06169.16 ; DUF982 ; Protein   59.2      30 0.00034   22.7   3.3   27    8-35      5-31  (72)
+  2 PF15535.10 ; Ntox37 ; Bacteria  57.8      15 0.00017   25.7   1.8   36   74-111    34-70  (73)
+  3 2KPQ_A Uncharacterized protein  54.0      33 0.00038   24.3   3.0   27    8-35     19-45  (100)
+  4 PF18075.5 ; FtsX_ECD ; FtsX ex  52.0      50 0.00057   21.3   3.4   31    5-35     17-47  (90)
+  5 6WRU_H uL25; antibiotic, tediz  37.1 1.1E+02  0.0012   21.8   3.5   29   70-112    75-104 (107)
+  6 6TPI_C Cell division protein F  35.4 1.3E+02  0.0015   20.7   3.5   31    5-35     21-51  (110)
+  7 1PNO_B NAD(P) transhydrogenase  31.1 1.8E+02  0.0021   23.1   4.1   70   10-84      1-71  (180)
+  8 6HE6_A Cell division protein F  30.6 1.4E+02  0.0016   21.2   3.2   30    6-35     44-73  (117)
+  9 PF15517.10 ; TBPIP_N ; TBP-int  30.3 1.5E+02  0.0017   23.2   3.5   32   65-112    14-45  (100)
+ 10 5CV0_B Methylmalonic aciduria   30.0 1.6E+02  0.0018   23.4   3.7   50   29-82     57-129 (192)
+ 11 PF18472.5 ; HP1451_C ; HP1451   28.6      78  0.0009   22.8   1.7   11   25-35     39-49  (67)
+ 12 PF12021.12 ; DUF3509 ; Protein  26.2      95  0.0011   22.6   1.8   13   25-37      2-14  (88)
+ 13 1OTR_A protein Cue2; PROTEIN-P  24.8 1.4E+02  0.0016   18.4   2.1   16   21-36      3-18  (49)
+ 14 PF07129.15 ; DUF1381 ; Protein  24.7      91   0.001   20.8   1.3   23    5-27     19-41  (44)
+ 15 PF18847.5 ; LPD29 ; Large poly  24.4 1.4E+02  0.0016   21.0   2.3   15   23-37      8-22  (89)
+ 16 PF04591.16 ; DUF596 ; Protein   23.9 1.3E+02  0.0015   21.2   2.1   15   20-34     19-33  (70)
+ 17 PF20461.2 ; DUF6714 ; Family o  23.3 1.6E+02  0.0019   21.8   2.5   22   21-42      1-22  (163)
+ 18 4N8N_A Cell division protein F  22.8 2.3E+02  0.0027   19.5   3.1   30    6-35     41-70  (115)
+ 19 PF02251.22 ; PA28_alpha ; Prot  21.8 1.5E+02  0.0018   18.2   1.9   13   22-34     15-27  (60)
+ 20 PF11184.12 ; DUF2969 ; Protein  21.6 2.5E+02  0.0029   19.9   3.1   22   12-33     49-71  (74)
+ 21 PF21796.1 ; Cac1_C ; Chromatin  21.5 1.6E+02  0.0018   19.1   2.0   18   21-38     14-31  (56)
+
+No 1
+>PF06169.16 ; DUF982 ; Protein of unknown function (DUF982)
+Probab=59.21  E-value=30  Score=22.72  Aligned_cols=27  Identities=11%  Similarity=0.176  Sum_probs=0.0  Template_Neff=8.300
+
+Q ss_pred             hccCCCCCEEEEccHHHHHHHHHHHCCC
+Q FD01852914_041    8 LRTGPNKTVVRVKTKKDAQELLDAAFPG   35 (114)
+Q Consensus         8 L~~g~~gt~V~V~S~kEA~~lL~~AFP~   35 (114)
+                      +..+..|... |.|..||-+.|...+|+
+T Consensus         5 v~~~~~g~~~-I~~~~~A~~~L~~~Wp~   31 (72)
+T Q1QIU5_NITHX/8    5 AKLDETSHYT-IRSAWEGLEYLLRYWRG   31 (72)
+T ss_pred             EEeCCCCcEE-EcCHHHHHHHHHHhCCc
+
+
+No 2
+>PF15535.10 ; Ntox37 ; Bacterial toxin 37
+Probab=57.78  E-value=15  Score=25.68  Aligned_cols=36  Identities=31%  Similarity=0.552  Sum_probs=0.0  Template_Neff=6.100
+
+Q ss_pred             ccCCCCeEeecCCCCCCCC-cCCCeeEEEcCCCCEEEEE
+Q FD01852914_041   74 IDSKTGRVYGHDDPKGNGH-GSLPHINIKRADGTLVRID  111 (114)
+Q Consensus        74 ~dp~TG~iyGH~~p~g~~H-~~~PHINI~~~dG~k~~I~  111 (114)
+                      +||+||.-+ |.++.+..| ..-||+.+.+++| ...|+
+T Consensus        34 ~npktg~s~-~~d~~~~g~~~~gPHwDv~~~~g-~~~~~   70 (73)
+T D6YV35_WADCW/2   34 INPKNGRQF-HIDPKNSGRYREPNHVDVSRPEK-YNGSL   70 (73)
+T ss_pred             eCCCCCCcc-ccCCCcCCCCCCCCceeccCCCc-cccCC
+
+
+No 3
+>2KPQ_A Uncharacterized protein; Protein, Structural Genomics, PSI-2, Protein Structure Initiative, Northeast Structural Genomics Consortium, NESG, UNKNOWN FUNCTION; NMR {Agrobacterium tumefaciens str. C58}
+Probab=53.99  E-value=33  Score=24.27  Aligned_cols=27  Identities=15%  Similarity=0.204  Sum_probs=0.0  Template_Neff=7.800
+
+Q ss_pred             hccCCCCCEEEEccHHHHHHHHHHHCCC
+Q FD01852914_041    8 LRTGPNKTVVRVKTKKDAQELLDAAFPG   35 (114)
+Q Consensus         8 L~~g~~gt~V~V~S~kEA~~lL~~AFP~   35 (114)
+                      +..+ .|...+|.|..||-++|...+|.
+T Consensus        19 v~~~-~g~~~~I~s~~eA~~~L~~~WP~   45 (100)
+T 2KPQ_A           19 ISLQ-NGAPRIFNGVYEAFDFLQHEWPA   45 (100)
+T ss_dssp             EECT-TSCEEEEEEHHHHHHHHHHCCSC
+T ss_pred             EEcC-CCCcEEECCHHHHHHHHHhhCCc
+
+
+No 4
+>PF18075.5 ; FtsX_ECD ; FtsX extracellular domain
+Probab=51.96  E-value=50  Score=21.35  Aligned_cols=31  Identities=26%  Similarity=0.275  Sum_probs=0.0  Template_Neff=9.900
+
+Q ss_pred             hhhhccCCCCCEEEEccHHHHHHHHHHHCCC
+Q FD01852914_041    5 IDGLRTGPNKTVVRVKTKKDAQELLDAAFPG   35 (114)
+Q Consensus         5 ik~L~~g~~gt~V~V~S~kEA~~lL~~AFP~   35 (114)
+                      ...|+.-+.=..|+..|.+||-+.+.+.|++
+T Consensus        17 ~~~l~~~~~V~~v~~~s~~~a~~~~~~~~~~   47 (90)
+T E3CVP0_9BACT/5   17 AQRVRRLPGVKAVEIITAEKALERLKARLGN   47 (90)
+T ss_pred             HHHHHcCCCeeEEEEEcHHHHHHHHHHHHcc
+
+
+No 5
+>6WRU_H uL25; antibiotic, tedizolid, oxazolidinone, RIBOSOME; HET: U7Y; 3.1A {Staphylococcus aureus}
+Probab=37.06  E-value=1.1e+02  Score=21.83  Aligned_cols=29  Identities=21%  Similarity=0.359  Sum_probs=0.0  Template_Neff=8.100
+
+Q ss_pred             eeccccCCCCeEeecCCCCCCCCcCCCeeEEEcCC-CCEEEEEE
+Q FD01852914_041   70 KDYPIDSKTGRVYGHDDPKGNGHGSLPHINIKRAD-GTLVRIDI  112 (114)
+Q Consensus        70 kDY~~dp~TG~iyGH~~p~g~~H~~~PHINI~~~d-G~k~~I~I  112 (114)
+                      ++++.||-|+++.              ||+...-+ |.++++.|
+T Consensus        75 k~vq~~p~~~~i~--------------Hvdf~~v~~~~~v~v~V  104 (107)
+T 6WRU_H           75 ADYQFDPLKNQIT--------------HIDFLAINMSEDVLLKY  104 (107)
+T ss_dssp             EEEEEETTTTEEE--------------EEEEEEC----------
+T ss_pred             EEEEEcCCCCcEE--------------EEEEEEeCCCCcEEEEE
+
+
+No 6
+>6TPI_C Cell division protein FtsX; Complex, PROTEIN BINDING; 2.1A {Escherichia coli (strain K12)}
+Probab=35.41  E-value=1.3e+02  Score=20.72  Aligned_cols=31  Identities=13%  Similarity=0.000  Sum_probs=0.0  Template_Neff=9.300
+
+Q ss_pred             hhhhccCCCCCEEEEccHHHHHHHHHHHCCC
+Q FD01852914_041    5 IDGLRTGPNKTVVRVKTKKDAQELLDAAFPG   35 (114)
+Q Consensus         5 ik~L~~g~~gt~V~V~S~kEA~~lL~~AFP~   35 (114)
+                      ...|+.-+.=..|+..|.+||-+.+.+.|+.
+T Consensus        21 ~~~l~~~~~V~~v~~~s~eea~~~~~~~~~~   51 (110)
+T 6TPI_C           21 VAQLQAEQGVEKVNYLSREDALGEFRNWSGF   51 (110)
+T ss_dssp             HHHTTTCTTEEEEEEECHHHHHHHHHHHSSC
+T ss_pred             HHHHHhCCCccEEEEECHHHHHHHHHHhhCc
+
+
+No 7
+>1PNO_B NAD(P) transhydrogenase subunit beta; Nucleotide binding fold, NADP, oxidoreductase; HET: NAP; 2.1A {Rhodospirillum rubrum} SCOP: c.31.1.4, l.1.1.1
+Probab=31.12  E-value=1.8e+02  Score=23.14  Aligned_cols=70  Identities=23%  Similarity=0.252  Sum_probs=0.0  Template_Neff=7.400
+
+Q ss_pred             cCCCCCEEEEccHHHHHHHHHHHCCCCeecCCCCCCCcc-hHHHHhHHHHhhcCCccceeeeeccccCCCCeEeec
+Q FD01852914_041   10 TGPNKTVVRVKTKKDAQELLDAAFPGAQKVKGIGSQDAI-GVRKKNKMDQFKRNDGKVRYRKDYPIDSKTGRVYGH   84 (114)
+Q Consensus        10 ~g~~gt~V~V~S~kEA~~lL~~AFP~aqKv~G~G~k~~~-~~r~k~~~k~~k~~~~~~~YHkDY~~dp~TG~iyGH   84 (114)
+                      .|+...+++-.|.+|+-++|..|= ..--|+|-|-..++ +..-....+.++..|.    .-.|.+.|.-|++-||
+T Consensus         1 ~~~~~g~~~~i~~~d~a~~L~~A~-~ViIvPGyG~a~aqAq~~~~~l~~~L~~~g~----~v~~~ihp~agr~pg~   71 (180)
+T 1PNO_B            1 SGHIEGRHMAGSAEDAAFIMKNAS-KVIIVPGYGMAVAQAQHALREMADVLKKEGV----EVSYAIHPVAGRMPGH   71 (180)
+T ss_dssp             ---CBTTBEECCHHHHHHHHHTCS-EEEEEECHHHHHHTCHHHHHHHHHHHHHTTC----EEEEEECTTSSSSTTH
+T ss_pred             CCCcccceeecCHHHHHHHHhcCC-cEEEEcCchHHHHHHHHHHHHHHHHHHHCCC----EEEEEEcCCCCCCCCc
+
+
+No 8
+>6HE6_A Cell division protein FtsX; cell division, MEMBRANE PROTEIN, cell cycle; HET: CAT; 2.0A {Streptococcus pneumoniae}
+Probab=30.55  E-value=1.4e+02  Score=21.24  Aligned_cols=30  Identities=20%  Similarity=0.246  Sum_probs=0.0  Template_Neff=8.600
+
+Q ss_pred             hhhccCCCCCEEEEccHHHHHHHHHHHCCC
+Q FD01852914_041    6 DGLRTGPNKTVVRVKTKKDAQELLDAAFPG   35 (114)
+Q Consensus         6 k~L~~g~~gt~V~V~S~kEA~~lL~~AFP~   35 (114)
+                      ..|+.-|.=.+|+..|.+||-+.+.+.|+.
+T Consensus        44 ~~l~~~p~V~~v~~~s~eea~~~~~~~~~~   73 (117)
+T 6HE6_A           44 DSLKNMSTVKSVTFSSKEEQYEKLTEIMGD   73 (117)
+T ss_dssp             HHHHTCTTEEEEEEECHHHHHHHHHHHSSS
+T ss_pred             HHHhCCCCeEEEEEeCHHHHHHHHHHHhcc
+
+
+No 9
+>PF15517.10 ; TBPIP_N ; TBP-interacting protein N-terminus
+Probab=30.31  E-value=1.5e+02  Score=23.25  Aligned_cols=32  Identities=28%  Similarity=0.409  Sum_probs=0.0  Template_Neff=2.400
+
+Q ss_pred             cceeeeeccccCCCCeEeecCCCCCCCCcCCCeeEEEcCCCCEEEEEE
+Q FD01852914_041   65 KVRYRKDYPIDSKTGRVYGHDDPKGNGHGSLPHINIKRADGTLVRIDI  112 (114)
+Q Consensus        65 ~~~YHkDY~~dp~TG~iyGH~~p~g~~H~~~PHINI~~~dG~k~~I~I  112 (114)
+                      +|||-.||.|+-...++.|                |-.-.|-+++|.+
+T Consensus        14 ~VR~LDDyhW~I~~d~I~G----------------~HKKS~~~v~I~v   45 (100)
+T Q8U365_PYRFU/3   14 KVRTIDDFHWHISDNLIHG----------------IHKKSGLRLEIRI   45 (100)
+T ss_pred             heeeeeeeeEEEeCCEEEE----------------EEccCCCeEEEEE
+
+
+No 10
+>5CV0_B Methylmalonic aciduria and homocystinuria type D protein, mitochondrial; Vitamin B12, Nitro-FMN-reductase, OXIDOREDUCTASE; 1.9A {Homo sapiens}
+Probab=30.01  E-value=1.6e+02  Score=23.45  Aligned_cols=50  Identities=26%  Similarity=0.519  Sum_probs=0.0  Template_Neff=7.700
+
+Q ss_pred             HHHHCCCC-----------eecCCCCCCCcc--hHHHHhHHHHhh----------cCCccceeeeeccccCCCCeEe
+Q FD01852914_041   29 LDAAFPGA-----------QKVKGIGSQDAI--GVRKKNKMDQFK----------RNDGKVRYRKDYPIDSKTGRVY   82 (114)
+Q Consensus        29 L~~AFP~a-----------qKv~G~G~k~~~--~~r~k~~~k~~k----------~~~~~~~YHkDY~~dp~TG~iy   82 (114)
+                      |...||+.           ||..-.-.....  ...+.+..+.|-          ....   |--|| |||.||+.+
+T Consensus        57 ~~~lFP~~~~~~ltvI~v~qkt~~dl~~~~~~~~~Erd~l~~~Fv~~a~~i~~~L~~~G---yWaDf-idP~sG~p~  129 (192)
+T 5CV0_B           57 FESLFPEVANGKLMILTVTQKTKNDMTVWSEEVEIEREVLLEKFINGAKEICYALRAEG---YWADF-IDPSSGLAF  129 (192)
+T ss_dssp             HHTTSCCC--CCCEEEEEEEECSSCTTSCCHHHHHHHHHHHHHHHHHHHHHHHHHHHTT---CCEEE-EETTTTEES
+T ss_pred             HHHHCCcccCCCeEEEEEeeecCCcccccCHHHHHHHHHHHHHHHHHHHHHHHHHHHcC---CeeeE-EccccCccc
+
+
+No 11
+>PF18472.5 ; HP1451_C ; HP1451 C-terminal domain
+Probab=28.64  E-value=78  Score=22.76  Aligned_cols=11  Identities=55%  Similarity=0.791  Sum_probs=0.0  Template_Neff=4.200
+
+Q ss_pred             HHHHHHHHCCC
+Q FD01852914_041   25 AQELLDAAFPG   35 (114)
+Q Consensus        25 A~~lL~~AFP~   35 (114)
+                      |-+.|+++|||
+T Consensus        39 Al~~LR~~fP~   49 (67)
+T D1B2U1_SULD5/2   39 ALEVLRAEFPE   49 (67)
+T ss_pred             HHHHHHHHCCC
+
+
+No 12
+>PF12021.12 ; DUF3509 ; Protein of unknown function (DUF3509)
+Probab=26.18  E-value=95  Score=22.55  Aligned_cols=13  Identities=31%  Similarity=0.273  Sum_probs=0.0  Template_Neff=6.100
+
+Q ss_pred             HHHHHHHHCCCCe
+Q FD01852914_041   25 AQELLDAAFPGAQ   37 (114)
+Q Consensus        25 A~~lL~~AFP~aq   37 (114)
+                      ..++|.+|||+|+
+T Consensus         2 ~~~~l~~af~~y~   14 (88)
+T Q88MU5_PSEPK/3    2 ICSLLNEALTPYQ   14 (88)
+T ss_pred             hHHHHHHhCCCcE
+
+
+No 13
+>1OTR_A protein Cue2; PROTEIN-PROTEIN COMPLEX, CELL CYCLE; NMR {Saccharomyces cerevisiae} SCOP: a.5.2.4
+Probab=24.76  E-value=1.4e+02  Score=18.40  Aligned_cols=16  Identities=19%  Similarity=0.368  Sum_probs=0.0  Template_Neff=7.800
+
+Q ss_pred             cHHHHHHHHHHHCCCC
+Q FD01852914_041   21 TKKDAQELLDAAFPGA   36 (114)
+Q Consensus        21 S~kEA~~lL~~AFP~a   36 (114)
+                      .|.+.-+.|.+.||+.
+T Consensus         3 ~~~~~l~~L~~mFP~~   18 (49)
+T 1OTR_A            3 DHESKLSILMDMFPAI   18 (49)
+T ss_dssp             SHHHHHHHHHHHCSSS
+T ss_pred             chHHHHHHHHHHCCCC
+
+
+No 14
+>PF07129.15 ; DUF1381 ; Protein of unknown function (DUF1381)
+Probab=24.67  E-value=91  Score=20.82  Aligned_cols=23  Identities=30%  Similarity=0.429  Sum_probs=0.0  Template_Neff=4.000
+
+Q ss_pred             hhhhccCCCCCEEEEccHHHHHH
+Q FD01852914_041    5 IDGLRTGPNKTVVRVKTKKDAQE   27 (114)
+Q Consensus         5 ik~L~~g~~gt~V~V~S~kEA~~   27 (114)
+                      |...++.+.=++|++.|+.||.+
+T Consensus        19 v~kar~Ne~f~vVEAeSkEEA~~   41 (44)
+T Q2FWS7_STAA8/2   19 FTAARDNQTFTVVEAESKEEAKE   41 (44)
+T ss_pred             eecchhcCeEEEEEeCCHHHHHh
+
+
+No 15
+>PF18847.5 ; LPD29 ; Large polyvalent protein associated domain 29
+Probab=24.43  E-value=1.4e+02  Score=20.98  Aligned_cols=15  Identities=40%  Similarity=0.729  Sum_probs=0.0  Template_Neff=7.500
+
+Q ss_pred             HHHHHHHHHHCCCCe
+Q FD01852914_041   23 KDAQELLDAAFPGAQ   37 (114)
+Q Consensus        23 kEA~~lL~~AFP~aq   37 (114)
+                      +.....|+++||+.+
+T Consensus         8 k~iR~~Lk~~fP~~k   22 (89)
+T A0A0S3F5W8_9SP    8 QNIRAELKAAFPGIR   22 (89)
+T ss_pred             HHHHHHHHHHCCCCe
+
+
+No 16
+>PF04591.16 ; DUF596 ; Protein of unknown function, DUF596
+Probab=23.92  E-value=1.3e+02  Score=21.17  Aligned_cols=15  Identities=27%  Similarity=0.545  Sum_probs=0.0  Template_Neff=5.700
+
+Q ss_pred             ccHHHHHHHHHHHCC
+Q FD01852914_041   20 KTKKDAQELLDAAFP   34 (114)
+Q Consensus        20 ~S~kEA~~lL~~AFP   34 (114)
+                      .|.+|--++++.|||
+T Consensus        19 Gsi~EQv~~fr~afP   33 (70)
+T Q9P9U7_XYLFA/5   19 GTTAELVEMFRKSFP   33 (70)
+T ss_pred             CCHHHHHHHHHHHCC
+
+
+No 17
+>PF20461.2 ; DUF6714 ; Family of unknown function (DUF6714)
+Probab=23.28  E-value=1.6e+02  Score=21.79  Aligned_cols=22  Identities=23%  Similarity=0.437  Sum_probs=0.0  Template_Neff=9.200
+
+Q ss_pred             cHHHHHHHHHHHCCCCeecCCC
+Q FD01852914_041   21 TKKDAQELLDAAFPGAQKVKGI   42 (114)
+Q Consensus        21 S~kEA~~lL~~AFP~aqKv~G~   42 (114)
+                      |..+.-+.|.+|||+..+..++
+T Consensus         1 ~~~~l~~~I~~aF~~~~~p~~~   22 (163)
+T A0A1Y0G1K2_9GA    1 TLDEIKNVIKSAFFGVKLDGGV   22 (163)
+T ss_pred             CHHHHHHHHHHHcCCCccCCCC
+
+
+No 18
+>4N8N_A Cell division protein FtsX; Cell wall, MEMBRANE PROTEIN; 1.874A {Mycobacterium tuberculosis}
+Probab=22.81  E-value=2.3e+02  Score=19.53  Aligned_cols=30  Identities=20%  Similarity=0.292  Sum_probs=0.0  Template_Neff=9.400
+
+Q ss_pred             hhhccCCCCCEEEEccHHHHHHHHHHHCCC
+Q FD01852914_041    6 DGLRTGPNKTVVRVKTKKDAQELLDAAFPG   35 (114)
+Q Consensus         6 k~L~~g~~gt~V~V~S~kEA~~lL~~AFP~   35 (114)
+                      ..|+.-+.=..|++.|.+||-+.+.+.||+
+T Consensus        41 ~~l~~~~~V~~v~~~s~~ea~~~~~~~~~~   70 (115)
+T 4N8N_A           41 EKIETRSDVKAVRFLNRQQAYDDAIRKFPQ   70 (115)
+T ss_dssp             HHHHTSTTEEEEEEECHHHHHHHHHHHCGG
+T ss_pred             HHHHcCCCeeEEEEeCHHHHHHHHHHHChH
+
+
+No 19
+>PF02251.22 ; PA28_alpha ; Proteasome activator pa28 alpha subunit
+Probab=21.77  E-value=1.5e+02  Score=18.20  Aligned_cols=13  Identities=38%  Similarity=0.833  Sum_probs=0.0  Template_Neff=9.000
+
+Q ss_pred             HHHHHHHHHHHCC
+Q FD01852914_041   22 KKDAQELLDAAFP   34 (114)
+Q Consensus        22 ~kEA~~lL~~AFP   34 (114)
+                      .++|..|+...||
+T Consensus        15 ~~~ae~li~~~fP   27 (60)
+T Q9PTH5_DANRE/8   15 TKEAEQLISKIFP   27 (60)
+T ss_pred             HHHHHHHHHHhcc
+
+
+No 20
+>PF11184.12 ; DUF2969 ; Protein of unknown function (DUF2969)
+Probab=21.61  E-value=2.5e+02  Score=19.90  Aligned_cols=22  Identities=23%  Similarity=0.139  Sum_probs=0.0  Template_Neff=6.000
+
+Q ss_pred             CCCCEE-EEccHHHHHHHHHHHC
+Q FD01852914_041   12 PNKTVV-RVKTKKDAQELLDAAF   33 (114)
+Q Consensus        12 ~~gt~V-~V~S~kEA~~lL~~AF   33 (114)
+                      +++... .|+|+.||-+.|-..|
+T Consensus        49 ~~~~~~~~~ks~deai~~li~~y   71 (74)
+T Q38WL2_LATSS/1   49 EGTGQSIITKTHDDAVNELLREY   71 (74)
+T ss_pred             CCCceEEEEccHHHHHHHHHHhc
+
+
+No 21
+>PF21796.1 ; Cac1_C ; Chromatin assembly factor 1 subunit Cac1, C-terminal domain
+Probab=21.51  E-value=1.6e+02  Score=19.14  Aligned_cols=18  Identities=33%  Similarity=0.492  Sum_probs=0.0  Template_Neff=7.100
+
+Q ss_pred             cHHHHHHHHHHHCCCCee
+Q FD01852914_041   21 TKKDAQELLDAAFPGAQK   38 (114)
+Q Consensus        21 S~kEA~~lL~~AFP~aqK   38 (114)
+                      |....-++|+..||++.|
+T Consensus        14 ~k~~lve~L~~~fp~~sK   31 (56)
+T A0A8H6EC10_ASP   14 SKLGLIEILKKRFPKVSK   31 (56)
+T ss_pred             cHHHHHHHHHHHCCCCCH
+
+

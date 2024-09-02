@@ -1,0 +1,126 @@
+Query         FD01843847_03051 type IV secretion protein Rhs
+Match_columns 94
+No_of_seqs    58 out of 64
+Neff          4.41018
+Searched_HMMs 86581
+Date          Wed Feb 28 00:09:27 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/5457314.hhr -oa3m ../results/5457314.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 PF18743.5 ; AHJR-like ; REase_  60.2      67 0.00077   21.8   5.2   76    2-80      1-76  (125)
+  2 PF13814.10 ; Replic_Relax ; Re  58.7      22 0.00026   25.1   2.8   33   48-80    138-179 (194)
+  3 5EZU_B Protein A46; immunomodu  49.4      21 0.00024   25.6   1.4   16   51-66     34-49  (89)
+  4 PF06054.15 ; CoiA ; Competence  41.9      60 0.00069   26.8   3.2   47   48-94    101-147 (390)
+  5 2EWF_A Nicking endonuclease N.  41.3      81 0.00094   28.3   4.1   57   37-94    446-519 (610)
+  6 2N2T_A OR303; Structural Genom  40.9   1E+02  0.0012   21.7   3.6   40   48-87     27-69  (84)
+  7 2P14_A Heterodimeric restricti  28.0 4.7E+02  0.0054   20.7   6.1   57   37-94     44-112 (192)
+  8 PF14403.10 ; CP_ATPgrasp_2 ; C  21.0 2.5E+02  0.0029   22.1   3.3   40   41-80     65-104 (377)
+
+No 1
+>PF18743.5 ; AHJR-like ; REase_AHJR-like
+Probab=60.17  E-value=67  Score=21.79  Aligned_cols=76  Identities=5%  Similarity=0.016  Sum_probs=0.0  Template_Neff=9.400
+
+Q ss_pred             CCCCCChhHHHHHHHHHHHHhhCCCCccccccceeecCCCCccccCCCcccccCCCcEEEEEecCCCccCHHHHHHHHh
+Q FD01843847_030    2 APQHGGTGHNRNIDDEIAILKDSEGVSDIRKNQQQVDINGNKVGNNKPDIQYDKDGIHHNVEYDTSPRASKNHEKVITA   80 (94)
+Q Consensus         2 ~~~hg~~~hn~~i~~~i~~L~~~~g~~dIRkNQqQVd~~G~~VG~NRPDlQyd~~G~r~~vEyD~~~~~~~~H~~rI~~   80 (94)
+                      ........+.......+..|+. .|..=++.+.....  --..|..+|||--..++..+-||.-+....+..+..++..
+T Consensus         1 ~~~~~~~~e~~~~~~v~~~l~~-~G~~v~~~~~~~~~--~~~~~~~~~Dlia~~~~~~~~iEvK~~~~~~~~~~~~l~~   76 (125)
+T A0A1J1LKF2_9CY    1 ISTLTAKQEREQLLKLAENYCQ-KGYEIFLHPNLEEL--PDFLKSYRPDLIVRRGEEAVVIEVKSRASLNSYSDQYLQN   76 (125)
+T ss_pred             CCcchhHHHHHHHHHHHHHHHH-CCcEEEecCCHHhC--ChhHhcCCCCEEEEeCCeEEEEEEEcccccCccCHHHHHH
+
+
+No 2
+>PF13814.10 ; Replic_Relax ; Replication-relaxation
+Probab=58.69  E-value=22  Score=25.07  Aligned_cols=33  Identities=18%  Similarity=0.189  Sum_probs=0.0  Template_Neff=10.500
+
+Q ss_pred             CCcccccCCC---------cEEEEEecCCCccCHHHHHHHHh
+Q FD01843847_030   48 KPDIQYDKDG---------IHHNVEYDTSPRASKNHEKVITA   80 (94)
+Q Consensus        48 RPDlQyd~~G---------~r~~vEyD~~~~~~~~H~~rI~~   80 (94)
+                      +||..+....         ..+.||+|+...+...-...|..
+T Consensus       138 ~PD~~~~~~~~~~~~~~~~~~~~iE~d~~t~~~~~~~~k~~~  179 (194)
+T C7QG98_CATAD/4  138 RPDAFGRWKAPAPRGKLRTAEFFLEYDTGSENLERVVGKLDG  179 (194)
+T ss_pred             CCCeEEEEEccCCCCCCeEEEEEEEEeCCCCCHHHHHHHHHH
+
+
+No 3
+>5EZU_B Protein A46; immunomodulator, beta sheet, ab initio phasing, vaccinia virus, A46, viral protein, fatty acids, myristic acid; HET: MYR; 1.55A {Vaccinia virus (strain Western Reserve)}
+Probab=49.42  E-value=21  Score=25.55  Aligned_cols=16  Identities=31%  Similarity=0.578  Sum_probs=0.0  Template_Neff=1.600
+
+Q ss_pred             ccccCCCcEEEEEecC
+Q FD01843847_030   51 IQYDKDGIHHNVEYDT   66 (94)
+Q Consensus        51 lQyd~~G~r~~vEyD~   66 (94)
+                      +|+..++.+|.+|||.
+T Consensus        34 iqnevN~t~YtvEfdk   49 (89)
+T 5EZU_B           34 IRNEVNDTHYTVEFDR   49 (89)
+T ss_dssp             EEEEETTEEEEEEEET
+T ss_pred             EEeeeCCeEEEEEech
+
+
+No 4
+>PF06054.15 ; CoiA ; Competence protein CoiA-like family
+Probab=41.91  E-value=60  Score=26.85  Aligned_cols=47  Identities=9%  Similarity=0.135  Sum_probs=0.0  Template_Neff=8.900
+
+Q ss_pred             CCcccccCCCcEEEEEecCCCccCHHHHHHHHhcCCCCeEEEEecCC
+Q FD01843847_030   48 KPDIQYDKDGIHHNVEYDTSPRASKNHEKVITANDPNARSTFWNIDK   94 (94)
+Q Consensus        48 RPDlQyd~~G~r~~vEyD~~~~~~~~H~~rI~~NDP~a~~~~~~i~~   94 (94)
+                      ||||-...+|..+-|||-.+.-....-.+|...---.+...+|+++.
+T Consensus       101 r~Dv~~~~~~~~~aiE~q~s~~~~~~~~~R~~~y~~~gi~~~Wi~~~  147 (390)
+T Q8ERT5_OCEIH/1  101 RADLVIKVLNKIIIIEFQCTKISAEEIAERTSAYNQINLHVIWIVGM  147 (390)
+T ss_pred             EEEEEEEECCEEEEEEEEecCCCHHHHHHHHHHHHhCCCeEEEEecc
+
+
+No 5
+>2EWF_A Nicking endonuclease N.BspD6I; helix-turn-helix, beta-alpha-barrel, HYDROLASE; HET: BR; 1.84A {Bacillus sp.}
+Probab=41.31  E-value=81  Score=28.32  Aligned_cols=57  Identities=16%  Similarity=0.106  Sum_probs=0.0  Template_Neff=8.000
+
+Q ss_pred             ecCCCCcc----ccCCCcccccCCCcEEEEE---------ecCCCccCHHHHHHHHhcC--CC--CeEEEEecCC
+Q FD01843847_030   37 VDINGNKV----GNNKPDIQYDKDGIHHNVE---------YDTSPRASKNHEKVITAND--PN--ARSTFWNIDK   94 (94)
+Q Consensus        37 Vd~~G~~V----G~NRPDlQyd~~G~r~~vE---------yD~~~~~~~~H~~rI~~ND--P~--a~~~~~~i~~   94 (94)
+                      +|.+|.++    | |.|||-+.++.-...||         |......-.+|-..+...-  ++  -.+....|-+
+T Consensus       446 ld~d~~P~~~A~G-g~~Di~~~y~~~~~~vEvTL~~~~~Q~~~E~epV~RH~~~~~~~~~~~~~~~~~~~lFIAp  519 (610)
+T 2EWF_A          446 IDEELQPVTHAAG-NQPDMEIIYEDFIVLGEVTTSKGATQFKMESEPVTRHYLNKKKELEKQGVEKELYCLFIAP  519 (610)
+T ss_dssp             ECTTSCEEECCCT-TSCSEEEECSSEEEEEEECCCCHHHHHHHHHHHHHHHHHHHHHHHHHTTCCCEEEEEEEES
+T ss_pred             eCCCCCcccCCCC-CCCCEEEEeCCeEEEEEEEcccCCHHHHhhchhHHHHHHHHHHHHHhcCCCccEEEEEEeC
+
+
+No 6
+>2N2T_A OR303; Structural Genomics, Protein NMR, NORTHEAST STRUCTURAL GENOMICS CONSORTIUM (NESG), Target OR303, PSI-Biology, Protein Structure Initiative, Unknown; NMR {synthetic construct}
+Probab=40.89  E-value=1e+02  Score=21.74  Aligned_cols=40  Identities=20%  Similarity=0.341  Sum_probs=0.0  Template_Neff=1.000
+
+Q ss_pred             CCcccc---cCCCcEEEEEecCCCccCHHHHHHHHhcCCCCeE
+Q FD01843847_030   48 KPDIQY---DKDGIHHNVEYDTSPRASKNHEKVITANDPNARS   87 (94)
+Q Consensus        48 RPDlQy---d~~G~r~~vEyD~~~~~~~~H~~rI~~NDP~a~~   87 (94)
+                      ||-+||   +.+|.+---=-.....-...-.+.++.--|+|.|
+T Consensus        27 rpsvqytettrngrrqltirsndknevdrileevrrkvpnarv   69 (84)
+T 2N2T_A           27 RPSVQYTETTRNGRRQLTIRSNDKNEVDRILEEVRRKVPNARV   69 (84)
+T ss_dssp             SSCCEEEEEEETTEEEEEEEESCHHHHHHHHHHHHHHCTTCEE
+T ss_pred             CCCceeeeeccCceeeEEEecCChhHHHHHHHHHHHHCCCCee
+
+
+No 7
+>2P14_A Heterodimeric restriction endonuclease R.BspD6I small subunit; heterodimeric restriction endonuclease, HYDROLASE; HET: SO4; 1.5A {Bacillus sp.}
+Probab=27.96  E-value=4.7e+02  Score=20.72  Aligned_cols=57  Identities=12%  Similarity=0.066  Sum_probs=0.0  Template_Neff=6.400
+
+Q ss_pred             ecCCCCcc---ccCCCcccccCCCcEEEEEecCCCccC---------HHHHHHHHhcCCCCeEEEEecCC
+Q FD01843847_030   37 VDINGNKV---GNNKPDIQYDKDGIHHNVEYDTSPRAS---------KNHEKVITANDPNARSTFWNIDK   94 (94)
+Q Consensus        37 Vd~~G~~V---G~NRPDlQyd~~G~r~~vEyD~~~~~~---------~~H~~rI~~NDP~a~~~~~~i~~   94 (94)
+                      +|.+|.++   +-|.||+-+..+...+.||.-...++.         .+|........ .....+.+-+.
+T Consensus        44 ~D~dg~P~~~ApGg~~Di~~~~~~~~~lvEvTL~~~~~Q~~~E~epV~RHl~~~~~~~-k~~~~lFIAp~  112 (192)
+T 2P14_A           44 LDDSGHPIGNAIPGVEDILVEYEHFSILIECSLTIGEKQLDYEGDSVVRHLQEYKKKG-IEAYTLFLGKS  112 (192)
+T ss_dssp             ECTTSCEEECCCTTSCSEEEECSSCEEEEEEECCCTHHHCCCCCHHHHHHHHHHHTTC-CCEEEEEEESS
+T ss_pred             ECCCCCccccCCCCCCCEEEEeCCeEEEEEeecccChhHHHHhhHHHHHHHHHHHHhC-CCeEEEEEeCC
+
+
+No 8
+>PF14403.10 ; CP_ATPgrasp_2 ; Circularly permuted ATP-grasp type 2
+Probab=20.98  E-value=2.5e+02  Score=22.08  Aligned_cols=40  Identities=18%  Similarity=-0.009  Sum_probs=0.0  Template_Neff=10.700
+
+Q ss_pred             CCccccCCCcccccCCCcEEEEEecCCCccCHHHHHHHHh
+Q FD01843847_030   41 GNKVGNNKPDIQYDKDGIHHNVEYDTSPRASKNHEKVITA   80 (94)
+Q Consensus        41 G~~VG~NRPDlQyd~~G~r~~vEyD~~~~~~~~H~~rI~~   80 (94)
+                      +..++.-|+|+=++.+|.-..+|+......+..+...+..
+T Consensus        65 ~~~~~~~R~D~~~~~~g~~ki~E~N~~~p~g~~~~~~~~~  104 (377)
+T A0A068NMM3_FIM   65 DIYVHICGTDIIRDVDGTYRVLEDNCRTPSGVSYMIENRM  104 (377)
+T ss_pred             CceEEEEEeEEEECCCCCEEEEecccCCCCcHHHHHHHHH
+
+

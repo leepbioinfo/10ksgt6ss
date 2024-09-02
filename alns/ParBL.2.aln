@@ -1,0 +1,610 @@
+>FD01876805_01866 type IV secretion protein Rhs
+LVNPKDVNFSQ--TTINSAF-----DT-P-DG----KR----SVQSVINDVR-------K
+GNIKAT-DF-P---AIKVVN-V----------------KGQLVV---------RDGNSRL
+AIAVKGK-AQ--------QIKVILE----TNVD--Q----------LRDFTKR-------
+LRNN----GLPNT----GTSKT
+>MBG2814710.1 hypothetical protein [Proteus mirabilis]
+------------------------------------------------------------
+----------K---PIRVVN-V----------------KGQYVV---------RDGNSRL
+YIAQTSK-VK--------SIPIEIV----TDVE--E----------LKEFNSR-------
+LKRN----GLPNQ----GTSK-
+>WP_249264515.1 RHS domain-containing protein, partial [Salmonella enterica]
+WVNPKDINFSQ--RTISPH--------------------------DYAEIMR-------N
+GGWDWD-RS-----PLRVID-I----------------DGQLVS---------YD-NRRL
+DAALEAG-LD--------KVKVIR------------------------------------
+----------------------
+>OWF85734.1 hypothetical protein B4914_16750 [Yersinia entomophaga]
+NLNPKDIHYMQ--SSIKNQT-----G----A------H----TVLDNAAALA-------N
+GTLKAA-DL-P---AIKVWR-DA---------------TGKIWT---------LD-HRRL
+AAFKIAG-LE--------SVPVQ-------------------------------------
+----------------------
+>WP_143558195.1 hypothetical protein, partial [Snodgrassella alvi]
+------------------------------------------NIQSVVNDVR-------K
+GNVKVT-DF-P---AIRVVD-V----------------KGQLVV---------RDGNSRL
+AIARNAK-AK--------QIKVIIE----TDVG--K----------LRDFTGR-------
+LRNN----GLRNT----GTTK-
+>CAF5043329.1 unnamed protein product, partial [Rotaria sp. Silwood1]
+IDEISRIHFTQ--THIHSRF-----S----NN-----SQNM-DVFDTYFTLK-------F
+GLMPIE-EL-P---PIRVYE-H----------------YNKLWS---------ID-NRRL
+WIMREAG-----------------------------------------KFYYE-----GP
+YTQ--------------RHSMS
+>CAB5395718.1 unnamed protein product [Rhizophagus irregularis]
+EIDPREVFYSQ--DSIRPRF-----KD---DN-----R----HVEDTIRQLV-------K
+GKISPR-HI-E---RIRVCT-L----------------NGRMHS---------LD-NRRL
+YVFKEAI-NR---GGNFETVPASKE-----------------------------------
+-----------------GYTFR
+>CAE7907629.1 MSRB5, partial [Symbiodinium microadriaticum]
+LVDVKDIRHSQ--DAVNMHF-----AHGAHKG-----Q----SVQTLVEDLI-------S
+GKLTPR-DI-T---PLVLLELQ----------------EGEYWT--------IFG-NRRL
+KALTLGE-------------------NFLTLAQ---------------------------
+AASW------SCD----GSL--
+>CAE7380144.1 unnamed protein product [Symbiodinium natans]
+-LSPLGIFYTH--DSISANF-----T----DG-----R----SIYDAARDLN-------N
+GNMAIT-DM-P---MMEVFK-H----------------AGCYFS---------RS-NRRL
+WAFRNPG-VT--------QAPVRIV----EPPSD-VS---------N-------------
+LTK--------------LKEIY
+>WP_253938791.1 polymorphic toxin-type HINT domain-containing protein, partial [Hahella sp. HN01]
+LINSNEIRFSQ--DSISENF-----T----NG-----T----SVRALRDKLK-------K
+GGT--V-NV-P---PIRIFE-A----------------DGVLFT---------LD-NRRL
+WAYRNAG-VP---------IETRPA----TAAE--ID----------RES-WK-------
+FTT-------RNR----GKTIM
+>CAD7926056.1 unnamed protein product [Amoebophrya sp. A120]
+YVDTIDVFYIN--DSISDTF-----S----CG-----K----SIYFTAAQLR-------S
+GDLSVE-DI-E---PMEVVK-H----------------SGYYYT---------LS-HRRL
+WAFKNAN-LM--------GVPVKIV----SMPP---------------------------
+NTAN----RIRNN--PERSTIT
+>CAE7208238.1 unnamed protein product [Symbiodinium pilosum]
+RMDPRTIRYSQ--ESISPKF-----A----GG-----K----DVRTTSKELR-------E
+GAISVS-DV-P---PIHVFR-W----------------NGKWHS---------SD-NRRL
+WTFKDAG-VE--------SVPVIYI----DKEQ--VQ-------------HSK-------
+LTT-------KDH----GQSIK
+>ORX81834.1 hypothetical protein BCR32DRAFT_279427 [Anaeromyces robustus]
+YLDPKDILYSQ--ESIDNCF-----R----DG-----R----SIRRTMRLLR-------N
+GEIAIE-DF-P---PIKVCIDKS---------------TGNYYT---------TA-NKRL
+WVYREAG-LE--------EIPVYLI----DPPR--------------GFFYRR-------
+----------SGN----GYNIK
+>WP_083840156.1 polymorphic toxin-type HINT domain-containing protein [Saccharomonospora xinjiangensis]
+TIEPSLVRFSQ--DSVSPRF-----S----SG-----E----TIEQTPAALR-------S
+GYLKAN-DL-P---TVRLTV-K----------------GGQVHA---------LD-NRRL
+VAFQKAG-TP---------MPFRMA----TSDE--VA----------NEA-WK-------
+FTT-------RNE----GRSIM
+>MBR7099704.1 hypothetical protein [Clostridia bacterium]
+KLNPEDIRYTQ--KSISSKF-----K----KD-----G----SIDDMIKGLK-------D
+GSISAD-DV-P---AIKVFK-R----------------NGKIYS---------LD-NRRL
+YAFKQAG-MK--------TINVQWA----SKIE--VR----------GQL-WK-------
+FTT-------ITD----GLSIR
+>MBK6904532.1 hypothetical protein [Saprospirales bacterium]
+TVDASLIKFSQ--DSISSSF-----QD---DG-----D----SLATTIASLK-------A
+GRLSPN-DL-P---AIRVTM-R----------------KGRLVS---------LD-NRRL
+YCCKEAG-VQ---------IRCVWA----TAGE--IE----------KR---D-------
+FTA-------GEN---GAATIT
+>WP_151636244.1 DUF6531 domain-containing protein [Noviherbaspirillum aerium]
+YIDPNTINYSQ--SWVSPN--------------------------DYVEVMF-------K
+KGWIGD--------PLNVIN-R----------------DGVLVS---------FD-NRRL
+AAAQSLG-LK--------EVPVNMV----AGSS--AYPKSTTGKTWDVAFNER-------
+LKKN-------------GLGQY
+>CAE7227677.1 unnamed protein product [Symbiodinium sp. CCMP2592]
+RLPVQEIFYSQ--DSIKNKF-----Q----DG-----R----SLGQMERELR-------V
+GVKHLS-DI-P---RITVVR-H----------------EGRWFS---------VD-NRRL
+WVFKRVF-------GQQQSVPVCRG----------AQ---------DHRFWSK-------
+FTT-------KNR----GVDVR
+>CAE8640038.1 unnamed protein product [Polarella glacialis]
+KLKPSEIRYSQ--DSCSQTF-----R----CG-----R----SLELTAKQLK-------D
+GNISAEINI-P---VIHVFK-W----------------LGSWFT---------AD-NRRL
+WAFRTAG-LN--------QVPVKII----SFNE--VW-------------SNK-------
+LTT-------RNQ----GVSIT
+>MBI5386521.1 RHS repeat-associated core domain-containing protein [Verrucomicrobia bacterium]
+TIDPAAVRFSQ--SSISRNF-----S----SG-----G----AIEDLAAGLR-------N
+GSVNPA-NI-P---PIRLVE-R----------------EGNLFT---------LD-NRRL
+WSFQQAE-VP---------VPFRMA----TPQE--TA----------GEA-WK-------
+FTT-------QNG----GTSIR
+>WP_253268197.1 hypothetical protein [Streptomyces asoensis]
+TIAPGAVRFTQ--DNIKAQF-----S----DG-----R----SLQGLIDGLK-------S
+GKVGIS-EI-P---PIRVFQ-K----------------DGKIYS---------LD-NRRL
+YAAQQAG-VN---------IRFVRA----SPAE--VQ----------RETPRK-------
+FTT-------END----GTSIV
+>CAE7670987.1 unnamed protein product [Symbiodinium sp. CCMP2456]
+TEDARTIRYSQ--ALISRHF-----Q----DG-----R----SVKGTARQLS-------G
+REVSAF-DI-E---PIRLFE-R----------------DGQWHS---------LD-NRRS
+WAFKTAR-CP--------QVPVVYV----SVNAK-VR----------REVNRK-------
+FTT-------VDG----GLSIQ
+>MBX7066086.1 hypothetical protein [Parachlamydiales bacterium]
+-------------------------------------K----TINELIRKIV-------H
+KQTKPE-DI-P---PIRVVE-Y----------------EGNLYT---------LD-NRRL
+YAFQQAG-LD--------KIPIQKV----SIDDPQIE----------EEFVRK-------
+FRP-------PSQ----GEQPT
+>WP_146118745.1 hypothetical protein [Blastopirellula marina]
+RIDPKSVRFSQ--DSIAGNF-----K----EG-----G----NVLELGAKLK-------V
+GQVDPS-SI-P---PIRIVL-K----------------DGKVFT---------LD-NRRL
+RAFQEAG-ID---------VPFERL------DA--IP---------KREL-FK-------
+FTT-------KNV----GVDII
+>WP_158920198.1 DUF6531 domain-containing protein [Streptomyces sp. NBRC 109706]
+-INPSLVRFSQ--DEVSYRF-----S----DG-----M----TIAHVASGLR-------S
+GWLNPA-DF-P---AIRLVM-R----------------EGNLFT---------LD-NRRL
+VAFQMAG-TP---------VPFRMA----TAAE--AI----------NES-WK-------
+FTT-------VTD----GMSIV
+>WP_235088912.1 hypothetical protein [Chromobacterium sp. Beijing]
+MIDPRVVRYSQ--NNASAYF-----K----PP----YG----SVDDFIGELK-------A
+GRIEPN-AI-A---PIRIVE-R----------------SGKIFT---------LD-NRRL
+YGFEQAG-IN---------VPYEKL------DV--VP---------KREL-FK-------
+FST-------END----GVSIS
+>HCW81476.1 hypothetical protein [Clostridiales bacterium]
+LLNPQEIHYTQ--NSISNKF-----SG-AYKG-----Q----CVDDLIDGLI-------S
+GKISPM-DI-P---AIQVFE-Y----------------QGKIYS---------IN-NRRL
+FAFKTAN-IP--------YVKVEWV----NMSI--MQ----------HAW----------
+----------TGN----GIDII
+>PJI95198.1 RHS repeat-associated protein [Luteimicrobium subarcticum]
+FIDPATVRFSQ--SSIKNTF-----R----DG-----T----TIQSLAEGLR-------N
+GSVRAR-DV-P---QIRLVE-R----------------GGEIFS---------LD-NRRL
+AAFQQAG-VD---------APYRMA----TTAE--MP----------KEE-WK-------
+FST-------KNG----GLSIR
+>SCL30352.1 intein C-terminal splicing region/RHS repeat-associated core domain-containing protein [Micromonospora nigra]
+TIDPSEVRFTQ--DSVGSHF-----K----SG-----H----SIDETAAALA-------D
+GSLDSS-VL-D---PIRLVD-K----------------EGKLYT---------LD-NRRL
+VAYQKAG-IE---------VPYRMA----TGAE--IR----------KEWRKK-------
+FTT-------QTD----GIGIL
+>WP_126841710.1 hypothetical protein [Idiomarina tyrosinivorans]
+EADPNKIKFTQ--DSIKNSF-----K----DG-----Q----SIEKLVEGLK-------S
+GEISAE-KV-P---AIRVFE-K----------------NGETYS---------LD-NRRL
+KAFQDAG-VP---------IKTVPA----TAEE--IA----------NES-YK-------
+FTS-------KTD----GKSIR
+>HIK05578.1 DUF4157 domain-containing protein [Trichormus sp. M33_DOE_039]
+TVDAQLVRFSQ--DSIAKTF-----A----AG-----G----SVYDTVESLK-------S
+KKLSAS-DF-P---PIRVFMGT----------------EDRLVT---------LD-NRRL
+WCCKQAG-VA---------VKCKWA----SDGE--IE----------REG-YK-------
+FTS-------GKGM-AGRTTID
+>MCH2209239.1 hypothetical protein [Lentisphaerales bacterium]
+EVNPSDLNFSQ--RIINRRF-----NT-P-DG-----Q------KKVNKVIK-------E
+GPKQVE-SF-P---PLIVRE-V----------------EGIKVV---------IEGNRRL
+YVARITS-AE--------KVKIILD----QSYE--TG-------KWLNERTKR-------
+QRS-----PLPRT----GTTK-
+>WP_147480366.1 hypothetical protein [Pseudomonas syringae group genomosp. 7]
+YANPKDIRFTQ--DSVSNTF-----K----DG-----Q----TLQSTIDGLK-------S
+GKISPD-DL-P---PIRVFE-K----------------DGAVYS---------LD-NRRL
+LAASEAG-VP---------IKVVPA----TPAE--VA----------KEG-WK-------
+MTT-------PNN----GSIIC
+>QVK18161.1 hypothetical protein KHQ81_00120 [Tenericutes bacterium]
+YLDPSDIRYTQ--DSIGNTFGKKTSH----PG-----Q----SIDNLIDSLK-------A
+GTVSPD-DI-P---ALRVFE-N----------------DGYIYS---------MY-NRRL
+FAYKTAS-IK--------SVPVEWA----SRSS--MT----------HEW----------
+----------TGD----GIDIV
+>VDH90599.1 Hypothetical predicted protein [Mytilus galloprovincialis]
+TARPSEVMYSQ--VSIANTF-----K----NG-----E----SIGEVLDDIM-------E
+DRLLVS-SL-P---KISVKL-I----------------DGELVS---------AD-NRRL
+WILKQLE-KL----GHLTTVKVKRT----N-----------------YICHQK-------
+SAR-------TQN----VK---
+>WP_207896565.1 hypothetical protein, partial [Flaviaesturariibacter flavus]
+KVDPRTVRFSQ--NSISEKF-----K----GG-----T----SVDDLVVRLK-------S
+GEMM---NI-P---PIRIVE-K----------------GGKIFT---------LD-NRRL
+HAFQKAG-IE---------IPYVKL------TE--IP---------AKEN-FK-------
+FTT-------QNN----GTSIE
+>EBE8907774.1 RHS repeat protein [Salmonella enterica]
+LVNPKDVNFSQ--TTINSAF-----DT-P-DG----KR----SVQSVINDVR-------K
+GNIKAT-DF-P---AIKVVN-V----------------KGQLVV---------RDGNSRL
+AIAVKGK-AQ--------QIKVILE----TNVD--Q----------LRDFTKR-------
+LRNN----GLPNT----GTSK-
+>WP_140952048.1 DUF637 domain-containing protein, partial [Cupriavidus pinatubonensis]
+LADPNSIRFTQ--SSIGSTF-----S----NG-----T----SLQDAIGALQ-------S
+GSLSPT-SL-P---PIRVFE-K----------------DGLFYT---------LD-NRRL
+FVTSQAG-TM---------VNITPA----TAQE--VM----------SQV-WK-------
+FTT-------PNQ----GCIVC
+>XP_039250881.1 uncharacterized protein LOC120328456 [Styela clava]
+WIHVDQLRYTQ--NTINDQF-----KH---SG-----A----KLDDVVQQIK-------C
+NHMSVN-DL-P---PMQVYE-K----------------DGRFYS---------CG-NRRL
+YVCKSLR-AE----GRLNTVRVEYL----GEHN---------------QHLSN-------
+FTS-------KND----GQCVT
+>CAE7834363.1 unnamed protein product, partial [Symbiodinium sp. CCMP2592]
+RLRLEEIFYTQ--DSIKRSF-----Q----DG-----R----TLTQMVGELM-------S
+DQKTLM-QI-P---RITVVR-H----------------EGRWFS---------VD-NRRL
+WVFNQVF-------RGSKSIPVYHG----------MQ---------DNRFWNK-------
+FTT-------TNG----WGSLH
+>KYF83655.1 hypothetical protein BE18_43140 [Sorangium cellulosum]
+LLDPWDIRFTQ--PTISSTF-----R----DG-----P----WAERTLEEAI-------D
+EARRLG-RL-PEGLELNVIK-I----------------NDDFFT---------LN-NRTL
+YVAQQAN-LL--------QVHPKVA----GPKG--IN------------------L----
+FNK------LIKD----GGPLE
+>MBX7086693.1 TIGR04388 family protein [Leptospirales bacterium]
+TISSAEVRFTQ--NSIKEAA-----S----KG-----E----VVMETAAALR-------S
+GAIDPT-SI-P---PIRVFV-Q----------------NGQIWS---------LD-NRRL
+AAFQEAG-VA---------IRYTLV----SAKD--VA----------VEIGKK-------
+MTT-------VNG----GTSVI
+>QGM46566.1 hypothetical protein H2LOC_013160 [Methylocystis heyeri]
+LIDGSAIRFTQ--SSVSATF-----R----DG-----A----SLQTTVDALR-------A
+GTMSPV-EL-P---PIRTFQ-Q----------------GGLTFT---------LD-NRRL
+LATQLAG-TR---------VNAIPA----TTEE--II----------AEG-WK-------
+LTT-------TNY----GCIIC
+>WP_129582749.1 RHS repeat protein, partial [Methanolobus psychrotolerans]
+VINPKDIRFTQ--NSISKNF-----K----DVE---DG----SVDDLIEGLR-------S
+GNINPS-EV-P---AIQVFE-M----------------KGNLYS---------LD-NRRL
+HAFQQAG-VD---------IRYVYA----SPDE--IN----------KGW-AK-------
+LTT-------QNN----GANIK
+>WP_135749897.1 Hint domain-containing protein [Leptospira bourretii]
+YIDPQKVRFVQ--DSIKSEF-----K----DG-----K----KLKDAVDALK-------N
+GKMKVD-EF-P---PIRIFN-Q----------------DGKIYS---------LD-NRRL
+EVFKQAG-VS--------KIPYQRA----TEQE--LT----------KELPYK-------
+FTT-------TND----GISIK
+>WP_169547957.1 hypothetical protein [Shewanella sp. DNRA4]
+LANPSTIRFTQ--SSVSASF-----K----DG-----R----LLQETIDALR-------S
+GKLSPN-DL-P---PIRTFL-Q----------------DGFTFT---------LD-NRRL
+FAASQAG-VG---------VKTVPA----TTEE--VA----------KES-WK-------
+FTT-------PNR----GTYVC
+>WP_253410738.1 hypothetical protein [Paenibacillus tyrfis]
+TIDPNKVRFTQ--DSVKAEF-----S----DG-----R----SVYQLIDDLK-------S
+GNVKPK-DI-P---EIRVFE-K----------------DGNLYS---------LD-NRRL
+YAFQQAN-VN---------VRYRLA----TESE--VS----------AQM-WK-------
+MTT-------KNN----GTSIR
+>WP_143016741.1 LysM peptidoglycan-binding domain-containing protein [Paraburkholderia phenazinium]
+LINPRTIRFSQ--DNASANF-----R----PP----YG----SVNEFVEGLK-------S
+GAIEAT-SI-D---PVRLVE-L----------------NNKVFT---------LD-NRRL
+YSFQQAG-VD---------VPYQKL------DS--IP---------KREL-FK-------
+FTT-------QND----GVSLV
+>CAE7451457.1 unnamed protein product [Symbiodinium natans]
+FIAPCDLSFCQ--DSISNKF-----R----NK-----T----TIRETLDQLL-------S
+REIRKR-DV-E---MMRVTI-H----------------EGHLYC---------LS-NRRL
+ALYRLLQ-MA----KRCKRVKVEVV----KQDS---------------DFHRK-------
+LTT-------CCK----GERIF
+>MBI4359970.1 RHS repeat-associated core domain-containing protein [Candidatus Jacksonbacteria bacterium]
+VMDPHKIRFTQ--DSASNMI-----RG-A-DG-----K--MYPLENLIQGLK-------K
+GSTKAT-DI-P---PVKLFE-KT---------------DGTIWS---------LD-NRRL
+KAFQKAD-IK---------IPYKAA----TQQE--II----------KGA-DK-------
+MTS-------KNS----GKSIK
+>WP_246611666.1 hypothetical protein [Arthrospiribacter ruber]
+LIDPSSIRFSQ--SSISPNF-----R----NG-----S----SIDDLVSGLR-------N
+GSIDPL-SV-D---PIRIVE-R----------------NGEIFT---------LD-NRRL
+KAFQEAG-VD---------IPFQKV----NLDS--LP---------KREL-EK-------
+FTT-------TNN----GESIR
+>KAH9313129.1 hypothetical protein KI387_028164, partial [Taxus chinensis]
+EMNPKQLRFTQ--PNIAPNF-----K----NP-----T--LPSVEDAANLIR-------Q
+RRLDPA-VF-G---ELTVHKDK----------------EGVVWC---------EK-NRSL
+YALRAAG-VP--------SVKVKLK---------------------NNDFRSR-------
+CQDK----KKLND---PDFKPR
+>WP_166141442.1 hypothetical protein [Methylosinus sp. RM1]
+WIDPNTVRFSQ--DSIKGSF-----S----DG-----K----TVQMLIDGLK-------S
+GAIKPD-LI-P---AINVFE-R----------------NGNLFT---------LD-NRRL
+YAFRQAG-LK---------IKYKMV----PYDP--TD----------SEILRK-------
+MTT-------KND----GTSIR
+>WP_211327763.1 hypothetical protein, partial [Lysobacter pythonis]
+TIDPRVIRYSQ--DSASVNF-----K----PP----YG----AVDDFINGLR-------S
+GDINPA-SI-E---PVRIVQ-R----------------DGKVFT---------LD-NRRL
+HSFERAG-IN---------ITYQKL------DK--IP---------RREL-FK-------
+FTT-------TND----GTSIL
+>CAG8473936.1 39710_t:CDS:2 [Gigaspora margarita]
+ELDPFQILFTQ--AQINSYF-----S--GDNG-----F----TVEDTIKDLV-------S
+GRLKPQ-NL-P---TIQVALDK----------------NNLFIS---------AN-NRRL
+YCYQKAI-QK---GANFKKIPVRMV----RETDE------------RAGFSWKR------
+-----------------EKSLK
+>WP_063231486.1 hypothetical protein [Brevibacillus parabrevis]
+ILDPKTIRFTQ--NSIKGEF-----K----AG-----G----NVYDAIEGLK-------S
+GKINPN-DI-P---AIEIFE-L----------------DGKIYS---------LD-NRRL
+FVFQQAG-ID---------IRYVKA----PLEK--VM----------SQSNWK-------
+FKT-------IND----GTSIK
+>WP_249385011.1 DUF6531 domain-containing protein [Nocardia uniformis]
+TIDPHSVRFTQ--NSVSGSF-----R----DG-----G----SVFDLADDLK-------S
+GRVDVG-SI-P---PIRLFE-Q----------------DGHLYT---------LD-NRRL
+VAFQMAG-TH---------VPYTMA----TPAE--VA----------RDA-FK-------
+MTT-------TTD----GTSIK
+>CAE7570776.1 unnamed protein product [Symbiodinium natans]
+QLKPSNIFFTH--DSILSKF-----R----DG-----R----LVRETLRQLR-------A
+GDIQPD-AI-P---TMKVCH-H----------------AAAGYP---IRFWTYTG-NRRL
+WVFRQLE-EE----GLIKEVGVQFV----NKIV--PA--------------FR-------
+LTT-------RNG----GVSLR
+>EBU8322819.1 type IV secretion protein Rhs [Salmonella enterica subsp. enterica serovar Hadar]
+NINPKDVRYMQ--SSIKNQT-----G----E------Y----TVLGNAEALL-------N
+GTLKPS-AL-P---PIKIWK-DN---------------LGKIWT---------LD-HRRL
+AAFKLAG-LD--------SVPFKWA----SPNE--VA----------NQM-WK-------
+MTT-------KTD----GKSII
+>VDI56873.1 Hypothetical predicted protein [Mytilus galloprovincialis]
+KLKPSEIYFSQ--NRINALF-----R----CR-----R----SVGGTLDDIM-------E
+GRCNIK-DI-P---MISVMK-R----------------DGKWVT---------AD-NRRL
+WVFKHLE-KL----DKCSNIIAIKT----S-----------------EIAESK-------
+LNS-------ENG----GRTVE
+>OLQ14563.1 CBL-interacting protein kinase 25 [Symbiodinium microadriaticum]
+FLRPSEIRFTQ--NSVGFKF-----R----DG-----R----TLSVLLDELT-------T
+RK-RKR-EV-D---PIRVIL-A----------------DGCFYA---------LN-NRRL
+AVYRLLE-IA----GGCGRIKCIFT----AEPE---------------GLRHK-------
+FTT-------KCD----GEWVD
+>WP_219873328.1 polymorphic toxin-type HINT domain-containing protein [Paenibacillus oenotherae]
+SLNPKEINFMQ--SSIKNKT-----G----D------Y----TVLGNADALK-------S
+GKLSPS-DL-E---TINVWK-NG---------------AGKIWT---------LD-HRRL
+AAFRIAG-TE--------KIPVQWA----TKEM--IE----------SQM-WK-------
+MTT-------KNG----GSSIK
+>XP_045203706.1 uncharacterized protein LOC123556791 [Mercenaria mercenaria]
+QLKPSEIYYSQ--NSISCSF-----TH---NN-----K----LIGETLDDLC-------E
+RRISIS-HI-P---PISVTL-I----------------NGRWVS---------AD-NRRL
+WVFRQLE-IL----GKCTRIPVIQK----E-----------------NIRKSK-------
+QTS-------TCG----GTDIR
+>EAM1917234.1 RHS repeat-associated core domain-containing protein [Salmonella enterica]
+WVNPKDINFSQ--RTISPH--------------------------DYAEIMR-------N
+GGWDWD-RS-----PLRVID-I----------------DGQLVS---------YD-NRRL
+DAALEAG-LD--------KVKVIRI----DPNA--PHPDSSTGKTWLQKFRER-------
+FRD-------RRNIKAG-----
+>CAE7279193.1 mhkC [Symbiodinium natans]
+EMAVRDIRFAQ--NSISSSF-----R----DG-----R----QTYQLLNDLN-------N
+RVVDPLRDL-E---PLDVVF-Y----------------DGFWRS---------LS-NRRL
+WALKCTAGMS----GRELLVRVRVR----------QP---------DREFWSK-------
+LSS-------TNN----GVSVE
+>KOF88484.1 hypothetical protein OCBIM_22014786mg [Octopus bimaculoides]
+LLKPSEIRYTQ--HKIRGRF-----Q----NRYCCHHP----YIGDLVDSIV-------A
+GDTKIS-SI-Q---KITVVL-H----------------NGNYYS---------LD-NRRL
+WVFKQVE-ER----GYCSEIEVGVS----------QE---------YLEGNSK-------
+FST-------TTE----GKTIS
+>XP_004225521.1 uncharacterized protein LOC100182085 isoform X2 [Ciona intestinalis]
+IMKPTNIQFSQ--DSVAKSF-----KN---EG-----A----ELHDTCQLIS-------T
+GSVSAD-EI-R---PIRVII-K----------------DNKAIS---------VD-NRRL
+YVFRVLE-IS----GHLHSIKVQVI----NQYD-----------------EER-------
+FTS-------TNN----GCHVR
+>CAE7375332.1 Skiv2l2 [Symbiodinium pilosum]
+EIPPSQIGFSQ--GSCSTHF-----Q----DG-----R----SVLGTLTEIL-------A
+GNVLPS-DI-E---ELPIYW-H----------------QGMYYT---------LG-NRRL
+CVYRLLE-HQ----QPGTKIPARVA----SQTE--VE---------AWDWRGK-------
+FTSG------RWE----GSMIL
+>CAE8640339.1 unnamed protein product [Polarella glacialis]
+FLRPDQIHFTH--DSIKSKF-----Q----DG-----R----QLRETLRQLK-------E
+CELQCT-DI-P---TIQVSW-H----------------AGEGCD---ARFWTYTG-NRRL
+WVFRQLQ-AE----GGVQDIQVLCV----SKTV--PK--------------LR-------
+MTT-------RNG----GCSVR
+>GGM45872.1 hypothetical protein GCM10012275_16090 [Longimycelium tulufanense]
+SIDPFEVRFTQ--DSAGKFF-----S----SG-----N----SVFELARDLK-------A
+GAVEAA-SI-P---PIRLVQ-N----------------SGKLFS---------LD-NRRL
+AAFQMAD-VP---------VPYRMA----TRRE--IA----------QKWDDH-------
+FTT-------ETD----GIGIA
+>MBV1857170.1 hypothetical protein [Nannocystaceae bacterium]
+TVDPKTVRFSQ--DSMNGSF-----A----DHS---RG----SVDDLATGLRDFVDSRGT
+KGVDPT-KI-K---PIRIVE-R----------------DGGVFT---------LD-NRRL
+KAFQDAE-VD---------VPYKKL----KSIP--VS----------EE--FK-------
+FTT-------TNG----GVSIR
+>UFQ02376.1 RHS domain-containing protein [Pseudomonas sp. FIT81]
+TANPKDINFTQ--PGVNKNG------------------------QGYEQDMR-------N
+GSWDWQ-RS-G---PIRVME-V----------------DGQLVS---------YD-NRRL
+RAAQLAE-LE--------EIPIEIV----LAED--IMPGSK--KTWEKAFNQR-------
+RNE-------KRNWVDG-----
+>WP_170970673.1 DUF6531 domain-containing protein [Streptomyces zhaozhouensis]
+LVNPNDINFSQ--RTISAN--------------------------DYAEAMR-------N
+GTWDWQ-RS-G---PLHVME-V----------------DGQLVS---------YD-NRRL
+NAAREAG-LR--------EVPIERV----DPSA--PHPDSTTGRTWGQQFQRR-------
+FND-------PRNRRAG-----
+>CAG2201991.1 unnamed protein product [Mytilus edulis]
+YLRPTEIFYSQ--DSIANTF-----G----RSTRHRNV----YIGDTLDELI-------N
+GSATVK-SI-P---AISVFW-R----------------DDKWFT---------QD-NRRL
+WVFRTAE-EL----RILTSIPVYET----Y-----------------GINSNK-------
+FTT-------YNG----GSSVR
+>XP_033745140.1 uncharacterized protein LOC117330766 [Pecten maximus]
+YLRPNKIRFCQ--DSISSVF-----D----KNSEHAYE----RIGETLDDLL-------R
+GDCDIL-DI-P---PITVVD-V----------------DGDWYT---------TD-NRRL
+WVFQKLE-DL----GHCKKIPVIED----D-----------------YIPPWK-------
+FTT-------VND----GLTTY
+>CAE7187229.1 unnamed protein product, partial [Symbiodinium pilosum]
+LIRVQDICFTQ--KEVNDSF-----SH---QQ-----R----PIMELIDNLL-------K
+GHTQPR-EV-P---RVRVAW-H----------------QGAFWS---------AD-NRRL
+YAFKHCN-VD--------WLPVRVL----RWDE-------------QHEFEMKS------
+----------KNG---------
+>KAH3837958.1 hypothetical protein DPMN_111362 [Dreissena polymorpha]
+DLKPSQIFYSQ--DSINNVF-----D----KRSSHNGT----RIGDTLDDVC-------E
+GICQVS-SI-P---KITVVN-R----------------DGKWVT---------AD-NRRL
+WVFRELE-RL----GKCDTIPVRIS----S-----------------YIPEAK-------
+LTS-------YNG----GTSVR
+>WP_083533974.1 MULTISPECIES: LysM peptidoglycan-binding domain-containing protein [Burkholderia]
+RADPAKIRFTQ--SDASPFF-----S----KG-----G----TIDSLVSDLR-------S
+GKVTAD-QVGN---PLQVVM-H----------------EGLPFS---------ID-NRRL
+VAFNLAG-VR--------DVPIQIV----TLDNPAVA----------ARFFDR-------
+FDP-------IGG---VGKNIV
+>XP_034329616.1 uncharacterized protein LOC117690218 [Crassostrea gigas]
+YLRPSEIRFSQ--DSIGSTF-----G----SYTSHPFK----QIGETLDEIL-------T
+GKINVN-SI-P---SISVCK-K----------------DGKWFT---------AD-NRRL
+WVLQEAE-KL----GKCREICVRET----S-----------------YINYNK-------
+FTT-------VNN----GLSVY
+>XP_039273949.1 uncharacterized protein LOC120347904 [Styela clava]
+YLRPSEIRFTQ--DSIAGRF-----Q----DG-----G----LLNDTIYNIQ-------K
+GLLSPD-NF-P---HINVVR-K----------------NGKLYS---------FD-NRRL
+YIFRVCE-YE----GIIEKIPVRLV----ESWR--LR-------------EDR-------
+FTT-------END----GVTLR
+>XP_045203565.1 uncharacterized protein LOC123556710 [Mercenaria mercenaria]
+YLKPSEIFFSQ--DSINNVF-----D----KNCGHRYQ----PIGETLDALC-------N
+GRCSVG-SI-P---TISVVK-H----------------NNKWFT---------AD-NRRL
+WVFRNLE-RL----GKCDKIYVSEG----F-----------------YIPPSK-------
+FTT-------YNG----GESVY
+>CAC5388540.1 unnamed protein product [Mytilus coruscus]
+ELRPSEIFYSQ--DSIMNRF-----G----DYTIHGNT----YIGETLDQLL-------Q
+GHCNVN-NI-P---TITVVN-K----------------YGKWYT---------SD-NRRL
+WVFRKAE-EI----GFLETIDVSVS----S-----------------YLNGNK-------
+FTT-------ENG----GTSIR
+>CAE7231026.1 ak1 [Symbiodinium sp. CCMP2456]
+KMDPRKLRFTQ--ASISPTF-----R----DG-----R----QIFQLMNDLN-------S
+QEVDPLREL-E---PLDVVW-H----------------NGYWRS---------LS-NRRL
+WTLKHCT-AA--MTDQALFVRVRVR----------AP---------DAEFRTK-------
+LTS-------TND----GVSVL
+>CAG2201990.1 unnamed protein product [Mytilus edulis]
+YLKPSNIHYSQ--DSISNTF-----G----KSTIHSDR----YIGETLDDLI-------N
+GTINVN-NI-P---NISVFR-L----------------NNKWFT---------TD-NRRL
+WVFRKAE-EL----GILHSIQVYQN----L-----------------CTVSSK-------
+LTT-------TNG----GLTVR
+>CAC5413378.1 unnamed protein product [Mytilus coruscus]
+FLKPSDIFYTQ--DSISNYF-----G----KSTSHSDT----HIGDTLDELI-------N
+GTADVT-SI-P---RIRVFC-L----------------NGKWFT---------PD-NRRL
+WVFRKAE-KH----GILHSIPVYEI----SI---------------CEVDPDK-------
+FTS-------CNE----GSSVS
+>CAE7903418.1 unnamed protein product, partial [Symbiodinium microadriaticum]
+KIRPRDISFSQ--DSIGKAF-----K----DG-----N----TLDGTMAKIR-------S
+GECKIE-DI-E---KIQITW-H----------------SHEKTSPGKPRWWTFTG-NRRL
+SLYRKLE-EE----GALEFIVAEWV----NTTV--PD--------------WR-------
+MTT-------HNA----DERPE
+>XP_025165932.1 hypothetical protein GLOIN_2v1725417 [Rhizophagus irregularis DAOM 181602=DAOM 197198]
+EVDPRRVLYSQ--DSIRAKF-----R----ND-----E----PIEDTIEKLI-------S
+GEISPS-QI-R---CMRVCI-L----------------NGKMHS---------LD-NRRL
+YAFKEAV-KR---GSRFKTVIVIRS----------DD---------YLELQSK-------
+MSK---SPR-NFD----WSEI-
+>CAG8557968.1 5888_t:CDS:2 [Rhizophagus irregularis]
+EIDPREVFYSQ--DSIRPRF-----KD---DN-----R----HVEDTIRQLV-------K
+GKISPR-HI-E---RIRVCT-L----------------NGRMHS---------LD-NRRL
+YVFKEAI-NR---GGNFETVPAVRS----------YA---------HEELQNK-------
+MSK---SSP-FND----WLVI-
+>CAG8558008.1 5890_t:CDS:2 [Rhizophagus irregularis]
+IIDPRKVLYSQ--YSIRPRF-----R----DD-----E----LIEDTIDQLV-------S
+GEISPK-NI-E---HIRVCT-F----------------KGKMHS---------LD-NRRL
+YAFREAI-KR---GCSFRTVPAIRS----------YE---------FDELKRK-------
+MTS---PP--SPD----YSVI-
+>KAH9553463.1 hypothetical protein CY35_08G011100 [Sphagnum magellanicum]
+RVNPKDLRFTQ--DSIAVCF-----QS-PHEN-----W----RIDEAVDMIV-------S
+KKLSPE-SF-P---MLSVVR-Y----------------QGTLWS---------LD-NRRL
+WVFRKAH-VV--------RITVLLDPHFESHPR--IVNLKS---DRSLMARWS-------
+CESY--FPT-------------
+>RIA88172.1 hypothetical protein C1645_826769 [Glomus cerebriforme]
+EVDPRQIFYSQ--CCIKPHF---TSRKNGENA-----K----LVEETIEELV-------S
+GEVSPE-NI-K---RIRVVT-R----------------NEKMHS---------LD-NRRL
+YSFKKAI-ER---GASFSTITVEKS----------PN---------VRELRWK-------
+MNH---YR--SND----WSVV-
+>XP_039249162.1 uncharacterized protein LOC120326874 [Styela clava]
+-MKPSEIRFSQ--DDIAPNF-----T----NG-----E----NIHEVIGEIL-------R
+GETSVY-PF-Q---PISVWY-E----------------NGSWYS---------EN-NRRL
+YMFRVLE-YE----GKVNDICVEET----SPPG------------------WR------P
+NTS-------DND----GVSIR
+>CAE7482533.1 TMEM144 [Symbiodinium microadriaticum]
+MLDPLTIRFSQ--GNIGESF-----KDLVWDG-----T----SIFETYEQIS-------E
+G-MQKR-EV-P---MMRVVQ-K----------------DGLWVT---------LD-NRRL
+AVYKMAR-HG----GKCRDVKVNVV----QLSD--VE----------GELRKK-------
+SDS-------RVE----GLAVI
+>CAE7332239.1 HDLBP [Symbiodinium microadriaticum]
+KLPVGELQFSQ--ATISGSF-----R----NG-----A----SLSETESMLR-------M
+NPDLVH-KI-P---FISVVR-D----------------AGRLVS---------MD-NRRL
+YTFRMAF-DDDH------QVPIKLF----DSKED-FG---------VDEFHRK-------
+ATS-------ICG----GHLVE
+>CAE8732546.1 unnamed protein product [Polarella glacialis]
+CIRLGDIFFTQ--SSIHSTF-----S----NG-----D----DLQDTICDLK-------T
+GLMSID-RV-P---QITIVR-Y----------------GGKWYS---------VD-NRRL
+YCFKAAL-PA--------DTEISVI----EGVV-------------DHKFFNN-------
+LTT-------QNG----GASIE
+>ATO85560.1 hypothetical protein ACWT_6145 [Actinoplanes sp. SE50]
+WVDPNDINFSQ--RTVSPN--------------------------DYVQSMK-------D
+GTWDWN-RE-G--TALRVLE-R----------------DGQLVS---------YD-NRRL
+DAAREVR-AE----DPTYRVKIEVL----DPEA--ANPAKSTGMNWDKSFEKR-------
+MTS-------KRNKDEN-----
+>CAF1198967.1 unnamed protein product [Adineta steineri]
+YINPQRVRYTQ--ISISPRF-----R----NG-----Q----SIEQLRQDLE-------D
+GTTNVD-EV-S---MISVVRTR----------------SGNIWS---------LD-NRRL
+WCFHHASNID--------RIPVRVI----DKRP--------------SWFNNR-------
+IEK-------IKK----PFEIR
+>CAH1785447.1 unnamed protein product [Owenia fusiformis]
+QLNPAEILYTQ--DIVKCHF-----E----DG-----T----NLADTFRSLL-------Y
+GTSSPG-DL-E---SMDVML-W----------------DQKYWV---------VEGNRRL
+YLFKQLE-KL----NITKQITAIKI-------P--EE---------KWMWRKI-------
+FRN-------SNH----GKTVS
+>KAG6554971.1 hypothetical protein Mapa_003556 [Marchantia paleacea]
+EVDPDQLTFTQ--DSIAVHF-----KK-PREK-----E----RIDDAVISIL-------Q
+GTLRVS-DF-P---RLRVVC-H----------------EGRLWS---------LD-NRRL
+WVYKKAK-VR--------NIPVDLV----PYNR--LHRFAE--LMQNPELKMK-------
+LARN-------------GFWPR
+>MBS0287367.1 hypothetical protein [Proteobacteria bacterium]
+TQNPEEIRFTQ--ESISPTL-----SK-PKPG-----EKTAPHLDALVALLN-------T
+GKQRMT-DF-P---ACEIFS-IEDPL----------TQEVAWFS---------LN-NRKL
+YLAKKSH-AP--------QMNTQLA----TFAE-------------ILGDTWK-------
+YTS-------TSD----GYNYP
+>OAE22406.1 hypothetical protein AXG93_2381s1020 [Marchantia polymorpha subsp. ruderalis]
+EVNVQELLFTQ--DSISCHF-----RK-PREG-----Q----RIDDTVESIL-------Q
+GVIKVT-DF-P---ALNVVK-H----------------EGRLWS---------LD-NRRL
+WIFKKAR-IS--------TVTVKIV----PYHW--HPRFAE--SINNLELKAV-------
+LEKN-------------SFWPR
+>CAD7943787.1 unnamed protein product [Amoebophrya sp. A25]
+RKKPSDVWFTQ--DSIKEDF-----S----DG-----EH---TLHGTALLLA-------E
+QKISPS-DI-E---AMSVVE-Y----------------EGKIWA---------VD-NRRL
+ACFRLLE-MV----GKVGKVPMTLV----PLRWKGMQ----------KQFTDK-------
+LTT-------RTG----GKYVM
+>CAE7237499.1 unnamed protein product [Symbiodinium pilosum]
+FVKPSEIRFTQ--AKCSPNF-----R----DG-----R----SMSETYRQLL-------A
+GSIEKR-DV-D---MLRVVE-YNK--------------DGHMYS---------VD-NRRL
+AVFRLLE-QN----GHTKIVKVRVL----ARSE--LY---------RDEWKKKFTLRSGT
+FST-------TTH----GRSIT
+>CAE7249135.1 HDLBP [Symbiodinium natans]
+RVAIGELQFSQ--ATISGSF-----K----DG-----R----PLDETVAVLR-------K
+NSDLVH-KI-P---LINVVR-H----------------EGKFVS---------MD-NRRL
+YTFRMAF-DDDH------EVPVRLF----EDKAA-YG---------AEDFDRK-------
+ATS-------ICG----GHMVD
+>CAE7601375.1 unnamed protein product [Symbiodinium necroappetens]
+FLRPSEIRFTQ--QKCSPTF-----S----DRHGHGDV----SIGETAKRIL-------S
+GEIHKK-DT-P---MIRIVE-DDSA-------------GGKVYS---------VD-NRRL
+AVFRLLE-MT----GHAKVVKVQVL----AMGD--LH---------KGEWKKK-------
+HST-------KTD----GWVIT
+>CAE7622441.1 unnamed protein product, partial [Symbiodinium sp. CCMP2456]
+KLNVAEIRWTH--DAIRVTF-----R----DG-----K----LLMETLVDLL-------A
+GKLRPS-DL-P---MVEVLE-L----------------GGSFYA---------IEGNRRL
+WIFKELQ-AI---TGEALTIEVQSR-------K--LD---------VKGFTQS-------
+FTS-------KNG----GQSVE
+>KAB4416322.1 type IV secretion protein Rhs, partial [Bacteroides thetaiotaomicron]
+NVNPKNIFYSQ--DSIKDTF-----R----DG-----T----TLQDTIAAMK-------V
+NPKIAE-NI-E---PIRIIKLEDLPTNIQKRLKGQGANEGDYFS---------LD-NRRL
+YAAKEAG-VD--------NINARMV----TAKD--LR---------RVDLNER-------
+FST-------KNA----GRSIE
+>CAE7239527.1 unnamed protein product, partial [Symbiodinium sp. CCMP2592]
+EVLLKSLLYSQ--DSIMGLF-----G----DR----KR----QLKETRKGLS-------E
+GSIKLT-DI-P---AISVIR-Q----------------GEGVVS---------AD-NRRL
+WVFKHCG-MPPNT-----RIPVIVK----KTMD--------------ANFRRK-------
+STS-------KTC----GLTVA
+>HAW3282430.1 RHS repeat protein [Escherichia coli]
+PVSPKTILFSQ--DSINGVF-----E----DG-----R----NVNGLIHRLI-------N
+DPSYIN-HV-E---PIRKVRMRDLPANVQERLLSQGAHKDSVFT---------LD-NRRL
+YAAKTAG-VS--------KIPSRWA----TPEE--LS---------KINLDRR-------
+FST-------QNG----GRTVR
+>MBL1260424.1 VCBS repeat-containing protein [Thiotrichaceae bacterium]
+RVSPSDVKFSQ--ATASQNF-----S----SN-----G----TINNTVDNLR-------S
+KKITPD-DI-P---AIRVVE-R----------------NGELIT---------LD-NRRL
+AAFSAAG-VK--------NIPVKKV----SLSNAAVK----------KEFKKK-------
+FNP-------VNG----GNNIV
+>PKC67245.1 hypothetical protein RhiirA1_535017 [Rhizophagus irregularis]
+EVDPRQILYSQ--CCIKPNF---TPKKRGEEG-----R----RVEDTITSLV-------N
+GRTSPK-EI-K---PIRVWTCS----------------NGKKHS---------LD-NRRL
+YAFKEAI-KL---GAAIDTVTVEDA----NKRK-----------NLLKELKWK-------
+MKH---YP--SKD----WSTI-
+>XP_039265799.1 uncharacterized protein LOC120341372 [Styela clava]
+KTTPDKLRYTQ--DSISSNF-----K----NG-----G----SIEEAINNVV-------A
+GVLSVL-DF-P---RMEVYS-F----------------AGSLWC---------RN-NRRL
+YVMKELQ-LR----GHLGEIVVDYV---------------------GEKLHHRRY-----
+FTT-------KTD----GKSIR
+>KAH8951922.1 hypothetical protein BDL97_09G056900 [Sphagnum fallax]
+EVSPRILRFTQ--LDIGSHF-----KQ-PYQH-----T----RIEEAVTMIL-------S
+QVKAPS-DF-G---KLRVVR-Y----------------DDEFWS---------LD-NRRL
+WVFKRAR-VE--------NVTVRES----KYHAN-VPRFQA--MIDDPQLMNK-------
+LRLE-------------NFLPR
+>MCB1115028.1 AAA family ATPase [Chlamydiia bacterium]
+TVEVSKIRFTQ--NSVSPYF-----S----DG-----T----SVEELAQKLA-------S
+GELSVG-II-K---LIRVVR-Y----------------QNQLWS---------ID-NRRL
+RAFKDGL-VD--------KVQVLMV----DLKDPNVA----------KEFWAKKT-----
+-----------------GKSAI
+>VDI59739.1 Hypothetical predicted protein [Mytilus galloprovincialis]
+EMRPSELRFTQ--DSVSCNF-----Q----DG-----H----SMDETLRMVL-------N
+GSIPIS-RI-P---PLVVMN-F----------------EGSWYV--------VRG-NRRL
+YLYQLLE-RN----GKLQFVKVIQQ----NFDN--------------NVFKKQ-------
+FTS-------KNN----GRSIR
+>CAH1786235.1 unnamed protein product, partial [Owenia fusiformis]
+SISPNDVFYSQ--SSIKATF-----T----DE-----RY---SLEETFISLV-------R
+NEVAVA-TL-P---KLEVAM-I----------------DGKFWV--------TSG-NRRL
+YLFKILN-KW----GLCDIIKVKVK----TTIN-------------EYVFTQR-------
+FTT-------NNG----GTTVK
+>XP_041354293.1 uncharacterized protein LOC121372096 [Gigantopelta aegis]
+SVRPSQLRFTH--DSIGYKF-----R----GG-----Y----TLENSLRDLL-------N
+NKINVQ-SL-P---RMEVMH-H----------------DGHLYV--------VRG-NRRL
+YLLQKLE-KF----GLVNEITVYVR----RFDS--------------TLFDKQ-------
+HTT-------DCG----GAYVR
+>BBM96861.1 hypothetical protein Mp_1g01230 [Marchantia polymorpha subsp. ruderalis]
+TCNPWDLRFTQ--DLISARF-----RP-PYGN-----F----TVYDGVRQIL-------D
+GGMSPS-DF-P---RIRVMR-H----------------EGQLWC---------LD-NRRL
+YVFRLSK-VP--------TIKVSVV----ATRC---------------SLTRS-------
+LSA---FPP--------NVLVE
+>XP_041354113.1 uncharacterized protein LOC121371949 [Gigantopelta aegis]
+RVRPSELKYCH--GSISNTF-----G----DG-----T----PLEKTFEDIV-------Y
+GRVRPQ-DL-P---PVETMY-YPF--------------GGILCV--------TNG-NRRL
+YVFQKLE-SY----GMISEITVMVR----EFDA--------------ELFKSK-------
+NLS-------LCN----GSYVK
+>XP_045196663.1 uncharacterized protein LOC123551644 [Mercenaria mercenaria]
+KFLPSEIRFSR--DIINYRF-----K----NG-----T----KIQRTLEKLI-------T
+GAITVN-DI-P---RIKIVK-R----------------DGLKFS---------VN-NRRL
+WVFQRYE-EFLRSREETIAIPVNYG----VYKD--LK-------------DYK-------
+LST-------RDE----GLTVE
+>ADE77145.1 unknown [Picea sitchensis]
+IANPDDLRFTQ--DSIAIKF-----RY-PYDH-----L----RIDNAVEQIQ-------Q
+GLLTAS-EF-T---PMNVVR-Y----------------NGILWS---------LD-NRRL
+WVFRRAR-VQ--------KVTVNIV----SSSY--SQRSLTFFMSLDDQLERT-------
+YSSPLYYPR-------------
+>CAE7360340.1 unnamed protein product [Symbiodinium natans]
+-MDVAEIRFTQVAEHVYDTF-----NANSERA-----G----SVLDLMESIL-------K
+GDKTPW-DI-P---LIRVAA-K----------------KGAYWC---------VD-NRRL
+FTYKHLQ-LG--------MIPVEVF----NWKD-------------NREFELK-------
+YKNGLPYRQQTSN----GLRIG

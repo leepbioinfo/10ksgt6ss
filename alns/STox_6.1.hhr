@@ -1,0 +1,369 @@
+Query         FD01848827_02686 RHS repeat family protein
+Match_columns 105
+No_of_seqs    13 out of 17
+Neff          2.36269
+Searched_HMMs 86581
+Date          Mon Feb 26 22:37:25 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/2529721.hhr -oa3m ../results/2529721.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 PF09954.13 ; DUF2188 ; Unchara  71.9      23 0.00026   20.9   4.2   41    8-48     13-55  (60)
+  2 PF21785.1 ; Bflower_2 ; 5-fold  57.8      36 0.00042   23.1   3.5   24   39-63     54-77  (116)
+  3 3BL4_B Uncharacterized protein  48.0      23 0.00027   21.2   1.3   15   18-32    110-124 (124)
+  4 7R7C_m Ribosome biogenesis pro  46.0      24 0.00028   22.9   1.3   13   73-85     15-27  (63)
+  5 8I9Z_CC Ribosome biogenesis pr  45.3      17  0.0002   33.6   0.7   13   73-85    182-194 (801)
+  6 PF13788.10 ; DUF4180 ; Domain   41.3      30 0.00035   22.0   1.2   11   18-28    100-110 (111)
+  7 PF21784.1 ; Bflower ; 4-fold b  41.1      84 0.00097   22.5   3.4   28   36-65     38-65  (121)
+  8 2Q3L_A Uncharacterized protein  39.7      36 0.00041   20.0   1.2   11   18-28    114-124 (126)
+  9 4U7A_A Ribosome biogenesis pro  39.5      24 0.00028   33.2   0.7   13   73-85    186-198 (826)
+ 10 2OOK_A Hypothetical protein; Y  38.0      36 0.00041   20.0   1.0   14   18-31    114-127 (127)
+ 11 PF11360.12 ; DUF3110 ; Protein  36.5      51 0.00059   22.5   1.7   16   17-32     32-47  (89)
+ 12 5UP1_A EEHEE_rd3_1049; de novo  31.2      91  0.0011   22.3   2.3   25    6-32     22-46  (64)
+ 13 8ESR_m Ribosome biogenesis pro  30.4      42 0.00049   30.4   0.7   13   73-85    126-138 (740)
+ 14 PF21785.1 ; Bflower_2 ; 5-fold  29.1 1.9E+02  0.0022   19.6   3.5   22   37-59      1-22  (116)
+ 15 PF10386.13 ; DUF2441 ; Protein  27.7      96  0.0011   22.9   2.1   25   17-41     78-102 (140)
+ 16 7T4X_C Potassium channel AKT1;  27.4 3.4E+02  0.0039   23.7   5.3   62    2-63    792-856 (857)
+ 17 5UJP_B Glyoxalase/bleomycin re  26.8 2.2E+02  0.0025   16.5   5.2   73   11-83      1-73  (114)
+ 18 PF11834.12 ; KHA ; KHA, dimeri  26.8 1.9E+02  0.0022   15.7   4.1   35   14-48     16-50  (64)
+ 19 PF04800.16 ; NDUS4 ; NADH dehy  26.6      85 0.00098   21.7   1.5   18   15-32     50-67  (96)
+ 20 PF08145.16 ; BOP1NT ; BOP1NT (  25.8      67 0.00077   27.1   1.1   13   73-85      3-15  (259)
+ 21 PF08350.14 ; FilR1_middle ; Me  24.6   1E+02  0.0012   18.5   1.5   17   17-33     37-53  (62)
+ 22 2LJU_A Putative oxidoreductase  21.8 1.1E+02  0.0013   21.5   1.4   18   15-32     62-79  (108)
+ 23 PF04981.17 ; NMD3 ; NMD3 famil  21.6 2.7E+02  0.0031   21.4   3.5   44   15-59    178-221 (229)
+ 24 PF11964.12 ; SpoIIAA-like ; Sp  21.6      80 0.00093   17.8   0.6   13   18-30     92-106 (106)
+ 25 PF05593.18 ; RHS_repeat ; RHS   20.0 2.5E+02  0.0029   16.3   2.4   18   41-59      1-20  (41)
+
+No 1
+>PF09954.13 ; DUF2188 ; Uncharacterized protein conserved in bacteria (DUF2188)
+Probab=71.88  E-value=23  Score=20.95  Aligned_cols=41  Identities=12%  Similarity=0.197  Sum_probs=0.0  Template_Neff=9.400
+
+Q ss_pred             ccCCceeehhccCChHHHHHHHHHHh--cCCceEEECCCCCEE
+Q FD01848827_026    8 TKKGTTKVDTLFNNMNDAKNWAANQL--GLGKTRIYDSNGKWI   48 (105)
+Q Consensus         8 tKKg~~K~~~lf~d~n~A~N~~r~~l--G~~~~r~y~~~gkw~   48 (105)
+                      +.-|..+....|+++.+|+..|+.+.  ......+++++|++.
+T Consensus        13 ~~~~~~~~~~~~~tk~eAi~~a~~~A~~~~~~v~i~~~dG~i~   55 (60)
+T B2GBG8_LIMF3/5   13 KSSGSPRASKIYSTKSEAIKAGRQQAINNHAELVSQKRNGQIN   55 (60)
+T ss_pred             EeCCCCCCeeecCCHHHHHHHHHHHHHHCCCEEEEECCCCCEE
+
+
+No 2
+>PF21785.1 ; Bflower_2 ; 5-fold beta-flower protein
+Probab=57.78  E-value=36  Score=23.07  Aligned_cols=24  Identities=21%  Similarity=0.238  Sum_probs=0.0  Template_Neff=9.100
+
+Q ss_pred             EEECCCCCEEEEEcCCCCeeEecCC
+Q FD01848827_026   39 RIYDSNGKWIGWQNKAGDSVYWGHG   63 (105)
+Q Consensus        39 r~y~~~gkw~GW~n~~Gd~vYW~Hg   63 (105)
+                      .+||.+|++.|+..+.| .||...|
+T Consensus        54 ~i~d~~G~~vg~i~~~g-~v~d~~g   77 (116)
+T A0A1G6CB15_9FL   54 TIQNGNHTIVGYVKING-TVQDMNH   77 (116)
+T ss_pred             EEECCCCCEEEEEccCC-EEEcCCC
+
+
+No 3
+>3BL4_B Uncharacterized protein; Structural genomics, Joint Center for Structural Genomics, JCSG, Protein Structure Initiative, PSI-2, unknown function; HET: SO4, MSE; 2.2A {Arthrobacter sp.}
+Probab=48.04  E-value=23  Score=21.24  Aligned_cols=15  Identities=33%  Similarity=0.592  Sum_probs=0.0  Template_Neff=12.200
+
+Q ss_pred             ccCChHHHHHHHHHH
+Q FD01848827_026   18 LFNNMNDAKNWAANQ   32 (105)
+Q Consensus        18 lf~d~n~A~N~~r~~   32 (105)
+                      .|.+..+|++|.+..
+T Consensus       110 ~F~~~~eA~~Wl~~~  124 (124)
+T 3BL4_B          110 FFTSERDALTWLALT  124 (124)
+T ss_dssp             EESCHHHHHHHHHCC
+T ss_pred             ecCCHHHHHHHHhcC
+
+
+No 4
+>7R7C_m Ribosome biogenesis protein ERB1; ribosome biogenesis, DEAD-box ATPases, methyltransferase, nucleolus, RIBOSOME;{Saccharomyces cerevisiae BY4741}
+Probab=45.97  E-value=24  Score=22.91  Aligned_cols=13  Identities=38%  Similarity=0.976  Sum_probs=0.0  Template_Neff=7.100
+
+Q ss_pred             cCCceeeeeCCCc
+Q FD01848827_026   73 TFPHLNININGEK   85 (105)
+Q Consensus        73 ~fPHlNy~i~g~k   85 (105)
+                      .++|+.|+++|.+
+T Consensus        15 ~~~higYd~~G~k   27 (63)
+T 7R7C_m           15 EMPHIGYDINGKR   27 (63)
+T ss_dssp             SSSEEEECTTSCE
+T ss_pred             CCCceeeecCCCc
+
+
+No 5
+>8I9Z_CC Ribosome biogenesis protein ERB1; Ribosome, Ribosome biogenesis, pre-60S ribosome; HET: ADP, GTP; 2.7A {Chaetomium thermophilum}
+Probab=45.34  E-value=17  Score=33.60  Aligned_cols=13  Identities=46%  Similarity=1.119  Sum_probs=0.0  Template_Neff=8.100
+
+Q ss_pred             cCCceeeeeCCCc
+Q FD01848827_026   73 TFPHLNININGEK   85 (105)
+Q Consensus        73 ~fPHlNy~i~g~k   85 (105)
+                      .||||.|+|+|.|
+T Consensus       182 ~~~~~~y~~~g~~  194 (801)
+T 8I9Z_CC         182 SYPHIGYDINGKK  194 (801)
+T ss_pred             cCCccccccCCcc
+
+
+No 6
+>PF13788.10 ; DUF4180 ; Domain of unknown function (DUF4180)
+Probab=41.29  E-value=30  Score=21.97  Aligned_cols=11  Identities=9%  Similarity=-0.012  Sum_probs=0.0  Template_Neff=10.500
+
+Q ss_pred             ccCChHHHHHH
+Q FD01848827_026   18 LFNNMNDAKNW   28 (105)
+Q Consensus        18 lf~d~n~A~N~   28 (105)
+                      +|.|..+|++|
+T Consensus       100 ~F~~~~~A~~W  110 (111)
+T A0A6L7H575_BAC  100 YLATEQQAIEK  110 (111)
+T ss_pred             EeCCHHHHHHh
+
+
+No 7
+>PF21784.1 ; Bflower ; 4-fold beta flower protein
+Probab=41.10  E-value=84  Score=22.50  Aligned_cols=28  Identities=21%  Similarity=0.469  Sum_probs=0.0  Template_Neff=7.800
+
+Q ss_pred             CceEEECCCCCEEEEEcCCCCeeEecCCCc
+Q FD01848827_026   36 GKTRIYDSNGKWIGWQNKAGDSVYWGHGDW   65 (105)
+Q Consensus        36 ~~~r~y~~~gkw~GW~n~~Gd~vYW~HgDW   65 (105)
+                      +.-.+||.+|++.||-  .++.+|=..|.|
+T Consensus        38 ~~~~Vyd~~G~~vG~~--~~g~i~d~~G~~   65 (121)
+T A1ZX69_9BACT/1   38 GFKSIFGMNGEHMGWF--VDGIFFNHQQKV   65 (121)
+T ss_pred             ceeEEECCCCCEEEEE--ECCEEECCCCCE
+
+
+No 8
+>2Q3L_A Uncharacterized protein; SPOIIAA-LIKE FOLD, STRUCTURAL GENOMICS, JOINT CENTER FOR STRUCTURAL GENOMICS, JCSG, PROTEIN STRUCTURE INITIATIVE, PSI-2, UNKNOWN FUNCTION; HET: MPD, MSE; 2.25A {Shewanella loihica PV-4} SCOP: l.1.1.1, c.13.2.2
+Probab=39.68  E-value=36  Score=19.99  Aligned_cols=11  Identities=36%  Similarity=0.981  Sum_probs=0.0  Template_Neff=12.700
+
+Q ss_pred             ccCChHHHHHH
+Q FD01848827_026   18 LFNNMNDAKNW   28 (105)
+Q Consensus        18 lf~d~n~A~N~   28 (105)
+                      +|++..+|++|
+T Consensus       114 ~f~~~~eA~~W  124 (126)
+T 2Q3L_A          114 FFEDKRDALDW  124 (126)
+T ss_dssp             EESCHHHHHHH
+T ss_pred             ecCcHHHHHHH
+
+
+No 9
+>4U7A_A Ribosome biogenesis protein ERB1; ribosome biogenesis, WD40, rRNA binding, beta-propeller, protein binding; 1.6A {Saccharomyces cerevisiae}
+Probab=39.54  E-value=24  Score=33.23  Aligned_cols=13  Identities=38%  Similarity=0.976  Sum_probs=0.0  Template_Neff=7.600
+
+Q ss_pred             cCCceeeeeCCCc
+Q FD01848827_026   73 TFPHLNININGEK   85 (105)
+Q Consensus        73 ~fPHlNy~i~g~k   85 (105)
+                      .||||.|+|+|.|
+T Consensus       186 ~~~higy~~~g~~  198 (826)
+T 4U7A_A          186 EMPHIGYDINGKR  198 (826)
+T ss_dssp             -------------
+T ss_pred             cCCcccccCCCCc
+
+
+No 10
+>2OOK_A Hypothetical protein; YP_749275.1, hypothetical protein, Structural Genomics, Joint Center for Structural Genomics, JCSG, Protein Structure Initiative, PSI-2, UNKNOWN; HET: EDO, MSE; 1.8A {Shewanella frigidimarina} SCOP: c.13.2.2
+Probab=37.98  E-value=36  Score=20.03  Aligned_cols=14  Identities=29%  Similarity=0.646  Sum_probs=0.0  Template_Neff=12.700
+
+Q ss_pred             ccCChHHHHHHHHH
+Q FD01848827_026   18 LFNNMNDAKNWAAN   31 (105)
+Q Consensus        18 lf~d~n~A~N~~r~   31 (105)
+                      +|.+..+|+.|.+.
+T Consensus       114 ~f~~~~eA~~Wl~~  127 (127)
+T 2OOK_A          114 YFEDEDDALKWLRY  127 (127)
+T ss_dssp             EESCHHHHHHHHHC
+T ss_pred             EecCHHHHHHHHhC
+
+
+No 11
+>PF11360.12 ; DUF3110 ; Protein of unknown function (DUF3110)
+Probab=36.51  E-value=51  Score=22.48  Aligned_cols=16  Identities=25%  Similarity=0.297  Sum_probs=0.0  Template_Neff=7.600
+
+Q ss_pred             hccCChHHHHHHHHHH
+Q FD01848827_026   17 TLFNNMNDAKNWAANQ   32 (105)
+Q Consensus        17 ~lf~d~n~A~N~~r~~   32 (105)
+                      ..|++..||.+||..+
+T Consensus        32 laFE~~~DA~rya~~L   47 (89)
+T C1MMX9_MICPC/1   32 LAFTTNEDASRYATLL   47 (89)
+T ss_pred             EEEcCHHHHHHHHHHH
+
+
+No 12
+>5UP1_A EEHEE_rd3_1049; de novo design, mini protein, DE NOVO PROTEIN; NMR {Escherichia coli}
+Probab=31.17  E-value=91  Score=22.34  Aligned_cols=25  Identities=40%  Similarity=0.518  Sum_probs=0.0  Template_Neff=1.000
+
+Q ss_pred             ccccCCceeehhccCChHHHHHHHHHH
+Q FD01848827_026    6 LTTKKGTTKVDTLFNNMNDAKNWAANQ   32 (105)
+Q Consensus         6 ~~tKKg~~K~~~lf~d~n~A~N~~r~~   32 (105)
+                      ++-|.|..|+.  |+|+..|+.+|.++
+T Consensus        22 ttvklgdikvt--fdnpekakkyaqkl   46 (64)
+T 5UP1_A           22 TTVKLGDIKVT--FDNPEKAKKYAQKL   46 (64)
+T ss_dssp             EEEECSSCEEE--ESCHHHHHHHHHHH
+T ss_pred             eeEEeCcEEEE--eCCHHHHHHHHHHH
+
+
+No 13
+>8ESR_m Ribosome biogenesis protein erb1; 60S Ribosome, nucleophosmin, ribosome biogenesis, fkbp, RIBOSOME;{Schizosaccharomyces pombe}
+Probab=30.36  E-value=42  Score=30.37  Aligned_cols=13  Identities=31%  Similarity=0.452  Sum_probs=0.0  Template_Neff=8.800
+
+Q ss_pred             cCCceeeeeCCCc
+Q FD01848827_026   73 TFPHLNININGEK   85 (105)
+Q Consensus        73 ~fPHlNy~i~g~k   85 (105)
+                      .||||.|+++|.|
+T Consensus       126 ~~~h~gy~~~g~~  138 (740)
+T 8ESR_m          126 ENLYINYDIDGKK  138 (740)
+T ss_pred             CCCcccccCCCCc
+
+
+No 14
+>PF21785.1 ; Bflower_2 ; 5-fold beta-flower protein
+Probab=29.14  E-value=1.9e+02  Score=19.62  Aligned_cols=22  Identities=18%  Similarity=0.324  Sum_probs=0.0  Template_Neff=9.100
+
+Q ss_pred             ceEEECCCCCEEEEEcCCCCeeE
+Q FD01848827_026   37 KTRIYDSNGKWIGWQNKAGDSVY   59 (105)
+Q Consensus        37 ~~r~y~~~gkw~GW~n~~Gd~vY   59 (105)
+                      ++++||++|+..+-..+.| .+|
+T Consensus         1 ~~~i~d~~g~~~~~i~~~G-~v~   22 (116)
+T A0A1G6CB15_9FL    1 TQEIQAKNHNISGYIKNDG-TIH   22 (116)
+T ss_pred             CeEEECCCCCEEEEECCCC-EEE
+
+
+No 15
+>PF10386.13 ; DUF2441 ; Protein of unknown function (DUF2441)
+Probab=27.66  E-value=96  Score=22.91  Aligned_cols=25  Identities=4%  Similarity=0.274  Sum_probs=0.0  Template_Neff=7.600
+
+Q ss_pred             hccCChHHHHHHHHHHhcCCceEEE
+Q FD01848827_026   17 TLFNNMNDAKNWAANQLGLGKTRIY   41 (105)
+Q Consensus        17 ~lf~d~n~A~N~~r~~lG~~~~r~y   41 (105)
+                      |+|++..+|+.|+...-+.+...++
+T Consensus        78 F~~~s~e~A~~~~~~~~~~~~~~~~  102 (140)
+T R6M9U9_9CLOT/2   78 YVLKDKDEVNGWLEIFKRINRKPLQ  102 (140)
+T ss_pred             EEeCCHHHHHHHHHHhhhcCCCCeE
+
+
+No 16
+>7T4X_C Potassium channel AKT1; K+ channel, ion channel, hyperpolarization-activated channel, voltage-gated channel, MEMBRANE PROTEIN; HET: PTY; 2.8A {Arabidopsis thaliana}
+Probab=27.37  E-value=3.4e+02  Score=23.72  Aligned_cols=62  Identities=15%  Similarity=0.204  Sum_probs=0.0  Template_Neff=11.200
+
+Q ss_pred             ccccccccCCceeehhccCChHHHHHHHHHHhcCCceEEECCC-CCEEEEEcC--CCCeeEecCC
+Q FD01848827_026    2 EIERLTTKKGTTKVDTLFNNMNDAKNWAANQLGLGKTRIYDSN-GKWIGWQNK--AGDSVYWGHG   63 (105)
+Q Consensus         2 ~I~e~~tKKg~~K~~~lf~d~n~A~N~~r~~lG~~~~r~y~~~-gkw~GW~n~--~Gd~vYW~Hg   63 (105)
+                      .|....++.-.-|+-.+-.+..+-+--|.+-+|..++++|+++ |-.+-=...  +||.+|-.-|
+T Consensus       792 ~~~~~~~~~~~gk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  856 (857)
+T 7T4X_C          792 TISCAEKDDIAGKLVLLPGSFKELLELGSNKFGIVATKVMNKDNNAEIDDVDVIRDGDHLIFATD  856 (857)
+T ss_dssp             -----------------------------------------------------------------
+T ss_pred             EEEeCCccCCCCeEEEecCCHHHHHHHHHHHhCcceeEeecCCCCceeceEEEEecCCEEEEecC
+
+
+No 17
+>5UJP_B Glyoxalase/bleomycin resisance protein/dioxygenase; Natural product enzyme, Structural Genomics, PSI-Biology, Midwest Center for Structural Genomics, MCSG, Enzyme Discovery for Natural; HET: MES, MSE; 1.42A {Streptomyces sp. CB03234}
+Probab=26.81  E-value=2.2e+02  Score=16.53  Aligned_cols=73  Identities=10%  Similarity=0.044  Sum_probs=0.0  Template_Neff=12.500
+
+Q ss_pred             CceeehhccCChHHHHHHHHHHhcCCceEEECCCCCEEEEEcCCCCeeEecCCCccCCcccccCCceeeeeCC
+Q FD01848827_026   11 GTTKVDTLFNNMNDAKNWAANQLGLGKTRIYDSNGKWIGWQNKAGDSVYWGHGDWGQGVGKSTFPHLNINING   83 (105)
+Q Consensus        11 g~~K~~~lf~d~n~A~N~~r~~lG~~~~r~y~~~gkw~GW~n~~Gd~vYW~HgDWg~G~G~S~fPHlNy~i~g   83 (105)
+                      +...+.+.-.|..+|..|-...||..........+...-.-...+..+.-.--........+.+.|+.+.++.
+T Consensus         1 ~~~~i~~~~~d~~~~~~fy~~~lg~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~v~d   73 (114)
+T 5UJP_B            1 SNALFSVPVSDQEKAKDFYVETVGFDLLADQPGVHGRWLQVAPKGADTSLVLVDWFPTMPPGSLRGLLLRTDD   73 (114)
+T ss_dssp             CCEEEEEECSCHHHHHCCCCCCSCCEEEEEEECSSSEEEEEECTTCSEEEEEECCCTTSCTTCCCCEEEECSC
+T ss_pred             CceEEEEEeCCHHHHHHHHHhccCcEEEeCCCCCCceeEEEecCCCceEEEEEecCCCCCCCCceeEEEEhhh
+
+
+No 18
+>PF11834.12 ; KHA ; KHA, dimerisation domain of potassium ion channel
+Probab=26.81  E-value=1.9e+02  Score=15.71  Aligned_cols=35  Identities=17%  Similarity=0.385  Sum_probs=0.0  Template_Neff=11.400
+
+Q ss_pred             eehhccCChHHHHHHHHHHhcCCceEEECCCCCEE
+Q FD01848827_026   14 KVDTLFNNMNDAKNWAANQLGLGKTRIYDSNGKWI   48 (105)
+Q Consensus        14 K~~~lf~d~n~A~N~~r~~lG~~~~r~y~~~gkw~   48 (105)
+                      ++-.+-.+..+-++-|...++....++|+++|-.+
+T Consensus        16 ~~~~~~~s~~~l~~~~~~~~~~~~~~~~~~~g~~i   50 (64)
+T M1CU63_SOLTU/3   16 RAVLLPDSINELLDIGAEKFGVSLAKVLTEDGALI   50 (64)
+T ss_pred             EEEECCCCHHHHHHHHHHHhCCCccEEEcCCCCEe
+
+
+No 19
+>PF04800.16 ; NDUS4 ; NADH dehydrogenase ubiquinone Fe-S protein 4
+Probab=26.59  E-value=85  Score=21.67  Aligned_cols=18  Identities=22%  Similarity=0.318  Sum_probs=0.0  Template_Neff=7.700
+
+Q ss_pred             ehhccCChHHHHHHHHHH
+Q FD01848827_026   15 VDTLFNNMNDAKNWAANQ   32 (105)
+Q Consensus        15 ~~~lf~d~n~A~N~~r~~   32 (105)
+                      +.+-|+++.+|..||.+.
+T Consensus        50 ~~l~F~s~e~Ai~fa~~~   67 (96)
+T A7HXF0_PARL1/1   50 VLLRFDSKEEAVAYAEKH   67 (96)
+T ss_pred             eEEEeCCHHHHHHHHHHc
+
+
+No 20
+>PF08145.16 ; BOP1NT ; BOP1NT (NUC169) domain
+Probab=25.76  E-value=67  Score=27.11  Aligned_cols=13  Identities=31%  Similarity=0.846  Sum_probs=0.0  Template_Neff=6.100
+
+Q ss_pred             cCCceeeeeCCCc
+Q FD01848827_026   73 TFPHLNININGEK   85 (105)
+Q Consensus        73 ~fPHlNy~i~g~k   85 (105)
+                      .|+||.|+++|.+
+T Consensus         3 d~~HiGYd~dGkk   15 (259)
+T F0ZHH5_DICPU/2    3 DFDHIGYDVDGNK   15 (259)
+T ss_pred             cCCceeeCCCCCe
+
+
+No 21
+>PF08350.14 ; FilR1_middle ; Methanogenesis regulatory protein FilR1, middle domain
+Probab=24.64  E-value=1e+02  Score=18.46  Aligned_cols=17  Identities=12%  Similarity=0.261  Sum_probs=0.0  Template_Neff=9.200
+
+Q ss_pred             hccCChHHHHHHHHHHh
+Q FD01848827_026   17 TLFNNMNDAKNWAANQL   33 (105)
+Q Consensus        17 ~lf~d~n~A~N~~r~~l   33 (105)
+                      .|..+-.+|..||+.+.
+T Consensus        37 ~l~s~~~~~~~Wa~~lf   53 (62)
+T Q8THW4_METAC/1   37 FIMSFEPAALRWGQELF   53 (62)
+T ss_pred             eeEECCHHHHHHHHHHH
+
+
+No 22
+>2LJU_A Putative oxidoreductase; oxidoreductase, Structural Genomics, Seattle Structural Genomics Center for Infectious Disease, SSGCID; NMR {Ehrlichia chaffeensis}
+Probab=21.84  E-value=1.1e+02  Score=21.47  Aligned_cols=18  Identities=22%  Similarity=0.141  Sum_probs=0.0  Template_Neff=7.800
+
+Q ss_pred             ehhccCChHHHHHHHHHH
+Q FD01848827_026   15 VDTLFNNMNDAKNWAANQ   32 (105)
+Q Consensus        15 ~~~lf~d~n~A~N~~r~~   32 (105)
+                      +.+-|+++.+|..||.+.
+T Consensus        62 ~~l~F~s~e~Ai~fae~~   79 (108)
+T 2LJU_A           62 VCLSFTTRELAIAYAVAH   79 (108)
+T ss_dssp             SCEEESSHHHHHHHHHHT
+T ss_pred             eEEEeCCHHHHHHHHHHC
+
+
+No 23
+>PF04981.17 ; NMD3 ; NMD3 family
+Probab=21.60  E-value=2.7e+02  Score=21.45  Aligned_cols=44  Identities=11%  Similarity=0.221  Sum_probs=0.0  Template_Neff=8.900
+
+Q ss_pred             ehhccCChHHHHHHHHHHhcCCceEEECCCCCEEEEEcCCCCeeE
+Q FD01848827_026   15 VDTLFNNMNDAKNWAANQLGLGKTRIYDSNGKWIGWQNKAGDSVY   59 (105)
+Q Consensus        15 ~~~lf~d~n~A~N~~r~~lG~~~~r~y~~~gkw~GW~n~~Gd~vY   59 (105)
+                      +|+.|.+...|...|+.+.-.-.-++ ...-++.|+....|..+|
+T Consensus       178 ~D~~~~s~~~A~~ia~~l~~~~~~~~-k~S~kl~g~d~~~Gk~~y  221 (229)
+T A0A1X7T227_AMP  178 LDFYYAQKQDARKMVEFIMSVVPSKY-KTSQELISHDVHSNTYNY  221 (229)
+T ss_pred             eEEEeCCHHHHHHHHHHHHHHCCCce-eeceeeEEEeCCCCeEEE
+
+
+No 24
+>PF11964.12 ; SpoIIAA-like ; SpoIIAA-like
+Probab=21.57  E-value=80  Score=17.78  Aligned_cols=13  Identities=31%  Similarity=0.800  Sum_probs=0.0  Template_Neff=12.800
+
+Q ss_pred             cc--CChHHHHHHHH
+Q FD01848827_026   18 LF--NNMNDAKNWAA   30 (105)
+Q Consensus        18 lf--~d~n~A~N~~r   30 (105)
+                      +|  .+..+|+.|.+
+T Consensus        92 ~f~~~~~~eA~~wl~  106 (106)
+T K9XV53_STAC7/1   92 YFKSNELEEAWHWLE  106 (106)
+T ss_pred             ecChhhHHHHHHHhC
+
+
+No 25
+>PF05593.18 ; RHS_repeat ; RHS Repeat
+Probab=20.03  E-value=2.5e+02  Score=16.26  Aligned_cols=18  Identities=22%  Similarity=0.447  Sum_probs=0.0  Template_Neff=7.900
+
+Q ss_pred             ECCCCCEEEE--EcCCCCeeE
+Q FD01848827_026   41 YDSNGKWIGW--QNKAGDSVY   59 (105)
+Q Consensus        41 y~~~gkw~GW--~n~~Gd~vY   59 (105)
+                      ||++|++...  ..+.|.. |
+T Consensus         1 Yd~~g~l~~~~~~~~~g~~-y   20 (41)
+T Q8XWK4_RALSO/3    1 YNANGMLSTVIWTDNTTRQ-Y   20 (41)
+T ss_pred             CCCCCCEEEEEEECCCCCE-E
+
+

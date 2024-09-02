@@ -1,0 +1,696 @@
+Query         FD01845394_01196 RHS repeat family protein
+Match_columns 140
+No_of_seqs    33 out of 36
+Neff          3.73196
+Searched_HMMs 86581
+Date          Mon Feb 26 20:47:37 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/7035872.hhr -oa3m ../results/7035872.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 PF14220.10 ; DUF4329 ; Domain   99.8 8.1E-20 9.3E-25  129.3  10.2  126    7-138     2-135 (136)
+  2 6GZZ_X3 Ribosome hibernation p  86.8     2.1 2.4E-05   27.6   3.5   41    4-44     15-57  (57)
+  3 3LYV_C Ribosome-associated fac  86.7     2.1 2.4E-05   29.2   3.5   44    4-47     15-60  (66)
+  4 5LD9_B JAMM1; JAMM/MPN+, metal  85.8     1.7   2E-05   30.7   2.9   78   10-104    18-103 (140)
+  5 3KA5_B Ribosome-associated pro  84.6     3.2 3.7E-05   28.2   3.7   43    4-46     14-58  (65)
+  6 6T7O_B Ribosome hibernation pr  81.6     4.1 4.8E-05   27.9   3.3   43    4-46     16-60  (67)
+  7 1OI0_B HYPOTHETICAL PROTEIN AF  79.3      26  0.0003   24.6   6.8   76    6-104     8-85  (124)
+  8 PF16321.9 ; Ribosom_S30AE_C ;   75.4     6.2 7.2E-05   25.2   2.6   37    4-40     18-56  (57)
+  9 2KKS_A Uncharacterized protein  65.6      15 0.00017   26.4   3.0   24   65-104    73-96  (146)
+ 10 PF14464.10 ; Prok-JAB ; Prokar  57.2      25 0.00029   23.6   2.8   27   62-104    67-93  (114)
+ 11 5X8P_y protein plastid pY; Cry  53.5      30 0.00035   28.8   3.2   45    4-48    171-217 (236)
+ 12 6S0X_v Ribosome hibernation pr  53.0      33 0.00038   26.3   3.1   41    4-44    120-162 (162)
+ 13 2ZNR_A AMSH-like protease; met  49.1      42 0.00048   24.7   3.0   27   64-106    80-106 (178)
+ 14 5MYJ_A Ribosome hibernation pr  46.6      51 0.00059   25.9   3.4   42    4-45    142-185 (185)
+ 15 5NGM_Av Ribosome hibernation p  42.4      62 0.00072   25.6   3.3   43    4-46    145-189 (190)
+ 16 3RZU_F STAM-binding protein; U  42.2      56 0.00064   24.6   2.9   25   64-104    89-113 (187)
+ 17 5CW6_A DrBRCC36; metalloprotea  38.5      74 0.00085   25.6   3.2   27   64-106    85-111 (262)
+ 18 2KCQ_A Mov34/MPN/PAD-1 family;  38.5      79 0.00091   23.0   3.1   25   64-104    74-98  (153)
+ 19 8HEK_A AcrIE2; Anti-CRISPR pro  35.2 1.5E+02  0.0017   23.5   4.2   45    3-53     24-73  (92)
+ 20 4PV2_B L-ASPARAGINASE BETA SUB  34.4 1.7E+02   0.002   21.5   4.3   32    4-41     76-107 (131)
+ 21 5JOH_A COP9 signalosome comple  32.8      88   0.001   25.5   2.8   26   65-106   130-155 (257)
+ 22 6FJV_A 26S proteasome regulato  31.1 1.5E+02  0.0017   20.7   3.4   28   64-107    81-108 (155)
+ 23 5CW4_C BRCA1/BRCA2-containing   30.5 1.1E+02  0.0013   24.2   3.0   27   64-106    87-113 (255)
+ 24 5ZEP_x Ribosome hibernation pr  29.9      96  0.0011   25.8   2.6   41    4-44    187-229 (230)
+ 25 3RZV_A STAM-binding protein; U  29.9 1.7E+02  0.0019   23.0   3.8   52   64-131   113-164 (211)
+ 26 2OG4_A Pre-mRNA-splicing facto  29.8 2.8E+02  0.0033   23.7   5.4   73   10-104    44-132 (254)
+ 27 4JXE_B AMSH-like protease sst2  28.5 1.3E+02  0.0015   22.8   3.0   25   64-104    94-118 (197)
+ 28 8DQM_B Isoaspartyl aminopeptid  26.5 3.1E+02  0.0036   20.5   4.6   35    3-41     76-110 (139)
+ 29 5MMM_y Ribosome-binding factor  25.2 1.6E+02  0.0018   26.5   3.3   51    4-54    237-289 (302)
+ 30 PF03665.17 ; UPF0172 ; Unchara  24.7      84 0.00097   23.5   1.3   12   64-75     72-83  (188)
+ 31 5W83_B Ubiquitin carboxyl-term  24.6 1.6E+02  0.0019   22.6   2.9   28   64-107   100-127 (222)
+ 32 7QYM_DDD Beta-aspartyl-peptida  24.3 2.6E+02   0.003   20.9   3.9   35    3-41     76-110 (143)
+ 33 PF05066.17 ; HARE-HTH ; HB1, A  23.8 1.6E+02  0.0019   17.8   2.3   20    4-23      2-22  (69)
+ 34 1ZGX_A Guanyl-specific ribonuc  23.3 1.6E+02  0.0019   20.7   2.4   41    7-49     13-63  (63)
+ 35 PF01398.25 ; JAB ; JAB1/Mov34/  22.6      78  0.0009   20.1   0.7    9   67-75     82-90  (113)
+ 36 2GEZ_F L-asparaginase beta sub  22.3   4E+02  0.0046   19.8   4.4   32    4-41     76-107 (133)
+ 37 PF09919.13 ; DUF2149 ; Unchara  22.1 1.6E+02  0.0018   22.5   2.3   13   29-41     78-90  (93)
+ 38 6GVW_B Lys-63-specific deubiqu  21.8 1.7E+02   0.002   25.0   2.7   29   62-106   115-143 (295)
+ 39 4O8Y_A 26S proteasome regulato  21.8 1.1E+02  0.0013   22.9   1.5   12   64-75     86-97  (185)
+ 40 7ADO_H ER membrane protein com  21.0 1.1E+02  0.0013   24.8   1.5   12   64-75     85-96  (210)
+ 41 4NQL_A AMSH-like protease sst2  20.7 2.5E+02  0.0029   22.5   3.3   27   64-106   118-144 (221)
+ 42 PF18656.5 ; DUF5633 ; Family o  20.5   4E+02  0.0046   17.2   4.4   38    1-42      2-39  (41)
+ 43 4D10_M COP9 SIGNALOSOME COMPLE  20.5 1.6E+02  0.0018   25.1   2.3   27   64-106   129-155 (334)
+ 44 1APY_D ASPARTYLGLUCOSAMINIDASE  20.0 4.6E+02  0.0053   19.8   4.4   36    3-41     75-110 (141)
+
+No 1
+>PF14220.10 ; DUF4329 ; Domain of unknown function (DUF4329)
+Probab=99.83  E-value=8.1e-20  Score=129.25  Aligned_cols=126  Identities=18%  Similarity=0.128  Sum_probs=92.1  Template_Neff=10.100
+
+Q ss_pred             HHHHHHHHHhCcccHhcCceeceEE--EECCCCC--EEeccCCCCCCCcCCCCc--c-ccCCCCCCCceeEeeecCCCCC
+Q FD01845394_011    7 DAARSALSKYNPMSIFKNREYGGII--FRAKDGS--YGYTRGRLGTGRTAPTFK--D-SAGGLPKGSTPVGQYHTHGDYS   79 (140)
+Q Consensus         7 ~AA~~aL~~iNp~SI~eNrEYGGlI--ykn~dG~--y~yT~P~~Gt~~~v~p~~--~-~~~~~P~g~~~vg~YHTHG~ys   79 (140)
+                      +||+.++..+|.+||++++||||+|  ++..+|.  |.+|.|..|....+.+..  . .....|.+.. |  |||||...
+T Consensus         2 dAa~~~~~~~~~~s~~~~~e~~g~i~~~~~~~g~~~~~~t~p~~g~~~~~~~~p~~~~~~~~~p~g~~-~--~hth~~~~   78 (136)
+T B8F9G4_DESAL/1    2 DATIDFEIRYNDDSIRNNVEYSTVVYSFTNENGKKQYVYDYPTIGTENSNPPVPDSIYKDDLDYSMES-L--NETHGADD   78 (136)
+T ss_pred             cHHHHHHHHhccccHhhCceeEEEEEEEECCCCCEEEEEecCcCCCCCcCCCCCccccCcccCCCCeE-E--EEecCCCC
+Confidence            7999999999999999999999999  9999999  999999999888776510  0 0011256654 4  99999932
+
+
+Q ss_pred             CC-CccccCCCCCCCCcccCCHhHhhHHhcccCCCCCCCCcccCCCcceeeeecCCCCcc
+Q FD01845394_011   80 DS-GFNRTNKAGDYHNSDQFSSKDIFIHNQANGSYPGYTDALGTPSGGFWKIFGRVSGPD  138 (140)
+Q Consensus        80 d~-~g~~~~~~~d~ydsd~FS~~D~~~~~~~~~~~~~~~gYLGTPsG~f~k~y~p~tg~~  138 (140)
+                      +. ........+.......||+.|+.....  .......+||+||.|.+ ++|+|.++..
+T Consensus        79 ~~~~~~~~~~~~~~~~~~~fs~~d~~~~~~--~~~~~~~~Yl~~p~G~l-~~y~~~~~~~  135 (136)
+T B8F9G4_DESAL/1   79 PNYSSNQLSPQDKVYARTLYERSDKKIDLP--SYSGFPNGYLVCFKPSM-EEIDPRTSWL  135 (136)
+T ss_pred             cccccCCCCHHHHHhhcccCChhhceeecc--cccCCCceEEEeCCCcE-EEEecCCCCC
+Confidence            10 011123334455666999999964433  23345679999999999 8899987653
+
+
+No 2
+>6GZZ_X3 Ribosome hibernation promoting factor; Ribosome, hibernation, 100S, dimer, cryo-EM; 4.13A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=86.81  E-value=2.1  Score=27.56  Aligned_cols=41  Identities=29%  Similarity=0.486  Sum_probs=0.0  Template_Neff=8.600
+
+Q ss_pred             cHHHHHHHHHHHhCcccHhcCceeceE--EEECCCCCEEeccC
+Q FD01845394_011    4 SADDAARSALSKYNPMSIFKNREYGGI--IFRAKDGSYGYTRG   44 (140)
+Q Consensus         4 t~d~AA~~aL~~iNp~SI~eNrEYGGl--Iykn~dG~y~yT~P   44 (140)
+                      +.+||+...-..=.+..+..|.+-|.+  |||..||.|.-..|
+T Consensus        15 s~~eAi~~l~~~~~~f~~F~~~~t~~~~vlyr~~~g~~~li~~   57 (57)
+T 6GZZ_X3          15 DPEEAAFQMEALGHSFFVFRNAKTDEINVIYRRKDGNYGLIEP   57 (57)
+T ss_pred             CHHHHHHHHHHhCCcEEEEEeCCCCeEEEEEEcCCCCEEEecC
+
+
+No 3
+>3LYV_C Ribosome-associated factor Y; ribosomal protein S30Ae family, Structural Genomics, PSI-2, Protein Structure Initiative, Northeast Structural Genomics Consortium, NESG, CHAPERONE; HET: MSE; 2.7A {Streptococcus pyogenes}
+Probab=86.65  E-value=2.1  Score=29.23  Aligned_cols=44  Identities=20%  Similarity=0.381  Sum_probs=0.0  Template_Neff=7.600
+
+Q ss_pred             cHHHHHHHHHHHhCcccHhcCceeceE--EEECCCCCEEeccCCCC
+Q FD01845394_011    4 SADDAARSALSKYNPMSIFKNREYGGI--IFRAKDGSYGYTRGRLG   47 (140)
+Q Consensus         4 t~d~AA~~aL~~iNp~SI~eNrEYGGl--Iykn~dG~y~yT~P~~G   47 (140)
+                      |.+||+.+.-..=.+..+..|.+=|-+  |||..||.|....|..+
+T Consensus        15 s~~EAv~~l~~~~~~f~vF~n~~t~~~~vlyr~~dg~~gli~~~~~   60 (66)
+T 3LYV_C           15 DVEEARLQMELLGHDFFIYTDSEDGATNILYRREDGNLGLIEAKLE   60 (66)
+T ss_dssp             CHHHHHHHHHHTTCSEEEEEETTTCCEEEEEECTTSSEEEEEEEC-
+T ss_pred             cHHHHHHHHHHhCCcEEEEEECCCCcEEEEEECCCCCEEEeecccc
+
+
+No 4
+>5LD9_B JAMM1; JAMM/MPN+, metalloprotease, isopeptidase, deubiquitination, hydrolase; 1.733A {Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1)}
+Probab=85.84  E-value=1.7  Score=30.70  Aligned_cols=78  Identities=18%  Similarity=0.108  Sum_probs=0.0  Template_Neff=10.800
+
+Q ss_pred             HHHHHHhCcccHhcCceeceEEEECCCCCEEeccCCCCCCCcCCCCccccCCCCC--------CCceeEeeecCCCCCCC
+Q FD01845394_011   10 RSALSKYNPMSIFKNREYGGIIFRAKDGSYGYTRGRLGTGRTAPTFKDSAGGLPK--------GSTPVGQYHTHGDYSDS   81 (140)
+Q Consensus        10 ~~aL~~iNp~SI~eNrEYGGlIykn~dG~y~yT~P~~Gt~~~v~p~~~~~~~~P~--------g~~~vg~YHTHG~ysd~   81 (140)
+                      .+++.++-....+...|-+|++.-...+. ..--|......+...+......+..        +-..||.||+|-...  
+T Consensus        18 ~~~~~~~~~~~~~~~~E~~G~l~g~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~vg~~HsHp~~~--   94 (140)
+T 5LD9_B           18 QHYLRAILKVVSSSSVEVCGFLFGKENRV-LKVRFIRNRLNSPVEFEMDPEEMLKALEEAEQENLEVVGIFHSHIACP--   94 (140)
+T ss_dssp             HHHHHHHHHHHHTCSSCCEEEEEEETTEE-EEEEEECBTTCCSSCCCBCHHHHHHHHHHHHHTTCEEEEEEEEESSSC--
+T ss_pred             HHHHHHHHHHHhcCCccEEEEEEEEeCCE-EEEEEeecCCCCCceEEeCHHHHHHHHHHHHHcCccEEEEEECCCCCC--
+
+
+Q ss_pred             CccccCCCCCCCCcccCCHhHhh
+Q FD01845394_011   82 GFNRTNKAGDYHNSDQFSSKDIF  104 (140)
+Q Consensus        82 ~g~~~~~~~d~ydsd~FS~~D~~  104 (140)
+                                    ..+|..|+.
+T Consensus        95 --------------~~~S~~D~~  103 (140)
+T 5LD9_B           95 --------------PIPSGKDLE  103 (140)
+T ss_dssp             --------------SSCBHHHHH
+T ss_pred             --------------CCCCHHHHh
+
+
+No 5
+>3KA5_B Ribosome-associated protein Y (PSrp-1); Ribosome-associated protein, Structural Genomics, PSI-2, Protein Structure Initiative, Northeast Structural Genomics Consortium, NESG, CHAPERONE; HET: MSE; 1.8A {Clostridium acetobutylicum}
+Probab=84.57  E-value=3.2  Score=28.22  Aligned_cols=43  Identities=23%  Similarity=0.436  Sum_probs=0.0  Template_Neff=7.600
+
+Q ss_pred             cHHHHHHHHHHHhCcccHhcCceeceE--EEECCCCCEEeccCCC
+Q FD01845394_011    4 SADDAARSALSKYNPMSIFKNREYGGI--IFRAKDGSYGYTRGRL   46 (140)
+Q Consensus         4 t~d~AA~~aL~~iNp~SI~eNrEYGGl--Iykn~dG~y~yT~P~~   46 (140)
+                      +.+||+++.-..=.+..+.-|.+-|.+  |||..||.|..-.|..
+T Consensus        14 s~~eAv~~l~~~~~~f~vF~n~~t~~~~vvyrr~dg~~gli~~~~   58 (65)
+T 3KA5_B           14 SEEEAVLEMELLGHNFFVFQNGDSNEVNVVYKRKDGNYGLIEPEL   58 (65)
+T ss_dssp             CHHHHHHHHHHHTCSEEEEEETTTTEEEEEEECTTSSEEEEESSC
+T ss_pred             CHHHHHHHHHHhCCcEEEEEeCCCCcEEEEEEcCCCCEEEecCCc
+
+
+No 6
+>6T7O_B Ribosome hibernation promotion factor; HPF, Ribosome, Staphylococcus aureus, Hibernating Promoting Factor, RIBOSOMAL PROTEIN; 1.60003624659A {Staphylococcus aureus (strain NCTC 8325)}
+Probab=81.56  E-value=4.1  Score=27.88  Aligned_cols=43  Identities=26%  Similarity=0.450  Sum_probs=0.0  Template_Neff=7.600
+
+Q ss_pred             cHHHHHHHHHHHhCcccHhcCceeceE--EEECCCCCEEeccCCC
+Q FD01845394_011    4 SADDAARSALSKYNPMSIFKNREYGGI--IFRAKDGSYGYTRGRL   46 (140)
+Q Consensus         4 t~d~AA~~aL~~iNp~SI~eNrEYGGl--Iykn~dG~y~yT~P~~   46 (140)
+                      +.+||+.+.-..=.+..+..|.+-|-+  |||..||.|.-..|..
+T Consensus        16 s~~eAi~~l~~~~~~f~~F~n~~t~~~~Vlyr~~dG~~gliep~~   60 (67)
+T 6T7O_B           16 DSEEAVLQMNLLGHDFFVFTDRETDGTSIVYRRKDGKYGLIQTSE   60 (67)
+T ss_dssp             CHHHHHHHHHHHTCSEEEEEBTTTSSEEEEEECTTSCEEEEECC-
+T ss_pred             cHHHHHHHhHhhCCcEEEEEECCCCcEEEEEEcCCCCEEEeecCC
+
+
+No 7
+>1OI0_B HYPOTHETICAL PROTEIN AF2198; PROTEASOME, DEUBIQUITINATION, ARCHAEA, HYDROLASE; HET: 144; 1.5A {ARCHAEOGLOBUS FULGIDUS} SCOP: c.97.3.1
+Probab=79.34  E-value=26  Score=24.63  Aligned_cols=76  Identities=14%  Similarity=0.099  Sum_probs=0.0  Template_Neff=10.400
+
+Q ss_pred             HHHHHHHHHHhCcccHhcCceeceEEEECCCC--CEEeccCCCCCCCcCCCCccccCCCCCCCceeEeeecCCCCCCCCc
+Q FD01845394_011    6 DDAARSALSKYNPMSIFKNREYGGIIFRAKDG--SYGYTRGRLGTGRTAPTFKDSAGGLPKGSTPVGQYHTHGDYSDSGF   83 (140)
+Q Consensus         6 d~AA~~aL~~iNp~SI~eNrEYGGlIykn~dG--~y~yT~P~~Gt~~~v~p~~~~~~~~P~g~~~vg~YHTHG~ysd~~g   83 (140)
+                      .++....+..+...   ...|-+|++.-. +|  .-.+..+...... ..-+..  ...+.+...+|.||+|-...    
+T Consensus         8 ~~~~~~~~~~~~~~---~p~E~~G~l~g~-~~~v~~~~~~~~~~~~~-~~~~~~--~~~~~~~~~~g~~HsHp~~~----   76 (124)
+T 1OI0_B            8 RGLLKTILEAAKSA---HPDEFIALLSGS-KDVMDELIFLPFVSGSV-SAVIHL--DMLPIGMKVFGTVHSHPSPS----   76 (124)
+T ss_dssp             HHHHHHHHHHHHHH---TTSCCEEEEEEE-TTEEEEEEECCC----------------CCTTCEEEEEEEEESSSC----
+T ss_pred             HHHHHHHHHHHHHH---CCCcEEEEEEcc-CCeecEEEECCccCCCc-eeeecH--HhccCCceEEEEEEcCCCCC----
+
+
+Q ss_pred             cccCCCCCCCCcccCCHhHhh
+Q FD01845394_011   84 NRTNKAGDYHNSDQFSSKDIF  104 (140)
+Q Consensus        84 ~~~~~~~d~ydsd~FS~~D~~  104 (140)
+                                  ..+|..|+.
+T Consensus        77 ------------~~~S~~D~~   85 (124)
+T 1OI0_B           77 ------------CRPSEEDLS   85 (124)
+T ss_dssp             ------------CCCCHHHHH
+T ss_pred             ------------CCCCHHHHH
+
+
+No 8
+>PF16321.9 ; Ribosom_S30AE_C ; Sigma 54 modulation/S30EA ribosomal protein C terminus
+Probab=75.44  E-value=6.2  Score=25.16  Aligned_cols=37  Identities=30%  Similarity=0.458  Sum_probs=0.0  Template_Neff=8.900
+
+Q ss_pred             cHHHHHHHHHHHhCcccHhcCceeceE--EEECCCCCEE
+Q FD01845394_011    4 SADDAARSALSKYNPMSIFKNREYGGI--IFRAKDGSYG   40 (140)
+Q Consensus         4 t~d~AA~~aL~~iNp~SI~eNrEYGGl--Iykn~dG~y~   40 (140)
+                      +.++|....-..=.+..|..|.+-|.+  |||..||.|.
+T Consensus        18 s~~eA~~~l~~~~~~f~~F~~~~~~~~~vlyr~~dg~~~   56 (57)
+T Q8RCC0_CALS4/1   18 SPEEAILQMNLLGHTFFVFTNAETDMINVVYKRKDGKYG   56 (57)
+T ss_pred             CHHHHHHHHHhhCCcEEEEEeCCCCeEEEEEEcCCCccc
+
+
+No 9
+>2KKS_A Uncharacterized protein; NESG, Structural Genomics, PSI-2, Protein Structure Initiative, Northeast Structural Genomics Consortium, Unknown function; NMR {Desulfitobacterium hafniense}
+Probab=65.63  E-value=15  Score=26.38  Aligned_cols=24  Identities=25%  Similarity=0.369  Sum_probs=0.0  Template_Neff=10.700
+
+Q ss_pred             CCceeEeeecCCCCCCCCccccCCCCCCCCcccCCHhHhh
+Q FD01845394_011   65 GSTPVGQYHTHGDYSDSGFNRTNKAGDYHNSDQFSSKDIF  104 (140)
+Q Consensus        65 g~~~vg~YHTHG~ysd~~g~~~~~~~d~ydsd~FS~~D~~  104 (140)
+                      +...||.||+|....                ..||..|+.
+T Consensus        73 ~~~~vg~~HsHp~~~----------------~~~S~~D~~   96 (146)
+T 2KKS_A           73 GWVMLGNFHSHPATP----------------ARPSAEDKR   96 (146)
+T ss_dssp             TCEEEEEEEEESSSC----------------SSCCHHHHT
+T ss_pred             CCeEEEEEEcCCCCC----------------CCCCHHHHH
+
+
+No 10
+>PF14464.10 ; Prok-JAB ; Prokaryotic homologs of the JAB domain
+Probab=57.21  E-value=25  Score=23.58  Aligned_cols=27  Identities=26%  Similarity=0.223  Sum_probs=0.0  Template_Neff=11.200
+
+Q ss_pred             CCCCCceeEeeecCCCCCCCCccccCCCCCCCCcccCCHhHhh
+Q FD01845394_011   62 LPKGSTPVGQYHTHGDYSDSGFNRTNKAGDYHNSDQFSSKDIF  104 (140)
+Q Consensus        62 ~P~g~~~vg~YHTHG~ysd~~g~~~~~~~d~ydsd~FS~~D~~  104 (140)
+                      ...+...+|.||+|-...                ..||..|+.
+T Consensus        67 ~~~~~~~ig~~HsHp~~~----------------~~~S~~D~~   93 (114)
+T Q9RXB3_DEIRA/6   67 QREGLDLVALYHSHPHGP----------------AAPSASDRR   93 (114)
+T ss_pred             hhCCceEEEEEeCCCCCC----------------CCCCHHHHH
+
+
+No 11
+>5X8P_y protein plastid pY; Cryo-EM, ribosome, chloroplast ribosome; 3.4A {Spinacia oleracea}
+Probab=53.45  E-value=30  Score=28.79  Aligned_cols=45  Identities=24%  Similarity=0.465  Sum_probs=0.0  Template_Neff=8.500
+
+Q ss_pred             cHHHHHHHHHHHhCcccHhcCceece--EEEECCCCCEEeccCCCCC
+Q FD01845394_011    4 SADDAARSALSKYNPMSIFKNREYGG--IIFRAKDGSYGYTRGRLGT   48 (140)
+Q Consensus         4 t~d~AA~~aL~~iNp~SI~eNrEYGG--lIykn~dG~y~yT~P~~Gt   48 (140)
+                      |.+||+...-..=.+--++-|.+-|-  +|||..||.|....|..|.
+T Consensus       171 s~~EAi~~l~~~~~~f~vF~n~~t~~~~vlyrr~dg~~gli~~~~~~  217 (236)
+T 5X8P_y          171 TITEAVEQLENVDHDFYAFRNEETGDINILYKRKEGGYGLIIPKDGK  217 (236)
+T ss_pred             CHHHHHHHHHhCCCcEEEEEeCCCCcEEEEEEccCCCEEEEEcCCCc
+
+
+No 12
+>6S0X_v Ribosome hibernation promoting factor; Ribosome, antibiotics, resistance, Staphylococcus aureus, exit tunnel, RNA, rProteins, erythromycin; HET: ERY; 2.425A {Staphylococcus aureus}
+Probab=52.97  E-value=33  Score=26.30  Aligned_cols=41  Identities=29%  Similarity=0.533  Sum_probs=0.0  Template_Neff=9.300
+
+Q ss_pred             cHHHHHHHHHHHhCcccHhcCceece--EEEECCCCCEEeccC
+Q FD01845394_011    4 SADDAARSALSKYNPMSIFKNREYGG--IIFRAKDGSYGYTRG   44 (140)
+Q Consensus         4 t~d~AA~~aL~~iNp~SI~eNrEYGG--lIykn~dG~y~yT~P   44 (140)
+                      |.+||++..-..=.+.-+..|.|=|.  +|||..||.|+.-.|
+T Consensus       120 s~~eA~~~~~~~~~~f~~F~~~~t~~~~vvyrr~dg~~gli~p  162 (162)
+T 6S0X_v          120 DSEEAVLQMNLLGHDFFVFTDRETDGTSIVYRRKDGKYGLIQT  162 (162)
+T ss_pred             CHHHHHHHHHHcCCcEEEEEECCCCcEEEEEEcCCCCeeeeeC
+
+
+No 13
+>2ZNR_A AMSH-like protease; metal binding protein, Alternative splicing, Hydrolase, Metal-binding, Metalloprotease, Protease, Ubl conjugation pathway, Zinc; HET: EDO; 1.2A {Homo sapiens} SCOP: c.97.3.1, l.1.1.1
+Probab=49.11  E-value=42  Score=24.71  Aligned_cols=27  Identities=30%  Similarity=0.368  Sum_probs=0.0  Template_Neff=11.000
+
+Q ss_pred             CCCceeEeeecCCCCCCCCccccCCCCCCCCcccCCHhHhhHH
+Q FD01845394_011   64 KGSTPVGQYHTHGDYSDSGFNRTNKAGDYHNSDQFSSKDIFIH  106 (140)
+Q Consensus        64 ~g~~~vg~YHTHG~ysd~~g~~~~~~~d~ydsd~FS~~D~~~~  106 (140)
+                      .+...+|.||+|-...                ..||..|+...
+T Consensus        80 ~~~~~vg~~HsHp~~~----------------~~~S~~D~~~~  106 (178)
+T 2ZNR_A           80 HDLLTLGWIHTHPTQT----------------AFLSSVDLHTH  106 (178)
+T ss_dssp             HTCEEEEEEEECSSSC----------------SCCCHHHHHHH
+T ss_pred             CCcEEEEEEEcCCCCC----------------cccChHHHHhH
+
+
+No 14
+>5MYJ_A Ribosome hibernation promotion factor; ribosome, 70S, lactoccocus lactis, Cryo-EM; 5.6A {Lactococcus lactis subsp. cremoris MG1363}
+Probab=46.63  E-value=51  Score=25.92  Aligned_cols=42  Identities=19%  Similarity=0.386  Sum_probs=0.0  Template_Neff=9.200
+
+Q ss_pred             cHHHHHHHHHHHhCcccHhcCceec--eEEEECCCCCEEeccCC
+Q FD01845394_011    4 SADDAARSALSKYNPMSIFKNREYG--GIIFRAKDGSYGYTRGR   45 (140)
+Q Consensus         4 t~d~AA~~aL~~iNp~SI~eNrEYG--GlIykn~dG~y~yT~P~   45 (140)
+                      |.+||+.+.-..=.+.-++-|.|-|  =+|||..||.|....|.
+T Consensus       142 s~~eA~~~m~~~~~~f~~F~n~~t~~~~v~yr~~dg~~~lie~~  185 (185)
+T 5MYJ_A          142 DAEEAVLQMDMLGHDFYVFTDADSNGTHVVYRRTDGRYGLIETE  185 (185)
+T ss_pred             CHHHHHHHHHhhCCeEEEEEeCCCCcEEEEEECCCCCeeeeecC
+
+
+No 15
+>5NGM_Av Ribosome hibernation promoting factor; Ribosome Cryo-EM Structural Biology Hibernation, Ribosome; HET: MG; 2.9A {Staphylococcus aureus}
+Probab=42.36  E-value=62  Score=25.56  Aligned_cols=43  Identities=28%  Similarity=0.485  Sum_probs=0.0  Template_Neff=9.200
+
+Q ss_pred             cHHHHHHHHHHHhCcccHhcCceece--EEEECCCCCEEeccCCC
+Q FD01845394_011    4 SADDAARSALSKYNPMSIFKNREYGG--IIFRAKDGSYGYTRGRL   46 (140)
+Q Consensus         4 t~d~AA~~aL~~iNp~SI~eNrEYGG--lIykn~dG~y~yT~P~~   46 (140)
+                      |.+||+...-..=.+--++-|.|-|-  +|||..||.|+.-.|..
+T Consensus       145 s~~eA~~~m~~~~~~f~~F~n~~t~~~~vlyrr~dg~~~li~~~~  189 (190)
+T 5NGM_Av         145 DSEEAVLQMNLLGHDFFVFTDRETDGTSIVYRRKDGKYGLIQTSE  189 (190)
+T ss_pred             CHHHHHHHHHHhCCcEEEEEeCCCCcEEEEEEccCCCeEeEEecC
+
+
+No 16
+>3RZU_F STAM-binding protein; Ubiquitin Hydrolase, STAM, Endosome-associated deubiquitinating enzyme, HYDROLASE; HET: ZN; 2.5A {Homo sapiens} SCOP: c.97.3.1
+Probab=42.15  E-value=56  Score=24.61  Aligned_cols=25  Identities=32%  Similarity=0.433  Sum_probs=0.0  Template_Neff=10.600
+
+Q ss_pred             CCCceeEeeecCCCCCCCCccccCCCCCCCCcccCCHhHhh
+Q FD01845394_011   64 KGSTPVGQYHTHGDYSDSGFNRTNKAGDYHNSDQFSSKDIF  104 (140)
+Q Consensus        64 ~g~~~vg~YHTHG~ysd~~g~~~~~~~d~ydsd~FS~~D~~  104 (140)
+                      .+-..||.||+|-...                ..+|..|+.
+T Consensus        89 ~~~~~vG~~hsHp~~~----------------~~~S~~D~~  113 (187)
+T 3RZU_F           89 QGLITLGWIHTHPTQT----------------AFLSSVDLH  113 (187)
+T ss_dssp             TTCEEEEEEEECSSSC----------------SCCCHHHHH
+T ss_pred             cCCEEEEEEEeCCCCC----------------cccCHHHHH
+
+
+No 17
+>5CW6_A DrBRCC36; metalloprotease, METAL BINDING PROTEIN; 3.193A {Danio rerio}
+Probab=38.48  E-value=74  Score=25.65  Aligned_cols=27  Identities=26%  Similarity=0.273  Sum_probs=0.0  Template_Neff=10.300
+
+Q ss_pred             CCCceeEeeecCCCCCCCCccccCCCCCCCCcccCCHhHhhHH
+Q FD01845394_011   64 KGSTPVGQYHTHGDYSDSGFNRTNKAGDYHNSDQFSSKDIFIH  106 (140)
+Q Consensus        64 ~g~~~vg~YHTHG~ysd~~g~~~~~~~d~ydsd~FS~~D~~~~  106 (140)
+                      .+...||.||+|-...                -.+|..|+...
+T Consensus        85 ~~~~ivGwyhShp~~~----------------~~~S~~D~~~~  111 (262)
+T 5CW6_A           85 RPMRVVGWYHSHPHIT----------------VWPSHVDVRTQ  111 (262)
+T ss_dssp             SCCEEEEEEEECSSSC----------------SSCCHHHHHHH
+T ss_pred             CCcEEEEEeeCCCCCC----------------CCCCHHHHHHH
+
+
+No 18
+>2KCQ_A Mov34/MPN/PAD-1 family; NESG, Structural Genomics, PSI-2, Protein Structure Initiative, Northeast Structural Genomics Consortium, unknown function, NUCLEOTIDE-BINDING PROTEIN; NMR {Salinibacter ruber DSM 13855} SCOP: c.97.3.1, l.1.1.1
+Probab=38.48  E-value=79  Score=22.99  Aligned_cols=25  Identities=36%  Similarity=0.530  Sum_probs=0.0  Template_Neff=10.600
+
+Q ss_pred             CCCceeEeeecCCCCCCCCccccCCCCCCCCcccCCHhHhh
+Q FD01845394_011   64 KGSTPVGQYHTHGDYSDSGFNRTNKAGDYHNSDQFSSKDIF  104 (140)
+Q Consensus        64 ~g~~~vg~YHTHG~ysd~~g~~~~~~~d~ydsd~FS~~D~~  104 (140)
+                      .+...+|.||+|-...                ..+|..|+.
+T Consensus        74 ~~~~~iG~~HsHp~~~----------------~~~S~~D~~   98 (153)
+T 2KCQ_A           74 QGLDVVGVYHSHPDHP----------------ARPSATDLE   98 (153)
+T ss_dssp             HTCEEEEEEEECSSSS----------------SSCCHHHHH
+T ss_pred             cCCeEEEEEECCCCCC----------------CCCCHHHHH
+
+
+No 19
+>8HEK_A AcrIE2; Anti-CRISPR protein, VIRAL PROTEIN; 1.23A {Pseudomonas phage JBD88a}
+Probab=35.22  E-value=1.5e+02  Score=23.52  Aligned_cols=45  Identities=27%  Similarity=0.401  Sum_probs=0.0  Template_Neff=2.200
+
+Q ss_pred             CcHHHHHHHHHHHhCcccHhcCceeceEEEECC-----CCCEEeccCCCCCCCcCC
+Q FD01845394_011    3 SSADDAARSALSKYNPMSIFKNREYGGIIFRAK-----DGSYGYTRGRLGTGRTAP   53 (140)
+Q Consensus         3 ~t~d~AA~~aL~~iNp~SI~eNrEYGGlIykn~-----dG~y~yT~P~~Gt~~~v~   53 (140)
+                      .+.++||..|-.+|++      +++=|+|+|-.     .|-|..=.+.+|+..+.+
+T Consensus        24 ~s~~~AA~~Aa~ki~g------~~~~glv~r~tG~~~GSGMFQay~~l~G~~~t~~   73 (92)
+T 8HEK_A           24 VDITAAAKSAAQQILG------EEFEGLVYRETGESNGSGMFQAYHHLHGTNRTET   73 (92)
+T ss_dssp             SSHHHHHHHHHHHHHC------TTCCCEEEESSSCTTSSEEEEEEEECTTSSSCEE
+T ss_pred             ccHHHHHHHHHHHHhC------hheeeeEEeccCCCCccceeEEEEEecCCCCccc
+
+
+No 20
+>4PV2_B L-ASPARAGINASE BETA SUBUNIT; metal binding sites, potassium coordination, K-dependent enzyme, Ntn-hydrolase, plant protein, L-asparaginase, isoaspartyl aminopeptidase, amidohydrolase, HYDROLASE; HET: NO3; 1.79A {Phaseolus vulgaris}
+Probab=34.36  E-value=1.7e+02  Score=21.51  Aligned_cols=32  Identities=13%  Similarity=0.131  Sum_probs=0.0  Template_Neff=9.500
+
+Q ss_pred             cHHHHHHHHHHHhCcccHhcCceeceEEEECCCCCEEe
+Q FD01845394_011    4 SADDAARSALSKYNPMSIFKNREYGGIIFRAKDGSYGY   41 (140)
+Q Consensus         4 t~d~AA~~aL~~iNp~SI~eNrEYGGlIykn~dG~y~y   41 (140)
+                      +.++|++.+|.+..+      ...+|.|..+++|.+..
+T Consensus        76 ~~~~a~~~~~~~~~~------~~~~G~i~i~~~G~~~~  107 (131)
+T 4PV2_B           76 KLHQAVDFVIKHRLD------EGKAGLIAVSNTGEVAC  107 (131)
+T ss_dssp             CHHHHHHHHHHHSCS------SCCEEEEEEETTSCEEE
+T ss_pred             CHHHHHHHHHHHhcc------CCceEEEEEcCCCCEEE
+
+
+No 21
+>5JOH_A COP9 signalosome complex subunit 5; COP9 signalosome, metal protease, inhibitor, HYDROXYLASE; HET: 6M3; 1.99A {Homo sapiens}
+Probab=32.82  E-value=88  Score=25.47  Aligned_cols=26  Identities=27%  Similarity=0.434  Sum_probs=0.0  Template_Neff=9.900
+
+Q ss_pred             CCceeEeeecCCCCCCCCccccCCCCCCCCcccCCHhHhhHH
+Q FD01845394_011   65 GSTPVGQYHTHGDYSDSGFNRTNKAGDYHNSDQFSSKDIFIH  106 (140)
+Q Consensus        65 g~~~vg~YHTHG~ysd~~g~~~~~~~d~ydsd~FS~~D~~~~  106 (140)
+                      +...||.||+|-...                ..+|..|+...
+T Consensus       130 ~~~ivGwyhSHp~~~----------------~~~S~~D~~~~  155 (257)
+T 5JOH_A          130 LENAIGWYHSHPGYG----------------CWLSGIDVSTQ  155 (257)
+T ss_dssp             CCEEEEEEEECTTTC----------------SSCCHHHHHHH
+T ss_pred             ccceeEEeecCCCCC----------------CcCChHHHHHH
+
+
+No 22
+>6FJV_A 26S proteasome regulatory subunit N11-like protein; deubiquitination, deubiquitylation, HYDROLASE; HET: SO4; 1.35A {Candidatus Caldiarchaeum subterraneum}
+Probab=31.08  E-value=1.5e+02  Score=20.67  Aligned_cols=28  Identities=32%  Similarity=0.351  Sum_probs=0.0  Template_Neff=11.800
+
+Q ss_pred             CCCceeEeeecCCCCCCCCccccCCCCCCCCcccCCHhHhhHHh
+Q FD01845394_011   64 KGSTPVGQYHTHGDYSDSGFNRTNKAGDYHNSDQFSSKDIFIHN  107 (140)
+Q Consensus        64 ~g~~~vg~YHTHG~ysd~~g~~~~~~~d~ydsd~FS~~D~~~~~  107 (140)
+                      .+...+|.||+|=...                ..+|..|+....
+T Consensus        81 ~~~~~ig~~hshp~~~----------------~~~s~~d~~~~~  108 (155)
+T 6FJV_A           81 KNLYIVGWYHSHPGLD----------------VFLSPTDIDTQK  108 (155)
+T ss_dssp             TTCEEEEEEEECTTSC----------------SCCCHHHHHHHH
+T ss_pred             CCCEEEEEEECCCCCC----------------CCCCHHHHHHHH
+
+
+No 23
+>5CW4_C BRCA1/BRCA2-containing complex subunit 3; Metal dependent enzyme, METAL BINDING PROTEIN; HET: GOL, MSE; 2.543A {Camponotus floridanus}
+Probab=30.48  E-value=1.1e+02  Score=24.23  Aligned_cols=27  Identities=22%  Similarity=0.257  Sum_probs=0.0  Template_Neff=10.700
+
+Q ss_pred             CCCceeEeeecCCCCCCCCccccCCCCCCCCcccCCHhHhhHH
+Q FD01845394_011   64 KGSTPVGQYHTHGDYSDSGFNRTNKAGDYHNSDQFSSKDIFIH  106 (140)
+Q Consensus        64 ~g~~~vg~YHTHG~ysd~~g~~~~~~~d~ydsd~FS~~D~~~~  106 (140)
+                      .+...||.||+|-...                ..+|..|+...
+T Consensus        87 ~~~~ivG~yhshp~~~----------------~~~S~~d~~~~  113 (255)
+T 5CW4_C           87 RPMRVLGWYHSHPHIT----------------VCPSHVDVRTQ  113 (255)
+T ss_dssp             SCCEEEEEEEEEETSC----------------SSCCHHHHHHH
+T ss_pred             CCcEEEEeecCCCCCC----------------CCCChHHHHHH
+
+
+No 24
+>5ZEP_x Ribosome hibernation promoting factor; hibernating-state, ribosome, complex; 3.4A {Mycobacterium smegmatis str. MC2 155}
+Probab=29.87  E-value=96  Score=25.83  Aligned_cols=41  Identities=22%  Similarity=0.279  Sum_probs=0.0  Template_Neff=8.500
+
+Q ss_pred             cHHHHHHHHHHHhCcccHhcCceeceE--EEECCCCCEEeccC
+Q FD01845394_011    4 SADDAARSALSKYNPMSIFKNREYGGI--IFRAKDGSYGYTRG   44 (140)
+Q Consensus         4 t~d~AA~~aL~~iNp~SI~eNrEYGGl--Iykn~dG~y~yT~P   44 (140)
+                      |.+||+++.-..=.+.=++-|.|=|-+  |||..||.|+.-.|
+T Consensus       187 s~eEAi~~l~~~~~~f~vF~n~~t~~~~vlyrr~dg~yglie~  229 (230)
+T 5ZEP_x          187 TVDDALYEMELVGHDFFLFHDKETDRPSVVYRRHAFDYGLIRL  229 (230)
+T ss_dssp             -------------------------------------------
+T ss_pred             CHHHHHHHHHHhCCcEEEEEeCCCCCeEEEEEeCCCceeeEEe
+
+
+No 25
+>3RZV_A STAM-binding protein; Ubiquitin Hydrolase, STAM, Endosome-associated deubiquitinating enzyme, HYDROLASE; 1.67A {Homo sapiens} SCOP: c.97.3.1
+Probab=29.85  E-value=1.7e+02  Score=22.98  Aligned_cols=52  Identities=23%  Similarity=0.232  Sum_probs=0.0  Template_Neff=10.100
+
+Q ss_pred             CCCceeEeeecCCCCCCCCccccCCCCCCCCcccCCHhHhhHHhcccCCCCCCCCcccCCCcceeeee
+Q FD01845394_011   64 KGSTPVGQYHTHGDYSDSGFNRTNKAGDYHNSDQFSSKDIFIHNQANGSYPGYTDALGTPSGGFWKIF  131 (140)
+Q Consensus        64 ~g~~~vg~YHTHG~ysd~~g~~~~~~~d~ydsd~FS~~D~~~~~~~~~~~~~~~gYLGTPsG~f~k~y  131 (140)
+                      .+-..||.||+|-...                ..+|..|+..........+..-..+-.|...-++.|
+T Consensus       113 ~~~~~vG~~hsHp~~~----------------~~~S~~D~~~~~~~~~~~~~~v~~ii~~~~~~~~~~  164 (211)
+T 3RZV_A          113 QGLITLGWIHTHPTQT----------------AFLSSVDLHTHCSYQMMLPESVAIVCSPKFQETGFF  164 (211)
+T ss_dssp             HTCEEEEEEEECTTSC----------------SCCCHHHHHHHHHHHHHCTTCEEEEEETTTTEEEEE
+T ss_pred             cCCEEEEEEEcCCCCC----------------cccCHHHHHHHHHHHhhCCCeEEEEEcCCCCceEEE
+
+
+No 26
+>2OG4_A Pre-mRNA-splicing factor 8; isopeptidase, Jab1/MPN domain, pre-mRNA splicing, protein-protein interaction, Prp8p, pseudoenzyme, spliceosome activation, U5-200K protein, PROTEIN BINDING; 2.0A {Saccharomyces cerevisiae} SCOP: c.97.3.0
+Probab=29.76  E-value=2.8e+02  Score=23.74  Aligned_cols=73  Identities=16%  Similarity=0.237  Sum_probs=0.0  Template_Neff=8.200
+
+Q ss_pred             HHHHHHhCcccHhcCceeceEEEECCCCC----EEec----cCCCCCCCcCCCCccccCCCCC--------CCceeEeee
+Q FD01845394_011   10 RSALSKYNPMSIFKNREYGGIIFRAKDGS----YGYT----RGRLGTGRTAPTFKDSAGGLPK--------GSTPVGQYH   73 (140)
+Q Consensus        10 ~~aL~~iNp~SI~eNrEYGGlIykn~dG~----y~yT----~P~~Gt~~~v~p~~~~~~~~P~--------g~~~vg~YH   73 (140)
+                      +++|+++-..+-.. .|.+|.++-.....    +..+    .|..|+...+....     +|.        +-..+|-+|
+T Consensus        44 ~nll~~fi~iad~~-~E~~G~L~G~~~~d~~~v~eI~~i~~~pQ~g~~~~v~~~~-----l~~~~~~~~~~~l~~lGwiH  117 (254)
+T 2OG4_A           44 KNLLKKFIEISDVK-IQVAAFIYGMSAKDHPKVKEIKTVVLVPQLGHVGSVQISN-----IPDIGDLPDTEGLELLGWIH  117 (254)
+T ss_dssp             HHHHHHHHHTSCSS-SCCEEEEEEEECSSCTTEEEEEEEECCCEEEETTEEEECC-----CCCCTTSTTCTTCEEEEEEE
+T ss_pred             HHHHHHHHHHhccc-ceeeEEeeEEecCCCCceEEEEEEEeCCCccccceEEEec-----CCCcCCCcccCCCeeceeee
+
+
+Q ss_pred             cCCCCCCCCccccCCCCCCCCcccCCHhHhh
+Q FD01845394_011   74 THGDYSDSGFNRTNKAGDYHNSDQFSSKDIF  104 (140)
+Q Consensus        74 THG~ysd~~g~~~~~~~d~ydsd~FS~~D~~  104 (140)
+                      ||....                ...|+.|+.
+T Consensus       118 thp~~~----------------~~lS~~Dv~  132 (254)
+T 2OG4_A          118 TQTEEL----------------KFMAASEVA  132 (254)
+T ss_dssp             EESSCC----------------SSCCHHHHH
+T ss_pred             cCCCCC----------------CCCCHHHHH
+
+
+No 27
+>4JXE_B AMSH-like protease sst2; Helix-beta-helix sandwich, ubiquitin, dequbiquitination, Zinc metalloprotease, deubiquitination, cytosol, hydrolase; HET: EDO, TRS; 1.451A {Schizosaccharomyces pombe}
+Probab=28.54  E-value=1.3e+02  Score=22.79  Aligned_cols=25  Identities=28%  Similarity=0.286  Sum_probs=0.0  Template_Neff=10.700
+
+Q ss_pred             CCCceeEeeecCCCCCCCCccccCCCCCCCCcccCCHhHhh
+Q FD01845394_011   64 KGSTPVGQYHTHGDYSDSGFNRTNKAGDYHNSDQFSSKDIF  104 (140)
+Q Consensus        64 ~g~~~vg~YHTHG~ysd~~g~~~~~~~d~ydsd~FS~~D~~  104 (140)
+                      .+-..+|.||+|-...                ..+|..|+.
+T Consensus        94 ~~~~~vG~~hshp~~~----------------~~~S~~D~~  118 (197)
+T 4JXE_B           94 HNLLTLGWIHTHPTQT----------------CFMSSVDLH  118 (197)
+T ss_dssp             TTCEEEEEEEECSSSC----------------SCCCHHHHH
+T ss_pred             CCCEEEEEEEcCCCCC----------------CCCChHHHH
+
+
+No 28
+>8DQM_B Isoaspartyl aminopeptidase; IaaA, HYDROLASE; 2.7A {Roseivivax halodurans}
+Probab=26.54  E-value=3.1e+02  Score=20.45  Aligned_cols=35  Identities=23%  Similarity=0.235  Sum_probs=0.0  Template_Neff=9.400
+
+Q ss_pred             CcHHHHHHHHHHHhCcccHhcCceeceEEEECCCCCEEe
+Q FD01845394_011    3 SSADDAARSALSKYNPMSIFKNREYGGIIFRAKDGSYGY   41 (140)
+Q Consensus         3 ~t~d~AA~~aL~~iNp~SI~eNrEYGGlIykn~dG~y~y   41 (140)
+                      .+.++|++++|...    ......++|+|..+.+|.+.+
+T Consensus        76 ~~~~~a~~~~l~~~----~~~~~~~~gvi~v~~~g~~~~  110 (139)
+T 8DQM_B           76 ESLRSAAEAVIGSD----LEAIGGSGGLIAIDRDGAIVT  110 (139)
+T ss_dssp             CCHHHHHHHCCCCC----HHHTTCCEEEEEEETTCCEEC
+T ss_pred             CCHHHHHHHHHHHH----HHHhCCCEEEEEEcCCCCEEE
+
+
+No 29
+>5MMM_y Ribosome-binding factor PSRP1, chloroplastic; chloroplast, translation, ribosome, cryo-EM; HET: MG; 3.4A {Spinacia oleracea}
+Probab=25.22  E-value=1.6e+02  Score=26.51  Aligned_cols=51  Identities=22%  Similarity=0.406  Sum_probs=0.0  Template_Neff=7.100
+
+Q ss_pred             cHHHHHHHHHHHhCcccHhcCceece--EEEECCCCCEEeccCCCCCCCcCCC
+Q FD01845394_011    4 SADDAARSALSKYNPMSIFKNREYGG--IIFRAKDGSYGYTRGRLGTGRTAPT   54 (140)
+Q Consensus         4 t~d~AA~~aL~~iNp~SI~eNrEYGG--lIykn~dG~y~yT~P~~Gt~~~v~p   54 (140)
+                      |.+||+...-..=-+.-++-|.|-|-  +|||.+||.|+.-.|..|...-..|
+T Consensus       237 tveEAi~~Le~~~~~F~vF~n~etg~inVlYrR~dG~ygLI~p~~~~~~~~~~  289 (302)
+T 5MMM_y          237 TITEAVEQLENVDHDFYAFRNEETGDINILYKRKEGGYGLIIPKDGKTEKLES  289 (302)
+T ss_pred             CHHHHHHHHHcCCCcEEEEEECCCCCEEEEEEcCCCcEEEEecCCCCcccccc
+
+
+No 30
+>PF03665.17 ; UPF0172 ; Uncharacterised protein family (UPF0172)
+Probab=24.69  E-value=84  Score=23.54  Aligned_cols=12  Identities=25%  Similarity=0.562  Sum_probs=0.0  Template_Neff=10.800
+
+Q ss_pred             CCCceeEeeecC
+Q FD01845394_011   64 KGSTPVGQYHTH   75 (140)
+Q Consensus        64 ~g~~~vg~YHTH   75 (140)
+                      .+-..||.||+|
+T Consensus        72 ~~~~ivG~~hsh   83 (188)
+T A7RMN9_NEMVE/2   72 LGHHIIGYYQAN   83 (188)
+T ss_pred             hCcEEEEEEEcc
+
+
+No 31
+>5W83_B Ubiquitin carboxyl-terminal hydrolase RPN11; Protease, HYDROLASE; 1.554A {Saccharomyces cerevisiae (strain ATCC 204508 / S288c)} SCOP: c.97.3.1
+Probab=24.62  E-value=1.6e+02  Score=22.55  Aligned_cols=28  Identities=29%  Similarity=0.455  Sum_probs=0.0  Template_Neff=11.000
+
+Q ss_pred             CCCceeEeeecCCCCCCCCccccCCCCCCCCcccCCHhHhhHHh
+Q FD01845394_011   64 KGSTPVGQYHTHGDYSDSGFNRTNKAGDYHNSDQFSSKDIFIHN  107 (140)
+Q Consensus        64 ~g~~~vg~YHTHG~ysd~~g~~~~~~~d~ydsd~FS~~D~~~~~  107 (140)
+                      .+...||.||+|-...                ..+|..|+....
+T Consensus       100 ~~~~~vGwyhshp~~~----------------~~~s~~d~~~~~  127 (222)
+T 5W83_B          100 RDQMVVGWYHSHPGFG----------------CWLSSVDVNTQK  127 (222)
+T ss_dssp             CCCEEEEEEEECTTTC----------------SCCCHHHHHHHH
+T ss_pred             CCccEEEeccCCCCCc----------------ccCCHHHHHHHH
+
+
+No 32
+>7QYM_DDD Beta-aspartyl-peptidase; L-asparaginase, mutation, HYDROLASE; 1.2A {Escherichia coli}
+Probab=24.25  E-value=2.6e+02  Score=20.95  Aligned_cols=35  Identities=20%  Similarity=0.262  Sum_probs=0.0  Template_Neff=9.400
+
+Q ss_pred             CcHHHHHHHHHHHhCcccHhcCceeceEEEECCCCCEEe
+Q FD01845394_011    3 SSADDAARSALSKYNPMSIFKNREYGGIIFRAKDGSYGY   41 (140)
+Q Consensus         3 ~t~d~AA~~aL~~iNp~SI~eNrEYGGlIykn~dG~y~y   41 (140)
+                      .+..+|++++|.......    ...+|+|..+++|.+.+
+T Consensus        76 ~~~~~a~~~~l~~~~~~~----~~~~G~i~~~~~g~~~~  110 (143)
+T 7QYM_DDD         76 LSLAEACERVVMEKLPAL----GGSGGLIAIDHEGNVAL  110 (143)
+T ss_pred             CCHHHHHHHHHHHHHHHh----CCcEEEEEEcCCCCEEE
+
+
+No 33
+>PF05066.17 ; HARE-HTH ; HB1, ASXL, restriction endonuclease HTH domain
+Probab=23.84  E-value=1.6e+02  Score=17.82  Aligned_cols=20  Identities=10%  Similarity=0.137  Sum_probs=0.0  Template_Neff=11.100
+
+Q ss_pred             cHHHHHHHHHHHh-CcccHhc
+Q FD01845394_011    4 SADDAARSALSKY-NPMSIFK   23 (140)
+Q Consensus         4 t~d~AA~~aL~~i-Np~SI~e   23 (140)
+                      |.-+||.++|++. .|+++.+
+T Consensus         2 t~~~~~~~iL~~~~~~~~~~e   22 (69)
+T F2IGS0_FLUTR/1    2 TLHEAIEQVLIEKKRKLTAKE   22 (69)
+T ss_pred             CHHHHHHHHHHHcCCCcCHHH
+
+
+No 34
+>1ZGX_A Guanyl-specific ribonuclease Sa; mutant, HYDROLASE; HET: SO4; 1.13A {Streptomyces aureofaciens}
+Probab=23.28  E-value=1.6e+02  Score=20.65  Aligned_cols=41  Identities=27%  Similarity=0.347  Sum_probs=0.0  Template_Neff=6.400
+
+Q ss_pred             HHHHHHHHHh---------CcccHhcCceeceEEEECCCCCE-EeccCCCCCC
+Q FD01845394_011    7 DAARSALSKY---------NPMSIFKNREYGGIIFRAKDGSY-GYTRGRLGTG   49 (140)
+Q Consensus         7 ~AA~~aL~~i---------Np~SI~eNrEYGGlIykn~dG~y-~yT~P~~Gt~   49 (140)
+                      ..|+++|+.|         +.-++++|+|  |++=+.+.|.| .||.+..|..
+T Consensus        13 ~~a~~tl~~i~~gg~~p~~~dG~~F~N~e--g~LP~~~~gyYrEy~V~tpG~~   63 (63)
+T 1ZGX_A           13 PEATDTLNLIASDGPFPYSQDGVVFQNRE--SVLPTQSYGYYHEYTVITPGAR   63 (63)
+T ss_dssp             HHHHHHHHHHHHTCCCSSTTTTCBCCCTT--CCSCCCCTTSCEEEECCCTTCC
+T ss_pred             HHHHHHHHHHHhhCCCCCCCCCceecCCC--ccCCCCCCCceEEccCCCCCCC
+
+
+No 35
+>PF01398.25 ; JAB ; JAB1/Mov34/MPN/PAD-1 ubiquitin protease
+Probab=22.64  E-value=78  Score=20.14  Aligned_cols=9  Identities=33%  Similarity=0.560  Sum_probs=0.0  Template_Neff=12.400
+
+Q ss_pred             ceeEeeecC
+Q FD01845394_011   67 TPVGQYHTH   75 (140)
+Q Consensus        67 ~~vg~YHTH   75 (140)
+                      ..+|.||+|
+T Consensus        82 ~~~g~~hsh   90 (113)
+T EIF3H_HUMAN/34   82 LHVGWYQST   90 (113)
+T ss_pred             ccceEEEce
+
+
+No 36
+>2GEZ_F L-asparaginase beta subunit; isoaspartyl aminopeptidase, L-asparaginase, Ntn-hydrolase, autoproteolysis, taspase, sodium binding, HYDROLASE; 2.6A {Lupinus luteus}
+Probab=22.29  E-value=4e+02  Score=19.81  Aligned_cols=32  Identities=22%  Similarity=0.300  Sum_probs=0.0  Template_Neff=9.300
+
+Q ss_pred             cHHHHHHHHHHHhCcccHhcCceeceEEEECCCCCEEe
+Q FD01845394_011    4 SADDAARSALSKYNPMSIFKNREYGGIIFRAKDGSYGY   41 (140)
+Q Consensus         4 t~d~AA~~aL~~iNp~SI~eNrEYGGlIykn~dG~y~y   41 (140)
+                      +.++|++.+|+..-+      .-++|+|..+++|.+.+
+T Consensus        76 ~~~~a~~~~~~~~~~------~~~~G~i~v~~~g~~~~  107 (133)
+T 2GEZ_F           76 SLKEAADFVIHERTP------KGTVGLIAVSAAGEIAM  107 (133)
+T ss_dssp             CHHHHHHHHHHHSSC------TTSEEEEEEETTSCEEC
+T ss_pred             CHHHHHHHHHHHhCC------CCcEEEEEEcCCCCEEE
+
+
+No 37
+>PF09919.13 ; DUF2149 ; Uncharacterized conserved protein (DUF2149)
+Probab=22.13  E-value=1.6e+02  Score=22.54  Aligned_cols=13  Identities=23%  Similarity=0.664  Sum_probs=0.0  Template_Neff=5.900
+
+Q ss_pred             eEEEECCCCCEEe
+Q FD01845394_011   29 GIIFRAKDGSYGY   41 (140)
+Q Consensus        29 GlIykn~dG~y~y   41 (140)
+                      |.+||.++|++.|
+T Consensus        78 GtaYrl~~G~~iy   90 (93)
+T Q5LCB9_BACFN/1   78 GVAYELENGKIIY   90 (93)
+T ss_pred             EEEEEcCCCCEEE
+
+
+No 38
+>6GVW_B Lys-63-specific deubiquitinase BRCC36; Deubiquitinase complex, DUB, Lysine-63 linkage specific, BRCC36-containing, BRCA1A binding, SIGNALING PROTEIN; 3.75A {Mus musculus}
+Probab=21.82  E-value=1.7e+02  Score=25.00  Aligned_cols=29  Identities=24%  Similarity=0.221  Sum_probs=0.0  Template_Neff=9.100
+
+Q ss_pred             CCCCCceeEeeecCCCCCCCCccccCCCCCCCCcccCCHhHhhHH
+Q FD01845394_011   62 LPKGSTPVGQYHTHGDYSDSGFNRTNKAGDYHNSDQFSSKDIFIH  106 (140)
+Q Consensus        62 ~P~g~~~vg~YHTHG~ysd~~g~~~~~~~d~ydsd~FS~~D~~~~  106 (140)
+                      +..+...||.||+|-...                ..+|..|+...
+T Consensus       115 ~~~~~~vvGwyhShp~~~----------------~~pS~~D~~~~  143 (295)
+T 6GVW_B          115 TGRPMRVVGWYHSHPHIT----------------VWPSHVDVRTQ  143 (295)
+T ss_dssp             HCCCCEEEEEEEEETTSC----------------SSCCHHHHHHH
+T ss_pred             hCCCceEEEeecCCCCce----------------ecCCHHHHHHH
+
+
+No 39
+>4O8Y_A 26S proteasome regulatory subunit RPN8; MPN JAMM, deubiquitinase, HYDROLASE; HET: EDO; 1.95A {Saccharomyces cerevisiae} SCOP: c.97.3.1, l.1.1.1
+Probab=21.77  E-value=1.1e+02  Score=22.90  Aligned_cols=12  Identities=25%  Similarity=0.484  Sum_probs=0.0  Template_Neff=10.700
+
+Q ss_pred             CCCceeEeeecC
+Q FD01845394_011   64 KGSTPVGQYHTH   75 (140)
+Q Consensus        64 ~g~~~vg~YHTH   75 (140)
+                      ++...||.||+|
+T Consensus        86 ~~~~ivG~yhs~   97 (185)
+T 4O8Y_A           86 AKEKLIGWYHSG   97 (185)
+T ss_dssp             TTSEEEEEEECC
+T ss_pred             CCCCeeEEEEcC
+
+
+No 40
+>7ADO_H ER membrane protein complex subunit 8; ER membrane protein, EMC, Membrane protein biogenesis, MEMBRANE PROTEIN; HET: NAG, PCW; 3.39A {Homo sapiens}
+Probab=20.98  E-value=1.1e+02  Score=24.83  Aligned_cols=12  Identities=17%  Similarity=0.343  Sum_probs=0.0  Template_Neff=8.900
+
+Q ss_pred             CCCceeEeeecC
+Q FD01845394_011   64 KGSTPVGQYHTH   75 (140)
+Q Consensus        64 ~g~~~vg~YHTH   75 (140)
+                      .+...||.||.|
+T Consensus        85 ~~~~IvG~Yhsh   96 (210)
+T 7ADO_H           85 HSYVIAGYYQAN   96 (210)
+T ss_dssp             GTCEEEEEEEEC
+T ss_pred             CCceEEEEEEcC
+
+
+No 41
+>4NQL_A AMSH-like protease sst2; JAMM domain, Zinc metalloprotease, protein complex, AMSH, heix-beta-helix sandwich, hydrolase, metal binding, K63-linked diubiquitin, Helix-beta-helix sandwich; HET: EDO; 2.3A {Schizosaccharomyces pombe}
+Probab=20.69  E-value=2.5e+02  Score=22.46  Aligned_cols=27  Identities=26%  Similarity=0.269  Sum_probs=0.0  Template_Neff=9.800
+
+Q ss_pred             CCCceeEeeecCCCCCCCCccccCCCCCCCCcccCCHhHhhHH
+Q FD01845394_011   64 KGSTPVGQYHTHGDYSDSGFNRTNKAGDYHNSDQFSSKDIFIH  106 (140)
+Q Consensus        64 ~g~~~vg~YHTHG~ysd~~g~~~~~~~d~ydsd~FS~~D~~~~  106 (140)
+                      .+...||.||+|-...                ..+|..|+...
+T Consensus       118 ~~~~~vG~~HsHp~~~----------------~~~S~~D~~~~  144 (221)
+T 4NQL_A          118 HNLLTLGWIHTHPTQT----------------CFMSSVALHTH  144 (221)
+T ss_dssp             HTCEEEEEEEECSSSC----------------SCCCHHHHHHH
+T ss_pred             CCCeEEEEEEcCCCCC----------------CCCCHHHHHHH
+
+
+No 42
+>PF18656.5 ; DUF5633 ; Family of unknown function (DUF5633)
+Probab=20.54  E-value=4e+02  Score=17.23  Aligned_cols=38  Identities=29%  Similarity=0.503  Sum_probs=0.0  Template_Neff=6.200
+
+Q ss_pred             CCCcHHHHHHHHHHHhCcccHhcCceeceEEEECCCCCEEec
+Q FD01845394_011    1 GFSSADDAARSALSKYNPMSIFKNREYGGIIFRAKDGSYGYT   42 (140)
+Q Consensus         1 ~F~t~d~AA~~aL~~iNp~SI~eNrEYGGlIykn~dG~y~yT   42 (140)
+                      .|.+..+|..+|.+.+=-.-|  |..|  -|.+..||+|.|.
+T Consensus         2 ~~~t~eea~~aa~~al~~~~~--n~~y--~i~~~~dg~~~~~   39 (41)
+T B0S4H6_FINM2/3    2 GYATYEEAEAAAKKALENDKI--NNSY--SISQGADGRYYYV   39 (41)
+T ss_pred             CccCHHHHHHHHHHHHHcCcc--cCce--eEEECCCCCeEEE
+
+
+No 43
+>4D10_M COP9 SIGNALOSOME COMPLEX SUBUNIT 5; SIGNALING PROTEIN; 3.8A {HOMO SAPIENS}
+Probab=20.52  E-value=1.6e+02  Score=25.05  Aligned_cols=27  Identities=26%  Similarity=0.452  Sum_probs=0.0  Template_Neff=9.900
+
+Q ss_pred             CCCceeEeeecCCCCCCCCccccCCCCCCCCcccCCHhHhhHH
+Q FD01845394_011   64 KGSTPVGQYHTHGDYSDSGFNRTNKAGDYHNSDQFSSKDIFIH  106 (140)
+Q Consensus        64 ~g~~~vg~YHTHG~ysd~~g~~~~~~~d~ydsd~FS~~D~~~~  106 (140)
+                      .+...||.||||-...                ..+|..|+...
+T Consensus       129 ~~~~ivGwyhshp~~~----------------~~~s~~D~~~~  155 (334)
+T 4D10_M          129 RLENAIGWYHSHPGYG----------------CWLSGIDVSTQ  155 (334)
+T ss_dssp             CCCEEEEEEEECTTTC----------------SCCCHHHHHHH
+T ss_pred             CCccEEEEEEeCCCCC----------------cccccccHHHH
+
+
+No 44
+>1APY_D ASPARTYLGLUCOSAMINIDASE; ASPARTYLGLUCOSAMINIDASE, GLYCOSYLASPARAGINASE, HYDROLASE; HET: NAG, BMA; 2.0A {Homo sapiens}
+Probab=20.02  E-value=4.6e+02  Score=19.84  Aligned_cols=36  Identities=22%  Similarity=0.364  Sum_probs=0.0  Template_Neff=9.100
+
+Q ss_pred             CcHHHHHHHHHHHhCcccHhcCceeceEEEECCCCCEEe
+Q FD01845394_011    3 SSADDAARSALSKYNPMSIFKNREYGGIIFRAKDGSYGY   41 (140)
+Q Consensus         3 ~t~d~AA~~aL~~iNp~SI~eNrEYGGlIykn~dG~y~y   41 (140)
+                      .+.++|++.+|+.   +.-+.....||+|-.+++|.+..
+T Consensus        75 ~~~~~a~~~~l~~---~~~~~~~~~~Gii~v~~~g~~~~  110 (141)
+T 1APY_D           75 EDPTIACQKVISR---IQKHFPEFFGAVICANVTGSYGA  110 (141)
+T ss_dssp             CCHHHHHHHHHHH---HHTTCTTCCEEEEEEETTSCEEE
+T ss_pred             CCHHHHHHHHHHH---HHHHCCCCeEEEEEEeCCCCEEE
+
+

@@ -1,0 +1,90 @@
+>FD01875780_04639 hypothetical protein
+MEYTCYDPS----------EYTFYIEIDFDHAACQYQGKGKACKLTPTPLSVVIAHEMGH
+A----MGE-ND--------DG-----------PGHMNNVKKHENPVRKEMGIPPRM
+>MBV6819735.1 RHS domain-containing protein [Rahnella sp. PD12R]
+-GNTCYDPT----------EFKIYIDVKNELTACVATKKNQHCEMKASPLSVVLGHEIGH
+V----MGD-ND--------DG-----------KGMMNNVKKNENTIRKELGLPQRT
+>WP_081329576.1 hypothetical protein [Hafnia alvei]
+-EHTCYDPT----------EFIFYIEKDSDHTSCQSQGKDKACKMTPTPLSVVIAHEIGH
+A----MGE-KD--------DG-----------PGHMNNVKTYENPVRKEMGIPDRM
+>WP_200742816.1 RHS domain-containing protein, partial [Escherichia coli]
+--QTCYDDT----------EYSFYIDIDNDHSSCVYQGKNKACAMKPT------AHEMGH
+A----KGM-KD--------DG-----------TDSMANVDKYENPFRKELGLPARM
+>EHC4315210.1 hypothetical protein [Escherichia coli]
+---------------------------------------------KPTLLSVVLAHEMGH
+A----KGM-KD--------DG-----------TDSMANVDKYENPFRKELGLPARM
+>WP_255350297.1 M91 family zinc metallopeptidase [Flavobacterium sp. 316]
+----------------------IYWNTSGSS-LPTTSG-------MRTSSSTDLAHEMFH
+ALDANRGT-MDDRLE----QG------G----KRNEWQAVYRENNLRTQLGLPQRT
+>WP_165595550.1 hypothetical protein [Methylovorus sp. MM2]
+----YRDRY----------TNTLYIDPSAHPIVNTTKG------PLPASTSSILGHEIGH
+MA---TGT-ED--------VG-----------VGRMDNVIQNENPIREYLGEPART
+>MBQ8084941.1 hypothetical protein [Lachnospiraceae bacterium]
+KGEVFEGGA----------GGKIYWDPNGTE-LPTTKG-------DMKNPVSDLGHELFH
+GWDACRGL-LNNDDY----NG------I----SRNEWQASYNENILRQQMGLPLRT
+>MCQ2050528.1 type III secretion system effector protein [Candidatus Saccharibacteria bacterium]
+--------------------GTIYWNSHGTK-LPTTDG-------WKTNATTDLGHEFSH
+AFDDLVGFDYIAGEY----SG------A----QTSEWRAVYRENLIREELGLPYRT
+>MCB9726732.1 RHS repeat-associated core domain-containing protein [Spirochaetaceae bacterium]
+---QFNRPG---------LPGDILIDPDAPACVETEDG------PQDTPLEARIAHEGGH
+A----LGD-HD--------DG-----------PGGMNNVNRNENPVRSALGYPERT
+>WP_194773592.1 DUF6531 domain-containing protein [Diaphorobacter caeni]
+--------G----------GNTVYMDTENAPALPEGDY------LIFPTMEVIMGHELGH
+A----TGT-RD--------AG-----------RNGMDNVIRNENPIRAELGIPPRT
+>MBI1912831.1 RHS repeat-associated core domain-containing protein [Deltaproteobacteria bacterium]
+---AYYDPS----------AHEIIIDPEFHPEIKVKKG--CTEKIVQASSERILGHEMGH
+AA---TGV-GD--------TG-----------PDRMDNVRLNENPIAIELGQDERL
+>WP_189573352.1 FG-GAP-like repeat-containing protein [Roseibacillus persicicus]
+-NNAFTFTH----------HDTIYVDPALSTNILTTQG------WMPASTTRIIAHELGH
+AI---MGD-RD--------NG-----------PLNLHNTIRNENPIMNSLGQPSRI
+>WP_245541868.1 DUF2345 domain-containing protein [Uliginosibacterium gangwonense]
+-----------------------VVDPSFHPPTDTTEG------VQPASTDIILAHEIGH
+AA---TGT-KD--------DG-----------PGRMNNVNQNENPVRQELGYPLRT
+>EHH6712158.1 hypothetical protein [Escherichia coli]
+-RDAFYCPAGTTDVSCQGKEKAVFIEPNECVKLPTAQG------LEVTSLAVELGHELGH
+A----HGV-HD--------DG-----------GDRMNNVNLNENPIRAGLGENPRT
+>MBP1615019.1 type secretion protein Rhs [Bacteroidetes bacterium]
+--SNKADPE----------GKYILWNPNSTNGGPDQTG------STTRSAYIGLGHEMAH
+TQDVWKGT-YDKNSWVGT---------I----QNAEKYATHVENQLRAEHGLALRT
+>WP_206409746.1 RHS repeat protein [Lysobacter enzymogenes]
+--NDQFDPN----------SLKILINPDGQHRVLTQFG------FRPTPLEVVIGHEIGH
+A----LGT-RD--------DG-----------PGQMNNVHQYENPLREDFNEPARI
+>MBQ8070261.1 hypothetical protein [Bacteroidales bacterium]
+-------------------GGTIFWNSEGSP-LFTQKG-------LLINATTDLAHEMFH
+GMDANHGV-LDNRLY----KR------I----KKDEWQAVYNENRLRKELGLPLRT
+>RHV86291.1 hypothetical protein DXA95_17525, partial [Odoribacter sp. OF09-27XD]
+-QKNSTDPN----------GKYIIWDPNSTTGGPDQTG------NTTRPPYIGLGHEAAH
+IQDAWNGT-IDRSPWITINTENGVIR-I----PHCEKYATHIENQLRAEHGLPLRS
+>CCZ80992.1 yd repeat protein [Odoribacter laneus CAG:561]
+---YVSGGS----------EGTIYWNPKGAS-LPTTAG-------MQNEPFTVLGHEMFH
+GLDANRGT-LISGEY----NG------V----NKNEWQAVYRENVMRSQAGLPLRS
+>MCC6330835.1 hypothetical protein [Ignavibacteria bacterium]
+-------------------GATIYWNPTGAL-LPTTDG-------DLRNGTSDLAHELAH
+GLSYNRGL-FDPRTYMSPRDG------IPTLHNYEEANASYLENVIRRELGLPYRT
+>MCC8034584.1 type III secretion system effector protein [Rikenellaceae bacterium]
+---DFMGGS----------GGTISWKPSGAS-VPTLNG-------YSNNPAVVLGHEISH
+AFDANAGR-MNQTEI----NG------L----SSNEWQAVYRENQMRSELGLPLRT
+>MBQ9653305.1 hypothetical protein [Bacteroidales bacterium]
+-------------------GGIVKWNSHGAL-IPTTEG-------GKVNPVIDLAHELFH
+AADADNGL-LDNRKV----MG------L----KKNEWQAVFNENLLRDQLNLPLRT
+>MBW6479332.1 hypothetical protein [Bacteroidales bacterium]
+-GVNFAGGS----------GGTISWNPKGTT-LPIVGG-------TGTNGTIDLAHEMFH
+GLDANRGL-LDDRVQ----NG------V----KRSEWQAVYRENTLRGQLGVPLRT
+>TQV79444.1 hypothetical protein FKG94_11280 [Exilibacterium tricleocarpae]
+-NNAYTSPG----------ADTIYLDPNYSPIIQSTAG------PITATARRIMAHELGH
+AV---FSA-ED--------DG-----------FRQMNNIIQNENPIMNAFGLPSRT
+>MBR0077597.1 hypothetical protein [Bacteroidales bacterium]
+-------------------GGTINWNPRGAQ-LPTNGF-----LSRTRSPMTDLGHELSH
+AFDHKNRI-EYGCPI----DG------L----AQQEWAAVYRENCMRRELGKPLRT
+>OYZ02513.1 hypothetical protein B7Y37_01595 [Sphingobacteriia bacterium 28-36-52]
+---NAAGDN----------GNYITWNPKGTSSAPDSKG------STTRPSFIGLAHEMAH
+VIDSWSGT-KNLNPWRTVTDANGNTKTI----PNAELYSTHIENQIRSENKLPLRA
+>WP_071563522.1 hypothetical protein [Bathymodiolus thermophilus thioautotrophic gill symbiont]
+--------------------DTIYIDLNFHPKISTDSG------SIPATTRRILSHELGH
+SV---FGA-LD--------DG-----------INRMNNINLNENPIMNELGMPLRL
+>WP_168797670.1 M91 family zinc metallopeptidase [Lewinella litorea]
+----YNSTT----------GRLVSFDPTSTEGGLNEKG------GTSRPSYLGLAHELAH
+ALDWDDGS-IDAGTWVKYSDG----RTS----TNAEKYASHIENQIRAENGVPLRA
+>HBI57913.1 hypothetical protein [Porphyromonadaceae bacterium]
+-------------------CSTIYWDPDNDYGGINEKGYKMFKQNIYCPAFVQLGHEMAH
+NWDFLYGD-YDCSVWLRFDDG----QAF----AQTEFFACYYENLIRAEHSLPIRT

@@ -1,0 +1,437 @@
+Query         FD01543133_03431 Rhs-family protein
+Match_columns 119
+No_of_seqs    34 out of 43
+Neff          3.1163
+Searched_HMMs 86581
+Date          Tue Feb 27 20:17:14 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/3074105.hhr -oa3m ../results/3074105.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 4RSI_A Structural maintenance   65.5      20 0.00023   27.6   3.7   36   18-53    138-173 (397)
+  2 5H69_A Chromosome partition pr  57.6      43  0.0005   24.0   4.1   34   23-56     74-107 (261)
+  3 4U4P_B Structural maintenance   53.3      58 0.00067   23.1   4.1   33   23-56     65-97  (247)
+  4 7DG5_C Structural maintenance   47.5   1E+02  0.0012   21.6   4.6   40   17-56     52-91  (215)
+  5 4U4P_A Structural maintenance   42.3   1E+02  0.0012   21.9   4.0   31   23-53     61-91  (233)
+  6 4RSJ_C Chromosome partition pr  39.3 1.5E+02  0.0017   21.8   4.5   40   17-56     85-124 (276)
+  7 4RSI_B Structural maintenance   37.7 1.4E+02  0.0016   23.3   4.3   38   17-56    141-178 (397)
+  8 5MG8_C Structural maintenance   36.9      98  0.0011   24.5   3.5   40   17-56    119-159 (347)
+  9 1GXL_B CHROMOSOME SEGREGATION   36.3 1.9E+02  0.0022   20.2   4.5   35   22-56     55-89  (213)
+ 10 PF18330.5 ; Lig_C ; Ligase Pab  35.4 1.2E+02  0.0014   23.3   3.7   27   27-53     52-82  (121)
+ 11 6WG6_B Structural maintenance   34.0 1.8E+02  0.0021   21.0   4.2   31   23-53     87-117 (256)
+ 12 PF11363.12 ; DUF3164 ; Protein  33.8      80 0.00092   25.6   2.7   22   21-42    150-176 (195)
+ 13 PF18095.5 ; PAS_12 ; UPF0242 C  31.2      58 0.00067   27.0   1.6   26   17-42     94-119 (153)
+ 14 7TVE_D Structural maintenance   30.9 2.6E+02   0.003   26.8   5.6   56    1-56    525-580 (1157)
+ 15 4OQP_A Deoxyribonucleoside reg  30.1 1.7E+02   0.002   22.9   3.9   38   17-54    226-263 (264)
+ 16 PF04198.17 ; Sugar-bind ; Puta  27.8 1.5E+02  0.0017   22.6   3.1   37   17-53    214-250 (250)
+ 17 PF09082.14 ; DUF1922 ; Domain   26.9 1.2E+02  0.0014   20.4   2.3   28   40-67     38-65  (67)
+ 18 5MG8_B Structural maintenance   26.9 2.4E+02  0.0028   21.4   4.0   40   17-56    130-169 (294)
+ 19 4KYZ_D Designed protein OR327;  25.9   2E+02  0.0024   24.6   3.8   32   23-54     31-66  (172)
+ 20 PF08955.14 ; BofC_C ; BofC C-t  25.5 2.5E+02  0.0028   18.3   3.5   25   26-54     49-73  (76)
+ 21 1GXJ_A CHROMOSOME SEGREGATION   24.5 3.8E+02  0.0044   18.6   4.3   34   23-56     44-77  (186)
+ 22 1MWQ_A HYPOTHETICAL PROTEIN HI  22.1 1.5E+02  0.0018   19.5   2.1   15   40-54     66-80  (101)
+ 23 4L51_B Transcriptional regulat  22.1 2.1E+02  0.0025   22.6   3.1   28   27-54    239-266 (266)
+ 24 3L51_A Structural maintenance   21.6   4E+02  0.0046   18.4   4.0   39   15-53     22-60  (161)
+ 25 7T2F_B HEEH mini protein HEEH_  21.2 3.5E+02  0.0041   18.7   3.6   34   26-59     17-53  (53)
+ 26 4LBH_A 5-chloro-2-hydroxyhydro  20.7 1.7E+02   0.002   19.4   2.1   15   40-54     60-74  (100)
+ 27 PF03795.18 ; YCII ; YCII-relat  20.5 1.9E+02  0.0022   18.1   2.1   15   40-54     56-70  (88)
+ 28 PF21201.1 ; Tertiapin ; Tertia  20.1      51 0.00059   19.3  -0.4    7   97-103    10-16  (21)
+ 29 7DG5_D Structural maintenance   20.1 4.7E+02  0.0055   18.6   4.2   31   23-53     61-91  (213)
+
+No 1
+>4RSI_A Structural maintenance of chromosomes protein 2; Smc hinge domain with coiled coil, chromosomal condensation, CELL CYCLE; HET: PO4; 2.9A {Saccharomyces cerevisiae}
+Probab=65.52  E-value=20  Score=27.58  Aligned_cols=36  Identities=19%  Similarity=0.291  Sum_probs=0.0  Template_Neff=12.200
+
+Q ss_pred             cCCCCHHHHHHHHHHHcCCCcceeeCCHHHHHHHHH
+Q FD01543133_034   18 IRPGTKEWRLAVEAIGSGKNTNFRVASEKDAIDLIS   53 (119)
+Q Consensus        18 ikpGTk~Wk~Av~~ik~ggk~Nfrv~~~~dA~~LL~   53 (119)
+                      ++++.+.|..||+.+=.+.-..|.|.+..+|..++.
+T Consensus       138 v~~~~~~~~~ave~~l~~~l~~~vv~~~~~~~~~~~  173 (397)
+T 4RSI_A          138 IDNDNIRYATALQTCAGGRLFNVVVQDSQTATQLLE  173 (397)
+T ss_dssp             CCTGGGGGHHHHHHHHGGGGGCEEESSHHHHHHHHH
+T ss_pred             ecCCchhhhHHHHHhccCceeEEEECCHHHHHHHHH
+
+
+No 2
+>5H69_A Chromosome partition protein Smc; SMC protein, DNA BINDING PROTEIN, CELL CYCLE; 2.20040022156A {Geobacillus stearothermophilus 10}
+Probab=57.62  E-value=43  Score=23.99  Aligned_cols=34  Identities=24%  Similarity=0.231  Sum_probs=0.0  Template_Neff=12.300
+
+Q ss_pred             HHHHHHHHHHHcCCCcceeeCCHHHHHHHHHHhc
+Q FD01543133_034   23 KEWRLAVEAIGSGKNTNFRVASEKDAIDLISQGR   56 (119)
+Q Consensus        23 k~Wk~Av~~ik~ggk~Nfrv~~~~dA~~LL~ear   56 (119)
+                      +.|..||+.+-.+.-..|.|.+.+++..++...+
+T Consensus        74 ~~~~~aie~~l~~~~~~~vv~~~~~~~~~~~~~~  107 (261)
+T 5H69_A           74 DRYETAIETALGGAMQHIVVDSEQAARQAIHYLK  107 (261)
+T ss_dssp             GGGHHHHHHHHGGGGGCEEESCHHHHHHHHHHHH
+T ss_pred             hHHHHHHHHHhchhccEEEECCHHHHHHHHHHHH
+
+
+No 3
+>4U4P_B Structural maintenance of chromosomes protein 4; Condensin, SMC, PROTEIN BINDING; 1.89A {Homo sapiens}
+Probab=53.28  E-value=58  Score=23.13  Aligned_cols=33  Identities=12%  Similarity=0.076  Sum_probs=0.0  Template_Neff=12.300
+
+Q ss_pred             HHHHHHHHHHHcCCCcceeeCCHHHHHHHHHHhc
+Q FD01543133_034   23 KEWRLAVEAIGSGKNTNFRVASEKDAIDLISQGR   56 (119)
+Q Consensus        23 k~Wk~Av~~ik~ggk~Nfrv~~~~dA~~LL~ear   56 (119)
+                      +.|..||+.+-.. -..|.|.+..++..++...+
+T Consensus        65 ~~~~~ave~~l~~-l~~~vv~~~~~~~~~~~~~~   97 (247)
+T 4U4P_B           65 EKYDVAISSCCHA-LDYIVVDSIDIAQECVNFLK   97 (247)
+T ss_dssp             GGGHHHHHHHCGG-GGSEEESCHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHccc-CcEEEECCHHHHHHHHHHHH
+
+
+No 4
+>7DG5_C Structural maintenance of chromosomes protein 1A; cohesin, Smc1, Smc3, hinge, DNA BINDING PROTEIN; 2.0A {Mus musculus}
+Probab=47.50  E-value=1e+02  Score=21.63  Aligned_cols=40  Identities=25%  Similarity=0.300  Sum_probs=0.0  Template_Neff=12.000
+
+Q ss_pred             ccCCCCHHHHHHHHHHHcCCCcceeeCCHHHHHHHHHHhc
+Q FD01543133_034   17 VIRPGTKEWRLAVEAIGSGKNTNFRVASEKDAIDLISQGR   56 (119)
+Q Consensus        17 vikpGTk~Wk~Av~~ik~ggk~Nfrv~~~~dA~~LL~ear   56 (119)
+                      .|..-.+.|..||+.+-...-..|.|.+.+++..++...+
+T Consensus        52 ~i~~~~~~~~~~ve~~l~~~l~~~vv~~~~~~~~~~~~~~   91 (215)
+T 7DG5_C           52 LCQPTQKKYQIAVTKVLGKNMDAIIVDSEKTGRDCIQYIK   91 (215)
+T ss_dssp             TEEESSGGGHHHHHHHHGGGGGCEEESCHHHHHHHHHHHH
+T ss_pred             heecCcHHHHHHHHHHhccccCEEEeCCHHHHHHHHHHHH
+
+
+No 5
+>4U4P_A Structural maintenance of chromosomes protein 2; Condensin, SMC, PROTEIN BINDING; 1.89A {Homo sapiens}
+Probab=42.26  E-value=1e+02  Score=21.88  Aligned_cols=31  Identities=19%  Similarity=0.186  Sum_probs=0.0  Template_Neff=12.100
+
+Q ss_pred             HHHHHHHHHHHcCCCcceeeCCHHHHHHHHH
+Q FD01543133_034   23 KEWRLAVEAIGSGKNTNFRVASEKDAIDLIS   53 (119)
+Q Consensus        23 k~Wk~Av~~ik~ggk~Nfrv~~~~dA~~LL~   53 (119)
+                      +.|..||+.+-...-..+.|.+.++|..++.
+T Consensus        61 ~~~~~aie~~l~~~l~~~vv~~~~~~~~~~~   91 (233)
+T 4U4P_A           61 TSATTALELVAGERLYNVVVDTEVTGKKLLE   91 (233)
+T ss_dssp             GGGHHHHHHHHGGGGGCEEESCHHHHHHHHH
+T ss_pred             hhHHHHHHHHhcccceeEEeCCHHHHHHHHH
+
+
+No 6
+>4RSJ_C Chromosome partition protein Smc; Smc hinge domain with coiled coils, CELL CYCLE; 3.5A {Pyrococcus furiosus}
+Probab=39.35  E-value=1.5e+02  Score=21.77  Aligned_cols=40  Identities=23%  Similarity=0.215  Sum_probs=0.0  Template_Neff=12.100
+
+Q ss_pred             ccCCCCHHHHHHHHHHHcCCCcceeeCCHHHHHHHHHHhc
+Q FD01543133_034   17 VIRPGTKEWRLAVEAIGSGKNTNFRVASEKDAIDLISQGR   56 (119)
+Q Consensus        17 vikpGTk~Wk~Av~~ik~ggk~Nfrv~~~~dA~~LL~ear   56 (119)
+                      .|+.-...|..||+.+-...-..|.|.+.+++..+++..+
+T Consensus        85 ~i~v~~~~~~~ave~~l~~~l~~~vv~~~~~~~~~~~~~~  124 (276)
+T 4RSJ_C           85 LIKVKDEAYALAIEVALGNRADNVVVEDELVAEKAIKYLK  124 (276)
+T ss_dssp             HCEECSSSSHHHHHHHHGGGGGCEEESSHHHHHHHHHHHH
+T ss_pred             heecChHHHHHHHHHHhcccccEEEECCHHHHHHHHHHHH
+
+
+No 7
+>4RSI_B Structural maintenance of chromosomes protein 4; Smc hinge domain with coiled coil, chromosomal condensation, CELL CYCLE; HET: PO4; 2.9A {Saccharomyces cerevisiae}
+Probab=37.67  E-value=1.4e+02  Score=23.28  Aligned_cols=38  Identities=13%  Similarity=0.052  Sum_probs=0.0  Template_Neff=12.100
+
+Q ss_pred             ccCCCCHHHHHHHHHHHcCCCcceeeCCHHHHHHHHHHhc
+Q FD01543133_034   17 VIRPGTKEWRLAVEAIGSGKNTNFRVASEKDAIDLISQGR   56 (119)
+Q Consensus        17 vikpGTk~Wk~Av~~ik~ggk~Nfrv~~~~dA~~LL~ear   56 (119)
+                      .|.. .+.|..||+.+-. .-..|.|.+..++..++...+
+T Consensus       141 ~i~v-~~~~~~ave~~l~-~l~~~vv~~~~~~~~~~~~l~  178 (397)
+T 4RSI_B          141 LGVI-DDSFDVAISTACP-RLDDVVVDTVECAQHCIDYLR  178 (397)
+T ss_dssp             SEEE-CGGGHHHHHHHCG-GGGSEEESCHHHHHHHHHHHH
+T ss_pred             hccC-CHHHHHHHHHHcc-ccCEEEeCCHHHHHHHHHHHH
+
+
+No 8
+>5MG8_C Structural maintenance of chromosomes protein 5; SMC, Structural Maintenance of Chromosomes, Hinge Domain, Smc5, Smc6, Smc5/6, recombination; HET: SO4, GOL; 2.75A {Schizosaccharomyces pombe}
+Probab=36.90  E-value=98  Score=24.53  Aligned_cols=40  Identities=13%  Similarity=0.117  Sum_probs=0.0  Template_Neff=11.000
+
+Q ss_pred             ccCCCCHHHHHHHHHHHcC-CCcceeeCCHHHHHHHHHHhc
+Q FD01543133_034   17 VIRPGTKEWRLAVEAIGSG-KNTNFRVASEKDAIDLISQGR   56 (119)
+Q Consensus        17 vikpGTk~Wk~Av~~ik~g-gk~Nfrv~~~~dA~~LL~ear   56 (119)
+                      .|+.-.+.|..||+.+-.. .-..|.|.+.+++..|+...+
+T Consensus       119 ~i~v~~~~~~~ave~~lg~~~l~~~vv~~~~~~~~l~~~l~  159 (347)
+T 5MG8_C          119 NLKCKEKGFAALIEGFFRTDTFRTFIMSNYNDYLKLMDLIT  159 (347)
+T ss_dssp             GCEESSGGGHHHHHHHHHHHHHTEEEESSHHHHHHHHHHHH
+T ss_pred             EEEeCCHHHHHHHHHHCCHhheeEEEeCCHHHHHHHHHHhh
+
+
+No 9
+>1GXL_B CHROMOSOME SEGREGATION SMC PROTEIN; CHROMOSOME SEGREGATION, SMC DIMERISATION DOMAIN, ANTI PARALLEL COILED COIL, SMC PROTEINS; 3.0A {THERMOTOGA MARITIMA} SCOP: d.215.1.1
+Probab=36.32  E-value=1.9e+02  Score=20.18  Aligned_cols=35  Identities=20%  Similarity=0.273  Sum_probs=0.0  Template_Neff=12.200
+
+Q ss_pred             CHHHHHHHHHHHcCCCcceeeCCHHHHHHHHHHhc
+Q FD01543133_034   22 TKEWRLAVEAIGSGKNTNFRVASEKDAIDLISQGR   56 (119)
+Q Consensus        22 Tk~Wk~Av~~ik~ggk~Nfrv~~~~dA~~LL~ear   56 (119)
+                      .+.|..|++.+-...-..+.|.+.++|..+++..+
+T Consensus        55 ~~~~~~a~e~~l~~~l~~~v~~~~~~~~~~~~~~~   89 (213)
+T 1GXL_B           55 DEKYSLAVSVLLGGTAQNIVVRNVDTAKAIVEFLK   89 (213)
+T ss_dssp             CTTTHHHHHHHHGGGGGCEEESSHHHHHHHHHHHH
+T ss_pred             CHHHHHHHHHHhccccCEEEeCCHHHHHHHHHHHH
+
+
+No 10
+>PF18330.5 ; Lig_C ; Ligase Pab1020 C-terminal region
+Probab=35.42  E-value=1.2e+02  Score=23.35  Aligned_cols=27  Identities=7%  Similarity=-0.056  Sum_probs=0.0  Template_Neff=6.300
+
+Q ss_pred             HHHHHHHcCCCc----ceeeCCHHHHHHHHH
+Q FD01543133_034   27 LAVEAIGSGKNT----NFRVASEKDAIDLIS   53 (119)
+Q Consensus        27 ~Av~~ik~ggk~----Nfrv~~~~dA~~LL~   53 (119)
+                      +||+.+++|+..    .+|+.+.+.|++||+
+T Consensus        52 eai~~v~~g~~v~e~f~irf~~~~~~~~~~~   82 (121)
+T O29409_ARCFU/2   52 ESIRECKRGEMVCEESELVFESPDVLELFKL   82 (121)
+T ss_pred             HHHHHHHcCCceeEEEEEEeCCHHHHHHHHH
+
+
+No 11
+>6WG6_B Structural maintenance of chromosomes protein 3; Protein-DNA complex, ATPase, DNA-binding protein, Genome organization, Sister chromatid cohesion, Transcription regulation, CELL CYCLE, CELL CYCLE-DNA; 3.54A {Homo sapiens}
+Probab=34.03  E-value=1.8e+02  Score=20.96  Aligned_cols=31  Identities=13%  Similarity=0.145  Sum_probs=0.0  Template_Neff=12.200
+
+Q ss_pred             HHHHHHHHHHHcCCCcceeeCCHHHHHHHHH
+Q FD01543133_034   23 KEWRLAVEAIGSGKNTNFRVASEKDAIDLIS   53 (119)
+Q Consensus        23 k~Wk~Av~~ik~ggk~Nfrv~~~~dA~~LL~   53 (119)
+                      +.|..||+.+-...-..|.|.+.+++..++.
+T Consensus        87 ~~~~~ave~~l~~~l~~~vv~~~~~~~~~~~  117 (256)
+T 6WG6_B           87 PAFYTCVEVTAGNRLFYHIVDSDEVSTKILM  117 (256)
+T ss_dssp             GGGHHHHHHHHGGGGGCEEESSHHHHHHHHH
+T ss_pred             HHHHHHHHHHhcccceEEEeCCHHHHHHHHH
+
+
+No 12
+>PF11363.12 ; DUF3164 ; Protein of unknown function (DUF3164)
+Probab=33.76  E-value=80  Score=25.58  Aligned_cols=22  Identities=36%  Similarity=0.596  Sum_probs=0.0  Template_Neff=7.300
+
+Q ss_pred             CCHHHHHHHHHHH-----cCCCcceee
+Q FD01543133_034   21 GTKEWRLAVEAIG-----SGKNTNFRV   42 (119)
+Q Consensus        21 GTk~Wk~Av~~ik-----~ggk~Nfrv   42 (119)
+                      +.+.|++|+++|+     .+.+..||+
+T Consensus       150 ~d~~w~~am~~i~~s~~~~~sk~Yir~  176 (195)
+T Q6QIE4_BPBMU/1  150 TDPRWLEAMRAIGEALQVIGSKSYVRV  176 (195)
+T ss_pred             CCHHHHHHHHHHHHhceeecceeEEEE
+
+
+No 13
+>PF18095.5 ; PAS_12 ; UPF0242 C-terminal PAS-like domain
+Probab=31.16  E-value=58  Score=26.99  Aligned_cols=26  Identities=19%  Similarity=0.672  Sum_probs=0.0  Template_Neff=4.100
+
+Q ss_pred             ccCCCCHHHHHHHHHHHcCCCcceee
+Q FD01543133_034   17 VIRPGTKEWRLAVEAIGSGKNTNFRV   42 (119)
+Q Consensus        17 vikpGTk~Wk~Av~~ik~ggk~Nfrv   42 (119)
+                      +|.+|..+|++|+..+......-.|.
+T Consensus        94 iv~~g~~eW~~~L~~l~~~~e~~~~L  119 (153)
+T F8L247_PARAV/2   94 IVQDGLAEWKTQIQGLSSSHEAKIRL  119 (153)
+T ss_pred             HhhhCHHHHHHHHHhcccCCceEEEE
+
+
+No 14
+>7TVE_D Structural maintenance of chromosomes protein 6; Nse1, Nse3, Nse4, Smc5, Smc6, Nse2, ATP, DNA BINDING PROTEIN-DNA complex; HET: ATP; 3.8A {Saccharomyces cerevisiae W303}
+Probab=30.88  E-value=2.6e+02  Score=26.84  Aligned_cols=56  Identities=23%  Similarity=0.291  Sum_probs=0.0  Template_Neff=10.800
+
+Q ss_pred             CCCCCccccccccCCCccCCCCHHHHHHHHHHHcCCCcceeeCCHHHHHHHHHHhc
+Q FD01543133_034    1 KCGLTGNEVGNASNLPVIRPGTKEWRLAVEAIGSGKNTNFRVASEKDAIDLISQGR   56 (119)
+Q Consensus         1 ~~g~~~~~~~~as~l~vikpGTk~Wk~Av~~ik~ggk~Nfrv~~~~dA~~LL~ear   56 (119)
+                      +..+.....+.-..+--++++-..|..||+.+-...-..|.|.+.+||..|+...+
+T Consensus       525 ~~~~~~~~~gplg~~i~v~~~~~~~~~ave~~lg~~l~~~vv~~~~d~~~l~~~l~  580 (1157)
+T 7TVE_D          525 KNEFETPAIGPLGSLVTIRKGFEKWTRSIQRAISSSLNAFVVSNPKDNRLFRDIMR  580 (1157)
+T ss_dssp             --------------------------------------------------------
+T ss_pred             ccCCCCCCCCCCccceEecCCcHHHHHHHHHHhhhccceEEeCCHHHHHHHHHHHH
+
+
+No 15
+>4OQP_A Deoxyribonucleoside regulator; Rossmann Fold, Sugar-binding transcriptional regulator, Schiff base, Transcription; HET: PED; 1.6A {Bacillus subtilis subsp. subtilis} SCOP: c.124.1.0
+Probab=30.05  E-value=1.7e+02  Score=22.89  Aligned_cols=38  Identities=16%  Similarity=0.251  Sum_probs=0.0  Template_Neff=10.100
+
+Q ss_pred             ccCCCCHHHHHHHHHHHcCCCcceeeCCHHHHHHHHHH
+Q FD01543133_034   17 VIRPGTKEWRLAVEAIGSGKNTNFRVASEKDAIDLISQ   54 (119)
+Q Consensus        17 vikpGTk~Wk~Av~~ik~ggk~Nfrv~~~~dA~~LL~e   54 (119)
+                      |+--+...+.+||..+-+++-.|..|-+...|+.||+.
+T Consensus       226 v~va~G~~K~~av~~~l~~~~~~~litD~~~A~~ll~~  263 (264)
+T 4OQP_A          226 ILVAGGSRKVSSIHGALTGKYANVLIIDQHTARALVND  263 (264)
+T ss_dssp             EEECCSGGGHHHHHHHHHTTCCSEEEEEHHHHHHHHC-
+T ss_pred             EEEecCHHHHHHHHHHHhcCCCCEEEEcHHHHHHHHhc
+
+
+No 16
+>PF04198.17 ; Sugar-bind ; Putative sugar-binding domain
+Probab=27.84  E-value=1.5e+02  Score=22.64  Aligned_cols=37  Identities=19%  Similarity=0.197  Sum_probs=0.0  Template_Neff=10.600
+
+Q ss_pred             ccCCCCHHHHHHHHHHHcCCCcceeeCCHHHHHHHHH
+Q FD01543133_034   17 VIRPGTKEWRLAVEAIGSGKNTNFRVASEKDAIDLIS   53 (119)
+Q Consensus        17 vikpGTk~Wk~Av~~ik~ggk~Nfrv~~~~dA~~LL~   53 (119)
+                      |+-.+...+.+||..+-+++-.|..+-|...|.+||+
+T Consensus       214 i~~a~G~~K~~~l~~~l~~~~~~~l~~D~~~A~~ll~  250 (250)
+T Q97L54_CLOAB/8  214 IAVAGSKLKAEAIVATQINGRGNILITDEGTAKEIVK  250 (250)
+T ss_pred             EEEecCHHHHHHHHHHHhcCCCCEEEEeHHHHHHHhC
+
+
+No 17
+>PF09082.14 ; DUF1922 ; Domain of unknown function (DUF1922)
+Probab=26.95  E-value=1.2e+02  Score=20.37  Aligned_cols=28  Identities=7%  Similarity=0.011  Sum_probs=0.0  Template_Neff=7.300
+
+Q ss_pred             eeeCCHHHHHHHHHHhccccccCCCCCC
+Q FD01543133_034   40 FRVASEKDAIDLISQGRGRMQRQGAPND   67 (119)
+Q Consensus        40 frv~~~~dA~~LL~earg~m~r~~tYt~   67 (119)
+                      +++.|.++|..++.+.+..+...+.+..
+T Consensus        38 ~~~~~~~ea~~~v~~l~~~~~~~~~f~~   65 (67)
+T U6EF32_9EURY/2   38 AKTQDAQDAAEKVQELQEEKYGGAYFTT   65 (67)
+T ss_pred             EEeCCHHHHHHHHHHHHHHHhccccccc
+
+
+No 18
+>5MG8_B Structural maintenance of chromosomes protein 6; SMC, Structural Maintenance of Chromosomes, Hinge Domain, Smc5, Smc6, Smc5/6, recombination; HET: SO4, GOL; 2.75A {Schizosaccharomyces pombe}
+Probab=26.86  E-value=2.4e+02  Score=21.36  Aligned_cols=40  Identities=25%  Similarity=0.315  Sum_probs=0.0  Template_Neff=11.600
+
+Q ss_pred             ccCCCCHHHHHHHHHHHcCCCcceeeCCHHHHHHHHHHhc
+Q FD01543133_034   17 VIRPGTKEWRLAVEAIGSGKNTNFRVASEKDAIDLISQGR   56 (119)
+Q Consensus        17 vikpGTk~Wk~Av~~ik~ggk~Nfrv~~~~dA~~LL~ear   56 (119)
+                      .|....+.|..||+.+-...-..|.|.+.++|..++...+
+T Consensus       130 ~i~v~~~~~~~ave~~l~~~l~~~vv~~~~~~~~~~~~l~  169 (294)
+T 5MG8_B          130 YMTVKEQKWHLIIERILGNVINGFIVRSHHDQLILKELMR  169 (294)
+T ss_dssp             GEEESCGGGHHHHHHHSCSGGGSEEESSHHHHHHHHHHHH
+T ss_pred             ceEeChHHHHHHHHHHHchhcceEEeCCHHHHHHHHHHHH
+
+
+No 19
+>4KYZ_D Designed protein OR327; Structural Genomics, PSI-Biology, Protein Structure Initiative, Northeast Structural Genomics Consortium, NESG, domain insertion, DE NOVO PROTEIN; HET: MSE; 2.492A {synthetic construct}
+Probab=25.87  E-value=2e+02  Score=24.65  Aligned_cols=32  Identities=19%  Similarity=0.247  Sum_probs=0.0  Template_Neff=2.600
+
+Q ss_pred             HHHHHHHHHHHcCCCcceeeC----CHHHHHHHHHH
+Q FD01543133_034   23 KEWRLAVEAIGSGKNTNFRVA----SEKDAIDLISQ   54 (119)
+Q Consensus        23 k~Wk~Av~~ik~ggk~Nfrv~----~~~dA~~LL~e   54 (119)
+                      +.|++-|+.|++=|..++++.    +..||++|+..
+T Consensus        31 kaLkElv~~lrk~GAkri~i~Ita~~skeAe~Lka~   66 (172)
+T 4KYZ_D           31 KVLNELMDYIKKQGAKRVRISITARSSKEAYKFLAI   66 (172)
+T ss_dssp             HHHHHHHHHHHHHCCSEEEEEEEESSHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHcCCceEEEEEeccCcHHHHHHHHH
+
+
+No 20
+>PF08955.14 ; BofC_C ; BofC C-terminal domain
+Probab=25.47  E-value=2.5e+02  Score=18.32  Aligned_cols=25  Identities=20%  Similarity=0.437  Sum_probs=0.0  Template_Neff=9.000
+
+Q ss_pred             HHHHHHHHcCCCcceeeCCHHHHHHHHHH
+Q FD01543133_034   26 RLAVEAIGSGKNTNFRVASEKDAIDLISQ   54 (119)
+Q Consensus        26 k~Av~~ik~ggk~Nfrv~~~~dA~~LL~e   54 (119)
+                      ....+.|++|    +.+.|.++|.++|.+
+T Consensus        49 ~~~~~~l~~G----i~~~s~~e~~~~le~   73 (76)
+T D5WW86_KYRT2/1   49 KGALDSLRRG----VRVDGREDYASILDT   73 (76)
+T ss_pred             HHHHHHHHcC----ceeCCHHHHHHHHHh
+
+
+No 21
+>1GXJ_A CHROMOSOME SEGREGATION SMC PROTEIN; CHROMOSOME SEGREGATION, SMC DIMERISATION DOMAIN, ANTI PARALLEL COILED COIL, SMC PROTEINS; 2.0A {THERMOTOGA MARITIMA} SCOP: d.215.1.1
+Probab=24.46  E-value=3.8e+02  Score=18.56  Aligned_cols=34  Identities=21%  Similarity=0.281  Sum_probs=0.0  Template_Neff=11.800
+
+Q ss_pred             HHHHHHHHHHHcCCCcceeeCCHHHHHHHHHHhc
+Q FD01543133_034   23 KEWRLAVEAIGSGKNTNFRVASEKDAIDLISQGR   56 (119)
+Q Consensus        23 k~Wk~Av~~ik~ggk~Nfrv~~~~dA~~LL~ear   56 (119)
+                      +.|..|++.+-...-..+.+.+.++|..+|...+
+T Consensus        44 ~~~~~a~~~~l~~~~~~~v~~~~~~~~~~~~~~~   77 (186)
+T 1GXJ_A           44 EKYSLAVSVLLGGTAQNIVVRNVDTAKAIVEFLK   77 (186)
+T ss_dssp             GGGHHHHHHHHGGGGGCEEESSHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHhccccCEEEeCCHHHHHHHHHHHH
+
+
+No 22
+>1MWQ_A HYPOTHETICAL PROTEIN HI0828; HI0828, YCII_HAEIN, hypothetical protein, structural genomics, Structure 2 Function Project, S2F, UNKNOWN FUNCTION; HET: MSE, 1PE; 0.99A {Haemophilus influenzae} SCOP: d.58.4.7
+Probab=22.10  E-value=1.5e+02  Score=19.50  Aligned_cols=15  Identities=20%  Similarity=0.133  Sum_probs=0.0  Template_Neff=10.100
+
+Q ss_pred             eeeCCHHHHHHHHHH
+Q FD01543133_034   40 FRVASEKDAIDLISQ   54 (119)
+Q Consensus        40 frv~~~~dA~~LL~e   54 (119)
+                      |.++|.++|.+|+++
+T Consensus        66 ~~a~s~eea~~l~~~   80 (101)
+T 1MWQ_A           66 AQFENLQAAKDWAAQ   80 (101)
+T ss_dssp             EECSSHHHHHHHHHT
+T ss_pred             EEcCCHHHHHHHHhc
+
+
+No 23
+>4L51_B Transcriptional regulator LsrR; DNA transcriptional regulator, Phospho-AI-2 binding, DNA binding, TRANSCRIPTION REGULATOR, removed helix-turn-helix domain, SorC/DeoR family; HET: HSX; 1.9A {Escherichia coli} SCOP: c.124.1.0
+Probab=22.07  E-value=2.1e+02  Score=22.62  Aligned_cols=28  Identities=21%  Similarity=0.208  Sum_probs=0.0  Template_Neff=9.900
+
+Q ss_pred             HHHHHHHcCCCcceeeCCHHHHHHHHHH
+Q FD01543133_034   27 LAVEAIGSGKNTNFRVASEKDAIDLISQ   54 (119)
+Q Consensus        27 ~Av~~ik~ggk~Nfrv~~~~dA~~LL~e   54 (119)
+                      +|+..+-+++-.|..|-+...|++||.+
+T Consensus       239 ~al~~~l~~~~~~~litD~~~A~~ll~~  266 (266)
+T 4L51_B          239 EAIAAAMKGGYINALVTDQDTAAAILRS  266 (266)
+T ss_dssp             HHHHHHHHTTSCSEEEEEHHHHHHHHHC
+T ss_pred             HHHHHHHhcCCCCEEEEcHHHHHHHHcC
+
+
+No 24
+>3L51_A Structural maintenance of chromosomes protein 2; Structural Maintenance of Chromosomes (SMC), hinge domain, Cell cycle, Cell division, Cytoplasm, DNA condensation, Mitosis, Nucleus; HET: GOL, MSE; 1.506A {Mus musculus}
+Probab=21.62  E-value=4e+02  Score=18.42  Aligned_cols=39  Identities=21%  Similarity=0.199  Sum_probs=0.0  Template_Neff=11.200
+
+Q ss_pred             CCccCCCCHHHHHHHHHHHcCCCcceeeCCHHHHHHHHH
+Q FD01543133_034   15 LPVIRPGTKEWRLAVEAIGSGKNTNFRVASEKDAIDLIS   53 (119)
+Q Consensus        15 l~vikpGTk~Wk~Av~~ik~ggk~Nfrv~~~~dA~~LL~   53 (119)
+                      ...|+...+.|..|++.+-...-..+.|.+.++|..+|+
+T Consensus        22 ~~~i~~~~~~~~~a~e~~l~~~l~~~v~~~~~~~~~~~~   60 (161)
+T 3L51_A           22 ASLINVKDNSTATALEVVAGERLYNVVVDTEVTAKKLLE   60 (161)
+T ss_dssp             GGSCEESCGGGHHHHHHHHGGGGGCEEESCHHHHHHHHH
+T ss_pred             eecEEeCChHHHHHHHHHhccchhcEEeCCHHHHHHHHH
+
+
+No 25
+>7T2F_B HEEH mini protein HEEH_TK_rd5_0341; mini protein, DE NOVO PROTEIN, homodimer; NMR {Escherichia coli}
+Probab=21.17  E-value=3.5e+02  Score=18.70  Aligned_cols=34  Identities=26%  Similarity=0.270  Sum_probs=0.0  Template_Neff=4.700
+
+Q ss_pred             HHHHHHHHcCCCccee---eCCHHHHHHHHHHhcccc
+Q FD01543133_034   26 RLAVEAIGSGKNTNFR---VASEKDAIDLISQGRGRM   59 (119)
+Q Consensus        26 k~Av~~ik~ggk~Nfr---v~~~~dA~~LL~earg~m   59 (119)
+                      +...++|+.+.+-||+   +.+.++|++++.+-|.-+
+T Consensus        17 ~~~~k~leead~~~~~g~t~~~~~~~~~~~e~~~~~~   53 (53)
+T 7T2F_B           17 EDLKQALREGRKVNILGIEVTTEEQARRLIEFLRRFI   53 (53)
+T ss_dssp             HHHHHHHHTTCCEEETTEEECSHHHHHHHHHHHTTCC
+T ss_pred             HHHHHHHHhhcceeeecceeCCHHHHHHHHHHHHhhC
+
+
+No 26
+>4LBH_A 5-chloro-2-hydroxyhydroquinone dehydrochlorinase (TftG); LYASE; 1.75A {Burkholderia cepacia} SCOP: d.58.4.0
+Probab=20.75  E-value=1.7e+02  Score=19.35  Aligned_cols=15  Identities=7%  Similarity=0.171  Sum_probs=0.0  Template_Neff=10.000
+
+Q ss_pred             eeeCCHHHHHHHHHH
+Q FD01543133_034   40 FRVASEKDAIDLISQ   54 (119)
+Q Consensus        40 frv~~~~dA~~LL~e   54 (119)
+                      |+++|.++|++++++
+T Consensus        60 ~~~~s~~~a~~~~~~   74 (100)
+T 4LBH_A           60 MEAESWDEVHSFVEN   74 (100)
+T ss_dssp             EECSSHHHHHHHHHT
+T ss_pred             EEcCCHHHHHHHHHc
+
+
+No 27
+>PF03795.18 ; YCII ; YCII-related domain
+Probab=20.45  E-value=1.9e+02  Score=18.11  Aligned_cols=15  Identities=7%  Similarity=0.056  Sum_probs=0.0  Template_Neff=10.700
+
+Q ss_pred             eeeCCHHHHHHHHHH
+Q FD01543133_034   40 FRVASEKDAIDLISQ   54 (119)
+Q Consensus        40 frv~~~~dA~~LL~e   54 (119)
+                      ++++|.++|.+++++
+T Consensus        56 ~~a~s~eea~~~~~~   70 (88)
+T Q9AJZ7_STRCO/1   56 LDLPDPAAARTFAFD   70 (88)
+T ss_pred             EEcCCHHHHHHHHhh
+
+
+No 28
+>PF21201.1 ; Tertiapin ; Tertiapin
+Probab=20.13  E-value=51  Score=19.27  Aligned_cols=7  Identities=71%  Similarity=1.607  Sum_probs=0.0  Template_Neff=1.000
+
+Q ss_pred             CCcceee
+Q FD01543133_034   97 IPHVKWK  103 (119)
+Q Consensus        97 lpHIKWk  103 (119)
+                      +||..|+
+T Consensus        10 iphmcwk   16 (21)
+T TERT_APIME/1-2   10 IPHMCWK   16 (21)
+T ss_pred             echhhhh
+
+
+No 29
+>7DG5_D Structural maintenance of chromosomes protein 3; cohesin, Smc1, Smc3, hinge, DNA BINDING PROTEIN; 2.0A {Mus musculus}
+Probab=20.07  E-value=4.7e+02  Score=18.64  Aligned_cols=31  Identities=13%  Similarity=0.145  Sum_probs=0.0  Template_Neff=11.700
+
+Q ss_pred             HHHHHHHHHHHcCCCcceeeCCHHHHHHHHH
+Q FD01543133_034   23 KEWRLAVEAIGSGKNTNFRVASEKDAIDLIS   53 (119)
+Q Consensus        23 k~Wk~Av~~ik~ggk~Nfrv~~~~dA~~LL~   53 (119)
+                      +.|..|++.+-...-..+.|.+.++|..++.
+T Consensus        61 ~~~~~a~e~~lg~~l~~~vv~~~~~~~~~~~   91 (213)
+T 7DG5_D           61 PAFYTCVEVTAGNRLFYHIVDSDEVSTKILM   91 (213)
+T ss_dssp             GGGHHHHHHHHGGGGGCEEESCHHHHHHHHH
+T ss_pred             HHHHHHHHHHhcccceEEEeCCHHHHHHHHH
+
+

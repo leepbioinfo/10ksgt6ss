@@ -1,0 +1,69 @@
+Query         FD01543233_04014 type IV secretion protein Rhs
+Match_columns 115
+No_of_seqs    100 out of 103
+Neff          4.76345
+Searched_HMMs 86581
+Date          Tue Feb 27 19:23:20 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/6906268.hhr -oa3m ../results/6906268.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 PF09143.14 ; AvrPphF-ORF-2 ; A  31.7 1.9E+02  0.0021   23.6   4.4   40   54-93    125-165 (176)
+  2 1S21_A ORF2; PREDOMINANTLY BET  31.3   2E+02  0.0023   24.0   4.7   57   35-93    137-194 (206)
+  3 7LDF_A Minimal thioredoxin fol  28.8 3.1E+02  0.0036   19.3   4.5   35   64-104    18-59  (71)
+  4 1IYC_A scarabaecin; antifungal  22.2 1.3E+02  0.0015   18.6   1.6   16    1-16      4-19  (36)
+
+No 1
+>PF09143.14 ; AvrPphF-ORF-2 ; AvrPphF-ORF-2
+Probab=31.69  E-value=1.9e+02  Score=23.65  Aligned_cols=40  Identities=18%  Similarity=0.198  Sum_probs=0.0  Template_Neff=5.600
+
+Q ss_pred             CCCceEEEeHHHHHHcCCEEEeCCCcCCCCCCC-cccceEE
+Q FD01543233_040   54 PNGQVGVATVGEIEKAGGTITLDGKLNSPNGRM-IMNHATV   93 (115)
+Q Consensus        54 p~~qigvTTvG~IR~aGg~Vv~~P~~~~~~~~~-np~Hatv   93 (115)
+                      ++.-.-..++||++++||+|-+|-+.....+.. ++.=+||
+T Consensus       125 ~~~v~V~~~LgD~L~~GGkVY~D~Sa~~~~~~~~~alIVTL  165 (176)
+T Q88A90_PSESM/2  125 DNQVSVKMRLGDFLERGGKVYADASSVADDGETSQALIVTL  165 (176)
+T ss_pred             CCeEEEEEEhHHHHHcCCEEEccccccCCCCCCceEEEEEe
+
+
+No 2
+>1S21_A ORF2; PREDOMINANTLY BETA-STRAND, CHAPERONE; 2.0A {Pseudomonas syringae pv. phaseolicola} SCOP: d.166.1.4
+Probab=31.35  E-value=2e+02  Score=23.99  Aligned_cols=57  Identities=14%  Similarity=0.120  Sum_probs=0.0  Template_Neff=5.700
+
+Q ss_pred             eEEEEeCCCCCHHHHccCCCCCceEEEeHHHHHHcCCEEEeCCCcCCCCCCC-cccceEE
+Q FD01543233_040   35 GISTQAKPGATIDVLAKPIPNGQVGVATVGEIEKAGGTITLDGKLNSPNGRM-IMNHATV   93 (115)
+Q Consensus        35 GvSv~sa~g~sv~eLa~~ip~~qigvTTvG~IR~aGg~Vv~~P~~~~~~~~~-np~Hatv   93 (115)
+                      .|.+-...-......+.  ++.-.-..++||++++||+|-+|-+.....+.. ++.=+||
+T Consensus       137 NVm~g~~a~~~~~~Y~~--~~~v~V~~~LgD~l~~GGkVY~D~sa~~~~~~~~~alIVTL  194 (206)
+T 1S21_A          137 NVMAGQGALSALRGYAG--SDHVTTEMRLGDFLDQGGKVYSDTSAMSAGGDSVEALIVTL  194 (206)
+T ss_dssp             EEEESTTTTTC----------CEEEEEEHHHHHTTTCCEEEBC-----CCSSCEEEEEEC
+T ss_pred             EEEEcchhHHHHhhcCC--CCeEEEEEEHHHHHHcCCEEEeecccccCCCCCcceEEEEc
+
+
+No 3
+>7LDF_A Minimal thioredoxin fold protein, ems_thioM_802; de novo designed, DE NOVO PROTEIN; NMR {synthetic construct}
+Probab=28.83  E-value=3.1e+02  Score=19.29  Aligned_cols=35  Identities=26%  Similarity=0.288  Sum_probs=0.0  Template_Neff=1.000
+
+Q ss_pred             HHHHHcCCEEEeCCCcCCCCCCCcccceEEec-------CCHHHHHHH
+Q FD01543233_040   64 GEIEKAGGTITLDGKLNSPNGRMIMNHATVDG-------LTAQQAQDL  104 (115)
+Q Consensus        64 G~IR~aGg~Vv~~P~~~~~~~~~np~Hatv~~-------~t~~~~~~l  104 (115)
+                      .||.++|++|..--.      +.|...+|++.       ..|+|+-+.
+T Consensus        18 reikkagwkvevhkh------psntsqvtvtkgnkqwtfkdpkqavef   59 (71)
+T 7LDF_A           18 REIKKAGWKVEVHKH------PSNTSQVTVTKGNKQWTFKDPKQAVEF   59 (71)
+T ss_dssp             HHHHHHTCCEEEECC------SSCCEEEEEEETTEEEEESSHHHHHHH
+T ss_pred             HHHHHcCcEEEEEeC------CCCcceeEEecCCeEeeeCCHHHHHHH
+
+
+No 4
+>1IYC_A scarabaecin; antifungal peptide, antimicrobial peptide, beetle, chitin-binding, ANTIFUNGAL PROTEIN; NMR {N/A} SCOP: g.31.1.2
+Probab=22.17  E-value=1.3e+02  Score=18.59  Aligned_cols=16  Identities=19%  Similarity=0.297  Sum_probs=0.0  Template_Neff=1.000
+
+Q ss_pred             CCCcccEEEcCCCCCh
+Q FD01543233_040    1 ILADTDIVCRAGTCNA   16 (115)
+Q Consensus         1 ~lpD~a~VvRGG~~~p   16 (115)
+                      +||||.+.+|.-.+-|
+T Consensus         4 klpddkvlirsrsncp   19 (36)
+T 1IYC_A            4 KLPDDKVLIRSRSNCP   19 (36)
+T ss_dssp             CCCSSSCCCTTTSCCC
+T ss_pred             CCCCCcEEEEccccCC
+
+

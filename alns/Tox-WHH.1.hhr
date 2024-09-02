@@ -1,0 +1,127 @@
+Query         FD01543195_01066 type IV secretion protein Rhs
+Match_columns 91
+No_of_seqs    122 out of 403
+Neff          5.62729
+Searched_HMMs 86581
+Date          Mon Feb 26 20:36:49 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/8111521.hhr -oa3m ../results/8111521.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 8H8B_A Putative Rhs-family pro  99.3 2.5E-11 2.9E-16  104.2   7.2   74    2-91   1304-1382(1402)
+  2 8H8C_C C-terminal peptide from  98.7 1.2E-07 1.4E-12   67.8   5.9   55   27-90    169-223 (250)
+  3 PF14414.10 ; WHH ; A nuclease   97.7 0.00018 2.1E-09   34.4   3.5    1   57-57     12-12  (43)
+  4 8BD1_A Type IV secretion prote  95.7    0.12 1.4E-06   31.9   6.2   75    1-91     35-114 (134)
+  5 PF12639.11 ; Colicin-DNase ; D  94.4    0.16 1.8E-06   26.9   3.5   34   47-86     64-97  (97)
+  6 5XGG_F Unconventional myosin I  31.0      31 0.00036   15.9   0.1    6   54-59     60-65  (66)
+  7 7VRX_C Aminotransferase; auxin  22.5 2.6E+02  0.0031   21.0   3.6   35   24-60    361-402 (404)
+
+No 1
+>8H8B_A Putative Rhs-family protein; T6SS, Rhs proteins, polymorphic toxins, TOXIN;{Vibrio parahaemolyticus serotype O3:K6 (strain RIMD 2210633)}
+Probab=99.25  E-value=2.5e-11  Score=104.18  Aligned_cols=74  Identities=34%  Similarity=0.544  Sum_probs=0.0  Template_Neff=10.800
+
+Q ss_pred             CCccCCCCCcccccCCCCCCCeEEe-eecCChHHHHHHHHHHHHhccCCCCCCcceeecCCCCCCCCCCEEEEEcHHHh-
+Q FD01543195_010    2 GGGLDYSDSNALYNKRPGVNPVVTI-EYSGDYLKDFERANTAAKLNQKSTPRGYVWHHLDDYDPVTNKGTMQLIKQGAH-   79 (91)
+Q Consensus         2 ~G~PdF~~~~~~~~~~~~~~~~v~I-~~~g~r~~df~~An~~~gl~~~~~p~gytWHH~~d~~~~~~~~tMqLV~~~~H-   79 (91)
+                      +|+|+|.  ++   ..   .. +++ .+.+++..||..|+.+.+. ....|.+|||||+++      +++||||++.|| 
+T Consensus      1304 ~g~p~f~--~~---~~---~~-~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~twhh~~~------~g~m~lv~~~ih~ 1367 (1402)
+T 8H8B_A         1304 DGFPDFT--PY---SK---KT-VRVIGLTGDMANDVPLAMARAKI-TKYDKSKYVWHHHQD------GKTMMLIPKSVHS 1367 (1402)
+T ss_dssp             --------------------------------------------------------------------------------
+T ss_pred             CCCCCCc--cc---cC---Cc-ceEeccCCChhhhHHHHHHHhcc-ccCCcccceeEEcCC------CCeEEEcchHHHh
+Confidence            5789999  66   44   44 555 5688889999999998222 234689999999999      999999999999 
+
+
+Q ss_pred             ---ccCCcCCchhcC
+Q FD01543195_010   80 ---QGISHSGGVSQY   91 (91)
+Q Consensus        80 ---~~~~H~GG~~~~   91 (91)
+                         ..+.|.||+++|
+T Consensus      1368 ~~~~~~~h~Gg~~~~ 1382 (1402)
+T 8H8B_A         1368 VRNGGVAATGGRSVI 1382 (1402)
+T ss_dssp             ---------------
+T ss_pred             hccCCCCCcchhHHc
+Confidence               889999999987
+
+
+No 2
+>8H8C_C C-terminal peptide from Putative Rhs-family protein; T6SS, Rhs proteins, polymorphic toxins, TOXIN;{Vibrio parahaemolyticus serotype O3:K6 (strain RIMD 2210633)}
+Probab=98.66  E-value=1.2e-07  Score=67.83  Aligned_cols=55  Identities=38%  Similarity=0.605  Sum_probs=0.0  Template_Neff=10.600
+
+Q ss_pred             eecCChHHHHHHHHHHHHhccCCCCCCcceeecCCCCCCCCCCEEEEEcHHHhccCCcCCchhc
+Q FD01543195_010   27 EYSGDYLKDFERANTAAKLNQKSTPRGYVWHHLDDYDPVTNKGTMQLIKQGAHQGISHSGGVSQ   90 (91)
+Q Consensus        27 ~~~g~r~~df~~An~~~gl~~~~~p~gytWHH~~d~~~~~~~~tMqLV~~~~H~~~~H~GG~~~   90 (91)
+                      .+.+.+..++..+...... ....+.+++|||..+      .++|++|+..+|.  .|.||...
+T Consensus       169 ~~~g~~~~~~~~~~~~~~~-~~~~~~~~t~hh~~~------~~~~qlv~~~i~~--~~~gg~~~  223 (250)
+T 8H8C_C          169 GLTGDMANDVPLAMARAKI-TKYDKSKYVWHHHQD------GKTMMLIPKSVHS--VRNGGVAA  223 (250)
+T ss_dssp             ----------------------------------------------------------------
+T ss_pred             cCCCCccccHHHHHHHHhh-hcCCccccceEEcCC------CCeEEEecHHHhc--ccCCccch
+Confidence            3345555566555555433 345678899999999      9999999999997  67777654
+
+
+No 3
+>PF14414.10 ; WHH ; A nuclease of the HNH/ENDO VII superfamily with conserved WHH
+Probab=97.65  E-value=0.00018  Score=34.36  Aligned_cols=1  Identities=0%  Similarity=0.000  Sum_probs=0.0  Template_Neff=13.400
+
+No 4
+>8BD1_A Type IV secretion protein Rhs; Vibrio parahaemolyticus, Type-VI secretion system effector, Rhs toxin, WHH domain, TOXIN; 1.26A {Vibrio parahaemolyticus}
+Probab=95.73  E-value=0.12  Score=31.92  Aligned_cols=75  Identities=35%  Similarity=0.538  Sum_probs=0.0  Template_Neff=12.300
+
+Q ss_pred             CCCccCCCCCcccccCCCCCCCeEEe-eecCChHHHHHHHHHHHHhccCCCCCCcceeecCCCCCCCCCCEEEEEcHHHh
+Q FD01543195_010    1 SGGGLDYSDSNALYNKRPGVNPVVTI-EYSGDYLKDFERANTAAKLNQKSTPRGYVWHHLDDYDPVTNKGTMQLIKQGAH   79 (91)
+Q Consensus         1 ~~G~PdF~~~~~~~~~~~~~~~~v~I-~~~g~r~~df~~An~~~gl~~~~~p~gytWHH~~d~~~~~~~~tMqLV~~~~H   79 (91)
+                      .+|.|.+.  .+   ..   .. +.+ .....+..++..+....++ ....+.+++||+...      ...+++++..++
+T Consensus        35 ~~g~~~~~--~~---~~---~~-~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~------~~~~~~~~~~~~   98 (134)
+T 8BD1_A           35 SDGFPDFT--PY---SK---KT-VRVIGLTGDMANDVPLAMARAKI-TKYDKSKYVWHHHQD------GKTMMLIPKSVH   98 (134)
+T ss_dssp             TTSCBCCT--TT---CS---CE-EECTTCCSCHHHHHHHHHHHHTC-SCCCTTTEEEEECTT------SSEEEEEEHHHH
+T ss_pred             CCCccCCC--cc---ce---ee-eecccCCCChhhCHHHHHHHhCC-CCCCccCCeeEEcCC------CCeEEEeeHHHH
+
+
+Q ss_pred             cc----CCcCCchhcC
+Q FD01543195_010   80 QG----ISHSGGVSQY   91 (91)
+Q Consensus        80 ~~----~~H~GG~~~~   91 (91)
+                      ..    +.+.||...+
+T Consensus        99 ~~~~~~~~~~g~~~~~  114 (134)
+T 8BD1_A           99 SVRNGGVAHTGGRSVI  114 (134)
+T ss_dssp             CGGGTCCCCCCHHHHH
+T ss_pred             ccccCCCCCcchHHhh
+
+
+No 5
+>PF12639.11 ; Colicin-DNase ; DNase/tRNase domain of colicin-like bacteriocin
+Probab=94.40  E-value=0.16  Score=26.94  Aligned_cols=34  Identities=38%  Similarity=0.869  Sum_probs=0.0  Template_Neff=14.500
+
+Q ss_pred             cCCCCCCcceeecCCCCCCCCCCEEEEEcHHHhccCCcCC
+Q FD01543195_010   47 QKSTPRGYVWHHLDDYDPVTNKGTMQLIKQGAHQGISHSG   86 (91)
+Q Consensus        47 ~~~~p~gytWHH~~d~~~~~~~~tMqLV~~~~H~~~~H~G   86 (91)
+                      ....+.+++|||..+      .+.+++++..++..+.|.|
+T Consensus        64 ~~~~~~~~~~~~~~~------~~~~~~~~~~~~~~~~~~g   97 (97)
+T Q3IK23_PSET1/9   64 NGDKPEGFTWHHHQE------TGAMQLIDTEIHDKTGHTG   97 (97)
+T ss_pred             cCCCCCCcceEeCCC------CCeEEEccHHHHHhcCCCC
+
+
+No 6
+>5XGG_F Unconventional myosin IB; SH3, MyosinI, Entamoeba histolytica, EhMySH3, CONTRACTILE PROTEIN; HET: SO4; 1.72A {Entamoeba histolytica} SCOP: b.34.2.0, l.1.1.1
+Probab=31.05  E-value=31  Score=15.86  Aligned_cols=6  Identities=33%  Similarity=0.257  Sum_probs=0.0  Template_Neff=14.800
+
+Q ss_pred             cceeec
+Q FD01543195_010   54 YVWHHL   59 (91)
+Q Consensus        54 ytWHH~   59 (91)
+                      ++|||+
+T Consensus        60 ~~~~~~   65 (66)
+T 5XGG_F           60 EHHHHH   65 (66)
+T ss_dssp             ------
+T ss_pred             ccccCC
+
+
+No 7
+>7VRX_C Aminotransferase; auxin homeostasis, indole-3-pyruvic acid aminotransferase, substrate specificity, TRANSFERASE; HET: SO4, LLP; 1.96634676226A {Solanum melongena}
+Probab=22.48  E-value=2.6e+02  Score=21.03  Aligned_cols=35  Identities=23%  Similarity=0.240  Sum_probs=0.0  Template_Neff=12.100
+
+Q ss_pred             EEeeecCChHHHHHHHHHHHHhc-------cCCCCCCcceeecC
+Q FD01543195_010   24 VTIEYSGDYLKDFERANTAAKLN-------QKSTPRGYVWHHLD   60 (91)
+Q Consensus        24 v~I~~~g~r~~df~~An~~~gl~-------~~~~p~gytWHH~~   60 (91)
+                      ++|.+......+++.+-+.  |.       ....+..+-|||+.
+T Consensus       361 iRi~~~~~~~~~~~~~~~~--l~~~~~~~~~~~~~~~~~~~~~~  402 (404)
+T 7VRX_C          361 VRVSFGGLIEKDCRAAAER--LRKGLEELVNSGMASLEHHHHHH  402 (404)
+T ss_dssp             EEEECSSCSSCTTTTTCCC--C----------------------
+T ss_pred             EEEEecCCCHHHHHHHHHH--HHHHHHHHHccCCCCccCCCCCC
+
+

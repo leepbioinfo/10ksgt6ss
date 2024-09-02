@@ -1,0 +1,954 @@
+>FD01543125_04688 LysM domain-containing protein
+LMLGK-NVIYWNEIIRASERSGIIPQSIAAVIHSEAAKYRG-------------------
+---------------------------GVWKPTSVCKNSKK-------------STKENT
+VYKSSAAGMTQFLNGTWMTETLRDG-----TYLYEKATEQ-G----LVAD----KPLLNK
+-KGEVVKNKKG--------------EVVNEKKFQVSTDK-----------WKNLKELTNG
+RYITGITPYPVHATAEIQQWLNLRFKPEYAIMAAVDYGVANLASLKMA----G------Y
+NIDGL-NDAEKAKLIYLTHHLGLSDAIHF--IK-NNITEG---------K----------
+--------------AKELLIAQV------GDESA----------ISKAK-KNGG-YMKAH
+RKWLID-YIDDNIKIV
+>KHP97590.1 hypothetical protein QS27_22585 [Salmonella enterica subsp. enterica serovar Livingstone]
+LMLGK-NVIYWNEIIRASERSGIIPQSIAAVIHSEAAKYRG-------------------
+---------------------------GVWKPTSVCKDSKK-------------STKENT
+VYKSSAAGMTQFLNGTWMTETLRDG-----TYLYEKASEQ-G----LVAD----RPLLNK
+-NGVVVKNKKD--------------EIVYEKKFQVSTDK-----------WKNLKELTNG
+RYITGITPYPVHATAEIQQWLNLRFKPEYAIMAAVDYGVANLASLKMA----G------Y
+NIDGL-NDAEKAKLIYLTHHLGLSDAIHF--IK-NNITEG---------K----------
+--------------AKELLIAQV------GDESA----------ISKAK-KNGG-YMKAH
+RKWLID-YIDDNIKIV
+>EIB0447361.1 peptidoglycan-binding protein [Salmonella enterica]
+--LGK-NVIYWNEIIRASERSGIIPQSIAAVIHSEAAKYRG-------------------
+---------------------------GVWKPTSVCKDSKK-------------STKENT
+VYKSSAAGMTQFLNGTWMTETLRDG-----TYLYEKATEQ-G----LVAD----KPLLNK
+-KGEVVKNKKG--------------EVVNEKKFQVSTDK-----------WKNLKELTNG
+RYITGITPYPVHATAEIQQWLNLRFKPEYAIMAAVDYGVANLASLKMA----G------Y
+NIDGL-NDAEKAKLI---------------------------------------------
+------------------------------------------------------------
+----------------
+>WP_101827038.1 LysM peptidoglycan-binding domain-containing protein [Chimaeribacter coloradensis]
+LSLGK-NFIYWNEIIAASERSGFIPQSIAAVINAEAAKHKG-------------------
+---------------------------GIWNPDSVCLSSERIKAEKARRRELGLPTDDVA
+FYKSSAAGMTQFLNGTWMDETLREG-----TFLYEKAKAS-G----LVAF----MPKQDS
+-SGEVVTELSG--------------RPVLETKFQVSLDL-----------WKSSKELKRE
+GYLDGGTPYPPKATYALKTWLDKRFVAEYAIMAAVDYGVHNLEALEKA----G------Y
+RIAAL-DDAEKAKLIYLTHHLGLTDTIRF--IK-GTITEE---------A----------
+--------------AKRLLIAQV------GAGKA----------KEYAEINNRS-YSAGH
+REWLLS-FIDDYIKVH
+>WP_088902959.1 hypothetical protein [Citrobacter freundii]
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------KKAIKQ-G----LVAD----MPLLNK
+-KGETVKDKKG--------------EVVYEKKLQVSTDK-----------WKNLEELKKG
+RYITGITPYPSHATADVQQWLNLRFKPEYAIMAAVDYGVENLASLKKA----G------Y
+KIDGL-NDAEKAKIIYLTHHLGLSDAKRF--IN-NKITEG---------S----------
+--------------AKELLTAQV------GAESA----------ISKAH-KNGG-YMKAH
+RKWLMN-YIDGNIKLS
+>EHJ6287579.1 hypothetical protein [Salmonella enterica]
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---TGITPYPVHATAEIQQWLNLRFKPEYAIMAAVDYGVENLASLKRA----G------Y
+NIDGL-NDAEKAKLIYLTHHLGLSDAIHF--IK-NNITED---------N----------
+--------------AKKLLIAQV------GNESA----------ISKAK-KNGG-YMKAH
+RKWLID-YIDDNIKIV
+>WP_007372568.1 hypothetical protein [Kosakonia radicincitans]
+LQLGA-NLCYWDQIIAASERSGIIPQSIAAVINAESAQIK--------------------
+---------------------------GVWNKDSVAISREKTKAAKALKEKQGESAEGVV
+VYASSAAGMTQFLNATWLDETFREG-----TYLNEQARVR-G----VLAD----KPKRDA
+LNNIEYHPKTH--------------QQIILPMFEISPDI-----------WWTKEQIIDN
+RLLRGVTPYPPHATKALQAWLNLRFEPEFIIMAAVDYGLYNLAKLQAA----G------Y
+NVESL-NDAEKAKIFYLTHHLGLGDAKRF--IR-KTITEE---------N----------
+--------------AHKLLVAQV------GAKKA----------AKSVK-GYGS-YVQGH
+RVWLSD-YINNNINLQ
+>WP_161046242.1 LysM peptidoglycan-binding domain-containing protein [Duganella margarita]
+LRLGP-NAKYRDVIIAAGKRSGFTPQSIAAIMNAEAATITNV-TYIPVIDRK--------
+-TKKPVLGKDGKPKTKKL-TENT----GEWDPRSAS------------------------
+-SKSSARGMTQFLDASWVDMALNDG-----TFLNERAKKE-G----WITT----QKS---
+---TVIKKKQP--------------VEVETPAFKRADGK-LVTKTKD---TALVRILSSK
+PYITG---RATASDANLQKLLDLRYVAEYAINTAVDYGLQNLKGLKDD----D------F
+KLDGL-SDGDKAKLIYLTHHLGLSDAKKF--IR-NTITSD---------T----------
+--------------AKVLLTAQV------GADRA----------AEYAADNGND-YVKGH
+RSWLLN-FVDKKINIT
+>WP_161027470.1 LysM peptidoglycan-binding domain-containing protein [Massilia guangdongensis]
+LRLDA-NFKYREIILAASKRSGICPQAIAAIMNAEAATIRTV-EKVPVIDRK--------
+-TKTQKIGKDGKPKFITK-DRSN----GEWDANSAS------------------------
+-PNSSARGMTQFVDGSWIDQATISG-----TYLNARAVKE-G----WITE----TTL---
+---TQKIGKKV--------------KTKSVKAFRLANGN-LVTGSAK---RTLAQTLNTR
+EYFRD---RAVAKDSNLQSLMDLRFQPDFAIQTAVDYGVQNLAGLAER----G------I
+RTSHL-SDAEKAKMIYLTHHLGLDDAIAF--IK-RRMTAA---------R----------
+--------------AEELLIAQL------KEDGA----------KKAAEKLGGD-YLAAH
+REWLQR-YVDSRIQLN
+>WP_147212826.1 peptidoglycan-binding protein [Xanthomonas oryzae]
+LRLDR-NFKYRDIIIAAGKRSGFIPQAIAAVMNAEAATITEV-TERAILGKD--------
+-KKPIIDQKTGKPKTRKI-RKNY----GEWDTRSAS------------------------
+-PASSARGMTQFLDGSWIDNATTEG-----TRLNEKAKKN-G----WLTT----KAI---
+------KDKKG--------------NESEIPAFLLEDEK-LVTAAKG---GTLARTLSRK
+PYLTG---CATASDANLQALLDMRFDAESAIDAAVDYGLINLQGLKDA----G------Y
+DLSEL-NDGERAKIIYLCHHLGLADAKRF--IQ-KTISES---------S----------
+--------------AKKLLITQV------GAASA----------KEYADNADGT-YVQGH
+RAWLNG-FENKRIILT
+>WP_214187607.1 LysM peptidoglycan-binding domain-containing protein [Geobacter hydrogenophilus]
+LWLGP-NFKYRDIILAASKRSGFLPQAIAALLDAESATIKRE-IEKPVLDKS--------
+-GKPVIDPKTGRPKTRKR-TEET----GEWAANSRN------------------------
+-KNSSARGVSQFLDGTWIGQALTKG-----TFLNARTKEK-G----WLTT----ATI---
+-----KGNGRT--------------ALKVVPAFSLANGM-LVTK------SPLHKTLSSK
+PYVTG---KAMASDANLQKLLDLRFDVECAIHAAVDYGKQNLESLSEE----G------Y
+RISGL-SDGEKAKIMYLCHHLGAGDARKF--IN-DTMTAR---------R----------
+--------------AQHLLVQQV------GEVSA----------EEKAMDAGDD-YLRAH
+REWLAN-FIDKKIRIT
+>PWF40981.1 LysM peptidoglycan-binding domain-containing protein [Massilia glaciei]
+LKLGT-NFKYRDIIIAAGKRSGFSPQAIAAIMNAEAATLTVI-EYIPKINKK--------
+-TKLPILGKDGKVLMKKL-LRND----GEWDVNSAS------------------------
+-PASSARGMTQFLDGSWIAQAVIDG-----SFVNSRAKKE-G----WLTI----RKI---
+---AVKQKKNS--------------VEKQVIEFKLTDGN-FVTATKK---HTLAQVLIAK
+-HLTS---RATSNDENLQKLLDLRYEAEYSIHAAVDYGTQNLDGLRDK----E------F
+RIDDL-NDGDKAKLVYLTHHLGLGDGKSF--IN-NTMGEA---------T----------
+--------------AKNLLITQI------GDEAA----------AIRAANEGGE-YVKAH
+RKWLFG-FIDMKIDLP
+>WP_153099828.1 LysM peptidoglycan-binding domain-containing protein [Paraburkholderia hayleyella]
+LRLGS-NYKYRDYVIGAAKRAGITPQCVASIMNAEAKKLTTP-QTKPVFSK---------
+--GKAVLNSDGTPKMKTI-RIST----GEWDGKSAA------------------------
+-TSSSARGMTQFLDGTWIGLAVKPG-----TFLYQKLVGK-G----LVSM----DGG---
+-----------------------------ITKFKLADRT-YISAKSQ----------LLL
+KYVHG---KATSSDANVQSVLDMRFDAESAIYTAVDYGIENLSSLRAS----G------F
+PVDEL-SDADKAKVIYLAHHLGPKDAPAF--IK-NEISSN---------Y----------
+--------------AKYLLTLQV------GPTLA----------ARFAEDNSGN-YTKGH
+RDWLNG-FVNGHIIIK
+>WP_082577363.1 MULTISPECIES: LysM peptidoglycan-binding domain-containing protein [unclassified Massilia]
+LRLEA-NHKYREIILGASRRSKLSPHAIAAIMNAEAARIINV-KKLPVIDKK--------
+-TGKQKTDAHGTPVFIKQ-TYDT----GEWDPRSEN------------------------
+-PRSSARGMTQFLDATWISLALTKG-----TFLYERAKRE-G----WITE----KTK---
+---TVLRGKDK--------------LEKTYPQFNLADGT-VITSAPK---SSLDRLLSSR
+RFIQK---WATSSDKNIQNLLDLRYDPECAINTAVDYGLQNLEILKSK----G------V
+KVDSI-PDGEKAKVIYLTHHLGADDAISF--IY-NTMSAK---------K----------
+--------------AELLLRTQV------KDEGA----------EIRAKRAGGD-YLKAH
+RNWLGE-FIDNKIIIF
+>MCK9384996.1 LysM peptidoglycan-binding domain-containing protein [Nevskia sp.]
+LKLGP-NNEYREWVRKAAQRAGLVPQAVAAVMNAEAAKDK--------------------
+----------------------N----NKWKVDSKS------------------------
+-KKSSATGMTQFLDATWVSEALRAG-----TYLNDKASRE-G----WLSS----DAK---
+----------------------------GHLQFKKADGS-YITQPNL--------QGKLI
+ALIKP---ARTAADSNLQKLLDLREQAEYAITAAMDYAKANLDGLRQR----G------Y
+AVDDL-NDTEKARIMYLCHHLGIGDAIRF--IQ-NTIPEE---------DVHI----EKK
+GKK-QLTQN----GAKKLLSAQV------GSTIA----------ENKYKKENDDSWVKGH
+RAWLDA-FIGNHIVTS
+>WP_162085379.1 LysM peptidoglycan-binding domain-containing protein [Sulfuriferula nivalis]
+LKLGS-NNPYRDWVKQAAKRTGVVPQAVAAVMNAEASKEK--------------------
+----------------------S----GKWKADSKS------------------------
+-KKSSATGMTQFLDGSWIGVAVSSG-----TYLNDKCKQV-G----WLSQ----DDK---
+----------------------------GAWRFKKADGT-YVTGSGL--------ERNLK
+KLLTG---ARTASDKNLQKLLDLRYEPEFAIMTAMDYAKANLNGLRTK----G------Y
+AIDGL-NDTEKARIMYLCHHLGLADAVHF--IQ-NTIPEE---------DVVV---TNKK
+GKK-VVKQN----GAEKLLTAQI------GKEGT----------KQWLKKASND-WINAH
+RLWLED-FMNRTIIPS
+>WP_155453470.1 LysM peptidoglycan-binding domain-containing protein [Massilia eburnea]
+LKLLA-NFKYRDIILTASKRSNICPQAIAAIMNAEAATIIVV-EQIPVINKK--------
+-SKKQEVGKDGKPKFKTK-KTST----GEWDPNSAS------------------------
+-PNSSARGMTQFLDGSWIDQATIKG-----TFLNEYATSQ-G----WITE----TTI---
+---SVKQGKKS--------------IDKKVAAFKLANGG-FVTPRKG---YSLAQTLNSD
+TYLNG---RATAKDANLQKLLDLRFKADFAIHTAVDYGTQNLKGLEER----G------I
+HTSSL-PDSEKAKMIYLTHHLGLGDAVEF--IR-RSMSPK---------K----------
+--------------AQHLYEQQV------GVKAA----------EEEADEFGGD-YVAAH
+RAWLQG-FIDNKIKIT
+>WP_061542004.1 LysM peptidoglycan-binding domain-containing protein [Collimonas fungivorans]
+LKLMQ-NFAYHDYIVAAATRAAMIPQAIAAIMNAEAATIFTI-EEIPVINKK--------
+-TKEPVLDKKGKPVVKKK-KINT----FVWDPNSAS------------------------
+-PNSSARGMTQFLDATWIEMALTDG-----TFLNARAKKE-G----WLTR----TTV---
+---TIKHKKSE--------------ETKEVPAFKLENGT-FVTPGK----ISIARQLSSK
+PHLTG---RATSSDGNLQKLLDLRLQAEYAIHTAVDYAMQNLAMLTKA----K------F
+KIDTL-NDGEKAKVAYLAHHLGPGDVKEF--IN-DTMTAE---------H----------
+--------------AEYLLKAQV------GKVNA----------AERAEENKNN-YLTAH
+RTWLNG-FINDRITII
+>TAM22609.1 MAG: LysM domain-containing protein, partial [Rhodanobacter sp.]
+LKLLT-NFKYRDIVIAAAQRSGFTPQAVAAIMRAEAATMRTV-VHLPVVDAK--------
+-GKPVIDKKTGKPKTRRL-VRDT----GQWDPHSAS------------------------
+-PLSSARGMTQFLDASWIDQALTGG-----TYLNAYVKQQ-K----WLTT----SILHWT
+---TTSKDKKG--------HAHTHKHERTVQAFVLANGTDIATATRT---RSLARVLSSR
+PYLTG---RATASDANLQTLLDLRFKPEFAIQTAVDYGMQNLKALSKA----G------Y
+AVDSL-DDADKSKIIYLCHHLGQGDAKDF--IQ-NTISSD---------H----------
+--------------AEHLLVTQV------GRARATIM--V----NQNKDEDKDN-YAIAH
+RRWLSD-FINKKIDVL
+>WP_156545773.1 hypothetical protein [Cupriavidus sp. D384]
+LRLGA-NDKYRKFIVQAAARAEILPHAVAAMINAEAAKIRLL-VERPVYFK---------
+--GKQKLKADGSPLTKKK-SIST----GEWDPRSAA------------------------
+-QRSSARGMCQFVDATWIGLAVAKS-----TFLHEKVMEL-G----LFKR----DAG---
+----------------------------GKLSFILESGK-----------SKPLTIAALR
+SHITK---SGTADDANIQAILDLRFDAEYAIQSMVDYSIQNEKSLIAK----N------Y
+LLKSL-NLSERAKLMYATHHLGPRNIIHY--IN-ETFSEK---------S----------
+--------------AKSLLIDQL------GEKRA----------RDFAEERDGD-FISAH
+RCWLND-YIEQKIVLK
+>MBP9014868.1 LysM peptidoglycan-binding domain-containing protein [Smithella sp.]
+LRLGIFNGKHRKIILEAARKADMQPQAIAALINAEAGKKVNL-VLKKVTGKD--------
+-GKPMIDKKTGKEKTVP--KRDT----TEWNERSKAQ-----------------------
+-GDSSATGMTQFLDSAWISMALTEG-----TFLNQWVRGK-G----WLTT----KMV---
+---EIEKKKEQKNPKTKKMETVTVKIEKIKPVFVLSNGS-LVFSKDDDLLSSLAKILSCK
+PYMAG---RRTASDKNLQELLDMRYDPEHAIHAAVDYAVSNIKGLDKA----G------Y
+PVNSL-NDAEKAKIMYLSHHLGPGDAMCF--IE-NTISEA---------K----------
+--------------AKILLTRQF-AANEKGRAEA----------ESRYQKAGND-WVKAH
+REWLKG-FVENNIQIT
+>KQY16278.1 hypothetical protein ASD28_22835 [Massilia sp. Root133]
+------------------------------------------------------------
+------------------------------------------------------------
+---------TQFLDATWISLALTKG-----TFLYERAKRE-G----WITE----KTK---
+---TVLRGKDK--------------LEKTYPQFNLADGT-VITSAPK---SSLDRLLSSR
+RFIQK---WATSSDKNIQNLLDLRYDPECAINTAVDYGLQNLEILKSK----G------V
+KVDSI-PDGEKAKVIYLTHHLGADDAISF--IY-NTMSAK---------K----------
+--------------AELLLRTQV------KDEGA----------EIRAKRAGGD-YLKAH
+RNWLGE-FIDNKIIIF
+>WP_237439005.1 MULTISPECIES: LysM peptidoglycan-binding domain-containing protein [unclassified Burkholderia]
+LRLGP-NSKFRDHILAASKKSNFKPQAVASVVNIEAAKLSVV-VEKKVKVK---------
+----------GKEKTKKV-RVST----GEWNPNSAA------------------------
+-SGSTARGLTQFLAGTWLGEAVRPG-----TFVNQKAEAN-G----WVKK----DAA---
+------------------------------------------------------------
+----G---RFSVVPEHKAELLALRMNAEAAIMAAVDYGMSNFKALEGG----G------Y
+DFSKL-NDGERAKMLYLSHHLGAGDAKRY--LA-GTIVAE---------DTYT---EAKP
+HRPPKLIAR----GAKTLLTAQV------GSAAA----------AKRAEENGGN-YVKAH
+RLWLSH-LIDTGVNFK
+>EDZ98585.1 Peptidoglycan-binding LysM [Burkholderia sp. H160]
+LSLGP-NYKYREYILEAATKSGFKPQAIAAVINTESAKKKTV-VTKTFKLK---------
+----------GKVVTKSL-SASL----GEWDPSSSN------------------------
+-PRSTAKGMTQFVDGTWLAEAERDG-----TFINQKALAN-G----WVAK----NAR---
+------------------------------------------------------------
+----G---NFSVLPHHKSDVLGLRMDAECAIKAAVDYGTNNFEKLASN----G------Y
+KFSEL-NDGERAKILYLCHHLGPGDAPRY--LA-ATIIAD---------NTYW---PEKP
+GQKPKVHRY----GAKALLEAQV------GAVDA----------ASRAKAHGGN-YVAAH
+RYWLSV-FIDDHIKFK
+>WP_115418443.1 peptidoglycan-binding protein [Erythrobacter aureus]
+---GP-NAIHAPALERAAQRSGIPSPALAAIVDAEAAKRP--------------------
+----------------------D----GAWNPHSRN------------------------
+-PRSSAAGLGQFLSGTWVDMAERPG-----TWLNEHAQSK-G----WLNA----KGE---
+------------------------------------------------------------
+-----------VTRANRSALLSLRYDPEASINTTADYARGNIDHLRRS----G------I
+RVGD--TPSEFARAAYLGHHLGPGDAVRF--LG-GGLSPS---------R----------
+--------------AETLLKAQI------GSRKA----------TNQIQ-STGC-AATAH
+RKWLNG-YISSHIQPD
+>WP_259278761.1 peptidoglycan-binding protein [Pedomonas mirosovicensis]
+LALEG-NAIYQPYLESASARTGLPAAMLASIVDAEAASH---------------------
+----------------------N----GVWDPGSRN------------------------
+-PRSSAAGLTQFLASTWESETERPG-----TFLNGVARER-G----WLDQ----NGR---
+------------------------------------------------------------
+-----------VLPAAREDLLALRFDPRSSIEAAADYARANLSALENQ----G------L
+VHDGL-PPEELAKRAYLAHHLGVGDAARF--LT-TGLDPS---------R----------
+--------------ARVLLASQI------GGNAA----------AHRIQ-AAGD-ATAAH
+RQWLTA-YVDRKIR--
+>WP_253201414.1 peptidoglycan-binding protein [Sphingomonas sp. XMGL2]
+---GA-NVDLARHLTAAAERTGIPSAVLASIVDAEAAKDA--------------------
+----------------------D----GRWRIFSRN------------------------
+-PRSSAAGLGQFLSGSWETLAERPG-----TWLNQLAEAN-G----WLNE----HGH---
+------------------------------------------------------------
+-----------VRGRSRSALLELRYDPQAAINGIADYARDNLDRLRAA----G------V
+AVDG--NAETTARAAYLGHHLGLGDAIRF--LK-DGIASG---------R----------
+--------------ARHLLDAQI------GHEAA----------NRKIA-AYGD-ASAAH
+RAWLLG-YIDRNVRPE
+>WP_236549108.1 peptidoglycan-binding protein [Novosphingobium sp. TCA1]
+----P-NARYAGILGSAASRTGIPAAALATIVNAEAAKGS--------------------
+----------------------D----GRWLPYSRN------------------------
+-PRSSAAGIGQFLNRTWEGQAEREG-----TWLHAFAQQS-G----WLNE----RGH---
+------------------------------------------------------------
+-----------VRSESRGALLALRYDPQASIETIADYARTNLASLRGS----G------V
+RIGE--GVVEQAQAAYLGHHLGLGDAVRF--LK-GGLSPD---------R----------
+--------------ARALLNAQV------GAASA----------NRRIE-MAGS-AVAAH
+RSWLLD-YVGRNIRPD
+>WP_106512112.1 peptidoglycan-binding protein [Sphingomonas deserti]
+---GP-NAQHQGSLERAAARTGIPTAALAAIVDAEAAKGR--------------------
+----------------------D----GSWKLYSRN------------------------
+-PRSSAAGLGQFLAGTWIGEAQRSG-----TWLNQVAKNR-G----WISD----SGK---
+------------------------------------------------------------
+-----------IAKGAQAELLALRYDGETSIHAIADYAKGNLDRLRRA----G------V
+DIGG--GVGKVAQAAYLGHHLGAGDAVKF--LK-GGLDNG---------R----------
+--------------AATLLRAQV------GAASA----------NARLA-QAGN-ATAAH
+RQWLLG-FVERHIRPE
+>WP_218640056.1 hypothetical protein, partial [Xanthomonas oryzae]
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------NN----KAI---
+------KDKKG--------------NESEIPAFLLEDEK-LVTAAKG---GTLARTLSRK
+PYLTG---CATASDANLQALLDMRFDAESAIDAAVDYGLINLQGLKDA----G------Y
+DLSEL-NDGERAKIIYLCHHLGLADAKRF--IQ-KTISES---------S----------
+--------------AKKLLITQV------GAASA----------KEYADNADGT-YVQGH
+RAWLNG-FENKRIILT
+>WP_184017348.1 peptidoglycan-binding protein [Sphingobium boeckii]
+---GV-NAGFTNILQASAVRTGIPAPALAAIVNAEAAKDE--------------------
+----------------------D----GRWRVYSRN------------------------
+-PRSSAAGLGQFLSGTWRGEAERSG-----TWLNSLCIAR-G----WVDG----RGK---
+------------------------------------------------------------
+-----------VIKEARSQLLALRYDPEASINAIADYAKGNLDRLRSA----G------V
+HVGQ--GLDDIAQAAYFGHHLGIGDAIKF--MK-GGLQAG---------R----------
+--------------ARRLLDAQI------GNGAA----------NRRIA-ETGD-AVSAH
+RNWLLG-FVGRNIRPA
+>WP_081629234.1 DUF2272 domain-containing protein [Methylopila sp. M107]
+LSLGV-NEQYRAAILKAEERTGIDGAALAALIDAEAAKNN--------------------
+----------------------Q----SVWKADSKA------------------------
+-STSSASGLTQFLDATWLAQATTAG-----SYLNETARWL-G----LVSA----DDK---
+------------------------------------------------------------
+-----------VV--GKSKLLKLRFDPEQSIVAAAEYGAANLKILAGK----G------L
+LEPGL-DDDGKAKLMYLAHHEGPGGAAKF--LK-NEISES---------K----------
+--------------SASLLKTQV------GQAKA----------TALTA-AAGS-AKKAY
+RAWLNG-YIETKIVPS
+>WP_056638453.1 hypothetical protein [Sphingomonas sp. Leaf231]
+-RTGS-SRPFGELIAAAATRTGIPPEALSALIDAEAAKDV--------------------
+----------------------N----GEWLPYSRN------------------------
+-PRSTAAGLGQFLNRTWLGEAQRSG-----TTLNAIAHAQ-G----WLTD----SGR---
+------------------------------------------------------------
+-----------IADSSRSAALAMRYDPRTSIDAIADLATSNIAAMRKA----G------L
+TLGD--TPRDLAKLIYLTHHLGTSDSIRF--LT-GRLDPD---------R----------
+--------------AGKLLAAQI------GSAAA----------DRRIS-QAGN-SVTAH
+QRWLLS-YLAENIRPE
+>WP_146329481.1 hypothetical protein [Noviherbaspirillum sp. UKPF54]
+LRLGR-NNIYRQAILDASKRLGLIPQALCALMDCEAGKVT---EHIPKLGPN--------
+--GEQLKDKNGKPLTTTI----R----ELWNANAGN------------------------
+-AQSGAAGLTQFLASTWLGHVLKPG-----LYIHDRSVAN-G----WVRKEVDAKGR---
+----------------------------PRCVFVLANGK-----------------TTTD
+PYLKC------RNDDNVKKCLAMRMDPTWSINAAADYGNANLKLLASQ----G------F
+KLASL-NDMDRAKLMYLMHHEGEGAGPLF--IR-NTLARG---------KGGIE------
+-------------GLRKKFATQLG---KDGRALA----------QELIDRADGD-VEIAY
+RNWLGH-YIDMQFSAA
+>WP_116469669.1 peptidoglycan-binding protein [Sphingomonas pokkalii]
+---GP-NARYHAALSEAGARSGIPASAIAAIVDAEAAKGG--------------------
+----------------------D----GSWNPLSRN------------------------
+-PRSSAAGLGQFLSGTWQTLAEQPG-----TWLNQIAQQR-G----WLTG----AGK---
+------------------------------------------------------------
+-----------VDPARRGELLALRYDPQASIQCIGDMARSNLHQLESA----G------L
+KVRA--DSETLAKAAYLSHHLGLADARRF--LD-GGIAPA---------R----------
+--------------ARQLLAAQI------GHAAA----------DQRIA-SAGD-AKTAH
+REWLLG-FIDRRIQPD
+>APR76957.1 Hypothetical protein A7982_02304 [Minicystis rosea]
+---GK-NKKFKPEILEASQRTGVPPHAIASMIDAEAAKKP--------------------
+----------------------N----GEWNPESKA------------------------
+-TTSSAMGLTQFLSGTWKQMALRPG-----TLLHQTALDA-G----YVRP----AGK---
+------------------------------------------------------------
+--------GFEVAPGKLDELLALRSDPRQSIVAGAEYAKGNLDDLAKA----G------L
+VTNAT-TADEKARLAYLAHHEGSAGAKDF--LR-GTLSEE---------R----------
+--------------AAQLLRTNA------GAKKA----------DELIA-ENGS-AKAAY
+QKWLNG-YMDKKIVPS
+>WP_246543927.1 peptidoglycan-binding protein [Novosphingobium profundi]
+LQGGP-NARYAPMLREAASRTGLPAAALATIVHAEAARGS--------------------
+----------------------D----GRWLAYSRN------------------------
+-PRSSAAGLGQFLNATWISEAERAG-----TWLNAQARER-G----WLDA----RGR---
+------------------------------------------------------------
+-----------VERGERGALLALRYDPQASIETTADFARANLDAFRRA----G------I
+QTGG--SVEDVARTAYLGHHLGRGDAIRF--LT-GNLNPE---------R----------
+--------------ARNLLDAQI------GSVAA----------ARRVA-LAGS-AVVAH
+RDWLMG-YVDRTIQPA
+>WP_231862611.1 peptidoglycan-binding protein [Sphingorhabdus sp. M41]
+AGLGP-NAQFAGAISDAARRTQIPAPALAAIVDAEASKHR--------------------
+----------------------D----GRWNIRSRN------------------------
+-PRSSAAGLGQFLAGTWIDMARTKG-----TWLNAKAQES-G----LVGA----NGK---
+------------------------------------------------------------
+-----------VQSGARAQLLALRYDGEAAIHTTADYAQHNLSRLRRA----G------A
+KVDD--SPETLARSAYLGHHLGLGDALRY--LR-GGIDEQ---------R----------
+--------------AQILLKAQV------GGDAA----------HRRIA-AAGN-ASLAH
+RNWLDG-YIDRNIRPD
+>PZU16814.1 MAG: peptidoglycan-binding protein [Citromicrobium sp.]
+AGLGP-NAALAPALNAAAERTGLAPSALAAIIDAEAGKHR--------------------
+----------------------D----GRWNTHSRN------------------------
+-PRSSAAGLGQFLAGTWLDLAARPG-----SWLAQRVREA-G----LTDG----AGR---
+------------------------------------------------------------
+-----------VLPQARARVLAMRYDPVASIESIADFARGNLDRLARS----G------A
+AIGA--GEEGQARAAYLAHHLGLGDALTF--LR-GGIGEG---------R----------
+--------------ARVLLAAQI------GSDAA----------ARRIA-ASGS-AAAAH
+REWLGS-YITRKIRPD
+>WP_037536890.1 hypothetical protein [Sphingomonas sp. RIT328]
+-------IGYAETIDAAASRTGLPASVLTAIIHAEAATDA--------------------
+----------------------G----GRWQTMSRN------------------------
+-PHSSAAGLGQFLTGTWISETERRG-----TWLHAAAEAR-G----WLDA----GGR---
+------------------------------------------------------------
+-----------LLASARSPLLALRYDGTAAIQAIADYAAHNLATLQDA----G------V
+AMNL--STPDLARGAYLGHHLGARDAIRF--LR-GQMDPS---------R----------
+--------------ARLLLSAQI------GSVAA----------ERRIA-ASGD-PVAAH
+RAWLTS-YIDRAVRTI
+>WP_167107172.1 peptidoglycan-binding protein [Sphingomonas oligoaromativorans]
+---GV-NASYAATLSAAAERTGLPPALLATIVQAEAATGP--------------------
+----------------------D----GRWLAYSRN------------------------
+-PRSSAAGLGQFLSGTWISEAERPG-----TWLRQIAGAQ-G----WLNG----HGR---
+------------------------------------------------------------
+-----------VASGARSALLQLRYDGDTAIQAVADYARSNLDQLRNA----G------V
+AIGT--SIESLAQNAYVGHHLGMSDAIRF--LK-GELSPD---------R----------
+--------------ARKLLKAQI------GAAAA----------EQRIA-EAGG-AARAH
+RIWLLG-YVARAIQPQ
+>MBC7583221.1 peptidoglycan-binding protein [Tardiphaga sp.]
+---GR-NAGYSTSIASAADRAGIPRAALASIIDAEAAKNR--------------------
+----------------------D----GSWQTMSRN------------------------
+-TRSTASGLGQFLSGTWKSEAERAG-----TWLNATARRN-G----WIGA----NGQ---
+------------------------------------------------------------
+-----------VLPDARATLLDLRNNAEASINATADYASHSLGRLAAA----G------V
+AIGT--TTSEIAHAAYLGHNLGIADAVRF--LR-GGLDEV---------R----------
+--------------ARRLLDAQI------GTSSA----------TRRIA-EAGG-ASAAH
+QGWLLG-FMARHIDAS
+>MBH0111915.1 peptidoglycan-binding protein [Novosphingobium aureum]
+LSAGP-NARYSGALGAAAQRTGLPAPALASIIDAEAAKGA--------------------
+----------------------D----GSWQAYSRN------------------------
+-ARSSAAGLGQFISSTWLGEARREG-----TWLNAMANER-G----WLDQ----RGR---
+------------------------------------------------------------
+-----------IRPGARSDLLALRYDPVASIEATADYARANLDGLRKA----G------V
+AVGS--SVEQLAHAAYLGHHLGQGDAVRF--YR-GEIGSD---------R----------
+--------------ARVLLNAQI------GTEKA----------SRRIA-AAGS-AVSAH
+RAWLLD-YVGRNVR--
+>WP_029050986.1 hypothetical protein [Ralstonia sp. 25mfcol4.1]
+------------------------------------------------------------
+------------------------------------------------------------
+---------SQFLAATWMGLAVAKD-----TFLHARAIER-G----IFST----DPK---
+----------------------------GQLIFTLTDGS-----------SSALTVENMK
+KILRK---QETARDANVLALLDLRFDAECAIQALADYAVKNARWIAGK----G------Y
+PIDAL-DSSDTVKLMYASHHLGGGDLLNY--IN-DAIEED---------R----------
+--------------AKELLVAQV------GKARA----------ELLAAAQEGE-YVAAQ
+RYWLND-YIEGKIVPK
+>WP_066779976.1 hypothetical protein [Sphingomonas sp. CCH5-D11]
+---GA-NARHLPALQRAAARTGLPATALAAIVNAEAGKGR--------------------
+----------------------D----GAWQCYSRN------------------------
+-PRSSAAGLGQFLSGTWEHMAESKG-----TWLNDVARAR-G----WLND----RGQ---
+------------------------------------------------------------
+-----------VMAGCRSQLLSLRYDAEASINSIADYARKNLDGLRRA----G------V
+ATGG--NAKDIAKAAYMGHHLGLGDAIKF--MK-DGLNPG---------R----------
+--------------AATLLNAQI------GRGKA----------GQQIA-AAGC-ATAAH
+RQWLLA-YVDRNVRPD
+>WP_129404168.1 peptidoglycan-binding protein [Sphingobium fluviale]
+----------GGMLDAASARTGIPAATLSAIIGAEAGRGP--------------------
+----------------------D----GAWNPHSRN------------------------
+-PRSSAAGLGQFLSGTWLGLARQDG-----TWLNRYARGH-G----LIDA----AGH---
+------------------------------------------------------------
+-----------IAPGAKSALLALRYTPQAAIESVADYARANVSQLRRA----G------V
+AVGE--GAADVARAAYIGHHLGPGDALRF--YK-GELSSV---------R----------
+--------------AHALLAAQI------GTEKA----------AHRVA-QAGD-AARAH
+RGWLLG-YVEKHI---
+>WP_010125756.1 hypothetical protein [Sphingomonas sp. KC8]
+---GV-NAQYQGALNSAAARTGIPAAALAAIVHAESAKGP--------------------
+----------------------G----GRWLVYSRN------------------------
+-PRSSAAGLGQFLNGTWQGETERKG-----TWLNGVARER-G----WLNA----AGK---
+------------------------------------------------------------
+-----------VRSEARSELLALRYDGEASIQATADYARANLDRLQRE----G------V
+EVGG--NVDRIAQTAYLGHHLGLGDAIKF--LK-GGLDSS---------R----------
+--------------ARLLLNAQV------GSANA----------SERIA-AAGS-AAGAH
+RAWLNE-YVGKNLQPS
+>WP_250118802.1 peptidoglycan-binding protein [Sphingomonas sp. KRR8]
+-SLGA-NQALAPQIEAAAERTHLPPAALAAIVDAESAKSA--------------------
+----------------------G----GAWNGSARN------------------------
+-PRSTATGLGQFLNHTWIGEAERSG-----TFLHQLAAAR-G----WLGS----DGR---
+------------------------------------------------------------
+-----------VAAAAREPLLALRTDPAASINAVADYARANLDRLARH----G------L
+QVGS--SVEAVARTAWLAHHLGAGDAQRF--LT-GGLTDS---------R----------
+--------------SSQLLSAQV------GAASA----------GRRIA-AAGD-ASSAH
+RQWLLS-YLDRHLTPD
+>WP_171743731.1 peptidoglycan-binding protein [Sphingomonas sp. AP4-R1]
+---GP-NAGYRDTLSAAAARTGFPAEALAAIINAEAAQNA--------------------
+----------------------D----GSWISHSRN------------------------
+-TRSSAAGLGQFLSGTWKGMAERRG-----SWLNAFAEAQ-G----WLDP----RGH---
+------------------------------------------------------------
+-----------VRGEAKSDLLALRYDARASIETIADYAHDNVATMRAA----G------L
+AIGA--SAESVGQAAYLAHHLGVSDAIRF--VK-RGLDPA---------R----------
+--------------AETLLAAQI------GSAAA----------SARIA-QCGD-AAQAH
+RSWLID-YTTRQFRPG
+>WP_126847993.1 peptidoglycan-binding protein [Sphingomonas sp. TF3]
+GGLGP-NARFRTVLCEAAQRTGIPATALATIVDAEAAKGR--------------------
+----------------------D----GSWNCHSRN------------------------
+-PRSSAAGLGQFLNATWEGLAETPG-----TALNATAQAK-G----WLNP----DGK---
+------------------------------------------------------------
+-----------VSGAARGALLALRYDPTSAIDGIADYARQNLSQLQRR----G------I
+TTDD--SVKTTARAAYLAHHLGLGDAVRF--LK-GGILPA---------R----------
+--------------AHVLLRAQV------GAADA----------EKRIA-QAGD-PTRAH
+QQWLLA-YIDRRIQPA
+>WP_188054491.1 peptidoglycan-binding protein [Sphingosinithalassobacter sp. CS137]
+-ALGS-NAQFAPALARAAEATGVPAGAIAAIVDAEAARRA--------------------
+----------------------D----GSWNPLSRN------------------------
+-PRSSAAGLGQFLSGTWQDMARTPG-----TWLNETAASH-G----WLDG----QGR---
+------------------------------------------------------------
+-----------IRPQARSALLQLRYDPEASIRTVADFARLNLDRLESD----G------L
+RVRA--DPEALAKAAYLSHHLGLGDARRF--LR-GGLVPD---------R----------
+--------------ARTLLVAQI------GGAAA----------EQRIA-RTGN-ATEAH
+REWLLA-YIDRRIQPD
+>WP_246351887.1 peptidoglycan-binding protein [Sphingobium subterraneum]
+AGLGA-NEAFRPALATASARTGIPQAALAAIVDAEASRGP--------------------
+----------------------D----GAWNPLSRN------------------------
+-PRSSAAGLGQFLSGTWIGMAQQPD-----TFLHDAARQR-G----WLDA----QGR---
+------------------------------------------------------------
+-----------VRGEARSALLALRDDAAASIETVADYARVNIARLRHA----G------V
+PIGS--GVGATAQAAYLGHHLGLGDAVKF--LR-GTIDAG---------R----------
+--------------AERLLSAQV------GDVQA----------RRLIA-GAGD-AALAH
+RTWLTA-YVARSVRPD
+>WP_184244867.1 LysM peptidoglycan-binding domain-containing protein [Novosphingobium chloroacetimidivorans]
+LSLGR-NEGYRTAILEAADRTGMAPQTVAAIIDAEASKVG--------------------
+---------------------------GVWQANARA------------------------
+-GTSSATGLTQFLSGTWMGEATRPG-----SLLNQEAKAL-G----LVNE----RNQ---
+------------------------------------------------------------
+-----------VV--DRSALLSARNDPRLSVLAGADYARHNLSALRES----G------H
+IAADA-SPAAVAKYAYIAHHEGLAGARGF--LS-GDMSYL---------R----------
+---------------PGTFEANV------PARQR----------DDYMGAAGGD-QGNAY
+RNWLSD-YIDRNIDVT
+>WP_208246950.1 peptidoglycan-binding protein [Rhizobium sp. T1473]
+LVLGV-NDVYRPHLLLAEERTEIDAAALAAVINAEAAKLA--------------------
+----------------------N----GEWDRNSKA------------------------
+-STSTAAGLTQFLAATWLGEAKKSR-----TYLNEHARRE-G----YVTD----ANA---
+------------------------------------------------------------
+-----------ISPGSEDKLLKLRFEPKMSIVAAAEYGASNLKALIAA----G------L
+VDDET-GDDEKAQFIYLAHHEGLGGATAF--LR-G--NKG---------Y----------
+--------------TFSDLAKQV------GSTKA----------QKYLDAAGGN-AAQAY
+RNWLNS-YIQEHIQPE
+>WP_077509607.1 peptidoglycan-binding protein [Sphingomonas sp. LM7]
+LKLGP-NARYAATFAVAESRTGIPASALAAIVDAEAAKTG--------------------
+----------------------D----GSWNTHSRN------------------------
+-PRSSAAGLGQFLSGTWQELAQTQG-----TWLNSYAADR-G----WLDG----RGR---
+------------------------------------------------------------
+-----------LQTGNRAELLALRYDPKASILGVADLAKTNLDRLEKS----G------V
+RVRT--DSETLAKAAYLGHHLGLGDAKKF--LS-GGIEAG---------R----------
+--------------ARMLLSAQI------GASAA----------EQRIA-SAGN-ATQAH
+RQWLTG-FIDRRIR--
+>WP_145206624.1 peptidoglycan-binding protein [Sphingobium sp. B2]
+PNLGP-NERHRAAITQAAERTSLPATALASIINAEAGKLK--------------------
+----------------------G----GAWNSFSRN------------------------
+-PRSSAAGLGQFLSGTWVDMAEKRG-----TWLNMQARKQ-G----YLAA----SGK---
+------------------------------------------------------------
+-----------VRPASRAAVLAMRYDAEASIQTIADYSRSNIDRMKAA----G------V
+RAGS--SAKDIGRIAYMAHYMGPGDAIRF--MK-GQLSEG---------R----------
+--------------SRLLLNAQV------GMAEA----------GRRIA-QSGD-ATAAH
+ARWLQT-HIDRNLRLA
+>KAA0088122.1 LysM peptidoglycan-binding domain-containing protein [Paraburkholderia sp. T12-10]
+LRLGA-NSRFREFIVSAANRYGLLPQGLAAFCEAEAAKKPGPVKEVPVLDKR--------
+--GKPVLDKHGKAKTKTV-RGKA----VEWDPSVVN------------------------
+--AVGAGGLTQFLVGTWTHQAALKG-----SYLSQKVAAE--------EE----KRN---
+------------------------------------------------------------
+-----------VRKLPTTDILGMRLDPETSINVAADYASQNLASLTKS----G------V
+NVAAV-ADVDKMKLAYLAHHEGAGGAAAI--IN-GTLSDE---------R----------
+--------------ADKLLQSQFKTKHDDGKDKA----------DAYRKTTGLQ-GADAY
+RKFLFD-YIDAKISVH
+>WP_147079099.1 peptidoglycan-binding protein [Sphingomonas ginsenosidivorax]
+---GP-NGRFGDALEATARRTGIPAAALAAIVDAEAAKGC--------------------
+----------------------D----GSWKTTSRN------------------------
+-PRSSAAGLGQFLGSTWQSEAERAG-----TWLHGIALGQ-G----WLSA----DGH---
+------------------------------------------------------------
+-----------VLPGARSALLALRYDAATAINATADYAHRSVTLLKKA----G------I
+AIGE--DVTTVARAAYLGHHLGTADAVRF--LK-GGLGSG---------R----------
+--------------ARLLLDSQV------GSAAA----------SRRIA-STGD-AASAH
+RSWLLD-YIDRHVTPG
+>RJG06963.1 LysM peptidoglycan-binding domain-containing protein [Noviherbaspirillum cavernae]
+--IPA-NEKYRKFIIASAKKYGFTPHALAALIHAEAAKLR--------------------
+----------------------G----GEWNADSKN------------------------
+-EKTNAAGLTQFMSETWLEMCTDSR-----SFMNIRLTQENG----YEKI----SGKRE-
+------------------------------------GGI-YVISGRK-------------
+--------GQTHHRIATDPALRWRFDAEYAIDSAALYGQINLDRLRKR----G------I
+NIDSL-EPEDLAKAMYFAHHEGAHGAAAI--VK-GTLTAP---------E----------
+--------------AEKLLKAQI-------KEKA----------DAYIARFNRE-PVKAY
+VHWLFS-YVDSNISIT
+>WP_052408657.1 LysM peptidoglycan-binding domain-containing protein [Paraburkholderia acidipaludis]
+LRLGP-NAKYRDFILAASARAGIIPQGIAAFCEAEALK-----IFIPKLDKD--------
+--GKPVKNKKSHL---TV-MLNT----GEWNPDSYN------------------------
+--EGGAGGLTQFLPNTWHVMATASG-----SFLHDKIQEK--------CA----SEH---
+------------------------------------------------------------
+-----------VTQLPSHEILEMRKDPETAILTAGDYAKMNLQDLRGR----G------Y
+KLDNV-ADVDKAKLAYCAHHEGARGLSRI--VN-GTLDDQ---------D----------
+--------------AHKLLVAQFRTKYSDGTEKA----------KKYEKEVGLT-GAAAY
+KKFLFD-YIDSKIKPI
+>MBB5725666.1 hypothetical protein [Sphingomonas endophytica]
+---GA-NATYAGAIDAAAKRTGLTAPLLTAIIGAEAARDP--------------------
+----------------------D----GRWRPLSRN------------------------
+-PHSSAAGLGQFLTGTWLGEAQRKG-----TWLHELARVR-H----WLDP----QDR---
+------------------------------------------------------------
+-----------VLPEARAALLALRYDGEASIHAVADYAQHNLAAIRRA----G------I
+AVGH--GLRDVTQIAYLGHHLGAADAIHF--LS-GQIAPE---------R----------
+--------------ARRLLQAQV------GVAAA----------ARKIA-TAGD-SILAH
+RQWLTA-YVARAVRAV
+>MCB1489008.1 DUF2272 domain-containing protein [Bauldia sp.]
+-VLGA-NEPFRAALLAASSRTSVDASALAALVDAEARKEG--------------------
+---------------------------GVWQQDSFH------------------------
+-EKSHAAGLTQFLEDTWLDHAKREG-----TLLHETAVAK-G----YVKN----GN----
+------------------------------------------------------------
+-----------VVASKKKVLLKLRFDPLLSIVSAAEYGVFNLRYLGKK----G------V
+LPSDI-SDDERAKYMYLAHHEGPGGAVGY--LD-G--SRV---------Y----------
+--------------TAANLKGQV------GKTAA----------EHLIARAGGD-ANIAY
+RKWLAD-YIDKKIVPA
+>UUX98960.1 peptidoglycan-binding protein [Sphingomonas sp. J315]
+---GA-NARHAPALERAADRTGIPATALAAIVNAEAAKDS--------------------
+----------------------A----GQWNIYSRN------------------------
+-SRSSAAGLGQFLSRTWEGMAETRG-----TWLNQTAQAK-G----WLDR----SGQ---
+------------------------------------------------------------
+-----------VRPAARAELLQLRYNATASIETTADYARANLKTLERS----G------V
+ATGE--DASAVARTAYLAHHLGPGDAIKY--LK-TGLTDE---------R----------
+--------------AGLLLRAQI------GGGRA----------SQAIA-RTGD-ASAAH
+RAWLDN-YVGSRVRPE
+>WP_010410946.1 hypothetical protein [Citromicrobium sp. JLT1363]
+-----------------AQRSGLPATTLAAIVDAEAAKRP--------------------
+----------------------D----GSWNLMSRN------------------------
+-PRSSAAGLGQFLSGTWIGMAQQPG-----NWLNDVARQK-G----WLDS----NGR---
+------------------------------------------------------------
+-----------VAPAARGSLLALRYDATASINSIADYARSNIATIRRA----G------I
+RPGN--DPQVLANMAYLGHHLGPGDAIRY--LK-GGLSES---------R----------
+--------------AAHLLKAQV------GSAQA----------LEKIN-RTGD-AAVAH
+RDWLNG-YIARKIRPD
+>WP_020415427.1 hypothetical protein [Microbulbifer variabilis]
+LSLGV-NEVYRRYLIKAQEITGIDASSLAALVDAEATKIT--------------------
+----------------------KGSNIGQWNRNAFN------------------------
+-PRSNAAGLTQFLSSTWIEHARKEG-----TLLNKVGKDK-G----YITT----LNA---
+------------------------------------------------------------
+-----------VASGKRNPLLKLRFDPELSIVSAAEYGLSNLKALDRK----G------L
+TPQTL-SDDEKARLMYLAHHEGPTGALKF--LM-Q--DNS---------S----------
+--------------SIRKFNAQV------GRRRA----------ADLVRKARGN-VALAY
+RNWLND-YMDKKIQPE
+>WP_060527516.1 hypothetical protein [Sphingomonas sp. Leaf242]
+---GR-NARHAPTLQAAAARTGIPAAALAAIVDAEAGKAR--------------------
+----------------------D----GTWQTYSRN------------------------
+-PRSSAAGLGQFLSRTWEGMAETGG-----TWLNGFARAN-G----LLGD----NGK---
+------------------------------------------------------------
+-----------VLASARATVLSLRYDPTAAINGIADFARRNLDGLDRA----G------V
+SAHG--EVGATARLAYLGHHLGLGDAVRF--VRDGGLSES---------R----------
+--------------AHTLLNAQI------GAGDS----------SRRIA-STGD-ATVAH
+RNWLLD-FMDRKIRPQ
+>WP_210810940.1 peptidoglycan DD-metalloendopeptidase family protein [Ideonella paludis]
+----------RKLLLDISKKHALTPHALAALINAEASKLE--------------------
+----------------------S----GEWNANAQA------------------------
+-GSSSAAGLTQFLNRTWLQVATDKR-----SAVNQKLKADHG----YEQV----NGQWQ-
+------------------------------------GDT-YSIYGKK-------------
+--------GKVKTDIKSAPVLALRFTPAYSIDAAAVYGLINLDYLADK----G------L
+NIAAL-APEDKAKVMYLAHHEGAAGALDV--IK-GALTEE---------R----------
+--------------AAELLPIQV------GAKKA----------KELAGRFDGK-YALAY
+PYWLYA-YTDSKINVV
+>MBB3345792.1 hypothetical protein [Sphingomonas sp. BK069]
+---GP-NQAYAPWLRAAADRTGVPGPAIAAIVGAEAAKAH--------------------
+----------------------D----GRWLPLSRN------------------------
+-PRSSAAGLGQFLARTWIGEAERAG-----TWLHQLASAN-G----WLNP----QGR---
+------------------------------------------------------------
+-----------VRREAQSALLALRYDARAAIETVADHARHNLEQLRTA----G------A
+SASE--SLEALTRTAYVAHHLGIGDAIRF--LR-GALDPA---------R----------
+--------------AARLLVAQI------GVNAA----------ADRIG-RSVD-AAVAH
+RSWLTG-FIARAVK--
+>WP_182295107.1 hypothetical protein [Sandaracinobacter sp. M6]
+--------HYQRSVAAAASRTGIPASVISGIINAEVGRQR--------------------
+-----------------------------WDPAAAN------------------------
+-PRSSALGLGQFLASTWLSEAARPG-----TAVHERARAL-G----MLDE----FGK---
+------------------------------------------------------------
+-----------PLLRARAALLDLRRDGALSIEAVADFARANLRSLGVE------------
+------TGAATGRIVYLAHHLGIGDTRRF--LA-SALPEG---------Q----------
+--------------ALRLLTAQI------GDAQA----------QAALR-RHGS-ASAAH
+RTWLES-FI-------
+>WP_242139740.1 peptidoglycan-binding protein [Sphingomonas sp. TREG-RG-20F-R18-01]
+---GP-NVVHATTLRAAAARSGIPDTALAAIVQAEAAKDS--------------------
+----------------------S----GRWNCFSRN------------------------
+-PRSSAAGLGQFLGRTWQSIAEKPG-----SWLNGVARAR-G----WLDE----RGR---
+------------------------------------------------------------
+-----------VRQESRAPLLALRYDAPAAIQTIADYARSNLDTLHRA----G------V
+PVGN--DSAAIARSAYLGHHLGPGDLVRF--LK-GGLAES---------H----------
+--------------AHALLTAQI------GSSSA----------NRAIA-ASGD-ASAAH
+RAWLTA-YVTRNVQPQ
+>WP_074768950.1 LysM peptidoglycan-binding domain-containing protein [Paraburkholderia fungorum]
+LRLGA-NIKYRDYILKAAERSRIMPQGVAALIEAEAGKMPPIHEQVPVISKK--------
+-TGKPVIDKHGKPVMRTI-RKPN----PEWNPSIVN------------------------
+--SIGAAGLTQFLPAAWKEVAHYPD-----SVLHQRCTEL--------AA----QQG---
+------------------------------------------------------------
+-----------VHHLSESQILHLRLNAELSIITAADYAAHNIQVFGNA----G------F
+HVDAI-TGPNRAKLGYFLHHEGTYGATRI--VR-RTLDAD---------T----------
+--------------AYDLLCTQLKSSGSDGTAEA----------DAYMAANNVH-GAAAY
+RKWIFD-YVDKKINPK
+>WP_160591259.1 peptidoglycan-binding protein [Sphingomonas changnyeongensis]
+---GP-NARHAAAIDSAAARTGLPAPALAAIIDAEAAKKR--------------------
+----------------------D----GSWNTHSRN------------------------
+-PRSSAAGLGQFLAGTWEGEAERPG-----TWLNRAAHER-G----WLDE----GGR---
+------------------------------------------------------------
+-----------VVAAARSDLLALRYDARAAIEATADYARRNLDRLQAA----G------V
+RIGD--GMAEIARAAYLGHHLGAGDAVRF--LSMGGLPAA---------R----------
+--------------AEKLLVAQI------GGGAA----------AARIA-EAGQ-ATAAH
+RDWLLG-FVDRHIDPA
+>WP_133770654.1 peptidoglycan-binding protein [Enterovirga rhinocerotis]
+-VLGI-NDIYREALLKAQETTGIDAAALASVIDAEAARIG--------------------
+----------------------EGADRGRWNPRSLN------------------------
+-AGSGAAGLTQFLASTWIDQAGRSG-----TILRSHCQRE-G----LVDA----QGI---
+------------------------------------------------------------
+-----------VVAGRRDALLELRFDPTLSIVAAAEYGAANLRVLVAR----G------L
+AAPDE-PDDRKAWLMYLAHHEGPGGAAGF--LG-G--SRR---------Y----------
+--------------SLDDLRGQV------GATRA----------QQLAERAGGD-ANKAY
+RDWLTG-YIDGKIRPA
+>WP_192127638.1 peptidoglycan-binding protein [Sphingomonas sp. CFBP 8760]
+---GP-NARYAGVIDAAAERTGLSPAALAAIVDAEAGRSA--------------------
+----------------------D----GSWQTWSRN------------------------
+-PRSSAAGLGQFLAGTWQGMAEIPG-----TWLNQQARGN-G----WLDA----HGK---
+------------------------------------------------------------
+-----------VAAGARSALLALRYDPAASINSVADYARRNIDGLARA----G------V
+TDRD--TGGNTAQLAYLGHHLGLGDAIRF--MR-GGLPES---------R----------
+--------------ARVLLNAQV------GTTGS----------ERRIE-AAGG-ARAAH
+RTWLMG-YLDRKFSPE
+>WP_242148693.1 peptidoglycan-binding protein [Sphingomonas sp. BAUL-RG-20F-R05-02]
+---GA-NERHRTSLEKASVRSGIPAASLASIIDAEAAKGS--------------------
+----------------------D----GRWNVYSRN------------------------
+-PRSSAAGLGQFISGTWVGMAEQAG-----SFLHSVAQRN-G----WLCA----SGK---
+------------------------------------------------------------
+-----------VLPEARAKVLALRYDAEASIQTIADYSRCNLDTLKKC----G------I
+TVGN--SVEEISKTAYLAHYMGPRDAAKF--LR-GQLDSG---------R----------
+--------------ARTLLAAQI------GTAKA----------GRDIA-AAGN-AADAH
+RMWLAS-HVSRNVRPA
+>MCA3255261.1 peptidoglycan-binding protein [Alphaproteobacteria bacterium]
+---------------------GLPAAALTAVIDAEAGKRR--------------------
+----------------------D----GSWDPAARN------------------------
+-PRSTATGLGQFLDRTWVGEAERRG-----TYLNGVAAAR-G----WLDA----RGR---
+------------------------------------------------------------
+-----------VRGDVRAELLDLRTDPGTAIEAVADYARAGLSRLESA----G------V
+KLGN--DARQVASLAWLGHHLGPVEALRF--VE-GRIAPA---------R----------
+--------------AKLLLTAQV------GASEA----------ARRIADAAGD-AVAAH
+RQWLNG-YIGRVIQ--
+>NJC04442.1 hypothetical protein [Sphingomonas kaistensis]
+-RLGA-NQALAPALERAAARTGLDPAMLASIIDAEAARRR--------------------
+----------------------D----GSWDPASRN------------------------
+-PRSSAAGLGQFLSGTWIDEARRPG-----SWLNGIAGER-G----WLAR----DGS---
+------------------------------------------------------------
+-----------LKPEARPALLALRSDPTASIEAIADHAAANLRRLGAR----G------I
+AST---GRAETARAAYLAHHLGLGDAMRH--LG-GGLGDD---------R----------
+--------------AGRLLAAQV------GGAAA----------GRRIA-AAGS-AAGAH
+RAWLDH-YVDQRIRPG
+>MAW98806.1 peptidoglycan-binding protein [Sphingomonas sp.]
+-NLGV-NNEHSGSLEAAARRTGVPESALAAIVDAEAAKDS--------------------
+----------------------S----GRWNAFSRN------------------------
+-PRSSAAGLGQFLSGTWQDMAKKPG-----TWLNKVAADH-G----WLDQ----NGN---
+------------------------------------------------------------
+-----------IRSAARADLLRLRYDPTASIQTIADYASRNLDFLERK----G------V
+NVGS--DATSIARTAYLAHHLGPGDAVTF--MT-TGLSDQ---------R----------
+--------------AATLLAAQI------GSGRA----------QKAIA-AAGD-ASAAH
+RAWLRG-YVANSVQPQ
+>WP_092746642.1 LysM peptidoglycan-binding domain-containing M23 family metallopeptidase [Acinetobacter boissieri]
+--IPE-NEKYRGYIFAAAKRHNLTPHSLAALINAEAAKLN--------------------
+---------------------DR----GEWNPKSKAP-----------------------
+-PPGTAAGLTQFLSASWLGMAADTN-----ALVGQYVAAK------YPNV----KPK---
+-----------------D------------------------------------------
+--LST---FFSKNSHIKQEVLDLRFNPEMSIDAAGAYARANLKGLQKD----V------P
+SVSQLQDAEALAKLAYLLHHEGLAGAKTI--IK-DNLTEK---------R----------
+--------------AYELLNTQL------VYKNKKTKELVTERRDILLKRYHND-PIKAY
+KSWLMG-YVNEHINVY
+>WP_124946936.1 peptidoglycan DD-metalloendopeptidase family protein [Sulfurirhabdus autotrophica]
+--LSPGNEKYRKLILASAQRYGFTPHTLAALIDAEASKSK--------------------
+---------------------------DTWEADSFN------------------------
+-KSTNAAGLTQFLRSTWLEMMAEPR-----SLMNQRLKQEQK----FDKI----IGELD-
+-----------------------------------SSGE-YCLYSVKG--SGKNQI----
+--------KEELSSTLIANLLKWRFTPEYAIDTAALYGKINLEKLAKR----G------L
+NVASL-APEDLAKVMYLAHHEGAGGAVAV--IK-GTLDDK---------R----------
+--------------AKKNLPKQV------GNIQA----------ASLFARFKDN-HVEAY
+SYWLYT-YTDSKINVA
+>MBZ6379224.1 peptidoglycan-binding protein [Pacificimonas aurantium]
+---GA-NSRFEPMLKAAAARTGIPAAALAAIVDAEAGRTA--------------------
+----------------------D----GSWNTKAKN------------------------
+-PRSSASGLGQFLKGTWESLAETPG-----TWLQDVAKDR-G----WLDS----RGR---
+------------------------------------------------------------
+-----------VTSQSRPALLALRFDANASLQSIADFAKQNLEGLERS----G------V
+DVGR--DTESIAKSAYLAHHLGLGDARRF--LG-EGLSEG---------R----------
+--------------AKLLLSAQV------GARRA----------QQHIA-AADG-ARSAH
+ESWLHG-FVERKIQPN
+>WP_206688153.1 peptidoglycan-binding protein [Aureimonas sp. OT7]
+-DLGP-NEIYRSSILLAQTRTGIAAAALAALIDAEAAKLP--------------------
+----------------------S----GEWNKRSTA------------------------
+-GTSSAAGLTQFLKTTWLGEARKPR-----TFLNECCRAK-G----YVDA----ANA---
+------------------------------------------------------------
+-----------VVARRQAELLALRFDPELSIVAAAEYGAANLEALVKA----G------L
+VPLEA-GDDEKARFIYIAHHEGLGGARSF--LE-G--SQT---------Y----------
+--------------SLKDLAKQV------GQAAA----------QRFVDAAGGD-ATRAY
+RTWLDT-YVQEKIQPA
+>MBA4183529.1 hypothetical protein [Acidobacteria bacterium]
+LKLGV-NEEYHDALILAQKRTGIDAAALAAVINAEAARDK--------------------
+----------------------S----GKWLANSQA------------------------
+-PKGTARGLTQFLKGTWLERAHIQG-----SYLNEVALQK-G----FIRE---VKGK---
+------------------------------------------------------------
+-----------FVVVDENSLLALRDNPTVSIVTAAEYGKNNLELLNRS----G------L
+LPRNL-SDDQKAKYMYVAHHEGFGGALRY--LT-NSNDVDEATAKYILTKNYAAGLKDKY
+GSYVEAYKHWAEGTSRRTFPSQV------GSKTM----------NTYVQ-KYGN-YEQGY
+RAWLTD-YVNAKIQPE
+>WP_210186899.1 peptidoglycan-binding protein [Methylobacterium sp. 275MFSha3.1]
+LVLGP-NEIYRSFLIEAEIRTEIDAAAIAALINAEAAKLP--------------------
+----------------------N----GQWNKDSQA------------------------
+-GTSSAAGLTQFLASTWLGEAKKAQ-----TLLNECGRAK-G----LLTA----ANA---
+------------------------------------------------------------
+-----------IVAGREAELLALRFDPRLSIVAAAEYGLFNLNALIKT----G------I
+VADEI-GDDEKARFIYLAHHEGLGGAQAF--LK-G--TKV---------Y----------
+--------------SFSDFATQV------GQSKA----------QALVNAANGN-TTLAY
+RTWLNG-YLDRNIQPS
+>WP_126538771.1 DUF2272 domain-containing protein [Oharaeibacter diazotrophicus]
+-VLGK-NEDYRKAIEEAEKRTGIDGSAIAALIDAEAAKVA--------------------
+----------------------SGADKGKWKADSYN------------------------
+-AGSGAAGLTQFLSGTWIGHARNPS-----HLLNARGKTD-G----LIDA----ANT---
+------------------------------------------------------------
+-----------VIPGRQAALLKLRFDPLLSIVSAAEYGLDNLRYLEKK----G------V
+IPSGI-GDDERARFMYLAHHEGAGGAVGF--IT-G--TKL---------Y----------
+--------------NRASLEGQG------LDKATI---------DAYIA-KAGS-ANAAY
+RLWLNE-YMDKKIVPS
+>MCP4937129.1 hypothetical protein [bacterium]
+LDLGV-NDVYRDAILEASDIVRLDPAALAALIDAEAGKVR--------------------
+----------------------TGPKKGQWDPKSFN------------------------
+-SDSGASGLTQFLKKTWLERASDPD-----SKVNGAGKTK-G----FVTA----LNA---
+------------------------------------------------------------
+-----------VAAGQESNLLILRFDPRLSIIAAAEYARINLTGLEKS----G------H
+VSPDL-GDDERARFMYLAHHEGLNGAQKF--LI-N--DNS---------S----------
+--------------SMSKFAKQV------GATRA----------QQLTNAAGGD-VALAY
+RRWLNG-YMDKKIQPQ
+>MCB2014219.1 peptidoglycan-binding protein [Sphingobium sp.]
+---GA-NTRYAGALQAASQRTSIPAGAIAAIIDAEAARLG--------------------
+----------------------D----GSWNPHSRN------------------------
+-PRSSAAGLGQFLSGTWISMARDKG-----SALHAMARDH-G----LVSA----TGD---
+------------------------------------------------------------
+-----------IAPGARSRLLALRYDPAAAIAAVADYARANLELLKSK----G------I
+AIGH--DPRSVARAAYIGHHLGPGDALRY--YR-GTLDQE---------R----------
+--------------ARLLLTAQV------GSQRA----------EHYIS-KTGN-PIISH
+RNWLDD-YIAKRVQPH
+>APX64088.1 peptidase M23 family protein [Acinetobacter schindleri]
+----------RKFVIDASKRHGFTPHSLAALIHAEAAKKS--------------------
+----------------------N----GEWDSKSFN------------------------
+-TTTNAAGLTQFLKGTWLELCKNQE-----SLIGQYASKN--------------------
+------------------------------------------------------------
+------------KYLTEEQLLNLRFNSEFSIDAAAAYAVINFKWSK-------------L
+PYQKLIEPSSIAKFAYLLHHEGAGGARSF--IN-NSFSPE---------R----------
+--------------AKMLLLAQF------GNKGKQSA-------LDYLKRYNND-ARVAY
+GIWLRA-YIDAHINIY
+>HAV4200704.1 transglycosylase [Acinetobacter baumannii]
+--------------VNAAKRHGFTPHSLAAVIEAEAAKIK--------------------
+---------------------KT----GEWNTNSKA------------------------
+-NSSTAAGLTQFLDETWLAMCKDKN-----SLVGQYVMNN--------------------
+------------------------------------------------------------
+------------PKLTIQQKLNLRFNAEMAIDAAA-YAISNFKSS-------G------L
+PYQKLTEPSSIAKFAYLLHHEGATGGKNF--VL-NTLSQE---------R----------
+--------------AKKLLFTQF------GKNGAKQA-------ADFLNRYKGD-AKAAY
+GAWLRN-YIDGHINIY
+>ESQ14940.1 MAG: hypothetical protein N838_10260 [Thiohalocapsa sp. PB-PSB1]
+-SLGV-NSIYRDALLKAQDITGIDAAWLAALCHAEALKDA--------------------
+----------------------N----GQWNAAGKN------------------------
+-PHSSATGLTQFLKKTWRGHAKDPD-----HVLNKIAKAR-E----LISS----ANV---
+------------------------------------------------------------
+-----------II--KDQELLDLRKDPELSLISAAEFGAENISGLEKT----G------H
+FPDSL-SDDEKARRMYMAHQQGLNGARKF--LN-P--HKR---------F----------
+--------------TQRDLEKQV------GRNAA----------QQRIDSARGD-ANKAF
+RTWFRS-FIDQKIKPT
+>WP_143554897.1 LysM peptidoglycan-binding domain-containing protein [Glacieibacterium frigidum]
+LTLGV-NETYRADILHAATVSGLPPQTVAAVISAEAAADR--------------------
+----------------------N----GQWRADSYN------------------------
+-ADSGATGLTQFVSGTWLGEARSGS-----SLLNAELKSR-G----IDPA----NT----
+------------------------------------------------------------
+---------------SDSALLALRTDARLSIVAGVSYATSNIASLQAS----G------V
+VPRNL-DAAMTAKVAYIAHHEGLGGARSF--FR-GDIVSV--------------------
+---------------DSKWAGNV------PASQR----------ADYLARSGGD-RAQAY
+HAWLTD-YTNARIDVT
+>WP_189620596.1 LysM peptidoglycan-binding domain-containing protein [Novosphingobium colocasiae]
+---PA-NERYRPALVEAAQRTGLPASTIATIVDAEAAKRR--------------------
+---------------------GT----GQWDPRSKA------------------------
+-ATSSATGLTQFLDRTWRSEARRAG-----GLLNAEARAA-G----CVNA----AHA---
+------------------------------------------------------------
+-----------IT--DDGALLALRCDPRVAILAGADFAVVNLAQLVRM----R------A
+LPARP-DPAAAAKLAYLAHHEGAGRAAAF--LN-GRMGYV--------------------
+--------------TPAILAANV-----PHPARR----------RALIAAAGGQ-HGLAY
+RRWMCA-YVDANIDVC
+>WP_258829141.1 LysM peptidoglycan-binding domain-containing M23 family metallopeptidase [Massilia agri]
+-------ERYRKYIIAAAKKHGLTPQSLAALIDAEAAKDK--------------------
+----------------------Q----GVWQEKSNST-----------------------
+-KPDKAQGLAQFFAPAWADVFQYNK-----SLLHERCQGQ--------------------
+------------------------------------------------------------
+---------------SKTALLARRLEAEYAIDGAAAYAVLNLRSFSKR---SG------F
+DAQAL-PAEDKAKMAYLLHHEGLGGTLRILGLE-NAFTDA---------Q----------
+--------------ATKILRQQL------GSAEKT---------EQMIARYDDD-PVKAY
+KGWLFG-YIDAKINVN
+>WP_168132671.1 LysM peptidoglycan-binding domain-containing protein [Sphingomonas corticis]
+LRLGA-NEPHRAAIVEAATRTGMTPQTVAAIIDAETLKDA--------------------
+----------------------N----GVWRADAAA------------------------
+-STSSAVGMTQFLKGTWVAEAQRAG-----GVLNAEAKAA-G----VVDA----NNR---
+------------------------------------------------------------
+-----------VV--DRDALLALRTDARLSILAGADYARQNLAALTRG----G------S
+VPADA-SPAALAKYAYLAHHEGLAGARGF--VS-GDMSYL---------R----------
+---------------DATFEANV------PAASR----------QRYLDAAGGS-EPLAY
+RNWLSD-YVDRRIDVT
+>MBV9908351.1 hypothetical protein [Hyphomicrobiales bacterium]
+LVLGP-NDRYRDALTQAQSITRIDAAALAALIDAEAAKIS--------------------
+----------------------G----GVWDAKSSN------------------------
+-ATTSAAGLTQFIEGTWCDMACRPG-----KLLNKTARQN-G----MVTS----DNQ---
+------------------------------------------------------------
+-----------IPANMRKALLALRFDPTLSIVTAAEYGFDNLNALIKD----K------L
+VESNI-GDDDRAWNIYLAHHEGLAGAEHF--LR-N--DQV---------I----------
+--------------PFSKLDQQV------GTTRA----------NQLVFAAGGD-VTIAY
+RKWL------------
+>WP_035051600.1 peptidoglycan DD-metalloendopeptidase family protein [Andreprevotia chitinilytica]
+--------------LDSARKYGFTPQALAAVIDAEVGAEK--------------------
+---------------------HD----REWNPKEVN------------------------
+-PNTKARGLGQFIEAAWFDVCAIKG-----SAVNTTLCKTYSQYHRFIAK----KGRLYG
+CRNTAGKDKKG-NP----------------------------------------------
+--ITR---EAEEVISNCREILEWRNNAEIAIEAAAAYGAHNLRLLQKN----G------F
+PVDKL-TPSDKAKVIYLAHHEGFAGALRA--LR-GTDTDA---------A----------
+--------------ARARLIDQV------NTKA-----------NQYFADFDNS-AVKAY
+LFWLYVDLVDRKVDVT
+>WP_174505766.1 LysM peptidoglycan-binding domain-containing M23 family metallopeptidase [Acinetobacter sp. Marseille-Q1620]
+----------RAYIIGAAKKHGFAPHALAAFINAEAAKKK--------------------
+----------------------G----GEWDEKSYN------------------------
+-QGSKAGGLTQFLPNTWLEMCANQS-----SLVGQYVSKN--------------------
+------------------------------------------------------------
+------------PKLSLDAKLNLRFNAELAIDAAAAYAVYNFKISK-------------L
+PYQNLTEPSSMAKLAYLLHHEGAGGGRQF--VQ-NSFSQE---------R----------
+--------------AKALLFSQI------QDKKKS---------TDYLKRFNND-AKAAY
+GAWLRN-YIDGHINIF
+>WP_008953053.1 peptidoglycan DD-metalloendopeptidase family protein [Pseudogulbenkiania ferrooxidans]
+-------EKYRKCIIETAKKYGLSPQALAAFMQVEAAKSR--------------------
+----------------------K----GEWLENGKA------------------------
+-DSSSAVGLMQCLPRMWKDVSCDKQ-----SKLYECIQKT--------------------
+------------------------------------------------------------
+-----------KPAPSWESVLDWRTNAELSIDSAACYIQINLRALRKQ---YG------L
+PVDSL-NDVEKVKLAYLAHHEGAAGANSI--IK-NMLDDQ---------M----------
+--------------SKTFFAAQLGRRH--GEALA----------KVYATKFDDK-YRPAY
+RYWLAYDLVDARLRPD
+>KQB58003.1 hypothetical protein AE621_17790 [Acidovorax sp. SD340]
+-RLGV-NEIYRDAITLAADRTGYPRATIAAVISAEAGPLRGK-RLDDATNQRFFVELHPQ
+LDPKAKLDKAGAAEWKALRRELS----ATWDPQSYN------------------------
+-TTSKAGGLTQFLESTWIESATKPG-----SYVNEQAKSL-G----QVND----ANQ---
+------------------------------------------------------------
+-----------VV--DRAALLDLRFDATTSIVAAAELDKGYFTQLSAR----TNDDGTPL
+VPADL-PADKKAQYIYLVHHEGANGAAQI--LK-GTLTDA---------R----------
+--------------AEGLLKNHV------ADADKR---------QAMIDAHDGS-AAKAY
+TAYLWQ-YIEQRI---
+>WP_136420141.1 LysM peptidoglycan-binding domain-containing protein [Herbaspirillum sp. ST 5-3]
+-------EKFRQAIIDAAKRYHFTPHALAAIIHAEAAKAK--------------------
+----------------------D----GRWIETSAS------------------------
+-DGSSARGLGQFLPSAWFQYVAKTG-----TLGNAEALKITGA-NKLEAA----QGK---
+--------------------------------------L-YEINGKK-------------
+--------KTEVSNAMLETILRWRDNGGYSVDAIGAYAEDNLDYLKRN----N------I
+DVTGF-PPDEKVKIAYVMHHEGPSDGLLY--LT-GMLGKTAKP-----TRTD--------
+--------------VKNKLAKQFKSKTDTGTDKA----------KALADRFDGD-YVKAY
+YYFLAN-HTDLAVRVE
+>WP_252165821.1 peptidoglycan-binding protein [Sphingomonas morindae]
+-----------------AQRTGLPAATLAAIIGAEAGDGA--------------------
+---------------------------GGWRPLARN------------------------
+-PRSSAAGLGQFLAGTWLRVAADPG-----SWLHRRAAAE-G----WLTT----DGH---
+------------------------------------------------------------
+-----------VRAEARGALLALRYDPRAAIETVADHAVANLAALDSA----N------L
+A-GV--AVAARTRAAYLAHQLGARGAIRF--LE-GGAAPD---------P----------
+--------------GR-LLAAQI------GPAAA----------ARAIA-AAGG-AAAAH
+RAWLLG-FCDAHLPPV
+>WP_189580824.1 LysM peptidoglycan-binding domain-containing protein [Psychrobacter glaciei]
+-------EIYRQFIISAAKRHGFDAPTTAAIINAESAKIGSG------------------
+----------------SL----K----GRWKADSQN------------------------
+-STTSAGGMTQMLDGTWRDISKRSD-----SLLYKYKQKH--------------------
+------------------------------------------------------------
+------------PKLTDAKFLKLKYNPELSIDAGMVYAKMNLETLGKR-----------L
+PINKITSKADLAKIAYLAHHDGPSGSERL--IK-NEYTSS---------S----------
+-------------LMRKKLIIQI------GEKDKF---------KKYMKEANQN-GVKAY
+QTWIRD-YIDSYINVK
+>WP_087621975.1 peptidoglycan DD-metalloendopeptidase family protein [Acinetobacter populi]
+----------RKYIIDAARKFGFSPQALAAKVNAEAAKTK--------------------
+----------------------D----GEWKADSQN------------------------
+-TSTSAGGLTQALDGTWLSACRGDNEQFKKTLLYKKVNHE--------------------
+------------------------------------------------------------
+------------KIVKEADRLILKYNAELSIDFGAAYAKQNIEELKKN---YNL-----E
+KIDKL-TAEDLAKLGYLAHHEGAKGANNQ--IM-HLANKS---------W----------
+--------------AS--VQTQV------GEGKIL---------ESLKKQFPDD-PNNAY
+RWWLMNTYVDGMINVK
+>SPL72573.1 hypothetical protein KPC_3751 [Acinetobacter stercoris]
+--------------IGTAKKHGFAPHALAAFINAEAAKKK--------------------
+----------------------G----GEWDEKSYN------------------------
+-QGSKAGGLTQFLPNTWLEMCANQS-----SLVGQYVSKN--------------------
+------------------------------------------------------------
+------------PKLSLDAKLNLRFNAELAIDAAAAYAVYNFKISK-------------L
+PYQNLTEPSSMAKLAYLLHHEGAGGGRQF--VQ-NSFSQE---------R----------
+--------------AKALLFSQI------QDK----------------------------
+----------------
+>GIL38819.1 hypothetical protein TMPK1_10560 [Rhodospirillales bacterium TMPK1]
+-KLGV-NQAYEGAILQAAERTGLSAAAIASIIDAEATKIKG-------------------
+---------------------SN----GVWNPNSRS------------------------
+-KTSSAVGLTQCTEAAWQEMAETKG-----SLLHGIADKN-G----WLDK----HGK---
+------------------------------------------------------------
+-----------LQETHFIDAMALRVDPYLSIVTGAEYDAKALRQLQAE----G------L
+VPTEL-DDTQRARYAYLAHHEGVGGAAQL--LT-GTLHRD---------R----------
+--------------ARSLYAANF------PGET---------------------------
+----------------
+>WP_057689766.1 LysM peptidoglycan-binding domain-containing protein, partial [Acinetobacter nosocomialis]
+--VAA-NEIYRKDILDAEKKYGISAATIAALICIEAGGGK--------------V-----
+----------------------E----NKWDPNAVN------------------------
+-PQGTGVGLGQFFTPTWLELATDKT-----GKLNQYIIKKKG----YKVLV--GSGRWK-
+-------------------------------SYTLSDDQ-RTEEQKK-------------
+KKLQQ--PIVKLNSKDISWINSLRTDAGLSIDTIALSAKKNLEGLKRRLKNNGLAT---S
+GVDNL-NPLEMSKLIYFCHHESPGSAYLI--MR-NSIDKD---------T----------
+--------------AKTNFEANV------SKKVQ----------AKYLKQGNNN-YIQAY
+KIWMYENLIDTKIHTL

@@ -1,0 +1,287 @@
+Query         FD01848903_02404 type IV secretion protein Rhs
+Match_columns 103
+No_of_seqs    39 out of 41
+Neff          4.66299
+Searched_HMMs 86581
+Date          Tue Feb 27 21:28:17 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/1234681.hhr -oa3m ../results/1234681.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 1YD0_A UvrABC system protein C  92.8     1.2 1.3E-05   27.4   5.8   71    2-78     17-95  (96)
+  2 PF09517.14 ; RE_Eco29kI ; Eco2  90.3     3.3 3.8E-05   31.6   7.0   72    1-78      6-127 (168)
+  3 1YD6_B UvrC; DNA BINDING PROTE  88.0     3.6 4.2E-05   25.2   4.9   74    1-80     16-99  (99)
+  4 PF20815.1 ; GIY_YIG_2 ; GIY-YI  83.7     5.8 6.7E-05   27.9   4.8   70    2-76      1-124 (137)
+  5 1MK0_A Intron-associated endon  75.4      23 0.00027   21.1   7.4   75    1-77      3-96  (97)
+  6 PF19835.3 ; SegE_GIY-YIG ; Put  72.0      46 0.00053   23.0   6.6   70    2-72     19-121 (123)
+  7 2LWF_A Monothiol glutaredoxin-  52.2 1.2E+02  0.0014   21.0   6.4   76    1-76     26-105 (119)
+  8 2WSH_C ENDONUCLEASE II; GIY-YI  50.2 1.4E+02  0.0016   21.2   6.4   70    1-76     41-142 (143)
+  9 3MX1_A Eco29kIR; type II restr  49.7 1.9E+02  0.0022   23.8   7.0   72    1-78     67-188 (235)
+ 10 1ZG2_A Hypothetical UPF0213 pr  41.7 1.6E+02  0.0019   19.5   6.6   54    3-57     10-71  (107)
+ 11 1YWL_A Hypothetical UPF0213 pr  27.8 2.5E+02  0.0029   17.6   6.4   55    3-57      9-72  (96)
+ 12 PF01541.28 ; GIY-YIG ; GIY-YIG  27.5 1.9E+02  0.0022   16.1   7.7   66    2-71      3-89  (89)
+ 13 4G5A_B Uncharacterized protein  21.2 1.8E+02   0.002   19.4   2.2   16    1-16     79-96  (99)
+
+No 1
+>1YD0_A UvrABC system protein C; DNA BINDING PROTEIN; 1.5A {Thermotoga maritima}
+Probab=92.76  E-value=1.2  Score=27.45  Aligned_cols=71  Identities=20%  Similarity=0.212  Sum_probs=0.0  Template_Neff=11.400
+
+Q ss_pred             ceEEEe-cCCeEEEccCChhHhHHHHhhhc-------CCCCceEEEEEeeCCCcchHHHHHHHHHHHcCCCCCcCccccc
+Q FD01848903_024    2 GTYMFT-DGSNWYIGKGPESRMYDSMGERV-------GGKINVTQGLHVDYGNNTTGLMVEAELMRRNSAVTDVNFKNAI   73 (103)
+Q Consensus         2 GsY~i~-~sGk~Y~GKG~~~R~~~S~~~~~-------~gd~~~~~~~w~pa~~~reAf~~E~~~m~~~g~~~~~~~yN~i   73 (103)
+                      |.|.|. ..+-.|+|.....+.+.......       ... ....+.|.+..+..++-..|..++...-     ..+|..
+T Consensus        17 Gvy~i~~~~~~~YiG~s~~l~~rl~~~~~~~~~~~~~~~~-~~~~i~~~~~~~~~~~~~~e~~li~~~~-----p~~n~~   90 (96)
+T 1YD0_A           17 GVYIFKNKGVPIYIGKAKRLSNRLRSYLNPQTEKVFRIGE-EADELETIVVMNEREAFILEANLIKKYR-----PKYNVR   90 (96)
+T ss_dssp             EEEEEEETTEEEEEEEESSHHHHHHGGGSCSSHHHHHHHH-HCSEEEEEECSSHHHHHHHHHHHHHHHC-----CTTCC-
+T ss_pred             eEEEEeeCCeEEEEEechhHHHHHHHhhCCCcHHHHHHhh-hccEEEEEEeCCHHHHHHHHHHHHHHhC-----CCcccC
+
+
+Q ss_pred             CChhH
+Q FD01848903_024   74 NSPGE   78 (103)
+Q Consensus        74 ~SPGk   78 (103)
+                      ..+++
+T Consensus        91 ~~~~~   95 (96)
+T 1YD0_A           91 LKDTD   95 (96)
+T ss_dssp             -----
+T ss_pred             CCCCC
+
+
+No 2
+>PF09517.14 ; RE_Eco29kI ; Eco29kI restriction endonuclease
+Probab=90.25  E-value=3.3  Score=31.58  Aligned_cols=72  Identities=24%  Similarity=0.275  Sum_probs=0.0  Template_Neff=7.200
+
+Q ss_pred             CceEEEe-cC-----------------CeEEEccCC------------------hhHhHHHHhhhc-----CCCCceEEE
+Q FD01848903_024    1 TGTYMFT-DG-----------------SNWYIGKGP------------------ESRMYDSMGERV-----GGKINVTQG   39 (103)
+Q Consensus         1 ~GsY~i~-~s-----------------Gk~Y~GKG~------------------~~R~~~S~~~~~-----~gd~~~~~~   39 (103)
+                      .|.|.|. .+                 .-.|+||..                  ..+.+.....+.     .-++....+
+T Consensus         6 ~GVY~ly~~g~~~~y~~~~~~~~~~~~~piYVGkA~~~~~~~g~~~~~~~~~~~~L~~RL~~H~~si~~~~~l~~~d~~~   85 (168)
+T B0C6N6_ACAM1/5    6 TGVYALYCIAKSGIYSRFNSVNRTAFHIPIYVGKAVPKGWRQARQSSSSDTKSYELNNRIREHSRSIEIGEGVNSSDFFC   85 (168)
+T ss_pred             ceEEEEEEcCCccccccccccCcccCcccEEEEccCCcchhhcccCCCCccccCCHHHHHHHHHhcccccccCCccceEE
+
+
+Q ss_pred             EEeeCC---CcchHHHHHHHHHHHcCCCCCcCccccc------CChhH
+Q FD01848903_024   40 LHVDYG---NNTTGLMVEAELMRRNSAVTDVNFKNAI------NSPGE   78 (103)
+Q Consensus        40 ~w~pa~---~~reAf~~E~~~m~~~g~~~~~~~yN~i------~SPGk   78 (103)
+                      .|....   +.-.+.. |..++..+.     +.+|.+      +.||+
+T Consensus        86 r~l~~~~~~~~~~~~~-E~~LI~~~~-----P~wN~~~~GfG~~~pG~  127 (168)
+T B0C6N6_ACAM1/5   86 RFMILEGKESDLIGTV-EAALIRKYQ-----PLWNTLIDGFGNHDPGK  127 (168)
+T ss_pred             EEEEeCCCCChHHHHH-HHHHHHHHC-----CCcccccCCCCCCCCCC
+
+
+No 3
+>1YD6_B UvrC; DNA BINDING PROTEIN; HET: SO4; 2.0A {Bacillus caldotenax}
+Probab=87.95  E-value=3.6  Score=25.19  Aligned_cols=74  Identities=15%  Similarity=0.189  Sum_probs=0.0  Template_Neff=11.600
+
+Q ss_pred             CceEEEe--cCCeEEEccCChhHhHHHHhhhc--------CCCCceEEEEEeeCCCcchHHHHHHHHHHHcCCCCCcCcc
+Q FD01848903_024    1 TGTYMFT--DGSNWYIGKGPESRMYDSMGERV--------GGKINVTQGLHVDYGNNTTGLMVEAELMRRNSAVTDVNFK   70 (103)
+Q Consensus         1 ~GsY~i~--~sGk~Y~GKG~~~R~~~S~~~~~--------~gd~~~~~~~w~pa~~~reAf~~E~~~m~~~g~~~~~~~y   70 (103)
+                      .|.|.+.  .+.-.|+|....-+.+.......        ... ....+.|.+..+..++...|..++....     ..+
+T Consensus        16 ~Gvy~~~~~~~~~~yvG~t~~l~~r~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~e~~li~~~~-----p~~   89 (99)
+T 1YD6_B           16 PGCYLMKDKHGTVIYVGKAKSLKERVRSYFTGTHDGKTQRLVE-EIADFEYIVTSSNAEALILEMNLIKKHD-----PKY   89 (99)
+T ss_dssp             CEEEEEECTTSCEEEEEEESSHHHHHHHTTSSCCCHHHHHHHH-HCCEEEEEECSSHHHHHHHHHHHHHHHC-----CHH
+T ss_pred             CcEEEEECCCCcEEEEEecccHHHHHHHhccCCCCchHHHHHH-hceeEEEEEcCCHHHHHHHHHHHHHHhC-----Ccc
+
+
+Q ss_pred             cccCChhHHH
+Q FD01848903_024   71 NAINSPGEKL   80 (103)
+Q Consensus        71 N~i~SPGkK~   80 (103)
+                      |....++..+
+T Consensus        90 n~~~~~~~~~   99 (99)
+T 1YD6_B           90 NVMLKDDKSY   99 (99)
+T ss_dssp             HHHTCC----
+T ss_pred             cccccCCCCC
+
+
+No 4
+>PF20815.1 ; GIY_YIG_2 ; GIY-YIG catalytic domain
+Probab=83.72  E-value=5.8  Score=27.87  Aligned_cols=70  Identities=13%  Similarity=0.082  Sum_probs=0.0  Template_Neff=9.300
+
+Q ss_pred             ceEEEe-cCC--------------------eEEEccCChhHhHHHHhhhc------------------------------
+Q FD01848903_024    2 GTYMFT-DGS--------------------NWYIGKGPESRMYDSMGERV------------------------------   30 (103)
+Q Consensus         2 GsY~i~-~sG--------------------k~Y~GKG~~~R~~~S~~~~~------------------------------   30 (103)
+                      |.|.|. .++                    -.|+|+....|.+.+.....                              
+T Consensus         1 GvY~~~~~~~~~~~~~~~~~~~~~~~~~~~~lYVG~a~nL~~Rl~~h~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   80 (137)
+T A0A2D3WMF1_9PR    1 GVYKWYMPQTLVDLLNVPMDGCEYKDGFGYFVYVGIAKNMRQRLDWHISQKHSKSSVKSGFLSTFRQTLCGLAKVPMDDE   80 (137)
+T ss_pred             CceEEecCHHHHHhccCCCCCccccCCCCceEEEEeCccHHHHHHHHhhcCCccchhcccccchHHHHHHHHhCCCCCCh
+
+
+Q ss_pred             ---CCCCceEEEEEeeCCCcchHHHHHHHHHHHcCCCCCcCcccccCCh
+Q FD01848903_024   31 ---GGKINVTQGLHVDYGNNTTGLMVEAELMRRNSAVTDVNFKNAINSP   76 (103)
+Q Consensus        31 ---~gd~~~~~~~w~pa~~~reAf~~E~~~m~~~g~~~~~~~yN~i~SP   76 (103)
+                         ..-.....+.|.+..+..++...|..++....     +.+|....+
+T Consensus        81 ~~~~~~~~~~~i~~~~~~~~~~~~~~E~~li~~~~-----P~~N~~~~~  124 (137)
+T A0A2D3WMF1_9PR   81 DTVNTIIDQMSIEFSLCTSKDEAESIEKEIIHSST-----LPLNIMHNK  124 (137)
+T ss_pred             HHHHHHHHhceEEEEECCChHHHHHHHHHHHHHCC-----CCccccCCC
+
+
+No 5
+>1MK0_A Intron-associated endonuclease 1; alpha/beta fold  CATALYTIC DOMAIN  DNA-BINDING SURFACE, HYDROLASE; HET: CIT; 1.6A {Enterobacteria phage T4} SCOP: d.226.1.1
+Probab=75.44  E-value=23  Score=21.06  Aligned_cols=75  Identities=11%  Similarity=-0.001  Sum_probs=0.0  Template_Neff=12.100
+
+Q ss_pred             CceEEEe--cCCeEEEccCChhHhHHHHhhhc-CCCC--------------ceEEEEEee--CCCcchHHHHHHHHHHHc
+Q FD01848903_024    1 TGTYMFT--DGSNWYIGKGPESRMYDSMGERV-GGKI--------------NVTQGLHVD--YGNNTTGLMVEAELMRRN   61 (103)
+Q Consensus         1 ~GsY~i~--~sGk~Y~GKG~~~R~~~S~~~~~-~gd~--------------~~~~~~w~p--a~~~reAf~~E~~~m~~~   61 (103)
+                      .|.|.+.  ..+..|+|.....+.+....... ..+.              ....+.+..  ..+..++...|...+...
+T Consensus         3 ~gvy~~~~~~~~~~yiG~t~~l~~r~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~e~~~~~~~   82 (97)
+T 1MK0_A            3 SGIYQIKNTLNNKVYVGSAKDFEKRWKRHFKDLEKGCHSSIKLQRSFNKHGNVFECSILEEIPYEKDLIIERANFWIKEL   82 (97)
+T ss_dssp             CEEEEEEETTTCCEEEEEESSHHHHHHHHHHHHHHTCCSCHHHHHHHHHHSSCEEEEEEEECCCCHHHHHHHHHHHHHHT
+T ss_pred             ceEEEEEECCCCeEEEEeeCCHHHHHHHHHHHHHcCCCCCHHHHHHHHHhCCcEEEEEEEeecCCHHHHHHHHHHHHHHh
+
+
+Q ss_pred             CCCCCcCcccccCChh
+Q FD01848903_024   62 SAVTDVNFKNAINSPG   77 (103)
+Q Consensus        62 g~~~~~~~yN~i~SPG   77 (103)
+                        ...|..||.+..-|
+T Consensus        83 --~~~~~~~n~~~~~~   96 (97)
+T 1MK0_A           83 --NSKINGYNIADATF   96 (97)
+T ss_dssp             --TTTTSSSCCSSCCC
+T ss_pred             --hccccCccccCCCC
+
+
+No 6
+>PF19835.3 ; SegE_GIY-YIG ; Putative endonuclease segE, GIY-YIG domain
+Probab=72.00  E-value=46  Score=22.95  Aligned_cols=70  Identities=16%  Similarity=0.071  Sum_probs=0.0  Template_Neff=9.300
+
+Q ss_pred             ceEEEe--cCCeEEEccCC-------------------------hhHhHHHHhhhcCCCCceEEEEEeeCCCcchHHHHH
+Q FD01848903_024    2 GTYMFT--DGSNWYIGKGP-------------------------ESRMYDSMGERVGGKINVTQGLHVDYGNNTTGLMVE   54 (103)
+Q Consensus         2 GsY~i~--~sGk~Y~GKG~-------------------------~~R~~~S~~~~~~gd~~~~~~~w~pa~~~reAf~~E   54 (103)
+                      |.|.+.  ..|+.|+|+..                         ..+....+-+.-+.+ .++-..-....+..++...|
+T Consensus        19 ~VY~i~~~~~~~~YIG~t~~~~~r~~~~~~r~~~h~~~~~~~~~~~~~l~~~~~~~g~~-~f~~~iLe~~~~~~~l~~~E   97 (123)
+T A0A0K0KW02_9CA   19 FVYRITNTTSSKSYIGRKYFVQKRKPRGGKRRVTSESDWKQYYGSSEELKQDIRSNGRD-SFRREIISLHRTLGKVNYEE   97 (123)
+T ss_pred             EEEEEEECCCCcEEeeEEEEecccCCCCCceeeeeecchhhhcCCcHHHHHHHHHhCHH-hceEEEEEEeCChHHHHHHH
+
+
+Q ss_pred             HHHHHHcCCCCCcC------cccc
+Q FD01848903_024   55 AELMRRNSAVTDVN------FKNA   72 (103)
+Q Consensus        55 ~~~m~~~g~~~~~~------~yN~   72 (103)
+                      ...+.......+..      .||.
+T Consensus        98 ~~~i~~~~~~~~~~~~~~~~gyN~  121 (123)
+T A0A0K0KW02_9CA   98 TRQLFLHGVLTESLEDGTPAYYNS  121 (123)
+T ss_pred             HHHHHHhCCCCcCCCCCCCCcccc
+
+
+No 7
+>2LWF_A Monothiol glutaredoxin-S16, chloroplastic; Nuclease, Glutaredoxin, HYDROLASE; NMR {Arabidopsis thaliana}
+Probab=52.16  E-value=1.2e+02  Score=21.04  Aligned_cols=76  Identities=9%  Similarity=-0.039  Sum_probs=0.0  Template_Neff=8.900
+
+Q ss_pred             CceEEEe--cCCeEEEccCChhHhHHHHhhhc-CCCCceEEEEEeeCCCcchHHHHHHHHHHHcC-CCCCcCcccccCCh
+Q FD01848903_024    1 TGTYMFT--DGSNWYIGKGPESRMYDSMGERV-GGKINVTQGLHVDYGNNTTGLMVEAELMRRNS-AVTDVNFKNAINSP   76 (103)
+Q Consensus         1 ~GsY~i~--~sGk~Y~GKG~~~R~~~S~~~~~-~gd~~~~~~~w~pa~~~reAf~~E~~~m~~~g-~~~~~~~yN~i~SP   76 (103)
+                      .|.|.|.  .+--.|+|+...-|.+....... ...+..+.+.+.+..+..+.--.|..++..+. .....+.+|....+
+T Consensus        26 ~GVY~i~d~~~~~lYIG~s~nLr~rl~~h~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~i~~~~~~~g~~P~~N~~~~~  105 (119)
+T 2LWF_A           26 SGVYAVYDKSDELQFVGISRNIAASVSAHLKSVPELCGSVKVGIVEEPDKAVLTQAWKLWIEEHIKVTGKVPPGNKSGNN  105 (119)
+T ss_dssp             SEEEEEECTTCCEEEEEEESCHHHHHHHHHHHSGGGCSEEEEEECSSCCHHHHHHHHHHHHHHHHHHTCCCCTTTTTSSC
+T ss_pred             cEEEEEEcCCCCEEEEEEeccHHHHHHHHHhcChhhcceEEEEEecCCCHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCC
+
+
+No 8
+>2WSH_C ENDONUCLEASE II; GIY-YIG, NUCLEASE, HYDROLASE; HET: PEG, MSE; 1.9A {ENTEROBACTERIA PHAGE T4}
+Probab=50.19  E-value=1.4e+02  Score=21.19  Aligned_cols=70  Identities=13%  Similarity=-0.024  Sum_probs=0.0  Template_Neff=9.300
+
+Q ss_pred             CceEEEe-cCCeEEEccCChhHhHHHHhhhc---CCCCce---------------EEEEEeeCCCcc-------------
+Q FD01848903_024    1 TGTYMFT-DGSNWYIGKGPESRMYDSMGERV---GGKINV---------------TQGLHVDYGNNT-------------   48 (103)
+Q Consensus         1 ~GsY~i~-~sGk~Y~GKG~~~R~~~S~~~~~---~gd~~~---------------~~~~w~pa~~~r-------------   48 (103)
+                      .|.|.+. ++.-.|+|+....|.+.......   ... ..               ..+.|....+.+             
+T Consensus        41 ~GvY~~~~~~~ilYIG~t~~l~~Rl~~~~~~~~~~~~-~~~~~~~~~i~~~~~~~~~i~~~~~~~~~~~~~~~~~~~~~~  119 (143)
+T 2WSH_C           41 NVIYAIAINDELVYIGKTKNLRKRINYYRTAINRKDK-TSDSTKSALIHSALKEGSKVEFYARQCFNLSMTNELGTMTIA  119 (143)
+T ss_dssp             SEEEEEEETTEEEEEEEESCHHHHHHHHHHGGGC------CCHHHHHHHHHHHTTCCEEEEEEECCEEEEEETTEEEEEE
+T ss_pred             CeEEEEEECCEEEEEEecCCHHHHHHHhhcccCCCCC-CCchhHHHHHHHHHHCCCeEEEEEEecCCcccccccccccch
+
+
+Q ss_pred             hHHHHHHHHHHHcCCCCCcCcccccCCh
+Q FD01848903_024   49 TGLMVEAELMRRNSAVTDVNFKNAINSP   76 (103)
+Q Consensus        49 eAf~~E~~~m~~~g~~~~~~~yN~i~SP   76 (103)
+                      ++...|..++....     +.+|.....
+T Consensus       120 ~~~~~E~~li~~~~-----P~~N~~~~~  142 (143)
+T 2WSH_C          120 TIDLEAPLFIKLFN-----PPWNIQHKK  142 (143)
+T ss_dssp             HHHHHHHHHHHHHC-----CTTCC----
+T ss_pred             hHHHHHHHHHHHhC-----ChhhhcccC
+
+
+No 9
+>3MX1_A Eco29kIR; type II restriction endonuclease, GIY-YIG endonuclease, HYDROLASE; 2.3A {Escherichia coli}
+Probab=49.71  E-value=1.9e+02  Score=23.83  Aligned_cols=72  Identities=19%  Similarity=0.199  Sum_probs=0.0  Template_Neff=6.600
+
+Q ss_pred             CceEEEe-cC-----------------CeEEEccCCh------------------hHhHHHHhhhc-----CCCCceEEE
+Q FD01848903_024    1 TGTYMFT-DG-----------------SNWYIGKGPE------------------SRMYDSMGERV-----GGKINVTQG   39 (103)
+Q Consensus         1 ~GsY~i~-~s-----------------Gk~Y~GKG~~------------------~R~~~S~~~~~-----~gd~~~~~~   39 (103)
+                      .|.|.|- .+                 --.||||...                  -|.+....++.     .-++.-..+
+T Consensus        67 ~GVY~lyy~G~~~~Y~~~~~~~~~~~~~pIYVGKA~~~~~r~g~~~~~~~~~~~~L~~RL~~H~~~i~~~~~l~~~df~~  146 (235)
+T 3MX1_A           67 AGVYALYYTGHYSLYDEYSRINRLAYNLPIYVGKAVPAGWRQSRISDHETRAGSELSNRIREHGRNIAKTSNLDLCDFSC  146 (235)
+T ss_dssp             CEEEEEEECSCCGGGTTHHHHTSSSCCCCSEEEEECCTTTSCSSCSSCSSCCCSHHHHHHHHHHHHHHTCSSCCGGGEEE
+T ss_pred             CeeEEEEEeeCChhhchhhhhccccCCccEEEEccCCccccccccccccccccchHHHHHHHHhhhcccCCCcccceEEE
+
+
+Q ss_pred             EEeeCCCc---chHHHHHHHHHHHcCCCCCcCcccc------cCChhH
+Q FD01848903_024   40 LHVDYGNN---TTGLMVEAELMRRNSAVTDVNFKNA------INSPGE   78 (103)
+Q Consensus        40 ~w~pa~~~---reAf~~E~~~m~~~g~~~~~~~yN~------i~SPGk   78 (103)
+                      .|....+.   -.+. .|..++....     +.+|.      .+.||+
+T Consensus       147 r~l~~~~~~~~~i~~-~E~~LI~~~~-----P~WN~~i~GFG~~~PG~  188 (235)
+T 3MX1_A          147 RFVIFEATGSDMIST-VQAALIKIYK-----PLWNTVVDGFGNHTPGA  188 (235)
+T ss_dssp             EEEECCSGGGGGHHH-HHHHHHHHHC-----CHHHHTSCCTTCCCCCS
+T ss_pred             EEEEeccCCchhHHH-HHHHHHHHHC-----CCccccCCCCCCCCCCC
+
+
+No 10
+>1ZG2_A Hypothetical UPF0213 protein BH0048; BhR2, Autostructure, Northeast Structural Genomics Consortium, PSI, Protein Structure Initiative, NESG, STRUCTURAL GENOMICS, UNKNOWN FUNCTION; NMR {Bacillus halodurans}
+Probab=41.67  E-value=1.6e+02  Score=19.49  Aligned_cols=54  Identities=13%  Similarity=0.199  Sum_probs=0.0  Template_Neff=9.700
+
+Q ss_pred             eEEEe-cCCeEEEccCChhHhHHHHhhhc-------CCCCceEEEEEeeCCCcchHHHHHHHH
+Q FD01848903_024    3 TYMFT-DGSNWYIGKGPESRMYDSMGERV-------GGKINVTQGLHVDYGNNTTGLMVEAEL   57 (103)
+Q Consensus         3 sY~i~-~sGk~Y~GKG~~~R~~~S~~~~~-------~gd~~~~~~~w~pa~~~reAf~~E~~~   57 (103)
+                      .|.+. .+|+.|+|-.....-+.......       ... ...-+-.....+..+|...|...
+T Consensus        10 vYil~~~~~~~YiG~T~~l~~R~~~h~~~~~~~~t~~~~-~~~lv~~~~~~~~~~A~~~E~~~   71 (107)
+T 1ZG2_A           10 VYILECKDGSWYTGYTTDVDRRIKKHASGKGAKYTRGRG-PFRLVATWAFPSKEEAMRWEYEV   71 (107)
+T ss_dssp             EEEEECTTSCEEEEEECCHHHHHHHHHHHTTCCSCCCCS-SCEEEEEEEESCHHHHHHHHHHH
+T ss_pred             EEEEEeCCCeEEEEEeCCHHHHHHHHHCCCCccccccCC-CeEEEEEEEcCCHHHHHHHHHHH
+
+
+No 11
+>1YWL_A Hypothetical UPF0213 protein EF2693; Alpha and beta, Structural Genomics, Northeast Structural Genomics Consortium (NESG), Protein Structure Initiative (PSI), UNKNOWN FUNCTION; NMR {Enterococcus faecalis}
+Probab=27.81  E-value=2.5e+02  Score=17.56  Aligned_cols=55  Identities=13%  Similarity=0.102  Sum_probs=0.0  Template_Neff=10.600
+
+Q ss_pred             eEEEe-cCCeEEEccCChhHhHHHHhhhc------C--CCCceEEEEEeeCCCcchHHHHHHHH
+Q FD01848903_024    3 TYMFT-DGSNWYIGKGPESRMYDSMGERV------G--GKINVTQGLHVDYGNNTTGLMVEAEL   57 (103)
+Q Consensus         3 sY~i~-~sGk~Y~GKG~~~R~~~S~~~~~------~--gd~~~~~~~w~pa~~~reAf~~E~~~   57 (103)
+                      .|.+. .++..|+|.......+.......      .  ..-.+.-+-.....+..+|...|..+
+T Consensus         9 vY~l~~~~~~~yiG~t~~l~~r~~~h~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~A~~~E~~~   72 (96)
+T 1YWL_A            9 FYVLLCQDGSFYGGYTTEPERRLTEHNSGTGAKYTRLAKRRPVIMIHTEKFETRSEATKAEAAF   72 (96)
+T ss_dssp             EEEEECTTCCCEEEEESCHHHHHHHHHHHHSCSSCSSCCSSCCEEEEEEEESSHHHHHHHHHHH
+T ss_pred             EEEEEeCCCCEEEEEcCCHHHHHHHHHcCCCchhhccccCCCeEEEEEEEeCCHHHHHHHHHHH
+
+
+No 12
+>PF01541.28 ; GIY-YIG ; GIY-YIG catalytic domain
+Probab=27.47  E-value=1.9e+02  Score=16.07  Aligned_cols=66  Identities=15%  Similarity=-0.007  Sum_probs=0.0  Template_Neff=12.900
+
+Q ss_pred             ceEEEe--cCCeEEEccC-ChhHhHHHHhhhc---C-------------CCCceEEEEEeeCCCcchH--HHHHHHHHHH
+Q FD01848903_024    2 GTYMFT--DGSNWYIGKG-PESRMYDSMGERV---G-------------GKINVTQGLHVDYGNNTTG--LMVEAELMRR   60 (103)
+Q Consensus         2 GsY~i~--~sGk~Y~GKG-~~~R~~~S~~~~~---~-------------gd~~~~~~~w~pa~~~reA--f~~E~~~m~~   60 (103)
+                      |.|.+.  ..+..|+|-. ...+-+.......   .             .. .+.-..+....+..++  ...|...+..
+T Consensus         3 ~vy~~~~~~~~~~yig~t~~~~~~r~~~~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~e~~~~~~   81 (89)
+T VF019_IIV6/3-9    3 YIYAIENNLNDEVYIGSTLRTIEERFSEHKASARRRPTCTFHKFMSLHGIE-HFKIIELKKIEVNSFFELQALEESYIRD   81 (89)
+T ss_pred             eEEEEEeCCCCcEEEEeeCCCHHHHHHHHHHHhccCCCCchHHHHHHhCcC-CeEEEEEEEeccCChHHHHHHHHHHHHH
+
+
+Q ss_pred             cCCCCCcCccc
+Q FD01848903_024   61 NSAVTDVNFKN   71 (103)
+Q Consensus        61 ~g~~~~~~~yN   71 (103)
+                      ...   +..+|
+T Consensus        82 ~~~---~~~~n   89 (89)
+T VF019_IIV6/3-9   82 YGS---LNTIN   89 (89)
+T ss_pred             hCC---CCCCC
+
+
+No 13
+>4G5A_B Uncharacterized protein; Immunoglobulin - like beta-sandwich, Structural Genomics, Joint Center for Structural Genomics, JCSG, Protein Structure Initiative, PSI-BIOLOGY; HET: MSE, GOL; 1.69A {Bacteroides thetaiotaomicron}
+Probab=21.17  E-value=1.8e+02  Score=19.40  Aligned_cols=16  Identities=25%  Similarity=0.414  Sum_probs=0.0  Template_Neff=9.100
+
+Q ss_pred             CceEEEe--cCCeEEEcc
+Q FD01848903_024    1 TGTYMFT--DGSNWYIGK   16 (103)
+Q Consensus         1 ~GsY~i~--~sGk~Y~GK   16 (103)
+                      .|.|++.  .++..|.|+
+T Consensus        79 ~G~Y~l~i~~~~~~~~g~   96 (99)
+T 4G5A_B           79 LGQYELYMYNASVKVVGN   96 (99)
+T ss_dssp             SSEEEEEEECSSCEEEEE
+T ss_pred             CcEEEEEEEeCCeEEEEE
+
+

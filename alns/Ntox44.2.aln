@@ -1,0 +1,1200 @@
+>FD01845954_00561 hypothetical protein
+QWGD---TKISIYDFK--------EPIRQ-----------H----YGAM---LR------
+---------------------------------------------------------IGN
+DA----KIYSNEGFSNLDWGILSYQVGIGPDNAKMFANMD--------------------
+--------------------------------PSSRDEI--QDDIATDEGYKLAINSA
+>WP_159080574.1 polymorphic toxin type 44 domain-containing protein [Nocardia suismassiliense]
+-WGVKV-APGQDWDHK--------PQLQS-----------K----FDLK---TS------
+--N----------------------------DFYFK---------QPG------------
+TD----RKVYYDIYSNIHYGYVGRAAGIDSETLIKGASLGEA------------------
+--------------------------------ITGNDDE--ADQITMRAGIDLYNKYG
+>WP_110519063.1 WXG100 family type VII secretion target [Herpetosiphon llansteffanensis]
+-WTAKV-HAGSDWDHK--------PILGD-----------M----LGLK---ND------
+--K----------------------------DYYFP---------IRG-----------D
+QT----NEYYYDIWSNIHYGYVGAAAGFDTKTLQDGANLGDA------------------
+--------------------------------LTGTNDA--GDVLTVQMGIDLWNKYG
+>WP_188052151.1 polymorphic toxin type 44 domain-containing protein [Azospirillum sp. Sh1]
+--------PGMPWDHK--------KEIRS-----------A----YGT------------
+-------------------------------WSYD-----------------------GD
+TG----RDYYFDIWSNIHYGYVGRACGFSVWTLKAGGGAAQLIARTMPDGY--WK-----
+--------------RRF----ESLGD-AD-F-LAACDDP--CDQQAIILGADLWDRHG
+>WP_063006202.1 polymorphic toxin type 44 domain-containing protein [Nocardia salmonicida]
+----------AEWDHK--------PQLEE-----------R----FNLS---AE------
+--D----------------------------DYYFK---------DPS------------
+QD----RAVYYDLYSNIHYGYVGRAAGFPEDTLIWAANQGGS------------------
+---------------------------------TGANDV--GDDISMRIGSELYEKYG
+>WP_252480382.1 polymorphic toxin type 44 domain-containing protein [Crossiella sp. SN42]
+----LV-RPGGPWDHK--------GEIRQ-----------L----MGMN---RH------
+--T----------------------------GFLTG---------IDG------------
+TT----LKIRHDFWSNLHYGYVGSAAGFSGFELHQGANAADLAS----------------
+---------------------------------GHWTDP--ADQYAVEMGIQLFRQVP
+>WP_077247107.1 polymorphic toxin type 44 domain-containing protein [Helicobacter pullorum]
+-FREII-DTDKPWDHK--------PQIRD-----------L----FPTM---GL------
+----------------------------ST-PFYHR-------------------YIHNG
+KH----YEISYDIWSNIHFGYIGKAIGFWEWLLKKGADWAQN------------------
+--------------------------------GFFGDDP--KDKAAIDIGFQLYDTYK
+>OKI21208.1 hypothetical protein A6A07_35780 [Streptomyces sp. CB03911]
+--------TGGPWDHK--------PQLEK-----------K----FDLQ---SN------
+--N----------------------------DFYFK---------VPG------------
+RD----VSVSDDIYSNIHYGYVGRAAGISRPELMQGANGGVA------------------
+--------------------------------STGTNDP--GDDMSMKVGMDLYEKYG
+>WP_184478856.1 polymorphic toxin type 44 domain-containing protein [Saccharopolyspora gloriosae]
+-WANQV-RPGAEWDHK--------PLLED-----------E----FGLD---AK------
+--E----------------------------EFQFK---------VPG------------
+ED----RSASYDIWSNIHYGYVGRAAGIDAETLIEGASIGEG------------------
+---------------------------------VGEDDQ--GDQLTMRAGIEIYEKYG
+>WP_132482242.1 polymorphic toxin type 44 domain-containing protein [Saccharopolyspora elongata]
+-WGNLV-KPGGEWDHK--------SKIL------------------GMT---VE------
+--D----------------------------NTYTP---------IPG------------
+VP----GEIRYDTWSNIHYGYVGLEAGFSEDELHAGANVADYGT----------------
+---------------------------------QDRTDP--TDQAAVQFGIDLHEKYG
+>WP_075137805.1 polymorphic toxin type 44 domain-containing protein [Actinophytocola xinjiangensis]
+-WAAMV-APNRPWDHK--------PLLAD-----------R----YGLE---TL------
+--N----------------------------ETYLK---------DPN------------
+GK----RAVSYDIWSNIHYGYVGRAAGISRWELENGAQVPVL------------------
+---------------------------------AGNTDE--GDKITVKVGMDIYEKYG
+>WP_211323127.1 polymorphic toxin type 44 domain-containing protein [Amycolatopsis palatopharyngis]
+----------CEWDHK--------PKIEA-----------M----LDLE---MK------
+--G----------------------------DYFLP---------VKG----------KE
+DK----YELYYDIWSNIHYGYVGRAAGFSGGTLQSAAGSGVP------------------
+--------------------------------GVGANYV--GDEVTVQIGIDLYARYK
+>WP_057232764.1 MULTISPECIES: polymorphic toxin type 44 domain-containing protein [unclassified Kitasatospora]
+-WALKV-APGQDWDHK--------PQLQD-----------R----LDLK---KA------
+--D----------------------------DFYFQ---------VPG------------
+TK----DKVFYDIYSNIHYGYVGTAAGMGPDTLIKGATVPVPI-----------------
+--------------------------------LVGKSDP--GDVLTMQAGIDLWKKYG
+>MBC7251751.1 hypothetical protein [Anaerolineae bacterium]
+-WGAMV-APGMPWDHK--------PKLEG-----------K----LGLA---QG------
+--DG---------------------------DYFFP---------IEG-----------D
+PE----HEYYYDIWSNIHFGYVGAAAGFDAETLQAGAAVPGI------------------
+---------------------------------AGANDA--YDMLSIQIGIDLWNKYG
+>WP_084473357.1 polymorphic toxin type 44 domain-containing protein [Nocardia alba]
+--------TGGDWDHK--------WQLQE-----------K----FGLE---TG------
+--E----------------------------DFYFK---------DPS------------
+QD----RAVSYDIYSNIHYGYVGRASGFDTPTLISFANLGDG------------------
+--------------------------------VTGTNDS--GDDISMNIGAALYDKYG
+>MCB2263723.1 polymorphic toxin type 44 domain-containing protein [Candidatus Thiosymbion ectosymbiont of Robbea hypermnestra]
+----KV-RTGGDWDHK--------PQIAT-----------R----FHPC---DP------
+----------------------------KE-QQWH-----------------------LH
+GD----TLYYYDIWSNLHYGYVGMAAGFSESALLDGAGLEQIGSDLLRGK----------
+-------------LPKR----SE--G-IA-G-MRAWDDP--KDRFAIKLGIGLWPR--
+>WP_216853724.1 polymorphic toxin type 44 domain-containing protein, partial [Phytoactinopolyspora halotolerans]
+--------KVCEWDHK--------PKIEE-----------R----FEMD---SR------
+--E----------------------------NYYTP---------IKD-----------R
+PG----YEAYYDIWSNIHYGYVGRSAGFDADTLQEGAASGNP------------------
+--------------------------------LAGVNDA--GDIITVQIGIDLYDQHA
+>WP_085093244.1 polymorphic toxin type 44 domain-containing protein [Mycolicibacterium fallax]
+--------EGGPWDHK--------PQIRA-----------L----VGAQ---NG------
+--D----------------------------DLFFQ---------EPG------------
+SD----RQVFYDIYSNLHYGYIGRASGLPEWLLMEAAGGGLP------------------
+--------------------------------GTGVNDP--GDDITMKAGITLFEKYG
+>NDZ97725.1 hypothetical protein [Streptomyces sp. SID11726]
+-WALKV-RTNGDWDHK--------PKLRE-----------M----FGIP---QEGG----
+-GD----------------------------LDYFQ---------YPG------------
+TD----KRVYLDIYSNIHYGYVGKAAGFDDQTLMRGANSDTA------------------
+--------------------------------GTGTGDP--GDDITMKAGMDMWDKYG
+>WP_160295946.1 polymorphic toxin type 44 domain-containing protein [Aliterella atlantica]
+--------SGGDWDHK--------PKLST-----------M----LEFD---GN------
+--E----------------------------PPTFP---------IPG-----------D
+DE----HEYNYDIWSNIHYGYVGMAAGFNSLELRAGAIAAD-------------------
+----------------------------------RQYVP--ADDLSVRIGIELWEEYG
+>MCB9781084.1 LysM peptidoglycan-binding domain-containing protein [Alphaproteobacteria bacterium]
+--------GGGPWDHK--------ARILT-----------Q----WGE------------
+-------------------------------WAVD-----------------------PT
+SG----ILYNFDVWSNVHYGHVGRAAGLPEFALIEGAGVAQLLDNETVQPD---------
+-------------------------G-EG-L-LGRYDDP--LDQAAIRAGFSLWNSSG
+>WP_110189790.1 polymorphic toxin type 44 domain-containing protein [Pokkaliibacter plantistimulans]
+--------QDSRWDHK--------PVISR-----------C----FHLR---DP------
+----------------------------VK-QEFH-----------------------GW
+KG----RRYFYDIWSNIHYGFIGTAAGFSAPALLDGAGLEQIGSDVLRHR----------
+-------------LPKR----KA--P-LA-GTLRDFDDA--NDRLSIQIGINLYRKFP
+>WP_184792222.1 polymorphic toxin type 44 domain-containing protein [Phytomonospora endophytica]
+--------TGHPWDHK--------WQIAQ-----------K----WGMD---TG------
+--N-------------------------LN-SLYTW---------VDE------------
+KN----ANLRYDVWSNVHYGYVGRHAGFGEQTLLDSANATWLPG----------------
+--------------------------------TGGQLDA--ADDVAIRIGYDLYNRYP
+>WP_236426234.1 polymorphic toxin type 44 domain-containing protein, partial [Pseudomonas syringae]
+--------QNREWDHK--------PKILE-----------K----FNN------------
+-------------------------------DTRH-----------------------KQ
+GK----YSYYYDIWSNIHYGYIGMAAGFSESVLLDGAGLEQIASEILVKA----KN-PIE
+K-----------PWPAP----SE--G-IA-G-LRAWDDD--PDRISIGIGISLHRQSP
+>WP_188648172.1 polymorphic toxin type 44 domain-containing protein [Marinithermofilum abyssi]
+--------ANGPWDHK--------PQLQK-----------L----MNLR---KI------
+--D----------------------------DFYYP---------IKG-----------D
+NQ----HEYFYDLYSNIHYAYIGRAAGLPESLLTRASNVHLP------------------
+--------------------------------GVGRTDP--GDNISLDIGYELYDKHK
+>KRF38227.1 hypothetical protein ASG96_17365 [Terrabacter sp. Soil810]
+-WHDLV-CTGCVWDHK--------PIIAQ-----------T----WDDR-----------
+--D----------------------------RYFAD---------VPG------------
+TG----WKIYYDVWSNIHYGYVGRAAGWSRSDLITGSHISE-------------------
+--------------------------------GAGHTDA--GDDLSINIGMDLYEQYG
+>WP_164013313.1 polymorphic toxin type 44 domain-containing protein [Pyxidicoccus trucidator]
+-WAYQV-RENGPWDHK--------PHIKK-----------T----FRQA---DA------
+--S------------------------ASE-QHWH-----------------------HL
+NG----WVYYFDIWSNIHYGYVGRACGFSASELLDGAGLEQIGSNIVAGK----HF----
+------------FRHPS----SP--G-TR-G-LRRFDAP--SDRLSIDMGIKLYPRDP
+>WP_231641641.1 polymorphic toxin type 44 domain-containing protein [Saccharomonospora sp. NB11]
+-WYNKV-KENADWDHK--------PILKD-----------M----FGLD---TA------
+--N----------------------------DYNFK---------IPD----------DP
+KG----RSLFYDAWSNIHYGYVGMAAGINEHMLMTAGSLNFG------------------
+--------------------------------SFGADDP--GDQITMRAGIELYKKYG
+>WP_227833877.1 polymorphic toxin type 44 domain-containing protein [Nocardia macrotermitis]
+--------PGGPWDHK--------AYLAA-----------T----FGGR---AY------
+--DLDR----------------------SRGTYYFQ---------WNG------------
+TK----YLLSYDLWSNFHYGYVGRSAGIDAETLRKAHQAPG-------------------
+---------------------------------TGATDP--GDVLTVDLGIDFYTKYG
+>BBA37013.1 hypothetical protein sS8_5090 [Methylocaldum marinum]
+-WFLQV-RENGPWDHK--------PILHK-----------M----YESM---GT------
+--PPRP------------------FGT-LGRAFHFP---------IRG-----------D
+VF----HEYYYDVWSNIHYGYVGTKCGFDEKTLQDGAASGLP------------------
+--------------------------------GAGDNDE--GDVISVKIGVDLWKSVG
+>WP_228818858.1 polymorphic toxin type 44 domain-containing protein [Nocardia transvalensis]
+-WAEKV-ATGRDWDHK--------GDLRE-----------L----FGLK---SEGTPKGA
+PGD----------------------------DRYFQ---------QPG------------
+TN----RRVLFDIYSNMHYGYVGRAAGIDSETLIKAASIGEK------------------
+--------------------------------GTGKDDA--GDQITMRAGMELYEKYG
+>RMH33045.1 hypothetical protein D6694_15780, partial [Gammaproteobacteria bacterium]
+--------TGAPWDHK--------PYILS-----------R----FGAI---A-------
+----------------------------------------------------------WH
+DG----YGYRFDIWSNIHYGYVGRKVGLSRTELLAGAGAAQIMDGTSQLGY--W------
+--------------------------------GSWFDDP--YDQASIRIGIELYERYQ
+>WP_184785310.1 polymorphic toxin type 44 domain-containing protein [Phytomonospora endophytica]
+--------PGGPWDHK--------GPIGE-----------Y----LGVG---GD------
+--D-------------------------IA-NQYVN---------VPG------------
+TD----YQVRYDLWSNIHYGYVGSAAGFGASTLIEGASLPG-------------------
+---------------------------------AGRSES--ADDFAMQMGIDLWNEYG
+>MCL1961593.1 polymorphic toxin type 44 domain-containing protein [Desulfovibrionaceae bacterium]
+----LV-RTNDPWDHK--------PIIGK-----------R----FKRQ---GM------
+--K--------------------PDDIQAD-HLYIA---------------------PDG
+KE----YAVYYDVWSNIHYGYVGMACGFSPDILLDGAGVEQIGTDLKAGH----------
+------------LPSRKG-------T-QG-G-LRDLDDP--DDSAAISIGIDIYN---
+>MBL8213069.1 hypothetical protein [Bryobacterales bacterium]
+-WTLKV-MQGADWDHK--------TTIPK-----------L----FGAR-----------
+-----------------------------N-PYWH-----------------------IL
+QG----YEYYYDIWSNVHYGYVGAACAFSESMLLDGAGLEQIGSSLARLS----------
+-------------APQI----SP--G-VK-G-MRKFDDP--SDRASITIGIKLYQAKP
+>WP_241149847.1 polymorphic toxin type 44 domain-containing protein, partial [Pseudomonas viridiflava]
+-WTERV-GQNRPWDHK--------LKIKK-----------K----FGG------------
+-------------------------------DVHH-----------------------KQ
+GA----YDYYYDIWSNIHYGYIGTAAGFSKAVLLDGAGLEQIASDAVRFA----LN-PSR
+R-----------RGPHR----FE--N-IE-G-LRAWDDA--PDRISITIGMELYESHP
+>WP_237525580.1 polymorphic toxin type 44 domain-containing protein [Streptomyces sp. SID4985]
+-WGAKVCPKICEWDHK--------PKLDK-----------K----FNLS---KK------
+-------------------------------GYFID---------VPG------------
+TD----YKVFYDMWSNVHYGYVGRAAGFDSKTLIQGATISDPI-----------------
+--------------------------------LVGKDDA--GDHMTMQAGIDLFDQHG
+>WP_246247865.1 fibronectin type III domain-containing protein [Micromonospora maritima]
+----LV-RPGGVWDHK--------PAIAS-----------G----FGPG---RE------
+--DG------------------------YQ-AYWYR---------IPG------------
+LP----YEIYYDVWSNIHYGYVGRRAKFTEWELQTGAAP---------------------
+---------------------------------VGVQDD--GDVRSISIGASLWNSHG
+>NVL28668.1 hypothetical protein [Pseudomonas syringae pv. actinidiae]
+-WAERV-GQDRPWDHK--------PSIRA-----------M----FRG------------
+-------------------------------RTWN-----------------------KQ
+GV----YMYYYDIWSNIHYGYVGMSAGLSAEVLLDGAGLEQIASDTLRKI----WD-WEM
+------------PGPRP----TD--G-VE-G-LRAWDDA--PDRISIGLGIELYGLFP
+>WP_039018128.1 polymorphic toxin type 44 domain-containing protein [Halocynthiibacter namhaensis]
+----FF-EGGGEWDHK--------PRIYP-----------Y----WGS------------
+-------------------------------MNRL-----------------------GN
+RG----HVYRYDIWSNIHYGFMGAHAGFGLQHLIEQASVAQVLDN---------------
+--------------------------------ITGSDDI--KDQTATEEGFNLY----
+>MBL8493669.1 hypothetical protein [Rhodocyclaceae bacterium]
+--------QNAEWDHK--------PKIAR-----------M----FNPR---NP------
+--G-------------------------GL-QHWH-----------------------LY
+GC----TLYFYDVWSNLHYGYVGRAAGFSEAVLLDGAGLEQIGSDVLRGN----------
+-------------MPAR----TP--G-VR-G-LRAWDAA--TDRAAVEAGIRLFD---
+>WP_166222335.1 polymorphic toxin type 44 domain-containing protein [Pseudomonas atagonensis]
+--------PRMDWDHK--------PKLRK-----------L----FVG------------
+--------------------------------VYH-----------------------KQ
+GG----YDYFYDIWSNIHYGYVGVVAGMSESELLDGAGAAQFLSDAATKA----GE-LSR
+P-----EEERVHPGPHT----TA--SPWY-E-PRSWDDV--ADRVSIQIGMRLAKQYP
+>KPF42021.1 hypothetical protein IP76_18765 [Rhizobium sp. AAP43]
+-----G-REGGQWDHK--------PILRP-----------V----WGA------------
+-------------------------------QHRL-----------------------GN
+SG----YVYYYDVWSNIHYGYIAAKAGFSLNHVLDGAAGAQQLDNKQ-------------
+--------------------------------IENSDDP--VDVQSIKEGYALGQK--
+>MCI8208560.1 hypothetical protein [Pseudomonas sp. S25]
+--------QNRPWDHK--------PKIKE-----------K----FGD------------
+--------------------------------YWH-----------------------KQ
+GD----YVYYYDIWSNIHYGYIGIAAGFSEAVLLDGAGAEQIISDAARKL----SD-WEN
+K-----------PSPHR----SA--D-IT-G-LRAWDDI--PDRKSIIIGMNLFRSYA
+>WP_013702725.1 polymorphic toxin type 44 domain-containing protein [Treponema succinifaciens]
+-WIEMV-DTNKPWDHK--------LKIKK-----------Q----FHYC---AV------
+--HRPL-----------------KSGTPSE-SYYH-----------------------KY
+NY----HDYYLDVWSNIHYGFVGRYCGFSEDTLLTGSDIQQLITNIKHFN----------
+--------------------------------FKGGDDP--ADKITMQLGMDLYSKYK
+>WP_032630001.1 polymorphic toxin type 44 domain-containing protein [Pseudomonas syringae]
+--------QDQEWDHK--------PKLII-----------R----FNG------------
+-------------------------------AAWH-----------------------KY
+GR----HTYFYDIWSNVHYGYIGVACGFSEDWLFDGAGLEQIGSDSVRKI----KK-WRE
+R-----------PGPRR----SE--G-VE-G-WRAWDDP--PDRISIAIGIKLYRRYS
+>WP_225923735.1 polymorphic toxin type 44 domain-containing protein [Pseudomonas azerbaijanoriens]
+--------QNMEWDHK--------PKLLA-----------M----YNG------------
+-------------------------------VVRH-----------------------KQ
+GK----YEYYYDIWSNIHYGYVGIAGGFSESVLLDGAGVEQIGSDTKRWL----ED-RKK
+N-----------PGPHL----TA--NLSD-G-LRAFDDI--ADRVAISIGVKLANRHS
+>WP_150069404.1 polymorphic toxin type 44 domain-containing protein [Saccharopolyspora hirsuta]
+--------PGMDWDHK--------PKIRA-----------R----EGLD---EG------
+--N-------------------------PD-QLYFK---------IPG----------DD
+AG----REVFYDVWSNIHYGYVGRACGFDEDVLHTAPRLPG-------------------
+---------------------------------TGEHDK--GDVFSMQAGMDLWNEHE
+>WP_124320372.1 polymorphic toxin type 44 domain-containing protein [Pseudomonas chlororaphis]
+--------QDRPWDHK--------PKIRA-----------T----IGG------------
+--------------------------------IWH-----------------------KQ
+GK----YEYFYDIWSNIHYGYVGMAGGLSESVLLDGAGIEQIGSDTVRKV----FD-WNN
+R-----------IGPHR----SA--D-IE-G-ARAFDDV--ADRVSISIGVKLYQEHP
+>NUT34635.1 hypothetical protein [Hamadaea sp.]
+------------WDHK--------PKLRE-----------M----FDMQ---PG-----L
+--DGHI----------------------RT-NMYPS-------------------TAIGV
+RQ----MAVDYDVWSNIHYGYVGARAGIPAKTLILGSHIAP-------------------
+--------------------------------GAGQTDA--GDDAAIRLGIELAQKYP
+>HBE21788.1 hypothetical protein [Cyanobacteria bacterium UBA11367]
+-WYTLV-KTGGPWDHK--------AKIMN-----------S----YGK------------
+-------------------------------WSFD-----------------------RL
+DK----RLYSFDIWSNIHYGYIGLASDIPEWDLLSGAGIAQKLAGTVPPGY--ED-----
+--------------RVQ----TML----D-F-FSALDDP--LDQEAIKIGFELWRSVK
+>WP_154897061.1 MULTISPECIES: polymorphic toxin type 44 domain-containing protein [Pseudomonas syringae group]
+--AERV-GQDRPWDHK--------PILTK-----------L----FGG------------
+--------------------------------IWH-----------------------KQ
+GG----YEYFYDIWSNVHYGYVGVAGRFSESVLLDGAGVEQIGSDTWRLI----KN-PKR
+F-----------DGPRK----TE--G-VK-G-MRAWDDT--PDRVSIIIGMNLYKEYP
+>GDY60500.1 hypothetical protein SVIO_111230 [Streptomyces violaceusniger]
+-WALMV-RPHGPWDHK--------EYLAD-----------R----FRGR---AY------
+--EFDQ----------------------SRGAYYFQ---------WGY------------
+TG----YLLSHDFWSNFHYGYVGRSAGIDAKELRTGQSLPG-------------------
+---------------------------------AGKTDA--GDRLSVDIGIAFYEKYG
+>WP_165615693.1 MULTISPECIES: RICIN domain-containing protein [Frankia]
+--------PGGPWDHK--------PFIER-----------D----FLGS---SY------
+--S--R----------------------ENGRLYFQ---------WYD------------
+RP----YLLSHDFWSNFHYGYVGRAAGFKADVLRYAHQLPG-------------------
+---------------------------------TGGTDS--GDKLAVDIGIAYFNKFG
+>WP_103343112.1 polymorphic toxin type 44 domain-containing protein [Amycolatopsis sp. CA-126428]
+----RV-RPGGLWDHK--------EKILH-----------D----YGMR---ER------
+--N----------------------------DVFSP---------IPD------------
+TN----GKISYEVWSNIHFGYVGIDAGLTAEELHGGSELADIIAG---------------
+--------------------------------PGHRPDL--GDEVAVQIGIDLRARYG
+>WP_016417097.1 polymorphic toxin type 44 domain-containing protein [Halomonas anticariensis]
+----MV-MQGHAWDHK--------SDIQD-----------K----FHTL---GK------
+--S-------------------------SY-QYHH-----------------------KY
+KN----HEYFYDIWSNIHYGYMGLFCGFSRDALLDGAGLEQVGSDLRRFQL---------
+------------PTDRS----VV--N-GE-E-LRRFDDI--TDALSIRIGYDLFDAFP
+>BDC51539.1 hypothetical protein F183_A38550 [Bryobacterales bacterium F-183]
+----------GLWDHK--------PILRR-----------T----LALK---KG------
+-------------------------------DMHFP---------FRG-----------D
+SK----HEFFYDIWSNVHYGFVGRAAGFSAAVLQAGHHLGGI------------------
+---------------------------------AGASDP--FDDKTVQMGIDLWDTHG
+>OUM73123.1 hypothetical protein AUC60_14065 [Pseudomonas caspiana]
+-WTERV-GQNRPWDHK--------PMIKS-----------K----FDG------------
+--------------------------------AWQ-----------------------KQ
+GA----HDYFHDIWSNIHYGYVGIASGFSESVLFDGAGAEQIISDTVRRI----QH-GEK
+Y-----------PGPSK----TP--N-VE-G-LRAWDDA--PDRESIQIGVNLYHRYP
+>OFY63386.1 hypothetical protein A3H98_02505 [Bacteroidetes bacterium RIFCSPLOWO2_02_FULL_36_8]
+----------GEWDHK--------GIIGD-----------I----WGE------------
+-------------------------------HNRF-----------------------GN
+SG----KSYFYDIYSNMHYGYVGHAAGFTIDELKSGANIQQMFDH---------------
+---------------------------------GEKDDT--SDVDAIVEGFNMYE---
+>WP_103739226.1 MULTISPECIES: polymorphic toxin type 44 domain-containing protein, partial [Pseudomonas syringae group]
+--AERV-GQNRPWDHK--------PILAA-----------K----YDG------------
+-------------------------------VVYH-----------------------KQ
+GD----YDYFYDIWSNIHYGYVGRAGGLSESILLDGAGAEQIVSDTLRKV----GEVLQK
+P-----KEERELPGPNR----SA--D-ID-G-LRAWDDA--PDRISISIGIKLFSQNP
+>WP_105240380.1 polymorphic toxin type 44 domain-containing protein [Achromobacter spanius]
+--AERV-APGRPWDHK--------RLLRT-----------K----FPGQ-----------
+----------------------------PH-PHWH-----------------------KY
+GD----FDYFYDIWSNIHYGYVGVALGFGADELINGAGLAQAMDDFVNGR----------
+------------PLKNH----PQ--N-GT-W-PASSDDV--PDQISIRLGTDLYLEVK
+>TDT31308.1 putative RNase toxin 44 of polymorphic toxin system [Naumannella halotolerans]
+-------------DHK--------LKLER-----------M----TGTH---RT------
+--G------------------------------------------VPG-----------G
+GR----KALNYDVWSNIHYGYIGSVAGFSEKALSEGAASSL-------------------
+---------------------------------AGRDDA--GDQLSIRIGVSLYRRYG
+>WP_106317958.1 fibronectin type III domain-containing protein [Actinoplanes italicus]
+--------PGGPWDHK--------PLISR-----------G----LGPG---LE------
+--TG------------------------NAYSYRYR---------VTG------------
+GA----YEVYYDIWSNMHYGYVGLYCGFTQTVLQEAAGR---------------------
+---------------------------------VGIDDP--GDRRSIRLGFDLWNANG
+>WP_195093469.1 polymorphic toxin type 44 domain-containing protein [Nocardia brasiliensis]
+--------TNGPWDHK--------PQLKR-----------L----FDLK---GE------
+--G-------------------------MEPDFFFQ---------QPG------------
+TN----RQVHYDIYSNLHYGYVGRAAGIDGNLLVSAAAGGGA------------------
+---------------------------------AGQHDQ--GDEITMRAGIELYEKYG
+>PIZ25937.1 hypothetical protein COY47_03220, partial [Chloroflexi bacterium CG_4_10_14_0_8_um_filter_57_5]
+---------GANWDHK--------PKLEK-----------K----LGLK---ES------
+--D----------------------------DYYLP---------IRG-----------D
+TE----HEFYYDIWSNIHYGFVGSAAGFDADTLHKYAESGVL------------------
+--------------------------------GAGKTDG--GDKLSVQIGIDLWNKY-
+>WP_218477106.1 polymorphic toxin type 44 domain-containing protein [Nocardia iowensis]
+---DLV-GSEKRWDHK--------PQIAR-----------D----FGLV---GD------
+--PR------------------------QDPAFFFQ---------QPG------------
+TH----RQVNYDMYSNIHFGFVGRHAGFDGDTLLEGARM---------------------
+---------------------------------ASQHDQ--GDEITMRAGIAMYDKYG
+>WP_003768473.1 polymorphic toxin type 44 domain-containing protein [Neisseria sicca]
+--TERV-FKGRPWDHK--------EYIIE-----------T----FKGY---AV------
+--VRSAYSH------------KLKQNRTFK-KHWH-----------------------KY
+KN----YDYRYDIWSNIHYGYVGLSVGFQKETLLNGANLAQIIDSSG-------------
+--------------------------------GDAGDPI--DDVTAINIGFSLYKKFG
+>TDB77352.1 hypothetical protein E1182_17600 [Micromonospora sp. KC721]
+--------PGSVWDHK--------PSISR-----------V----LGPG---VE------
+--YG------------------------NK-GLFYR---------VTG------------
+RP----YEIYYDVWSNIHYGYVGRRAMFSRDWLQYAASL---------------------
+---------------------------------VGITDA--GDRRSINIGVDLYERHG
+>WP_083423590.1 polymorphic toxin type 44 domain-containing protein [Stigmatella aurantiaca]
+--------PGSTWDHK--------KPILKGDPKKPMIPKEG----FGK------------
+-------------------------------FTCD-----------------------LD
+KH----VRYQYDIWSNIHYGYVGLACGLPRWDLLAGGGGAQIYARTVPDGY--WS-----
+--------------RRF----QELGD-AD-F-LAAFDDP--ADQEAIKIGFELWDSH-
+>KXO94307.1 hypothetical protein AXK61_23820 [Tsukamurella pseudospumae]
+-----------PWDHK--------PRIDK-----------L----MGMA---GR------
+--N----------------------------NYYLR---------LPW-------TKSGD
+EY----DSVFYDIFSNVHYGYVGRMAGFSEETLVGGGNVPVP------------------
+--------------------------------GVGANDL--GDDISTRIGAQLFDRYG
+>WP_092387460.1 polymorphic toxin type 44 domain-containing protein [Halopseudomonas salegens]
+--------QDGPWDHK--------PIIAR-----------R----FTPA--VDP------
+--G-------------------------VP-QHFH-----------------------RY
+HD----RVYFYDVWSNIHYGYVGRACGFSESELLDGAGLEQIPSDMLNRR----------
+-------------VPWP----ND--GWFS-G-MRTLDHP--EDRVSVEMGIELYN---
+>WP_199507663.1 MULTISPECIES: polymorphic toxin type 44 domain-containing protein [unclassified Psychrobacter]
+---------GKPWDHK--------LKIRE-----------K----FKHV---AV------
+--HRPLPP---------------PSNTWSE-TYYH-----------------------KY
+KE----YDYYLDIWSNIHYGYVGRSVGFTANELITGSNIAQYVSDAVRL-----------
+--------------------------------EMSGDTA--DDKTAMEIGIGLYEKYK
+>MCP4746833.1 hypothetical protein [Desulfobacteraceae bacterium]
+--------QDGDWDHK--------PIIAK-----------Q----FHPR---TD------
+----------------------------DE-QHYH-----------------------LY
+GD----RVYYYDVWSNIHYGYVGCASGFSESVLLDGAGLEQIGSNIVAGK----------
+-------------LPKK----DP--G-AQ-G-LRAWDAV--SDRVAVKMGIDLYKTNP
+>RZU51070.1 short repeat uncharacterized protein predicted to be involved in signal transduction [Krasilnikovia cinnamomea]
+-WALKV-GVNKDWDHK--------PKILK-----------M----LRMN---PD------
+--EKY-----------------------FD-TWYTP---------VPD------------
+TD----KKLLIDVWSNIHYGYVGKFAGFTDLELMVGQKLPG-------------------
+---------------------------------TGNRDP--GDDRSVRLGFGLYRDMG
+>WP_165401505.1 polymorphic toxin type 44 domain-containing protein [Herbihabitans rhizosphaerae]
+-WYDLV-HNNSVWDHK--------EELQK-----------M----LGID---TK------
+--S----------------------------ELYQK---------IPG------------
+QN----KQAFYDIWSNLHYGYVGAGAGIPPDRLEQGATLDKQIPGAEK------------
+--------------------------------FVGKSDV--GDEITVRKGIELYQKYG
+>WP_197872406.1 polymorphic toxin type 44 domain-containing protein [Pseudomonas lutea]
+--------QNAQWDHK--------PIISK-----------R----FGG------------
+--------------------------------VWQ-----------------------KY
+ND----HDYYYDIWSNIHYGYIGMAAGFTESELLDGAGLEQIGSDTLRQGIG-IFS-GKK
+T-----------PGPHR----YT--G-AE-G-LRGWDDV--NDQTSIALGIKLYKTQP
+>WP_225504122.1 polymorphic toxin type 44 domain-containing protein [Mycolicibacterium fortuitum]
+-WAEMV-QTNGEWDHK--------PKIEG-----------L----LGIT---SP------
+--NK------------------------LDPNHYFQ---------QPG------------
+TK----RSVLYDIYSNIHYGYIGRVSGIPTDTRVWGATRGTA------------------
+--------------------------------ETGQNDD--GDLITMRGGAALFDKYG
+>WP_021668957.1 polymorphic toxin type 44 domain-containing protein [Prevotella disiens]
+-WKGLV-AAGCPWDHK--------KAIQR-----------L----QGNK---L-------
+-------------------------------WSCD-----------------------KS
+KH----ILFFYDLWSNIHYGFIGKAVGFTEWELTAGAGVAQLKDNNRSWGA--WTS----
+--------Q--YLQNRI----KELGD-AD-F-LAAFDDA--SDNEAIKIGFRLYNRYG
+>WP_012318155.1 polymorphic toxin type 44 domain-containing protein [Methylobacterium radiotolerans]
+-------EKGGQWDHK--------PKIGP-----------I----WGE------------
+-------------------------------FNRL-----------------------GN
+SG----YRYYYDIWSNIHFGYISAKAGFTLAEVKQGADKAQWIDTGS-------------
+---------------------------------SNGDDP--IDAQAIDVGYMLGGR--
+>WP_103162540.1 polymorphic toxin type 44 domain-containing protein [Pectobacterium odoriferum]
+--------TGSTWDHK--------PKIRD-----------K----FGSL---GV------
+--ARPLPP---------------PSNTPSK-SYYH-----------------------KY
+KQ----YDYFYDVWSNIHYGYVGLSVGFSENLLLHGSTWEQNMTPGA-------------
+---------------------------------VGDDTL--DDVTSMKIGFDLYHQHG
+>WP_085357105.1 polymorphic toxin type 44 domain-containing protein [Neisseria dumasiana]
+--------QDGPWDHK--------PIIRK-----------K----FSNF---AV------
+--KNRPLS-------------DKPNATLSQ-SHYH-----------------------KY
+KK----HDYFYDVWSNIHYGYVGMACGFSADLLLDGAGLEQIGTNILSGR----------
+------------SAQKTG---KD--Q-TG-K-LRDYDNI--ADRETIALGINLFKNFG
+>RSN26678.1 hypothetical protein DMC63_02275 [Streptomyces sp. WAC 05977]
+---------GAQWDHK--------GRILD------------------MT---TG------
+--D----------------------------NTFTP---------LPG------------
+LQ----GQIRYDVWSNIHYGYVGTLGGIDEWTLHAGANAADWKD----------------
+---------------------------------SHPTDP--ADQASVQLGIDLAHEYG
+>WP_150063303.1 polymorphic toxin type 44 domain-containing protein [Roseospira marina]
+--------NRKPWDHK--------RHIKS-----------T----YGD------------
+-------------------------------WSTD-----------------------AT
+SG----KSYGFDIWSNVHYGYVGRAAGFWTYVLKAGAGHAQLQAGTSPPGY--WS-----
+--------------RRF----KRIGD-AD-F-LAAFDDP--KDQAAIELGARLWDTYG
+>WP_205042254.1 RHS repeat-associated core domain-containing protein [Streptomyces bryophytorum]
+--------PGGPWDHK--------GVLQQ-----------I----AGG------------
+-------------------------------KLWSQ---------VPG------------
+KE----LEVFYDIWSNIHYGYVGRSAKFSRLELKYGQQLP--------------------
+--------------------------------GTGHTDK--GDILTSGLGMDLWEAFG
+>NDZ92837.1 hypothetical protein [Streptomyces sp. SID11726]
+-WFERV-APSRPWDHK--------PILRE-----------E----FGDT---AE------
+--GD------------------------YDGDYYFQ---------EPG------------
+TN----RQVYYDIWSNVHFGYVGRAAGFDSETLMEGQNFGPDF-----------------
+--------------------------------LTGQKAR--ADDISTEFGARLHDQYG
+>WP_252985753.1 polymorphic toxin type 44 domain-containing protein, partial [Burkholderia multivorans]
+--------PGRPWDHK--------PILRQ-----------K----FRPG---GK------
+--F----------------------------TPWH-----------------------KY
+GQ----YDYYYDIWSNIHYGYVGIAVGFTGDELINGAAIAQIADDKLHGR----------
+------------PVQNH----PE--N-GA-W-PATGDDI--QDHTSIQLGIDLY----
+>WP_225780680.1 polymorphic toxin type 44 domain-containing protein [Pseudomonas sp. Marseille-Q3773]
+-WTERV-GQNRPWDHK--------AAIAQ-----------Q----FGG------------
+--------------------------------AWQ-----------------------KQ
+GE----VDFFYDIWSNIHYGYVGRAGGLSESVLLDGAGLEQIASDSIRKV----QK-WAE
+R-----------KGPHR----SA--D-IE-G-LRAWDDI--GDRVAIGIGIKLHKLHP
+>SED83773.1 RHS repeat-associated core domain-containing protein [Streptomyces sp. TLI_105]
+--------AGADWDHK--------PKLAA-----------M----MGLS---TS------
+--S----------------------------DYNFM---------IPG------------
+TG----DEMYYDIWSNVHYGFVGMAAGFGEGRLEDGPQAPFPGMEI--------------
+--------------------------------FTGDTDA--GDIASVRGGIDMFKRYG
+>MBC7264514.1 hypothetical protein [Chloroflexi bacterium]
+----MV-RQEGPWDPK--------PHIGR-----------D----YGT------------
+---------------------------------SQ-----------------------RI
+GD----AWYYYDIWGNMMFGYLGTAAGFSESELLEGAGLEQIGSSMGYAI----RE-RKS
+S-----------YLPRR----EP--G-VS-G-LRAWDDP--VDQVTTQIGINLWNAYS
+>WP_087752334.1 polymorphic toxin type 44 domain-containing protein [Paraburkholderia caledonica]
+-WADRV-APNRPWDHK--------PIIRH-----------A----LQAK---GN------
+----------------------------FN-RGWQ-----------------------KY
+GQ----DDYFYDIWSNIHYGYVGVAVGFSASELIGGAGLAQAASDASRDV----SH-GRW
+P-----------TMQNH----PQ--N-GT-W-PSSADDV--PDHISIQLGIDLYASVK
+>WP_243828744.1 polymorphic toxin type 44 domain-containing protein [Gordonia amicalis]
+-WFERV-ATGRPWDHK--------PFIRK-----------E----WGVA---EG------
+--D-------------------------YDGDLNFE---------EPG------------
+TG----RSVYYDMWSNMHYGYVGRAAGFDGQTLLDAQNLPVP------------------
+--------------------------------GVGGTSR--GDDIATSWGVEMWERYG
+>PCK06696.1 hypothetical protein COA42_17115 [Alteromonadaceae bacterium]
+--------NRKPWDHK--------GHIKN-----------T----YGE------------
+-------------------------------WASD-----------------------SE
+TS----TQYNYDIWSNLHYGYVGRHVGFSEWLLKAGAGYAQLSAGTSPSGY--WG-----
+--------------RRF----SKLGD-AD-F-LAAFDDP--KDLAAIDIGSKLW----
+>WP_187313438.1 polymorphic toxin type 44 domain-containing protein [Actinosynnema mirum]
+--------PDGRWDHK--------PMIRG-----------M----LGMG---PD------
+--D----------------------------YWYTD---------IPG------------
+MN----AGLYIDVWSNIHYGYIGHLVGFTESDLQFYPRLTGI------------------
+---------------------------------SGRNDQ--ADVITIQIGIDLAKRYR
+>PSQ96788.1 hypothetical protein BRD55_05810 [Bacteroidetes bacterium SW_9_63_38]
+-AGFSI-HGDGIWDFK--------PVLAD-----------A----WGQW---NR------
+--L-------------------------------------------------------TN
+SP----AVYYYDIWSNLHYGYVGRAAGFSKKELIWASDAQQKSGTGA-------------
+--------------------------------TGGKDPV--RDEQAIEEGCSLYKRYS
+>MBI3958218.1 hypothetical protein [Chloroflexi bacterium]
+--------AGADWDHK--------GEIRE-----------K----YRE------------
+---------------------------------YV-----------------------QY
+EG----YAYRFDTWSNIHYGFVGRKIGFTSTELLAGAGAAQIKDGTSNIRY--W------
+--------------------------------KSWFDEP--EDQAGIRIGIEMYETYQ
+>WP_244298071.1 polymorphic toxin type 44 domain-containing protein [Streptomyces griseoflavus]
+--------NDSVWDHK--------TILRE-----------Q----LPVE---NR------
+--DG-------I-------------------CCYNK---------VPG------------
+MD----ADVYYDVWSNVHYGYVGAASGLDQDLLEFGASPGLNVPGMESLP----------
+--------------------------------LVGASDP--GDEVTVRMGIDLWNKYG
+>WP_191986300.1 polymorphic toxin type 44 domain-containing protein [Mycobacteroides salmoniphilum]
+----------GPWDHK--------PQIQD-----------L----VGIH---KG------
+--D----------------------------GLFFQ---------QPG------------
+TD----RQVYYDMWSNLHFGYIGKAAGIDDGALMAVPNIPTP------------------
+--------------------------------LTGGNDV--TDDMYVRAGIDMFNKYG
+>AVR97107.1 hypothetical protein C9I28_16740 [Massilia armeniaca]
+--AERV-GPHRPWDHK--------PILLA-----------R----LSKQ---NI------
+----------------------------FR-KGWQ-----------------------RY
+GN----EDYYFDIWSNIHYGYVGAACGFDESELLGGAGIAQAASDVWVKV----KD-LEK
+P-----------TVQNH----PE--N-GA-W-ANTFDDV--PDQLSIKFGVRLYQQCK
+>OXC88934.1 hypothetical protein BMR85_023865 [Achromobacter sp. KAs 3-5]
+--------PSRPWDHK--------SILRR-----------M----LGPR-----------
+----------------------------LN-KGWQ-----------------------KY
+GS----FDYYYDIWSNIHYGYVGVALGFDSAELINSAGIAQALLDTYNAL----KE-TRW
+P-----------TMQNH----PE--N-GP-W-PASADDV--QDHVSIKLGCNLYDRAR
+>WP_182343384.1 polymorphic toxin type 44 domain-containing protein [Pseudomonas migulae]
+--TERV-GQGRDWDHK--------GKIPE-----------I----MGG------------
+--------------------------------VWH-----------------------KQ
+GD----YEYFYDIWSNIHYGYVGMAGGLSESVLSDGAGLEQIVSDSLRKS----GE-NFK
+ELLTQQTPEKPLPGPQR----SG--D-VE-G-LRAWDDA--PDRISIGIGVQLYKEQP
+>MBX3000487.1 hypothetical protein [Caldilineaceae bacterium]
+----------APWDHK--------TTIAD-----------R----FGR------------
+---------------------------------YQ-----------------------IV
+GN----HRYYFDVWSNIHYGYVGASVGFESDELLWGAGAAQFMNESRTNF----------
+------------SSPTY----REVLS-SP-L-ATRLDYS--TDQAAISLGIHLWSTYG
+>NWA43007.1 PAAR domain-containing protein [Pseudomonas reactans]
+--------TGSIWDHK--------HLIKS-----------K----FSEV---AV------
+--ERQL-----------------KSRQISK-SHYH-----------------------KY
+KN----HDYFYDVWSNIHYGYVGLSTGFSVETLLAGSNMEQIRTSID-------------
+---------------------------------SVKDPI--DDIACVNIGFNLYYKYG
+>WP_054051439.1 polymorphic toxin type 44 domain-containing protein [Alloactinosynnema sp. L-07]
+-WYDLV-KTGGPWDHK--------SRIL------------------GMT---VG------
+--D----------------------------NVFTP---------MPE------------
+-G----GEIRHDIWSNIHYGYAGTHAGIDGRVLHAGANGVDMVE----------------
+---------------------------------NLGVDK--GDQAAVQIGIDLARQYP
+>WP_202978670.1 polymorphic toxin type 44 domain-containing protein, partial [Helicobacter sp. MIT 05-5294]
+--------SESNWDHK--------WQISK-----------L----FPTM---GL------
+----------------------------SK-QYYHR-------------------CIHNG
+IT----YEIGYDIWSNIHYGYIGKVVGFSETELLMGAGIAQFFDNYS-------------
+---------------------------------LTGDDP--KDSEAIKIGFEIYN---
+>HAP24921.1 hypothetical protein [Achromobacter sp.]
+--AERV-GPDRPWDHK--------PILKR-----------M----LGQN-----------
+----------------------------LN-KGWQ-----------------------KY
+GD----HDYYLDIWSNIHYGYVGVALGFSTAELINGAGLAQAMFDGWTKL----------
+------------TQQNH----PE--N-GP-W-PASADDR--PDHISIMLGIELCDEVE
+>WP_147141556.1 polymorphic toxin type 44 domain-containing protein [Stackebrandtia albiflava]
+---------GNDWDHK--------PDIKE-----------I----LHAG---KD------
+--IE---------------------------NTDVE---------VPG------------
+TD----YKVRGDIWSNIHFGYVGKSLGFTDVELETGADLADYMT----------------
+---------------------------------NGTPQP--PDRLAVQLGIDLYEKYP
+>WP_215092448.1 polymorphic toxin type 44 domain-containing protein, partial [Halomonas sp. ISL-56]
+----LT-MPGGIWDHKQYFDPKVDPERAR-----------Q----FATL---GI------
+--T-------------------------TR-QYHH-----------------------KY
+QG----YEYFYDIWSNIHYGYVGCYIGFSEDALLDGAGLAQYASDITEFKW---------
+------------PENRS----DT--N-GS-G-LRRFDDV--TDYLSVRLGISMFERFS
+>HIK09823.1 hypothetical protein [Oscillatoriaceae cyanobacterium M33_DOE_052]
+-WIEMV-GPNKPWDHKSEKDGI--PKLPT-----------K----LALK---GT------
+-------------------------------NYFFR---------FPD-----------D
+FN----YEYFYDIWSNIHYGYVGSAIGFTSQYLHTGASVVDIFS----------------
+---------------------------------LGGVDL--PDVEAVQIGIDLWNKKG
+>MCC3508927.1 hypothetical protein [Microcoleus sp. PH2017_17_BER_D_A]
+--RDKV-SDGQEWDHK--------PKLES-----------D----LNLK---GT------
+--N----------------------------YGYLV---------------------WGN
+SD----REFYYDIWSNIHYGYVGKAAGYSDWELQVFSSINDL------------------
+--------------------------------GKRNVDF--KDTNAIKLGIELWNETG
+>WP_231642776.1 polymorphic toxin type 44 domain-containing protein, partial [Saccharomonospora sp. NB11]
+-WAEMV-RPGGEWDHK--------PMILD-----------S----MGME---KR------
+--G----------------------------NVFTP---------MPD------------
+GE----NRITYEFWSNMHYGYVGTEAGFKDWDLRMSADIADLISTL--------------
+--------------------------------PEPRTSP--ADDVAVRVGIELRESYS
+>WP_073603234.1 polymorphic toxin type 44 domain-containing protein [Vibrio aerogenes]
+--AERV-GPGQPWDHK--------NKISG-----------NHD--LDTH---GE------
+----------------------------ST-QFHH-----------------------KY
+RE----FEYFYDIWSNIHYGYVGKACRFSDAELLDGAGLAQLLDDAVKKN----KS----
+------------IQYSP----SI--P-GF-G-FRKFDDI--TDSISVRLGIALFHDYP
+>MBK8253168.1 PAAR domain-containing protein [Polyangiaceae bacterium]
+-WKDMV-GYGKPWDHK--------SYISQ-----------N----FGE------------
+-------------------------------YSYD-----------------------AG
+TN----TSLPFDTWSNIHYGFVGEAAGFDGKTLLDGAGLAQWLNDNPGAS----------
+------------ALDKAGK-YAEFLG-GN---TAQYDHP--EDQEAIKIGSELWKKY-
+>WP_143489718.1 polymorphic toxin type 44 domain-containing protein [Pseudomonas mangiferae]
+--------PNRPWDHK--------PILRA-----------K----MSAA---GT------
+----------------------------FN-RGWH-----------------------KY
+GA----FNYYYDIWSNIHYGYVGRAAGFSTAELINGAGVAQMASDIFAKV----IR-GKL
+P-----------DVQKH----SE--N-GN-W-PASADDI--PDHISIKLGCVIYDKYK
+>WP_236486483.1 polymorphic toxin type 44 domain-containing protein, partial [Pseudomonas syringae]
+--TERV-GQYRDWDHK--------PKIHK-----------K----FGG------------
+--------------------------------YYH-----------------------KQ
+GE----YEYFYDIWSNIHYGYVGRAGGLSESVLADGAGLEQIVSDSVGAI----SD-ITK
+P-----PVSRKHRGPQR----AE--N-VE-G-LRAWDDD--PDRISVGIGIKLFNLHP
+>ADH04655.1 unknown [Chondromyces crocatus]
+--------PGRPWDHK--------DHFTS-----------R----QIGE---TV------
+--P----------------------------GRWH-----------------------TW
+GE----WEYFHDVWSNIHYGYVGRASGFSERTLIDGANAQQQVHSWWTGK----------
+--------------------------------TSRGDPE--QDSLAVSMGCRMYDS--
+>WP_028624055.1 polymorphic toxin type 44 domain-containing protein [Pseudomonas sp. Ant30-3]
+--------QGMEWDHK--------PKLRK-----------L----FPG------------
+--------------------------------VRH-----------------------KQ
+GK----YDYYYDIWSNIHYGYVGIIGGISESVLLDGAGAEQIVSDSIRKG----DEVLTK
+P-----IAEWKLPGPHP----TA--SPWT-D-FRSWDDV--ADRLSISIGVKLANQHP
+>WP_094786785.1 type VI secretion system tip protein VgrG [Zooshikella ganghwensis]
+----------GEWDHK--------PRIRN-----------V----WGS------------
+-------------------------------SNRL-----------------------GN
+SK----DVYYYDMWSNFHYGFVGTVAGFDRETLISGGQLAQHFDGAD-------------
+--------------------------------FDALDDV--FTQEGID----------
+>MBC7228647.1 hypothetical protein [Thermoflexales bacterium]
+-----------NWDHK--------PILTG-----------K----GSPV---PE------
+--I-----I------------NERPG--KP-WGYS-----------------------TV
+GS----RLYYFDIWSNIHYGYVGRASGFSQPELTGGAGIEQIGSDFVSGV----------
+------------TPHR-----SP--D-ADNW-LASWDDP--SDNAAIQIGIRLWNQYG
+>WP_212588779.1 PAAR domain-containing protein [Nissabacter archeti]
+--------TGAKWDHK--------PKIKA-----------L----FKKD---AI------
+--ARPL-----------------RSNKMSS-SYYH-----------------------KY
+KN----NDYFYDVWSNIHYGYVGLSVGFSQDYLLLGSSIEQIRTSIT-------------
+---------------------------------NEADPI--DDITCMKIGFRLYHQYG
+>SLI85708.1 Uncharacterised protein [Mycobacteroides abscessus subsp. massiliense]
+--------TGGAWDHK--------PIIQN-----------M----VGIH---QG------
+--D----------------------------GLYFQ---------QPG------------
+TP----NQVYYDIYSNVHYGYVARAIGYPRSMIEVAPTLGTG------------------
+--------------------------------DTGVTDV--GDLITVAAGIDMFEKYG
+>WP_246884183.1 polymorphic toxin type 44 domain-containing protein, partial [Pseudomonas chlororaphis]
+--------QNRPWDHK--------PKIYA-----------K----FGD------------
+--------------------------------YYC-----------------------KQ
+GK----YDYYYDIWSNVHYGYVGRAGGLSESVLSDGAGIEQIASDSIRKV----LD-WEK
+R-----------RGPHA----TE--G-VD-G-ARAYDDT--QDRISISIGTQLFAEHP
+>WP_076518781.1 polymorphic toxin type 44 domain-containing protein [Achromobacter sp. MFA1 R4]
+--TERV-APGRPWDHK--------RVLKE-----------K----FPTE-----------
+----------------------------LE-RGWH-----------------------KY
+RD----YEYFYDIWSNIHYGYVGVALGFSALEMINGAGLAQYLHNRWNAQ----------
+------------PQHDN----PE--L-GP-W-PASADDI--QDHRSIRLGAELLRNAP
+>WP_161457566.1 MULTISPECIES: polymorphic toxin type 44 domain-containing protein [unclassified Vibrio]
+-WTALV-GQDQDWDHK--------PIIAQ-----------R----FPTS---GN------
+----------------------------ST-RFHH-----------------------KY
+KE----YEYYYDIWSNIHYGYMGILCGFSESILLDGAGLEQIGTDILSSS----KE----
+------------VTDRS----ET--N-GE-G-LRAFDDT--TDNLSIRIGIELYRKYP
+>UCF24835.1 MAG: hypothetical protein JSV72_05175 [Ralstonia sp.]
+--AERV-APGRWWDHK--------WRIVK-----------M----IQES---GQ------
+----------------------------PF-RPWH-----------------------KY
+GQ----YDYYYDIWSNIHYGYVGVAVGFSAAELINGAGLAQAAYDSYKSL----RN-DGR
+L-----------EIQHH----PE--N-GA-W-PASADDI--PDHISIKLGVDLYSEIK
+>WP_211873823.1 polymorphic toxin type 44 domain-containing protein [Roseomonas arctica]
+-WYNKV-AAGRDWDHK--------GRLKP----------------HNA------------
+-------------------------------WVSD-------------------------
+GD----TAYRFDIWSNIHYGFVGRAVGFSAWTLKAGAGGAQVKDKTVPPGY--WD-----
+--------------RRF----NTLGD-AD-F-LAAFDDP--DDQAAIMLGVDLYNAKG
+>WP_221166714.1 polymorphic toxin type 44 domain-containing protein [Rhizobium sp. NZLR5]
+--------YGQPWDHK--------KFIVS-----------R----WGKL---A-------
+----------------------------------------------------------RL
+TA----SLIEYDVWSNIHFGYVGLQAGFDADVLLNCAGIAQAISSDVPEGW--F------
+--------------RRFY---RG--D-KS-V-FAALDDP--RDQEAIKIGIEVSRKFG
+>WP_189987566.1 polymorphic toxin type 44 domain-containing protein [Thalassobaculum fulvum]
+--------AGRPWDIK--------REFPR-------------------------------
+-------------------------------WVRD-----------------------PA
+EG----FDYGSDLWGNLHYGYIGKAAGFTEFELIAGAIWQAIRDT---------------
+--------------------------------DAWWDDP--KDQAAIRLGFALWDEH-
+>HIE55423.1 hypothetical protein [Chromatiaceae bacterium]
+--------SNAPWDFK--------PDIQK-----------E----IGNQ-----------
+---------------------------------------------------------VIL
+AN----TWYSFDVPANIHYGYVGRAIGFDRDWLLFGAGAAQIKAGTSDRNW---------
+------------------------------G-AWYFDDP--SDYTAVQVGMDLFDRY-
+>NKE57639.1 hypothetical protein [Lentzea indica]
+-WGLQVCQKLCPWDHK--------PKIRE-----------K----WGMS---EG------
+--D-------------------------PD-SLYSD---------VPG------------
+KP----YRIFYDVWSNIHYGYVGIQAAFTGDDLQKGAAGGGP------------------
+---------------------------------AGGNDP--GDVITVQIGIDLGGRYA
+>WP_016588468.1 polymorphic toxin type 44 domain-containing protein, partial [Yersinia pestis]
+--------SGAKWDHK--------PKIRD-----------Q----FKAY---AV------
+--SRPLV----------------GSGTRSK-SYFH-----------------------KY
+EE----HDYFYDVWSNIHYGYVGLSLGFDESYLLLGSTLEQVRTSIG-------------
+---------------------------------SKPDPI--DDITCMKIGYALYHQHG
+>WP_136923949.1 polymorphic toxin type 44 domain-containing protein [Polyangium aurulentum]
+-WAAKV-WPGQSWDHK--------PKFSS-----------G----QGSV---GN------
+--L----------------------------RAWH-----------------------TW
+GE----WEYYFDAWSNIHYGYVGRAAGFDRQTLIEGSNRSSTWD----------------
+--------------------------------TGGNDAA--QDKASMNLGMDLYEQGG
+>NBE53672.1 hypothetical protein [Streptomyces boluensis]
+----------AEWDHK--------PKLEE-----------R----YGLD---SE------
+--I----------------------------DRYFK---------IPG----------DS
+AG----RAVYYDMWSNIHYGYVGAAAGFSLKLLQFGAVVAP-------------------
+--------------------------------GAGTNDK--ADELYVDAGYNLWHSDK
+>WP_044235835.1 polymorphic toxin type 44 domain-containing protein [Chondromyces apiculatus]
+-------------DHK--------ASFRD-----------R----FGE------------
+-------------------------------WTYD-----------------------PV
+SD----RSYRYDIWSNVHMGFVGKAAGFPERLLRSGAGATHLLTGKIPPGY--LE-----
+--------------RLA----ERLLE-ME-L-FPAIDDP--CDHTAIDLGVTLWKRQG
+>WP_095900712.1 MULTISPECIES: polymorphic toxin type 44 domain-containing protein [Capnocytophaga]
+-WKDLV-AKGKIWDHK--------KEIRK-----------L----QNDK---N-------
+-------------------------------WSCS-----------------------KF
+DK--YTIKFYFDIWSNIHYGFIGKRAGFSEFELINGAGYAQIGDNGKKLSE--WKV----
+--------WKEYLKNRF----IDFGD-CD-I-LGGFDDP--NDTQAIKIGFRLYDKFK
+>WP_255637240.1 polymorphic toxin type 44 domain-containing protein [Hyalangium sp. H56D21]
+-WAWLV-REGGLWDYR--------KHIRE-----------T----FKPA---QP------
+--E------------------------DRE-QPYH-----------------------HY
+EG----FLYLHDIWSLIHYGYVGKACGFTSAELLEGAGGPRML-----------------
+----------------------------------QFENP--SERAAVAIGMRLY----
+>WP_165335321.1 polymorphic toxin type 44 domain-containing protein [Streptomyces mesophilus]
+----------ARWDHK--------GVLAK-----------K----FDLD---SD------
+-------------------------------SRTGI---------ADG------------
+KK----GRLLFDVWSNIHYGYIGSAAGFSRAELISASNVKIS------------------
+--------------------------------GVGQTDG--GDNVSVNIGVNLYRDYG
+>WP_077336618.1 polymorphic toxin type 44 domain-containing protein [Vibrio ruber]
+-WLEKV-YKGHLWDHK--------PLIRDNP---------S----LKAV---AV------
+--HRKLWTLAKVRAYRQNKKPNDKPPTDSK-SYWH-----------------------KY
+KR----HDYFYDIWSNVHYGYVGLACGFSQELLLRGAGGAQFLDNMT-------------
+---------------------------------TSGDAP--DDVIAVKVGFKLYQDYG
+>WP_237419515.1 polymorphic toxin type 44 domain-containing protein [Kitasatospora sp. SID7827]
+------------------------------------------------------------
+--------------------------------YYFK---------VPE------------
+RN----VSVSYDIYSNIHYGYVGKAAGLSEFELMNGANGGLS------------------
+--------------------------------STGTNDE--GDDMSMKLGMQLYDKYG
+>WP_234060985.1 MULTISPECIES: polymorphic toxin type 44 domain-containing protein [Bacteroidales]
+-WTERV-FAKRPWDHK--------PIIRE-----------K----FSHL---AV------
+--ERTHP----------------QTQVVYK-SYYH-----------------------KY
+KD----YDYFYDVWSNIHYGYVGLSVGFDEDMLLNGADLAQIIDSKG-------------
+--------------------------------GNVEDTN--DDKTSIKIGFSLYYKYG
+>WP_051672877.1 polymorphic toxin type 44 domain-containing protein [Caballeronia glathei]
+-WAERV-APEHKWDHK--------PQIKK-----------L----LSDR---GG------
+--EK-----------------------LFN-NGWH-----------------------KY
+GQ----HDYFYDIWSNIHYGYVGAAVGFDAAELINGAGLAQIGSDAYRDM----NG-KKW
+P-----------AMQNH----PE--N-GP-W-PASADDI--PDHISIQLGIDLFARVI
+>MBK6429403.1 hypothetical protein [Anaerolineae bacterium]
+----KV-RQGGEWDPK--------PKLVA-----------E----FRGS-----------
+---------------------------KIS-PYWA-----------------------AL
+GE----VEYYYDVWGNIEYGYLGTASAFSGDALLEGAGAEQIGSSLGYTV----KE-RSL
+E-----------YLPRR----TS--G-VQ-G-WRAFDDP--ADQIGIQIGIDLWNTY-
+>KPF44326.1 hypothetical protein IP76_11335 [Rhizobium sp. AAP43]
+--------ENGDWDLK--------PGLES-----------V----WGAN-----------
+-------------------------------HRY------------------------GN
+EN----WVLYYDVLSNVHYGYVGAAAGMPLHKLVEIAGIDPTIPYTDYGFP---------
+------------------------------G-ISNSEDP--KDYLPTKIGHDLFATYP
+>WP_020666913.1 polymorphic toxin type 44 domain-containing protein [Amycolatopsis nigrescens]
+-WKDLV-AEGKRWDFK--------GPLSE-----------I----LGKD---ED------
+-------------------------------SLYTK---------VPG------------
+RD----TRVYYDIWANIHYGYIGKKAGFNYLELLYGPSANNILEGK--------------
+--------------------------------GGGQEDA--GDMAVMRFGIELYKEYP
+>WP_075103377.1 polymorphic toxin type 44 domain-containing protein [Psychrobacter sp. Cmf 22.2]
+-WTLKV-GPTMDWDHK--------PKIAEHP---------V----LKKT---TT------
+--RRRLRA-------------EEQGGKEST-KYFH-----------------------KY
+KG----YDYFYDVWSNIHYSYVGMVAGFTEKELIDGSNDQQKTNPST-------------
+---------------------------------EGADTI--DDYNTMMIGINLYKKFG
+>WP_205124532.1 polymorphic toxin type 44 domain-containing protein, partial [Tsukamurella sputi]
+----------GSWDHK--------PKLAA-----------M----FNME---KM------
+-------------------------------GYYFR---------MPG------SVRPDG
+AA----DLLFYDIFSNIHYGYVGRASGIPSTVLMGGQMIPLP------------------
+--------------------------------GVGLVDR--GDLESIRLGMQLYDKFG
+>WP_019519986.1 polymorphic toxin type 44 domain-containing protein, partial [Moraxella boevrei]
+---------NKDWDHK--------PKLYNDD---------R----FNRNSGITV------
+--HRRYDE-------------KKQEGEVLK-SHYH-----------------------KY
+RD----YDYFYDIWSNIHYGYVGLSVGFGEQVLLFGSTSQQVFNKAT-------------
+---------------------------------KGADTP--DDVTAIKIGFQLYEKFG
+>WP_198868922.1 polymorphic toxin type 44 domain-containing protein [Sinorhizobium meliloti]
+-WRDLV-SYGRRWDHK--------AAIKE-----------Q----SGVQ-----------
+---------------------------------------------------------STF
+AG----ALISFDVWSNIHYGYVGVGVGFPKFVLLEGAGYAQYMKTGPVPG---WT-----
+---------------------SRILQ-SG-L-FTSLDDP--RDVEAIRVGFALYDEVG
+>OJH38156.1 hypothetical protein BON30_23680 [Cystobacter ferrugineus]
+-WYQLV-KNRAPWDYK--------QEIIS-----------R----FGR------------
+-------------------------------WMDD-----------------------PQ
+RP----IRYGYDIWANLHYGYIGLACGFSQWTLLQGAGFAQWRAGTSPDGY--WE-----
+--------------RRL----DTLGD-AD-V-AAALDDP--KDQEAIRAGFSLWEDFG
+>OBX60317.1 hypothetical protein A9309_10035 [Moraxella lacunata]
+---------NKPWDHK--------WQIVTDE---------K----LLKV---TV------
+--HRLT-----------------PRGACSH-SHYH-----------------------KY
+KK----FDYFYDIWSNIHYGYVGLSVGFSEQALLSGSWVQQVGSDIISAF----------
+------------KERR----------------LPRADTL--DDNTAMKIGFELYKKRG
+>WP_233090240.1 polymorphic toxin type 44 domain-containing protein [Sessilibacter corallicola]
+-WTEMV-AQNNAWDHK--------PIIAA-----------K----FPTN---GK------
+----------------------------ST-RFHH-----------------------KY
+KE----YEYYYDIWSNIHYGYVGVYCGFSKSVLLDGAGLEQIGSDLLRPQL---------
+------------PESRK----EA--N-GS-G-LRQFDDT--TDSLSIALGIELFETYP
+>MBN2005873.1 DUF4157 domain-containing protein [Anaerolineae bacterium]
+--------KGGIWDFK--------VDLNN-----------K----GV-------------
+--------------------------------EYV-----------------------KL
+GD----KYYRYDVLANIHFGYVGRSVGFPGQVLLAGAGVAQVKDNVVDPI----RN-GEA
+PNW------------------NAL---GP-I-THYCDDS--ADRASIQVGMELYERF-
+>TKJ29858.1 hypothetical protein CEE40_07210 [Chloroflexi bacterium B3_Chlor]
+--------QDGPWDPK--------PHIRS-----------R----FYM------------
+-------------------------------WYFH-----------------------QV
+GE----HWYYYDIWGNIMFGYLGAAAGFSESELMNGAGLEQIGSDIGYTV----RQ-KNP
+C-----------RLPRP----RPIFH-FL-R-LRAWDHP--EDRVTAMMGIRLWRAFN
+>EWM10681.1 hypothetical protein KUTG_00985 [Kutzneria sp. 744]
+-------KTGAPWDHK--------GPLVN-----------I----LRAN---GL------
+--Q----------------------------GYYFT---------IPG------------
+TD----EKLNYDFWSNLHYGYVAASCGLSEDAVVNGAHAYQILSKIV-------------
+--------------------------------EDNHWGP--SKEAAIRAGARLWKQHP
+>MBP3403158.1 hypothetical protein [Alphaproteobacteria bacterium]
+--------SGEKWDHK--------PTIRK-----------Y----AT-------------
+-------------------------------SFYHKTEKSSVNPEKPAT--VFGTYLPGD
+KK----YIYDYDIWSNIHYGYAGRMSGFKDRTLNLGARIHDAAKGHS-------------
+------------------------------ISDTFSDRN--KDANAVQLGIKLYDKYG
+>GAF60033.1 hypothetical protein JCM18902_2927 [Psychrobacter sp. JCM 18902]
+--------PGKPWDHK--------PKIRDNS---------E----LKYL---AV------
+--EKKLRP---------------NSRNLSQ-SFFH-----------------------KY
+KN----YDYFYDVWSNIHYGYVGRYVGFDANTLLTGSYLQQFGKEAVDEV----------
+------------IKIKNG--DKSIKD----M-ELKADTK--DDIIAMQIGIDLFENF-
+>WP_101602721.1 MULTISPECIES: polymorphic toxin type 44 domain-containing protein [Bacteroidaceae]
+-WKGLV-ANEKIWDHK--------RKIKE-----------I----QGCD-----------
+-------------------------------WACD-----------------------SA
+TQ----LKFMYDIWSNIHYGFIGRYVGFTEFELVNGAGFAQLGDNNRSYGT--WAK----
+--------Q--YISNRF----VNLGD-AD-I-LGGFDDA--EDTQAIKVGFSLFNKFG
+>WP_089729467.1 polymorphic toxin type 44 domain-containing protein [Candidatus Thiosymbion oneisti]
+-WAEKV-KDKADWDHK--------PKIKR-----------W----FPSS---IS------
+--C------------------------------FNN--------------------EHLY
+GG----HVYNHDIWSNIHYGYVGMAAGFSERELILGAAFAHTWGELGRSEL--FEE----
+--WLD------IFLEKIK---------HN---PMIWDDP--KDKAAIKVGIRLYQ---
+>WP_058970225.1 polymorphic toxin type 44 domain-containing protein [Pseudomonas syringae]
+--------QNREWDHK--------PKILE-----------K----FNN------------
+-------------------------------DVRH-----------------------KQ
+GR----YAYYYDIWSNIHYGYIGMAAGFSEILILEGAGL---------------------
+----------------------------------------------------------
+>WP_062501121.1 polymorphic toxin type 44 domain-containing protein [Moraxella lacunata]
+--TEKV-GDKKDWDHK--------PKISNKS---------E----LKAV---AV------
+--HRVS----------------DLTGRCLT-SHYH-----------------------KY
+RD----FDYFYDVWSNIHYGYVGLSVGFDENTLLLGSNTQQFFQSFL-------------
+----------------------------------KTGTP--DDITTMKISFELHKKFG
+>WP_044252676.1 polymorphic toxin type 44 domain-containing protein [Chondromyces apiculatus]
+----------SEFDLK--------PLFSP-----------T----WGER---NR------
+--I-------------------------------------------------------EN
+NE----RVYFYDVWSNIHYGYIGNTAGFTAERLNGLAGN---------------------
+--------------------------------DPRGDSA--ADQAATRLGWDI-----
+>MXZ19633.1 hypothetical protein [Caldilineaceae bacterium SB0665_bin_25]
+--------PGRPWDYK--------GHIGE-----------A----MG-------------
+-------------------------------GFWT-----------------------YY
+EG----VLYFYDVWANINCGYAGRAALFTHGELLVGAGQVGADLIRKQEVN---------
+---------------------------YN-W-RSYFDDP--ADQAAVRIGIHLYDQHG
+>WP_171830686.1 polymorphic toxin type 44 domain-containing protein [Providencia stuartii]
+--------DKRPWDHK--------PIIRE-----------K----FKDK---GV------
+--NRPIGF--------------DGNGNFYK-TFYT-----------------------KY
+KN----YDYFYDVWSNIHYGYVGMSLGLSEDDLTLGSNIQQFFHDIVKLE----------
+--------------------------------FNFGDTG--SDKATILIGINLYKKFG
+>MCG7962118.1 polymorphic toxin type 44 domain-containing protein [Candidatus Thiodiazotropha endolucinida]
+-----------DWDHK--------ETIYS-----------T----WGSL---S-------
+----------------------------------------------------------KF
+DS----FTIQYDAWSNIHYGYLGFLVGFDKRLLLDAAGIAQAKSSTVPEGY--L------
+--------------VRVL---KG----EG-I-FSGLDDP--LDQESISIGIELAVAHG
+>WP_197417817.1 polymorphic toxin type 44 domain-containing protein, partial [Porphyromonas somerae]
+-WGYKV-KSGAEWDHK--------KKIRE-----------M----QKGI---V-------
+----------------------------YS-CDKS-----------------------SL
+NP----LQFSYDLWSNIHYGFIGAYAGFTEVELLVGAGVAQVFDNSPEQL----EG-NAE
+VN------------RRI----YDALS-NR-L-GAENDDP--SDQQAILIGIRLYSEFK
+>EPF64825.1 Hypothetical protein PssSM_0679 [Pseudomonas syringae pv. syringae SM]
+--------QNRPWDHK--------PILAA-----------K----YDG------------
+-------------------------------VVYH-----------------------KQ
+GN----YDYFYDIWSNIHYGYVGRVGGLSESILLDGAGAEQIVSDT--------------
+----------------------------------------------------------
+>WP_079324633.1 polymorphic toxin type 44 domain-containing protein [Moraxella equi]
+---------NKPWDHK--------WQLVQDD---------R----FNKNSKITV------
+--HRPT-----------------QKGTPSE-SHYH-----------------------KY
+KN----YDYFYDVWSNIHYGYVGLSVGFDKKTLIDYSNSQQKSNFNT-------------
+---------------------------------SGGDPI--DDDTAIKIGFILYENYG
+>WP_123600468.1 polymorphic toxin type 44 domain-containing protein [Micromonospora sp. Llam0]
+--------AGAEWDHK--------AEIRE-----------M----WAP------------
+-------------------------------SEYAQ---------------------DVG
+TG----AMFYLDIFSNVHYGYVGRMASIDTDLLLSVNNLPTNP-----------------
+--------------------------------WTGRSDQ--SDLISMQIGIDLFDSHD
+>WP_104229742.1 polymorphic toxin type 44 domain-containing protein [Solimonas fluminis]
+--------GNGPWDHK--------RTLRR-----------G----GENK---GQ------
+--THPF------------------KG--TS-AKWFY---------------------SPD
+SN----DRYLFDVFSNIHYGYVGMAAGYPEDVLLDAAGHVQAWSEEGGRRVQEFRE----
+----------HHPEPKDR--HTAYLRMGW-G-ERGWDDP--ADQAAVRLGMHLYGQYG
+>WP_242427153.1 MULTISPECIES: polymorphic toxin type 44 domain-containing protein [unclassified Streptomyces]
+--------TGGPWDHK--------DEIQG-----------M----TGQV-----------
+-------------------------------WGWTD---------IPG------------
+TD----GQIRDDFWSNVHYGFVGTAAGFSHGLLQTGAGLVDLKE----------------
+---------------------------------NQTLYK--ADMAAIAFGVGLYQKFG
+>WP_164293754.1 polymorphic toxin type 44 domain-containing protein [Streptomyces sp. SID13588]
+--------PGHVWDHK--------DKLLN-----------G----FGLQ---AS------
+--G----------------------------NRYIP---------MLS----------GD
+PT----WKVLFDTWSNIHFGYVGRAAGFSRTMLMLAQGGPSF------------------
+--------------------------------LVGKSDPGGGDGISVKLGMDLYDRYG
+>NIN67475.1 hypothetical protein [Anaerolineae bacterium]
+--------QGGPWDPK--------PDIAK-----------R----FTP------------
+-------------------------------KYYD-----------------------KI
+GG----YWYYYDVWGNIMFGYLGTAAGFSESELLEGAGLEQIGSDT--------------
+----------------------------------------------------------
+>WP_084261861.1 polymorphic toxin type 44 domain-containing protein [Zymobacter palmae]
+------------WDHK--------VYLGQ-----------E----LRRI---TI------
+--EKNIKIY-------------------KDSWAWN-----------------------KI
+NG----HDYYFDIWSNIHYGYVGYLVGFSEDALRRGAALAQARNDIFSKKH---------
+------------YIQYH----KE--N-ED-I-IASMDDV--NDQISINIGIELAKTKP
+>WP_220272099.1 polymorphic toxin type 44 domain-containing protein, partial [Helicobacter didelphidarum]
+------------------------------------------------------------
+------------------------------------------------------------
+-----------DIWSNIHYGYIGKAVGFSEIELLSGAGVAQDGCPSI-------------
+--------------------------------TSFCDDP--KDSEAIKLGFEIYDNYK
+>WP_133755595.1 polymorphic toxin type 44 domain-containing protein [Naumannella halotolerans]
+------------------------------------------------------------
+-----------------------------------------------G------------
+GR----KALNYDVWSNIHYGYIGSVAGFSEKALSEGAASSL-------------------
+---------------------------------AGRDDA--GDQLSIRIGVSLYRRYG
+>MAB97109.1 hypothetical protein [Pseudomonadaceae bacterium]
+--------QDQVWDHK--------PELRR-----------I----FDD------------
+--------------------------------VWH-----------------------KQ
+GD----YDYYYDIWSNVHYGYVGVIAGVPEAVLLDAAGVEQIGSDTVRWA----LDPTGQ
+R-----------PGPTI----SG--DLGE-G-LRAFDDV--PDRISVGIGMKLASIYP
+>HHH10921.1 hypothetical protein [Sorangium sp.]
+--------PGRPWDHK--------LHFSR-----------K----KMGK---TT------
+--P----------------------------GAWH-----------------------TW
+GH----WEYFRDPWSNMHFGYIGRAAGFSRTELVGGASLAQWLDDKRTGK----------
+--------------------------------PASADPP--QDTAAINAGYNM-----
+>WP_243393549.1 polymorphic toxin type 44 domain-containing protein [Solimonas fluminis]
+--------GEGPWDHK--------NTLRW-----------G----IPNP---GQ------
+--VHRF------------------KG--TS-AEWFY---------------------NPD
+DD----SRYFFDVFSNIHYGYVGLAAGYPEDVLLDAAGFAQGRSEAGNKRAEAFRR----
+----------GHPIQNGG--HTAYRGIAW-G-HRGWDDP--PDQAAVLLGMHLYKNYG
+>WP_050429887.1 polymorphic toxin type 44 domain-containing protein [Chondromyces crocatus]
+------------WDHK--------PRIRP-----------V----WGTD---NR------
+--I-------------------------------------------------------GN
+KP----VVYYYDVWSNLHYGYIANAATIPKHTAQGGSSFANIFD----------------
+--------------------------------SGRLDEN--ADSSAVSAGHDLYGTNP
+>NPV87857.1 hypothetical protein [Anaerolineae bacterium]
+-------------DHK--------PIIQQ-----------M----ERSA---GR------
+--S----------------------------EEYQ-----------------------HA
+GT----RKYHFDTWSNVHYGYVGSSAGFSREILLDGAGAVQLLVDLSKGK----------
+------------NIQTDP-------D-VK-G-FRAYDQR--QDREAIQIGIELWHQYG
+>WP_241001724.1 polymorphic toxin type 44 domain-containing protein, partial [Pseudomonas viridiflava]
+------------------------------------------------------------
+------------------------------------------------------------
+-P----YDYFYDIWSNIHYGYIGTAAGFSKAVLLDGAGLEQIASDAVRFA----LN-PSR
+R-----------RGPHR----FE--N-IE-G-LRAWDDA--PDRISITIGMELYESHP
+>WP_213231849.1 polymorphic toxin type 44 domain-containing protein [Halomonas litopenaei]
+--------EDGDWDHK--------SRISS-----------NRDGDFSSL---GK------
+--S-------------------------SY-RYHH-----------------------KY
+GE----YEYYYDIWANIHYGYVSLYCGFSEGLTLEGAGLEQVGSDTLHDD----QD----
+------------VTYRL----EIPGG-WL-S-LRKFDDV--TDNLSIRLGFELYHEYP
+>WP_241667765.1 polymorphic toxin type 44 domain-containing protein [Pseudomonas sp. Sample_24]
+--------QDMEWDHK--------PKLRE-----------R----FPG------------
+--------------------------------VRH-----------------------KQ
+GG----YLYYYDIWSNIHYGYVGIIGGLSDRLLLDGAGAEQ-------------------
+----------------------------------------------------------
+>WP_132113901.1 polymorphic toxin type 44 domain-containing protein [Actinocrispum wychmicini]
+-------KPNGPWDQK--------SKLQQ-----------I----LRDN---GI------
+--D----------------------------DIYFP---------IPG------------
+TN----EELSYDFWSNLHYGYEGIAAGFSPVELTTATELTPLLGHIG-------------
+--------------------------------------G--SKAAAIRAGIRLRQLYP
+>ADG74153.1 protein of unknown function DUF312 [Cellulomonas flavigena DSM 20109]
+--------DGCEWDAK--------VELAQ-----------R----LGVH---TR------
+--E----------------------------DSWVA----------------------MP
+DG----SELYYDVFGNVQYGVMMSRFGFSLESAVLASHGP--------------------
+--------------------------------DAGNADP--KDDVAIQLGYEIADAY-
+>WP_236942788.1 polymorphic toxin type 44 domain-containing protein [Ewingella americana]
+------------------------------------------------------------
+----PL-----------------TSREISK-SHYH-----------------------KY
+KN----HDYFYDVWSNIHYGYVGLSIGFSIETLLAGSNIEQIRTSFE-------------
+---------------------------------SKKDPL--DDIVCMNIGFSLFKEFG
+>XP_020624226.1 uncharacterized protein LOC110061717 [Orbicella faveolata]
+------------WDFK--------CTQSF-----------R-------------------
+---------------------------------QGP---------CPS---RSCPRTVTL
+CN----RCVNYDVPGNIHYGWVGRAATIRRWLLLYGADRVQKG-----------------
+----------------------------------GIDDP--RDQNAIRIGMDMWD---
+>NJL89489.1 hypothetical protein [Coleofasciculaceae cyanobacterium SM2_1_6]
+--------PERKWDHK--------PSIFP-----------A----FGK------------
+-------------------------------YSLD-----------------------AS
+QG----KIYFNDIWSNMHYGYIGKVVGFSEKKLIYGAAVAQAVDD---------------
+----------------------------------------------------------
+>MBC2872689.1 hypothetical protein [Klebsiella pneumoniae]
+------------------------------------------------------------
+----------------------------------H-----------------------KF
+KQ----HDYFYDVWSNIHYGYVGRSVGFSEAILLKGSTWEQNMTPCH-------------
+----------------------------------GDDTM--DDITSMKIGFNLFYEHG
+>KAA3662476.1 DUF4157 domain-containing protein [Chloroflexi bacterium]
+--------PGRPWDFK--------RTQSW----------------WRFDN--GR------
+--S------------------------------------------CPT---KKCDRTVTL
+CG----HCVNYDVPGNIHYGWVGRRMEISPWALHKGAGSVQEG-----------------
+--------------------------------NNSGDDP--PDTVAINIGIAMADN--
+>WP_162932523.1 polymorphic toxin type 44 domain-containing protein [Solimonas sp. K1W22B-7]
+----------HAWDHK--------PMLST-----------G----VTVG---RE------
+--DRRK-----------------FKG--TP-AEWF-----------------------KD
+GN----DRYGYEIWSNVHYGYIGRRSGFHGDTLLSGAGVAQLATLYGKRGK---------
+------------KEERSNAWRRALLE-GE-G-RKGLDDP--PDSSAIRLGIHLYEKYG
+>WP_144127254.1 polymorphic toxin type 44 domain-containing protein [Catellatospora sichuanensis]
+--------KDCKWDHK--------PTIQA-----------M----WGG------------
+-------------------------------SKYAV---------------------DPV
+TG----AEIFYDIFSNVHYGYVGREAAIDSEMLQSVNLPIPKNP----------------
+--------------------------------VTGQSER--SDAISTQIGIDLQSRYR
+>BDH59421.1 hypothetical protein MTP03_43600 [Tsukamurella sp. PLM1]
+-------APGRTWDHK--------PKIQN-----------L----TNTY---TE------
+--D----------------------------GLYFQ---------------------PPY
+GD----NTVYYDFFSNVHYGYIMNLAGWPLDETIKGQDVPV-------------------
+--------------------------------LSGKQSP--WDTMASQAGWELAQREG
+>KXS40011.1 MAG: PAAR motif-containing protein [Candidatus Frackibacter sp. T328-2]
+-WYELV-KNDGGWDYK--------GELKK-----------K----YKEH---IC------
+--D-------------------------------------------------------LA
+SE----MLYGYQIWSNIHYGYIGRSLGLTKEELLAGASVVTARKGLDNVKDDYWR-----
+--------------KKF----KEIGD-AN-F-HVNLDDA--NEQKSIEIGFEIWKNCG
+>WP_021620825.1 polymorphic toxin type 44 domain-containing protein [Aneurinibacillus aneurinilyticus]
+--------TGGPWDYK--------LSFGP-----------A-------------------
+-------------------------------KKY------------------------VY
+NG----YAMRGEDLGNVHYGFVGRAAGFQPFLLRSAAGAYQICSLTSHKDW---------
+------------------------------A-SSYFDDP--IDQLYINFGIDMWDN--
+>WP_197186435.1 polymorphic toxin type 44 domain-containing protein [Brevibacillus agri]
+--------TGGPWDYK--------LEYGV-----------N-------------------
+-------------------------------TPY------------------------KF
+LG----FTRTGEDLGNLHYGYVGRAAGFSATILKTAAGAYQIYSGTAHLRW---------
+------------------------------Y-DTYFDDP--RDQKTIIYGIDLWD---
+>WP_207681728.1 polymorphic toxin type 44 domain-containing protein [Desulfonema magnum]
+------------------------------------------------------------
+------------------------------------------------------------
+--------YSFDIWSNIHYGYIGLAAGFTEWVLLSGAGFAQKLADTNPPGY--WK-----
+--------------RRL----EEIGD-AD-F-LAAFDDP--HDQQAIKIGFELWK---
+>WP_090040601.1 MULTISPECIES: polymorphic toxin type 44 domain-containing protein [unclassified Leifsonia]
+-------ATDGEWDMK--------RYLAR-----------E----HGFT---ST------
+-------------------------------YFYLH----------------------DD
+RG----RVVRSDVYGNVMYAFMLAHWGVSVETALRGANSKNTGVN---------------
+--------------------------------AGITDDD--LDDRAVKFGYELYKKYP
+>PWM96905.1 MAG: hypothetical protein DBX42_02020 [Azospirillum sp.]
+----------GVWDHK--------PVMKE-----------I----LP-------------
+-------------------------------SYYRRDEVSSSG-RQPV---VFGVKLLGD
+GE----YLYDHDFWGNISYGYTLAAAGYNDWITKGGARIDDLGRDLQKIIEE--------
+--------------------------------KKFMFDD--QDEPMVDLGIKLYRKYG
+>WP_234540847.1 polymorphic toxin type 44 domain-containing protein [Paenibacillus sp. JJ-60]
+--------SGAPWDYK--------LPYGY-----------S-------------------
+-------------------------------KKW------------------------LF
+GG----LVTTGEDLGNIHYGYVGRAAGFSENVLKTAAGVYQIYSGTAHIGW---------
+------------------------------A-SSYFDDP--KDQIAIQRGLNYW----
+>CEL13851.1 YD repeat protein [Kibdelosporangium sp. MJ126-NF4]
+-WIEQV-WPGEEWDHK--------SAITA-----------F----MKMK---EG------
+--G-------------------------SD-DLFTP---------LPDP-----------
+RG----GEIAYDVWSNIHYGFVGKDVGIDSGILHLGADLADMGDPVIRDPS---------
+---------------------KAFTG------QWGKVNK--GDRIAVQIGIDLRKRYA
+>NLE44022.1 hypothetical protein [Chloroflexi bacterium]
+----MV-RQQGPWDPK--------PDILD-----------E-------------------
+----------------------------GF-GFSQ-----------------------QI
+GE----EYYYYDVWGNTMFGYLGAATDFSQADLLAGAGVEQVGSSMGYAI----KY-LDP
+A-----------FLPKR----QP--G-VS-G-PSAWDDP--VDQATSRLGVLLWEKYG
+>NJM31944.1 hypothetical protein [Limnobacter sp.]
+--------QNSSWDHK--------PVIGA-----------C----FTPR---SS------
+----------------------------TV-QNYH-----------------------AW
+GD----RRYFYDIWSNIHYGYVGQTAGFMEWELLDGAGLEQIG-----------------
+----------------------------------------------------------
+>HCI8845667.1 PAAR domain-containing protein [Klebsiella variicola]
+--------TGSIWDHK--------PKIRD-----------L----FSSV---AV------
+--ARPLP----------------RKGKSSK-SYYH-----------------------KF
+KQ----HDYFYDVWSNIHYGYVGRSVGFSEAILLKGSTWEQ-------------------
+----------------------------------------------------------
+>WP_013404495.1 polymorphic toxin type 44 domain-containing protein [Photobacterium damselae]
+--AERV-GPNMEWDHK--------WKIAEEK---------K----FATN---GE------
+----------------------------TR-RYHH-----------------------KY
+KD----YEYYYDIWSNIHYGYVGAFCKFSDSELLDGAGLAQFLFDAMSFK----KN----
+------------IQNSE----SI--N-GK-G-LRKYDDI--TDSLSVRLGIEIFKRQP
+>QCY75636.1 hypothetical protein CAH07_14580 [Bacillus subtilis]
+--------TGGPWDYK--------LKYGP-----------K-------------------
+-------------------------------KKY------------------------IF
+DTKGGCYNPTGEDLGNIHYGYVGRAAGFSDSFLRTAAGAYQIYSGTSKVKW---------
+------------------------------Y-KSYFDDP--KDQKMIDLGLRLYKN--
+>WP_094356974.1 polymorphic toxin type 44 domain-containing protein [Enemella evansiae]
+--------PNAELDHK--------PYISA-----------T----LGIT---GE------
+--ERNK-------------------------DSWLG------------------VSKIGK
+DS----RTAYYDVYSNIAFGYFGTKLGFPSNVLILGSHMR--------------------
+--------------------------------GAGVTDP--GDDVSVRMGVQMAR---
+>PJC36953.1 hypothetical protein CO046_03255 [Candidatus Peregrinibacteria bacterium CG_4_9_14_0_2_um_filter_53_11]
+--------PGGDWDYK--------IQDVK-----------R----FGST-----------
+-------------------------------EPVTL---------------------AGV
+TD----NRVLFDARGNINFGYTGAAAGIPSTTLLSGAGAAQIYSRTSDTDW---------
+------------------------------Y-ASYFDDP--TDQMLIKTGITLYQKYG
+>KOG09983.1 hypothetical protein ADK34_36270 [Streptomyces viridochromogenes]
+-----------------------------------------------LR---TS------
+--P----------------------------DFYFI---------VPG------------
+TG----EEAYYDVRSNVRYGFVGMAAGFKASDLEEGAASVLP------------------
+--------------------------------GAGKTDA--GDRVSVRQGIEMFKKYG
+>WP_242349443.1 polymorphic toxin type 44 domain-containing protein [Mucispirillum schaedleri]
+--------TDSFWDHK--------WQLSA-----------L----FPSM---GL------
+--S----------------------------RRYHH----------------------AY
+GD----KEIPYDVWSNIHFGVLGKYCRFSENTLLGGADVAQRGSNFNLENIYTFK-----
+--------------------------------KPKGDTI--CDKAAIKLGFSIYSFYL
+>WP_220272104.1 polymorphic toxin type 44 domain-containing protein, partial [Helicobacter didelphidarum]
+--------SESIWDHK--------WQISR-----------L----FPTM---GL------
+----------------------------SQ-KDYHR-------------------YIHNN
+IT----YEIGYDIWSNIHYGYIGKAVGFSEIELLSGAGVAQ-------------------
+----------------------------------------------------------
+>RIK76455.1 hypothetical protein DCC68_19305 [Planctomycetes bacterium]
+-FKNQV-QNGGPWDFK--------NNALK-----------G----DKTA---GI------
+----------------------------------------------------------LF
+AG----THYRYDMPGNFHYGYVGTMAGFSASTLESAAGYAQLKAGTSKPDY---------
+------------------------------W-CTSFDDP--EDNAYVRLGIALADSKG
+>MBF2065985.1 DUF4157 domain-containing protein [Calothrix sp. C42_A2020_038]
+--------GGGPWDFK--------SHSRS-----------L---GWRVDG--SR------
+--S------------------------------------------CPT---TNCDRTVTM
+CG----MCFNYDVPGNIHFGWVGRAAELRSWLLHFGAGIVQPG-----------------
+---------------------------------RWTDDP--KDAVGVAIGEAMWDR--
+>WP_000748150.1 polymorphic toxin type 44 domain-containing protein [Bacillus thuringiensis]
+--------SGGHWDYK--------LKYGP-----------K-------------------
+-------------------------------NTY------------------------TF
+DN----RKLTGEDLGNFHFGYVGKAIGFTDFELKGGAGFYQVLSDTSEWAY---------
+------------------------------Y-QTFFDDP--RDQEMIQLGIDYYNK--
+>WP_241151416.1 polymorphic toxin type 44 domain-containing protein, partial [Pseudomonas viridiflava]
+--------QNRPWDHK--------PIIRR-----------T----LGG------------
+--------------------------------VWH-----------------------KQ
+GQ----YDYFYDIWSNVHYGYVGMAGGFSE------------------------------
+----------------------------------------------------------
+>WP_075018058.1 DNRLRE domain-containing protein [Streptomyces rubidus]
+-WATMV-APGQPWDFK--------GPVVK-----------I----LQGMP--SK------
+--QGEI-------------------------PGYTR--------------------FNEN
+PN----VQLYYNIWANISYGYVGRAAGFSAGDLQHGAELNAW------------------
+--------------------------------AAQTNTQ--GNWVGRQIGIDLYAHYK
+>WP_236536793.1 polymorphic toxin type 44 domain-containing protein, partial [Pseudomonas syringae]
+------------------------------------------------------------
+------------------------------------------------------------
+-K----YDYFYDIWSNVHYGYVGRVAGFSESVLADGAGAEQIVSDSWGKI----SD-ITK
+P-----SERRKHRGPRR----AE--N-VD-G-LRAWDDD--PDRISISIGIKLFNQHP
+>HAB17220.1 hypothetical protein [Verrucomicrobiales bacterium]
+-WAMLV-GPRQEWDHK--------RILCN-----------A----RKRP-----------
+---------------------------------------------CPTI--PRCKETITL
+CG----MCFDCDVPSNIHYGYLGLVAGFSSETLIVAPGVVQKPP----------------
+--------------------------------HWPLDDS--RDSNAIELGIQLALFEG
+>WP_064018588.1 polymorphic toxin type 44 domain-containing protein [Brevibacillus sp. SKDU10]
+--------SRGEWDYK--------REYGT-----------R-------------------
+-------------------------------TSY------------------------YF
+DG----HFLYGEDLGNMHYGFVGRAAGFSKKILQVAAGAVQIYSGTSYIGW---------
+------------------------------Y-DSYFDDP--EDQEWIIFGIDMFD---
+>VEA04824.1 Uncharacterised protein [Salmonella enterica subsp. salamae]
+-WGQ---SNISIYDFK--------TPIKQ-----------L----YAEM---IR------
+---------------------------------------------------------IGN
+DG----RIYSNEGFSNINWGIVGRQLELEKGKANFYAALD--------------------
+--------------------------------PRSSNDA--HDEKATNTGYEMVEKAA
+>TAL12016.1 hypothetical protein EPO00_02515, partial [Chloroflexi bacterium]
+--------ETGDWDLK--------VPLGM-----------K----LGDV---R-------
+---------------------------------RTP---------VGG----------DP
+AP----ETLFYDVWGNIHYGYVGRAHGIPADVVHAGAET---------------------
+--------------------------------FGGARSV--SDWISNEIGIQLWEAHG
+>WP_110930748.1 polymorphic toxin type 44 domain-containing protein [Paenibacillus bouchesdurhonensis]
+--------PGGDWDYK--------TTYGY-----------S-------------------
+-------------------------------AKY------------------------KF
+NG----LVTTGEDFGNIHYAYVGRAAGFSELLLKSAAGAVQIYAGTSQLKW---------
+------------------------------Y-ATFFDDP--TDQAAIQRGFNYW----
+>WP_192000252.1 polymorphic toxin type 44 domain-containing protein [Pseudomonas coleopterorum]
+-WVEQM-DDNREWNYR--------AKVAQ-----------L----QGST-----------
+---------------------------------WH-----------------------KQ
+GR----YLYHVGLWAGIHYGYLGVAAGFRPGVLVDGIDEYTSLEQRRT------------
+--------------------------------LRHWRTP--ADRLAINIGVELYKRYP
+>WP_088027726.1 MULTISPECIES: polymorphic toxin type 44 domain-containing protein [Bacillus cereus group]
+--------TKGPWDYK--------WQYA--------------------------------
+-------------------------------GKY------------------------IY
+QG----RNCTGEDLGNMHYGYVGRAGGFTPDLLKTAAGLYQIKSGTYKLEW---------
+------------------------------I-SSYFDDP--NDQAWINYGIQLWDN--
+>WP_098787078.1 polymorphic toxin type 44 domain-containing protein [Priestia megaterium]
+--------SGGPWDYK--------KVYK--------------------------------
+-------------------------------GSY------------------------TF
+NG----KSARGEDLGNMHYGYVGRASGFSSSILKTAAGAYQIKSDTAKLKW---------
+------------------------------Y-RSYFDDP--KDQTWIKYGISLWNN--
+>WP_084112146.1 polymorphic toxin type 44 domain-containing protein [Paramaledivibacter caminithermalis]
+--------EGGDWDYK--------RELGW-----------N-------------------
+-------------------------------TEYKI----------------------II
+GG--KVDYVHGEDIGNIHYGYTGRSIGFSQFTLKSAAGLVQVLSGTAKKEW---------
+------------------------------F-NSYFDDP--KDQYAIQRGIDMYNN--
+>HHG84124.1 hypothetical protein [Bacteroidetes bacterium]
+--------AGGVWDYK--------SSETF-----------T-----------SA------
+--N------------------------------------------CPV----DCKDTVTL
+CG----HCFFYDVPGNINYGWVGRAGRIRAWFLHNRAAAAQAG-----------------
+----------------------------------GVDDP--KDTAAINIGIDLWDGTG
+>WP_068746352.1 polymorphic toxin type 44 domain-containing protein [Tsukamurella pseudospumae]
+-----------QWDYK--------DALNP-----------M----FGGS---RT------
+--V----------------------------TAFLV---------YP-----------AD
+PK----WRIAADIWTNIHFGYIGRQIGYPEDVLVAASHLA--------------------
+----------------------------------GNPDP--NDDLAVRIGYKWGN---
+>WP_210206165.1 polymorphic toxin type 44 domain-containing protein, partial [Phyllobacterium leguminum]
+----------GEWDLK--------PRISA-----------I----WGAK---NR------
+--L-------------------------------------------------------GN
+RE----YYIFCDYFSNLHYGYVAGASGYSIQEANDLADIE--------------------
+----------------------------------GDDAP--EDKKATSKGLQLNER--
+>NUP49706.1 hypothetical protein [Catenulispora sp.]
+-WATMV-GPGQPWDFK--------GKIQD-----------I----LSKIP--TQ------
+--PGET-------------------------HQYTR--------------------FDED
+PQ----AELYDNIWANISYGYVGRAAGFSADDLQHGAELNAYLG----------------
+--------------------------------GGGKNTQ--GNYVGRQIGIDLFEHYQ
+>PDY81821.1 hypothetical protein CON67_31440 [Bacillus toyonensis]
+--------SGSDWDYK--------RQFGY-------------------------------
+-------------------------------GYY------------------------NF
+NG----RVLAAEDIGNMHYGYVGRAAGFTRSLLSTAAGAYQIYSGTSNFAW---------
+------------------------------A-DSYYDDP--NDQAWISYGMDLWDN--
+>MCO5167809.1 polymorphic toxin type 44 domain-containing protein [Planctomycetes bacterium]
+--------SGAPWDFK--------RTRRF-----------A-----------TR------
+--N------------------------------------------CPVTLASTCRNTVQL
+AG----ECLFYDVIGNIHYGFVGRAWRFSREVLHGGAHAYQLWE----------------
+--------------------------------HRELDPP--DDVAAIGLGADMFDS--
+>WP_235493442.1 polymorphic toxin type 44 domain-containing protein, partial [Leifsonia sp. Leaf336]
+---------DGEWDMK--------VYLAE-----------D----YGYE---SG------
+-------------------------------LFYLH----------------------DE
+QG----RVVRSDVFGNVMYGSMLAHWDVDTDTALHGANLGTSAGFD--------------
+--------------------------------AGKGNDR--LDDDAVKFGYDLHKKYP
+>WP_007719664.1 polymorphic toxin type 44 domain-containing protein [Brevibacillus sp. BC25]
+--------PGGPWDYK--------REIGW-----------N-------------------
+-------------------------------NLRTS----------------------VI
+DG--KKHYLTGEDIGNIHYGYVGRYH-FSKNTLLSAAGMVQVLVGTARLSW---------
+------------------------------F-DTYFDDP--TDQAAITRGIKWYEN--
+>DAI19095.1 MAG TPA: bacterial toxin, partial [Siphoviridae sp.]
+--------SNAKWDHK--------PVLKK-----------H----IS-------------
+-------------------------------SYFHK--KLTNANGKPTT--VFGTMIPGD
+NK----YLYDHDIWSNIHYGYAGKLSDVYDLNLDIAGRANDVWNGH--------------
+------------------------------FSNVIGDKN--TDANAVSLGMHLFDKYG
+>WP_091529782.1 polymorphic toxin type 44 domain-containing protein [Alkalibacterium subtropicum]
+--------TGGVWDMK--------AQLGT-----------N-------------------
+-------------------------------TSYYI----------------------DD
+LG----TTMTGEAIGNFHYGYVGRAV-FSGATLKSSAGMYQVISGTSSIKY---------
+------------------------------Y-SSFFDDP--RDQAQIQRGIDMYDR--
+>MBM4460528.1 hypothetical protein [Chloroflexi bacterium]
+--------SDGPWDFK--------ARIER-----------E----IGKT-----------
+---------------------------------------------------------VQL
+GG----DWHEWSTTGNITYGFLGAAAGFSRFELRAGAGIAQVNDVLKGKPD--ARL----
+---------------------------GP-P-RTYFDTT--DDFWAVEFGYQLYEK--
+>MBK9158367.1 RHS repeat protein [Micropruina sp.]
+-FKGMN-QPGGAWDSK--------AHYVG------W---------LHGG---TE------
+--GKLA----------------------DD-STYSS--------------------LTTK
+NG--RHVLFNYDVWGNMEYGYNAANMGLSVEQAIAIPKLLGQA-----------------
+--------------------------------QGGVDDP--GDDVSIRIGYDAYKAHP
+>WP_254594219.1 polymorphic toxin type 44 domain-containing protein [Achromobacter animicus]
+------------------------------------------------------------
+----------------------------------Q-----------------------KY
+GD----HDYYLDIWSNIHYGYVGVALGFSAVELINGAGLAQAMFDGWTKQ----------
+------------TQQNH----PE--N-GP-W-PASADDR--PDHISIMLGIELGNEVK
+>WP_110754815.1 polymorphic toxin type 44 domain-containing protein [Phyllobacterium leguminum]
+-------GGGGEWDLK--------PLINS-----------T----WGDS---IR------
+--F-------------------------------------------------------GN
+RE----YYITNDHFSNLHYGYVAGASGFTSAEANALANFLE-------------------
+-----------------------------------DDTP--LDRHVTTKGVNLYHR--
+>WP_079789084.1 hypothetical protein [Salmonella enterica]
+-WGD---TKISIYDFK--------EPIRQ-----------H----YGAM---LR------
+---------------------------------------------------------IGN
+DA----KIYSNEGFSNLDWGILSYQVGIGPDNAKTFANMD--------------------
+--------------------------------PSSRDEI--QDDIATDEGYKL-----

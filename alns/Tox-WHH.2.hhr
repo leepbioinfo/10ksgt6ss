@@ -1,0 +1,782 @@
+Query         FD01543278_02063 type IV secretion protein Rhs
+Match_columns 80
+No_of_seqs    47 out of 49
+Neff          4.71385
+Searched_HMMs 86581
+Date          Mon Feb 26 20:35:12 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/2645417.hhr -oa3m ../results/2645417.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 8H8B_A Putative Rhs-family pro  99.1 5.6E-11 6.4E-16   99.6   4.2   69    1-80   1305-1378(1402)
+  2 8H8C_C C-terminal peptide from  98.7 4.5E-08 5.2E-13   68.2   5.2   25   49-73    190-215 (250)
+  3 PF12639.11 ; Colicin-DNase ; D  97.2  0.0069 7.9E-08   31.3   6.2   78    1-79      7-97  (97)
+  4 PF14414.10 ; WHH ; A nuclease   97.1  0.0011 1.3E-08   30.6   2.5   32   49-80      4-36  (43)
+  5 8BD1_A Type IV secretion prote  95.9   0.044 5.1E-07   32.9   4.5   69    1-80     37-110 (134)
+  6 PF13994.10 ; PgaD ; PgaD-like   85.0     2.3 2.7E-05   28.5   3.1   32   31-62     99-131 (133)
+  7 PF14056.10 ; DUF4250 ; Domain   69.8      13 0.00015   21.8   2.9   26   32-57     24-49  (55)
+  8 PF06353.16 ; DUF1062 ; Protein  66.9      14 0.00016   25.8   2.9   26   30-55    106-131 (136)
+  9 2KVV_A Putative excisionase; e  50.6      45 0.00052   21.0   3.0   22   32-54     14-35  (78)
+ 10 PF11242.12 ; DUF2774 ; Protein  47.8      43 0.00049   21.2   2.5   20   32-51     18-37  (64)
+ 11 PF05344.15 ; DUF746 ; Domain o  41.2      73 0.00085   18.4   2.7   21   31-51     15-35  (62)
+ 12 PF19575.3 ; HTH_58 ; Helix-tur  41.0   1E+02  0.0012   18.9   3.5   32   32-63     40-73  (73)
+ 13 5B52_B H-NS family protein Mva  40.7 1.1E+02  0.0013   19.4   3.7   37   23-59     32-68  (69)
+ 14 2M60_A Enterocin JSB; leaderle  40.2      96  0.0011   19.0   3.0   23   30-52      3-43  (43)
+ 15 PF00376.27 ; MerR ; MerR famil  39.1      81 0.00094   15.3   3.0   23   32-54      3-27  (40)
+ 16 PF12244.12 ; DUF3606 ; Protein  36.3      70 0.00081   18.5   2.1   20   34-53     24-43  (53)
+ 17 1Y6U_A Excisionase from transp  36.2 1.1E+02  0.0012   15.8   3.0   24   32-55     20-44  (70)
+ 18 PF10654.13 ; DUF2481 ; Protein  35.1 1.1E+02  0.0012   20.7   3.1   23   31-53     83-105 (126)
+ 19 PF12668.11 ; DUF3791 ; Protein  34.0 1.1E+02  0.0013   17.5   2.8   22   32-53      8-29  (58)
+ 20 3HU5_A Isochorismatase family   32.7 2.2E+02  0.0026   19.3   4.4   45   13-59    156-204 (204)
+ 21 PF15637.10 ; Tox-HNH-HHH ; HNH  32.1      86   0.001   19.0   2.1   28   52-79     74-102 (103)
+ 22 PF08535.14 ; KorB ; KorB domai  31.1 1.4E+02  0.0016   17.4   2.8   24   32-55      7-30  (92)
+ 23 6QQ4_A General odorant-binding  30.1 1.9E+02  0.0022   17.9   3.5   28   25-52      7-34  (121)
+ 24 PF07278.15 ; DUF1441 ; Protein  28.3 1.7E+02   0.002   19.1   3.2   24   32-55      5-28  (147)
+ 25 2OA4_A SiR5; SiR5, Structural   28.3 1.3E+02  0.0015   19.6   2.5   20   32-51     54-73  (101)
+ 26 2AHQ_A RNA polymerase sigma fa  27.5 1.7E+02   0.002   17.5   2.9   25   31-55     40-69  (76)
+ 27 4NUT_B Ribosome assembly 1 pro  27.4      32 0.00037   22.1  -0.3   16   41-56      5-20  (57)
+ 28 PF10281.13 ; Ish1 ; Putative n  27.2 1.1E+02  0.0013   16.1   1.8   16   40-55      4-19  (38)
+ 29 PF20132.3 ; DUF6522 ; Family o  26.1 1.8E+02  0.0021   19.4   3.0   24   32-55     15-38  (87)
+ 30 PF06806.16 ; DUF1233 ; Putativ  25.7 2.1E+02  0.0024   15.9   2.9   25   32-56     13-40  (70)
+ 31 5IKF_B Cryptic loci regulator   25.7 2.1E+02  0.0025   21.7   3.5   28   27-54    109-136 (155)
+ 32 6G1T_A AM32; Repressor, Protei  25.6 1.9E+02  0.0022   20.2   3.1   26   32-57     13-44  (122)
+ 33 PF19709.3 ; DUF6206 ; Family o  25.6 1.6E+02  0.0019   23.4   3.1   29   28-56    229-260 (271)
+ 34 2JRT_A Uncharacterized protein  24.6 1.7E+02  0.0019   18.5   2.5   20   32-51     53-72  (95)
+ 35 2CW1_A SN4m; LAMBDA CRO FOLD,   24.5 2.1E+02  0.0025   15.6   3.0   22   32-53     17-38  (65)
+ 36 PF04645.16 ; DUF603 ; Protein   23.6 1.8E+02  0.0021   21.4   2.8   48   32-79     23-72  (181)
+ 37 8DGL_A Recombination Direction  23.3 2.9E+02  0.0033   16.6   3.9   39   32-71     23-62  (91)
+ 38 2O8K_A RNA polymerase sigma fa  23.2 1.9E+02  0.0022   16.4   2.4   26   31-56     27-57  (63)
+ 39 PF11116.12 ; DUF2624 ; Protein  22.8 2.6E+02   0.003   18.0   3.1   24   33-56     22-50  (83)
+ 40 1DQE_A PHEROMONE-BINDING PROTE  22.7 2.8E+02  0.0032   17.7   3.3   26   25-50     10-35  (137)
+ 41 7LW0_D Terminase small subunit  22.4 1.9E+02  0.0022   14.2   2.8   21   32-52      6-26  (56)
+ 42 PF02255.20 ; PTS_IIA ; PTS sys  22.0 1.2E+02  0.0014   20.1   1.6   14   23-36     25-38  (94)
+ 43 7LWR_G Terminase, small subuni  21.3   2E+02  0.0023   14.0   2.7   20   32-51      6-25  (54)
+ 44 PF08769.15 ; Spo0A_C ; Sporula  21.2 1.9E+02  0.0022   18.2   2.3   20   28-47     39-58  (104)
+ 45 PF18090.5 ; SoPB_HTH ; Centrom  21.0 2.6E+02   0.003   15.3   2.9   24   32-55     23-46  (75)
+ 46 2E2A_B PROTEIN (ENZYME IIA); E  21.0 1.3E+02  0.0015   20.3   1.5   14   23-36     32-45  (105)
+ 47 5DIC_A Odorant-binding protein  20.6 3.6E+02  0.0041   16.7   3.6   28   25-52     10-37  (117)
+ 48 1C3Y_A THP12 CARRIER PROTEIN;   20.5 3.4E+02   0.004   16.5   3.7   26   27-52      7-32  (108)
+ 49 6OGH_A AAEL005772-PA; Odorant   20.4 3.6E+02  0.0041   16.7   4.1   35   18-52      2-36  (123)
+ 50 PF09035.14 ; Tn916-Xis ; Excis  20.3 2.2E+02  0.0026   14.3   3.2   25   32-56     19-44  (69)
+ 51 1TUJ_A odorant binding protein  20.1 3.5E+02   0.004   16.9   3.3   26   27-52     14-39  (123)
+
+No 1
+>8H8B_A Putative Rhs-family protein; T6SS, Rhs proteins, polymorphic toxins, TOXIN;{Vibrio parahaemolyticus serotype O3:K6 (strain RIMD 2210633)}
+Probab=99.15  E-value=5.6e-11  Score=99.61  Aligned_cols=69  Identities=26%  Similarity=0.458  Sum_probs=0.0  Template_Neff=10.800
+
+Q ss_pred             CCCCCCCceeeEeecCCcccCCchhcHHHHHHHHHHHhCCCHHHHHHHHccCCCcccccC-CceEEEcchhhh----ccC
+Q FD01543278_020    1 GRPDFSPWSKGSITFNEGVLNGSQNDFTEVYKSIAKEMNITPTAAKNLLSEKGLTPHHLS-VTEIILVPSDLH----GNV   75 (80)
+Q Consensus         1 G~PDFsp~s~~~V~I~~~mt~~R~~nf~~ad~~la~~~~~t~~ei~~~r~~n~~TWHe~~-~~tmqLVPt~Ih----~~f   75 (80)
+                      |.|+|++++...+++. .+.+++..+|..|+.++...          .+.+.+|||||+. .++|||||+.||    ..+
+T Consensus      1305 g~p~f~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~----------~~~~~~~twhh~~~~g~m~lv~~~ih~~~~~~~ 1373 (1402)
+T 8H8B_A         1305 GFPDFTPYSKKTVRVI-GLTGDMANDVPLAMARAKIT----------KYDKSKYVWHHHQDGKTMMLIPKSVHSVRNGGV 1373 (1402)
+T ss_dssp             --------------------------------------------------------------------------------
+T ss_pred             CCCCCccccCCcceEe-ccCCChhhhHHHHHHHhccc----------cCCcccceeEEcCCCCeEEEcchHHHhhccCCC
+Confidence            6899999999999988 89999999999999986432          2578899999999 999999999999    889
+
+
+Q ss_pred             CCCCC
+Q FD01543278_020   76 PHIGS   80 (80)
+Q Consensus        76 ~H~GG   80 (80)
+                      .|+||
+T Consensus      1374 ~h~Gg 1378 (1402)
+T 8H8B_A         1374 AATGG 1378 (1402)
+T ss_dssp             -----
+T ss_pred             CCcch
+Confidence            99997
+
+
+No 2
+>8H8C_C C-terminal peptide from Putative Rhs-family protein; T6SS, Rhs proteins, polymorphic toxins, TOXIN;{Vibrio parahaemolyticus serotype O3:K6 (strain RIMD 2210633)}
+Probab=98.72  E-value=4.5e-08  Score=68.17  Aligned_cols=25  Identities=20%  Similarity=0.417  Sum_probs=0.0  Template_Neff=10.600
+
+Q ss_pred             HccCCCcccccC-CceEEEcchhhhc
+Q FD01543278_020   49 LSEKGLTPHHLS-VTEIILVPSDLHG   73 (80)
+Q Consensus        49 r~~n~~TWHe~~-~~tmqLVPt~Ih~   73 (80)
+                      ..+.+++|||.. .++|++|+..+|.
+T Consensus       190 ~~~~~~t~hh~~~~~~~qlv~~~i~~  215 (250)
+T 8H8C_C          190 YDKSKYVWHHHQDGKTMMLIPKSVHS  215 (250)
+T ss_dssp             --------------------------
+T ss_pred             CCccccceEEcCCCCeEEEecHHHhc
+Confidence            456789999999 9999999999986
+
+
+No 3
+>PF12639.11 ; Colicin-DNase ; DNase/tRNase domain of colicin-like bacteriocin
+Probab=97.18  E-value=0.0069  Score=31.29  Aligned_cols=78  Identities=17%  Similarity=0.358  Sum_probs=0.0  Template_Neff=14.500
+
+Q ss_pred             C-CCCCCCceeeEeecCCcccCCchhcHHHHHHHHHHHhC--------CCHHHHHHH---HccCCCcccccC-CceEEEc
+Q FD01543278_020    1 G-RPDFSPWSKGSITFNEGVLNGSQNDFTEVYKSIAKEMN--------ITPTAAKNL---LSEKGLTPHHLS-VTEIILV   67 (80)
+Q Consensus         1 G-~PDFsp~s~~~V~I~~~mt~~R~~nf~~ad~~la~~~~--------~t~~ei~~~---r~~n~~TWHe~~-~~tmqLV   67 (80)
+                      | .|++.......++.. .....+...+......+...+.        +....+..+   .....++||+.. ...++++
+T Consensus         7 ~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   85 (97)
+T Q3IK23_PSET1/9    7 GVFPKFESYCDVKLPDE-NLGDSDSKQFRICNEALKEEYENGTLNCSKFSERQLDQIKNGDKPEGFTWHHHQETGAMQLI   85 (97)
+T ss_pred             cCCCCCCccEEEECCHH-HcCCChHHHHHHHHHHHHHHHHcChhhHhhCCHHHHHHHHcCCCCCCcceEeCCCCCeEEEc
+
+
+Q ss_pred             chhhhccCCCCC
+Q FD01543278_020   68 PSDLHGNVPHIG   79 (80)
+Q Consensus        68 Pt~Ih~~f~H~G   79 (80)
+                      +..++..+.|.|
+T Consensus        86 ~~~~~~~~~~~g   97 (97)
+T Q3IK23_PSET1/9   86 DTEIHDKTGHTG   97 (97)
+T ss_pred             cHHHHHhcCCCC
+
+
+No 4
+>PF14414.10 ; WHH ; A nuclease of the HNH/ENDO VII superfamily with conserved WHH
+Probab=97.11  E-value=0.0011  Score=30.62  Aligned_cols=32  Identities=38%  Similarity=0.566  Sum_probs=0.0  Template_Neff=13.400
+
+Q ss_pred             HccCCCcccccC-CceEEEcchhhhccCCCCCC
+Q FD01543278_020   49 LSEKGLTPHHLS-VTEIILVPSDLHGNVPHIGS   80 (80)
+Q Consensus        49 r~~n~~TWHe~~-~~tmqLVPt~Ih~~f~H~GG   80 (80)
+                      +...+++||+.. ...+++++..++..+.+.||
+T Consensus         4 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~g~   36 (43)
+T R6DS92_9CLOT/1    4 RKEHGYTWHECRDMKTMQKVPSIVHNNIPHSGG   36 (43)
+T ss_pred             cCCCCCcceecCCCCeEEeccHHHHhcCCCccc
+
+
+No 5
+>8BD1_A Type IV secretion protein Rhs; Vibrio parahaemolyticus, Type-VI secretion system effector, Rhs toxin, WHH domain, TOXIN; 1.26A {Vibrio parahaemolyticus}
+Probab=95.88  E-value=0.044  Score=32.94  Aligned_cols=69  Identities=26%  Similarity=0.452  Sum_probs=0.0  Template_Neff=12.300
+
+Q ss_pred             CCCCCCCceeeEeecCCcccCCchhcHHHHHHHHHHHhCCCHHHHHHHHccCCCcccccC-CceEEEcchhhhcc----C
+Q FD01543278_020    1 GRPDFSPWSKGSITFNEGVLNGSQNDFTEVYKSIAKEMNITPTAAKNLLSEKGLTPHHLS-VTEIILVPSDLHGN----V   75 (80)
+Q Consensus         1 G~PDFsp~s~~~V~I~~~mt~~R~~nf~~ad~~la~~~~~t~~ei~~~r~~n~~TWHe~~-~~tmqLVPt~Ih~~----f   75 (80)
+                      |.|.+.+.....+.+. .....+..++..+...+          -.......+++||+.. ...+++++..++..    +
+T Consensus        37 g~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~----------~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  105 (134)
+T 8BD1_A           37 GFPDFTPYSKKTVRVI-GLTGDMANDVPLAMARA----------KITKYDKSKYVWHHHQDGKTMMLIPKSVHSVRNGGV  105 (134)
+T ss_dssp             SCBCCTTTCSCEEECT-TCCSCHHHHHHHHHHHH----------TCSCCCTTTEEEEECTTSSEEEEEEHHHHCGGGTCC
+T ss_pred             CccCCCccceeeeecc-cCCCChhhCHHHHHHHh----------CCCCCCccCCeeEEcCCCCeEEEeeHHHHccccCCC
+
+
+Q ss_pred             CCCCC
+Q FD01543278_020   76 PHIGS   80 (80)
+Q Consensus        76 ~H~GG   80 (80)
+                      .+.||
+T Consensus       106 ~~~g~  110 (134)
+T 8BD1_A          106 AHTGG  110 (134)
+T ss_dssp             CCCCH
+T ss_pred             CCcch
+
+
+No 6
+>PF13994.10 ; PgaD ; PgaD-like protein
+Probab=84.97  E-value=2.3  Score=28.52  Aligned_cols=32  Identities=16%  Similarity=0.269  Sum_probs=0.0  Template_Neff=8.900
+
+Q ss_pred             HHHHHHHhCCCHHHHHHHHccCCCcccccC-Cc
+Q FD01543278_020   31 YKSIAKEMNITPTAAKNLLSEKGLTPHHLS-VT   62 (80)
+Q Consensus        31 d~~la~~~~~t~~ei~~~r~~n~~TWHe~~-~~   62 (80)
+                      ++.+|+.++++++++.+++.....+.|+.+ ++
+T Consensus        99 ~~~la~~f~~~~~~l~~~q~~k~i~v~~d~~G~  131 (133)
+T W8X1U6_CASDE/2   99 PETLARHFGVSLAQLRILRTSRSLLIHHTDEGR  131 (133)
+T ss_pred             HHHHHHHhCCCHHHHHHHHhCCeEEEEeCCCCC
+
+
+No 7
+>PF14056.10 ; DUF4250 ; Domain of unknown function (DUF4250)
+Probab=69.75  E-value=13  Score=21.84  Aligned_cols=26  Identities=8%  Similarity=0.167  Sum_probs=0.0  Template_Neff=7.700
+
+Q ss_pred             HHHHHHhCCCHHHHHHHHccCCCccc
+Q FD01543278_020   32 KSIAKEMNITPTAAKNLLSEKGLTPH   57 (80)
+Q Consensus        32 ~~la~~~~~t~~ei~~~r~~n~~TWH   57 (80)
+                      +.||+.++++.+.+.+.-+..||.|+
+T Consensus        24 ~~i~~~~~i~~~~l~~~l~~~GY~y~   49 (55)
+T R5LDH5_9FIRM/3   24 DDFCDKYEVDKALITSKLKSAGYIYN   49 (55)
+T ss_pred             HHHHHHhCCCHHHHHHHHHHCCCeee
+
+
+No 8
+>PF06353.16 ; DUF1062 ; Protein of unknown function (DUF1062)
+Probab=66.86  E-value=14  Score=25.81  Aligned_cols=26  Identities=15%  Similarity=0.332  Sum_probs=0.0  Template_Neff=7.600
+
+Q ss_pred             HHHHHHHHhCCCHHHHHHHHccCCCc
+Q FD01543278_020   30 VYKSIAKEMNITPTAAKNLLSEKGLT   55 (80)
+Q Consensus        30 ad~~la~~~~~t~~ei~~~r~~n~~T   55 (80)
+                      .|+.||+++++|.++|+++.++..+.
+T Consensus       106 lDrlLa~~LglSRs~v~~Li~~G~I~  131 (136)
+T F2JMB0_CELLD/3  106 MDKVLSRQLEISRAQVRSLAEKGILS  131 (136)
+T ss_pred             HHHHHHHhcCCCHHHHHHHHHcCCEE
+
+
+No 9
+>2KVV_A Putative excisionase; excisionase, DNA binding, wHTH motif, Structural Genomics, NORTHEAST STRUCTURAL GENOMICS CONSORTIUM (NESG), PSI-2, Protein Structure Initiative; NMR {Klebsiella pneumoniae}
+Probab=50.64  E-value=45  Score=21.04  Aligned_cols=22  Identities=5%  Similarity=0.071  Sum_probs=0.0  Template_Neff=7.600
+
+Q ss_pred             HHHHHHhCCCHHHHHHHHccCCC
+Q FD01543278_020   32 KSIAKEMNITPTAAKNLLSEKGL   54 (80)
+Q Consensus        32 ~~la~~~~~t~~ei~~~r~~n~~   54 (80)
+                      +++|+.+|+|++.|.+||. ..+
+T Consensus        14 ~~~a~~lG~s~~tL~~~r~-~~~   35 (78)
+T 2KVV_A           14 KALMVRTGLGARQIESYRQ-GAW   35 (78)
+T ss_dssp             HHHHHHHCCCHHHHHHHHT-TTC
+T ss_pred             HHHHHHHCCCHHHHHHHHh-CCc
+
+
+No 10
+>PF11242.12 ; DUF2774 ; Protein of unknown function (DUF2774)
+Probab=47.83  E-value=43  Score=21.20  Aligned_cols=20  Identities=25%  Similarity=0.383  Sum_probs=0.0  Template_Neff=5.900
+
+Q ss_pred             HHHHHHhCCCHHHHHHHHcc
+Q FD01543278_020   32 KSIAKEMNITPTAAKNLLSE   51 (80)
+Q Consensus        32 ~~la~~~~~t~~ei~~~r~~   51 (80)
+                      ..+|+++|+|++.|.+|.+.
+T Consensus        18 ~EIA~~LGiS~~tV~~~~~~   37 (64)
+T D4Z9X8_BPAR1/5   18 IEIARELNLQAKEVAVLWAR   37 (64)
+T ss_pred             HHHHHHhCCCHHHHHHHHHH
+
+
+No 11
+>PF05344.15 ; DUF746 ; Domain of Unknown Function (DUF746)
+Probab=41.18  E-value=73  Score=18.38  Aligned_cols=21  Identities=10%  Similarity=0.181  Sum_probs=0.0  Template_Neff=9.000
+
+Q ss_pred             HHHHHHHhCCCHHHHHHHHcc
+Q FD01543278_020   31 YKSIAKEMNITPTAAKNLLSE   51 (80)
+Q Consensus        31 d~~la~~~~~t~~ei~~~r~~   51 (80)
+                      ...+|+.++++..-|.+|++.
+T Consensus        15 ~~~ia~~lgis~~tv~~W~~~   35 (62)
+T Q8Y104_RALSO/1   15 LEEASFRLGLDVECISNWLAR   35 (62)
+T ss_pred             HHHHHHHHCCCHHHHHHHHHH
+
+
+No 12
+>PF19575.3 ; HTH_58 ; Helix-turn-helix domain
+Probab=40.98  E-value=1e+02  Score=18.88  Aligned_cols=32  Identities=16%  Similarity=0.197  Sum_probs=0.0  Template_Neff=8.100
+
+Q ss_pred             HHHHHHhCCCHHHHHHHHccCCCcccccC--Cce
+Q FD01543278_020   32 KSIAKEMNITPTAAKNLLSEKGLTPHHLS--VTE   63 (80)
+Q Consensus        32 ~~la~~~~~t~~ei~~~r~~n~~TWHe~~--~~t   63 (80)
+                      ..+|+++++|...|.++.+..+.+.....  .+|
+T Consensus        40 ~eIA~~~giS~~tV~~~l~~~~~~~r~~~~~~r~   73 (73)
+T A0A3E0GZ65_9PS   40 RALAESTGRSYGFVHRVLSESGVQLRGRGGATRT   73 (73)
+T ss_pred             HHHHHHHCCCHHHHHHHHHHcCCCCCCCCCCCCC
+
+
+No 13
+>5B52_B H-NS family protein MvaT; transcriptional regulator, nucleoid associated protein, TRANSCRIPTION; 2.3A {Pseudomonas putida (strain KT2440)}
+Probab=40.71  E-value=1.1e+02  Score=19.40  Aligned_cols=37  Identities=16%  Similarity=0.177  Sum_probs=0.0  Template_Neff=6.300
+
+Q ss_pred             chhcHHHHHHHHHHHhCCCHHHHHHHHccCCCccccc
+Q FD01543278_020   23 SQNDFTEVYKSIAKEMNITPTAAKNLLSEKGLTPHHL   59 (80)
+Q Consensus        23 R~~nf~~ad~~la~~~~~t~~ei~~~r~~n~~TWHe~   59 (80)
+                      |...|...=+.|+++||.|..||.....+.--.-||+
+T Consensus        32 ~eleF~~kL~~Lm~eYg~s~~dvi~iL~p~~~~~~~~   68 (69)
+T 5B52_B           32 REIEFEQKLVGLMKSYDKSLRDIIAILDPKLEHHHHH   68 (69)
+T ss_dssp             HHHHHHHHHHHHHHHHTCCHHHHHHHHCTTC------
+T ss_pred             HHHHHHHHHHHHHHHhCCCHHHHHHHHCcccccccCC
+
+
+No 14
+>2M60_A Enterocin JSB; leaderless bacteriocin, ANTIMICROBIAL PROTEIN; HET: FME; NMR {Enterococcus faecalis}
+Probab=40.21  E-value=96  Score=18.99  Aligned_cols=23  Identities=9%  Similarity=0.123  Sum_probs=0.0  Template_Neff=2.000
+
+Q ss_pred             HHHHHHHHhC------------------CCHHHHHHHHccC
+Q FD01543278_020   30 VYKSIAKEMN------------------ITPTAAKNLLSEK   52 (80)
+Q Consensus        30 ad~~la~~~~------------------~t~~ei~~~r~~n   52 (80)
+                      |-.+||.++|                  ||.+.|++|.+..
+T Consensus         3 a~akla~K~Gw~~vkKyY~~IMq~IgeGwtI~~ie~~lKrh   43 (43)
+T 2M60_A            3 AIAKLVAKFGWPFIKKFYKQIMQFIGQGWTIDQIEKWLKRH   43 (43)
+T ss_dssp             SHHHHHTTSCHHHHTTSHHHHHHHHHHTCCHHHHHHHHSCC
+T ss_pred             HHHHHHHHHChHHHHHHHHHHHHHHhcCCcHHHHHHHHhhC
+
+
+No 15
+>PF00376.27 ; MerR ; MerR family regulatory protein
+Probab=39.08  E-value=81  Score=15.31  Aligned_cols=23  Identities=17%  Similarity=0.304  Sum_probs=0.0  Template_Neff=10.700
+
+Q ss_pred             HHHHHHh--CCCHHHHHHHHccCCC
+Q FD01543278_020   32 KSIAKEM--NITPTAAKNLLSEKGL   54 (80)
+Q Consensus        32 ~~la~~~--~~t~~ei~~~r~~n~~   54 (80)
+                      +.+++.+  ++|.+-|.+|+....+
+T Consensus         3 ~~~~~~~~~~~s~~ti~~~~~~g~~   27 (40)
+T Q55938_SYNY3/7    3 KELTDAVGGGVTPRMVRHYHTLGLL   27 (40)
+T ss_pred             HHHHHHhCCCCCHHHHHHHHHcCCC
+
+
+No 16
+>PF12244.12 ; DUF3606 ; Protein of unknown function (DUF3606)
+Probab=36.29  E-value=70  Score=18.49  Aligned_cols=20  Identities=20%  Similarity=0.212  Sum_probs=0.0  Template_Neff=7.900
+
+Q ss_pred             HHHHhCCCHHHHHHHHccCC
+Q FD01543278_020   34 IAKEMNITPTAAKNLLSEKG   53 (80)
+Q Consensus        34 la~~~~~t~~ei~~~r~~n~   53 (80)
+                      +|++||+|+.++..-...-|
+T Consensus        24 wa~k~~vs~~~l~~av~~vG   43 (53)
+T C4LBJ3_TOLAT/5   24 WCKELGCTDRELAAAVRAVG   43 (53)
+T ss_pred             HHHHHCCCHHHHHHHHHHHC
+
+
+No 17
+>1Y6U_A Excisionase from transposon Tn916; DNA architectural protein, Tyrosine recombinase, Excisionase, Winged-helix protein, Conjugative transposon, DNA BINDING PROTEIN; NMR {Enterococcus faecalis}
+Probab=36.20  E-value=1.1e+02  Score=15.76  Aligned_cols=24  Identities=17%  Similarity=0.217  Sum_probs=0.0  Template_Neff=12.400
+
+Q ss_pred             HHHHHHhCCCHHHHHHHHccC-CCc
+Q FD01543278_020   32 KSIAKEMNITPTAAKNLLSEK-GLT   55 (80)
+Q Consensus        32 ~~la~~~~~t~~ei~~~r~~n-~~T   55 (80)
+                      ..+|+.++++...+.+|.+.. .+.
+T Consensus        20 ~e~~~~~~~~~~~~~~~~~~~~~~~   44 (70)
+T 1Y6U_A           20 EEASKYFRIGENKLRRLAEENKNAN   44 (70)
+T ss_dssp             HHHHHHTCSCHHHHHHHHHHCTTCS
+T ss_pred             HHHHHHhCCCHHHHHHHHHhcCCCC
+
+
+No 18
+>PF10654.13 ; DUF2481 ; Protein of unknown function (DUF2481)
+Probab=35.06  E-value=1.1e+02  Score=20.65  Aligned_cols=23  Identities=13%  Similarity=0.193  Sum_probs=0.0  Template_Neff=8.500
+
+Q ss_pred             HHHHHHHhCCCHHHHHHHHccCC
+Q FD01543278_020   31 YKSIAKEMNITPTAAKNLLSEKG   53 (80)
+Q Consensus        31 d~~la~~~~~t~~ei~~~r~~n~   53 (80)
+                      ...+|+.+|+|.+-|.+|++.+.
+T Consensus        83 ~~eIA~~lgvs~sTv~~~~~~~~  105 (126)
+T Q8Y4X4_LISMO/2   83 CYAIAEHFKVSKAVVFNYTQRNK  105 (126)
+T ss_pred             HHHHHHHHCCCHHHHHHHHhcCc
+
+
+No 19
+>PF12668.11 ; DUF3791 ; Protein of unknown function (DUF3791)
+Probab=33.97  E-value=1.1e+02  Score=17.48  Aligned_cols=22  Identities=14%  Similarity=0.167  Sum_probs=0.0  Template_Neff=8.700
+
+Q ss_pred             HHHHHHhCCCHHHHHHHHccCC
+Q FD01543278_020   32 KSIAKEMNITPTAAKNLLSEKG   53 (80)
+Q Consensus        32 ~~la~~~~~t~~ei~~~r~~n~   53 (80)
+                      +.+|+++++|.+++-+.-...+
+T Consensus         8 ~~~a~~~~is~~ea~~~f~~s~   29 (58)
+T R5IYE2_9FIRM/5    8 EYYAAHIGRPGNEIYALFDRTG   29 (58)
+T ss_pred             HHHHHHHCCCHHHHHHHHHHcC
+
+
+No 20
+>3HU5_A Isochorismatase family protein; STRUCTURAL GENOMICS, PROTEIN STRUCTURE INITIATIVE, NEW YORK STRUCTURAL GENOMIX RESEARCH CONSORTIUM, NYSGXRC, isochorismatase hydrolase. Desulfovibrio vulgaris; HET: MSE; 1.5A {Desulfovibrio vulgaris} SCOP: c.33.1.0
+Probab=32.75  E-value=2.2e+02  Score=19.35  Aligned_cols=45  Identities=16%  Similarity=0.246  Sum_probs=0.0  Template_Neff=10.900
+
+Q ss_pred             eecCCcccCCchhcHHHHHHHHHHHhC---CCHHHHHHHH-ccCCCccccc
+Q FD01543278_020   13 ITFNEGVLNGSQNDFTEVYKSIAKEMN---ITPTAAKNLL-SEKGLTPHHL   59 (80)
+Q Consensus        13 V~I~~~mt~~R~~nf~~ad~~la~~~~---~t~~ei~~~r-~~n~~TWHe~   59 (80)
+                      |--+ ............+-+.| ..++   ++.+++.... .....||||+
+T Consensus       156 v~~d-~~~~~~~~~~~~~l~~l-~~~g~~~~~~~~~~~~~~~~~~~~~~~~  204 (204)
+T 3HU5_A          156 VVTD-ACSARTPGVAESNINDM-RAMGITCVPLTALDDVLARREGHHHHHH  204 (204)
+T ss_dssp             EEEE-EEECSSHHHHHHHHHHH-HHHTCEEECGGGHHHHHHC---------
+T ss_pred             EEee-ccccCCHHHHHHHHHHH-HHcCCeEeeHHHHHHHHHhccCCCCCCC
+
+
+No 21
+>PF15637.10 ; Tox-HNH-HHH ; HNH/Endo VII superfamily nuclease toxin with a HHH motif
+Probab=32.06  E-value=86  Score=18.96  Aligned_cols=28  Identities=21%  Similarity=0.312  Sum_probs=0.0  Template_Neff=10.600
+
+Q ss_pred             CCCcccccC-CceEEEcchhhhccCCCCC
+Q FD01543278_020   52 KGLTPHHLS-VTEIILVPSDLHGNVPHIG   79 (80)
+Q Consensus        52 n~~TWHe~~-~~tmqLVPt~Ih~~f~H~G   79 (80)
+                      ..+.-|+.. ...+..+|..+|..+..+.
+T Consensus        74 ~~l~~h~~~~g~~~~~lp~~~h~~~~~~~  102 (103)
+T H3SNR9_9BACL/5   74 DPLRHHHIGEGGQAAALPVTLHPGYGGVH  102 (103)
+T ss_pred             CCccccccCCCccEEEcccccccCCCCCC
+
+
+No 22
+>PF08535.14 ; KorB ; KorB domain
+Probab=31.10  E-value=1.4e+02  Score=17.42  Aligned_cols=24  Identities=13%  Similarity=-0.029  Sum_probs=0.0  Template_Neff=10.900
+
+Q ss_pred             HHHHHHhCCCHHHHHHHHccCCCc
+Q FD01543278_020   32 KSIAKEMNITPTAAKNLLSEKGLT   55 (80)
+Q Consensus        32 ~~la~~~~~t~~ei~~~r~~n~~T   55 (80)
+                      +.+|+.+|++.+.|.+|..-..+.
+T Consensus         7 ~eia~~~g~s~s~v~~~l~~~~l~   30 (92)
+T Q0VMS5_ALCBS/1    7 TDIAKQLGKNKSWLARYRLLYQSN   30 (92)
+T ss_pred             HHHHHHHCCCHHHHHHHHHHhCCC
+
+
+No 23
+>6QQ4_A General odorant-binding protein 28a; odorant-binding protein, pheromone-binding protein, drosophila melanogaster, olfaction, gustation, taste, transport, carrier, perireceptor events, complex, TRANSPORT PROTEIN; HET: 1PE; 1.998A {Drosophila melanogaster}
+Probab=30.07  E-value=1.9e+02  Score=17.86  Aligned_cols=28  Identities=14%  Similarity=0.222  Sum_probs=0.0  Template_Neff=10.800
+
+Q ss_pred             hcHHHHHHHHHHHhCCCHHHHHHHHccC
+Q FD01543278_020   25 NDFTEVYKSIAKEMNITPTAAKNLLSEK   52 (80)
+Q Consensus        25 ~nf~~ad~~la~~~~~t~~ei~~~r~~n   52 (80)
+                      ..+.++.+.+.++++++..++..++...
+T Consensus         7 ~~~~~~~~~C~~~~~~~~~~~~~~~~~~   34 (121)
+T 6QQ4_A            7 AKLMESAESCMPEVGATDADLQEMVKKQ   34 (121)
+T ss_dssp             HHHHHHHHHHHHHHTCCHHHHHHHHTTC
+T ss_pred             HHHHHHHHHHHHHhCCCHHHHHHHHhcC
+
+
+No 24
+>PF07278.15 ; DUF1441 ; Protein of unknown function (DUF1441)
+Probab=28.31  E-value=1.7e+02  Score=19.10  Aligned_cols=24  Identities=4%  Similarity=-0.029  Sum_probs=0.0  Template_Neff=10.300
+
+Q ss_pred             HHHHHHhCCCHHHHHHHHccCCCc
+Q FD01543278_020   32 KSIAKEMNITPTAAKNLLSEKGLT   55 (80)
+Q Consensus        32 ~~la~~~~~t~~ei~~~r~~n~~T   55 (80)
+                      ..+|+.+|+|..-|.+|.+..++.
+T Consensus         5 ~e~A~~~gvs~~tv~~~~~~~~~~   28 (147)
+T Q8ZQ97_SALTY/9    5 TQLSAITGAHRQTIASRLKGVKTS   28 (147)
+T ss_pred             HHHHHHHCCCHHHHHHHHhcCCCC
+
+
+No 25
+>2OA4_A SiR5; SiR5, Structural Genomics, PSI-2, Protein Structure Initiative, Northeast Structural Genomics Consortium, NESG, UNKNOWN FUNCTION; NMR {Silicibacter pomeroyi} SCOP: a.4.12.3, l.1.1.1
+Probab=28.31  E-value=1.3e+02  Score=19.58  Aligned_cols=20  Identities=5%  Similarity=0.109  Sum_probs=0.0  Template_Neff=8.300
+
+Q ss_pred             HHHHHHhCCCHHHHHHHHcc
+Q FD01543278_020   32 KSIAKEMNITPTAAKNLLSE   51 (80)
+Q Consensus        32 ~~la~~~~~t~~ei~~~r~~   51 (80)
+                      ..++.+++++++.+.+|++.
+T Consensus        54 ~~~~~~~gis~s~i~~W~~~   73 (101)
+T 2OA4_A           54 AEAKQTYGLSDEEFNSWVSA   73 (101)
+T ss_dssp             HHHHHTTCSSHHHHHHHHHH
+T ss_pred             HHHHHHHCCCHHHHHHHHHH
+
+
+No 26
+>2AHQ_A RNA polymerase sigma factor RpoN; Sigma-54, sigma factors, solution structure, transcription, RNA polymerase; NMR {Aquifex aeolicus}
+Probab=27.50  E-value=1.7e+02  Score=17.47  Aligned_cols=25  Identities=12%  Similarity=0.190  Sum_probs=0.0  Template_Neff=9.100
+
+Q ss_pred             HHHHHHHh-----CCCHHHHHHHHccCCCc
+Q FD01543278_020   31 YKSIAKEM-----NITPTAAKNLLSEKGLT   55 (80)
+Q Consensus        31 d~~la~~~-----~~t~~ei~~~r~~n~~T   55 (80)
+                      |..|++.+     +++...|.+||++.++.
+T Consensus        40 d~~i~~~L~~~gi~isrrtV~kyr~~~~i~   69 (76)
+T 2AHQ_A           40 DQEIANILKEKGFKVARRTVAKYREMLGIP   69 (76)
+T ss_dssp             HHHHHHHHTTTSSCCCHHHHHHHHHHTC--
+T ss_pred             HHHHHHHHHHcCCCccHHHHHHHHHHhCCC
+
+
+No 27
+>4NUT_B Ribosome assembly 1 protein; SnoRNP assembly, RNA BINDING PROTEIN; 1.55A {Saccharomyces cerevisiae}
+Probab=27.37  E-value=32  Score=22.12  Aligned_cols=16  Identities=19%  Similarity=0.009  Sum_probs=0.0  Template_Neff=2.400
+
+Q ss_pred             CHHHHHHHHccCCCcc
+Q FD01543278_020   41 TPTAAKNLLSEKGLTP   56 (80)
+Q Consensus        41 t~~ei~~~r~~n~~TW   56 (80)
+                      |..||.+||.+-..-|
+T Consensus         5 t~edI~kWreeRkkmW   20 (57)
+T 4NUT_B            5 TDEDVKKWREERKKMW   20 (57)
+T ss_dssp             -CHHHHHHHHHHHHHH
+T ss_pred             CHHHHHHHHHHHHHHH
+
+
+No 28
+>PF10281.13 ; Ish1 ; Putative nuclear envelope organisation protein
+Probab=27.21  E-value=1.1e+02  Score=16.14  Aligned_cols=16  Identities=13%  Similarity=0.100  Sum_probs=0.0  Template_Neff=8.300
+
+Q ss_pred             CCHHHHHHHHccCCCc
+Q FD01543278_020   40 ITPTAAKNLLSEKGLT   55 (80)
+Q Consensus        40 ~t~~ei~~~r~~n~~T   55 (80)
+                      ||.++++.|...+++.
+T Consensus         4 Ws~~~L~~wL~~~~i~   19 (38)
+T Q75BC7_ASHGO/2    4 WPLDSLRSWLEVHKLK   19 (38)
+T ss_pred             CCHHHHHHHHHHCCCC
+
+
+No 29
+>PF20132.3 ; DUF6522 ; Family of unknown function (DUF6522)
+Probab=26.06  E-value=1.8e+02  Score=19.43  Aligned_cols=24  Identities=21%  Similarity=0.443  Sum_probs=0.0  Template_Neff=6.100
+
+Q ss_pred             HHHHHHhCCCHHHHHHHHccCCCc
+Q FD01543278_020   32 KSIAKEMNITPTAAKNLLSEKGLT   55 (80)
+Q Consensus        32 ~~la~~~~~t~~ei~~~r~~n~~T   55 (80)
+                      +.||+.++++++++...-....+|
+T Consensus        15 ~~lA~~lgl~~~~l~~~mr~G~It   38 (87)
+T A0A2R4MJ82_9HY   15 TDLGWLLNVPPEQVQRLMRENKIT   38 (87)
+T ss_pred             HHHHHHhCCCHHHHHHHHHCCCCe
+
+
+No 30
+>PF06806.16 ; DUF1233 ; Putative excisionase (DUF1233)
+Probab=25.69  E-value=2.1e+02  Score=15.89  Aligned_cols=25  Identities=8%  Similarity=-0.023  Sum_probs=0.0  Template_Neff=10.600
+
+Q ss_pred             HHHHHHhCCCHHHHHHHHc---cCCCcc
+Q FD01543278_020   32 KSIAKEMNITPTAAKNLLS---EKGLTP   56 (80)
+Q Consensus        32 ~~la~~~~~t~~ei~~~r~---~n~~TW   56 (80)
+                      +.+|+.+++|..-+.+|+.   ..+..|
+T Consensus        13 ~e~a~~lg~s~~tl~~~~~~~~~~~~~~   40 (70)
+T A0A380PD09_YER   13 DLLMSLNGMTKHMIQHARRKSWMEGREY   40 (70)
+T ss_pred             HHHHHHhCCCHHHHHHHHHhhhhcCCee
+
+
+No 31
+>5IKF_B Cryptic loci regulator protein 1; zinc fingers, alpha-helical, protein-protein interface, complex, transcription; 2.8A {Schizosaccharomyces pombe (strain 972 / ATCC 24843)}
+Probab=25.67  E-value=2.1e+02  Score=21.68  Aligned_cols=28  Identities=14%  Similarity=0.372  Sum_probs=0.0  Template_Neff=1.600
+
+Q ss_pred             HHHHHHHHHHHhCCCHHHHHHHHccCCC
+Q FD01543278_020   27 FTEVYKSIAKEMNITPTAAKNLLSEKGL   54 (80)
+Q Consensus        27 f~~ad~~la~~~~~t~~ei~~~r~~n~~   54 (80)
+                      ..++-++--+|++.+++++++.|..|+.
+T Consensus       109 n~q~lEKaikqLdLs~~d~~~lre~n~v  136 (155)
+T 5IKF_B          109 NRQTLEKAIKQLDLSPDKVIQLREQNGV  136 (155)
+T ss_dssp             HHHHHHHHHHHSCCCHHHHHHHHHHTCE
+T ss_pred             hHHHHHHHHHHcCCCHHHHHHHHHhcCc
+
+
+No 32
+>6G1T_A AM32; Repressor, Protein-DNA complex, Type IV secretion system, DNA BINDING PROTEIN; HET: EPE; 1.93A {Enterococcus faecalis}
+Probab=25.63  E-value=1.9e+02  Score=20.18  Aligned_cols=26  Identities=4%  Similarity=0.023  Sum_probs=0.0  Template_Neff=7.000
+
+Q ss_pred             HHHHHHhCCCHHHHHHHHccCCCc------cc
+Q FD01543278_020   32 KSIAKEMNITPTAAKNLLSEKGLT------PH   57 (80)
+Q Consensus        32 ~~la~~~~~t~~ei~~~r~~n~~T------WH   57 (80)
+                      +..|+.+|+|..-|.++.+++.++      |+
+T Consensus        13 ke~a~~l~v~~~ti~~~~~~~kl~~~~~~~~~   44 (122)
+T 6G1T_A           13 KEMSERIGKNRNYLSQAYRNNKHEILKNFNYR   44 (122)
+T ss_dssp             HHHHHHTTCCTTHHHHHHHTTCHHHHTTSEEE
+T ss_pred             HHHHHHHCCCHHHHHHHHHCCCCcccccceee
+
+
+No 33
+>PF19709.3 ; DUF6206 ; Family of unknown function (DUF6206)
+Probab=25.59  E-value=1.6e+02  Score=23.35  Aligned_cols=29  Identities=14%  Similarity=-0.175  Sum_probs=0.0  Template_Neff=6.800
+
+Q ss_pred             HHHHHHHHHHhC-CCHHHHHHHHccCC--Ccc
+Q FD01543278_020   28 TEVYKSIAKEMN-ITPTAAKNLLSEKG--LTP   56 (80)
+Q Consensus        28 ~~ad~~la~~~~-~t~~ei~~~r~~n~--~TW   56 (80)
+                      +.|++.+++... +|.++|++|.++..  .+|
+T Consensus       229 ~~~n~~~~~~~~pit~~ev~~yy~~da~~~iW  260 (271)
+T A0A177H9K4_9RH  229 DWGRAFAADEMAQWSNEIHDGLTKPPRLPGYW  260 (271)
+T ss_pred             HHHHHHHHHhccccCHHHHhhhcCCCCcccch
+
+
+No 34
+>2JRT_A Uncharacterized protein; NMR Solution, NESG, PSI, target RhR5, Rhodobacter sphaeroides, Structural Genomics, Protein Structure Initiative, Northeast Structural Genomics; NMR {Rhodobacter sphaeroides} SCOP: a.4.12.0, l.1.1.1
+Probab=24.61  E-value=1.7e+02  Score=18.48  Aligned_cols=20  Identities=5%  Similarity=-0.001  Sum_probs=0.0  Template_Neff=8.900
+
+Q ss_pred             HHHHHHhCCCHHHHHHHHcc
+Q FD01543278_020   32 KSIAKEMNITPTAAKNLLSE   51 (80)
+Q Consensus        32 ~~la~~~~~t~~ei~~~r~~   51 (80)
+                      ..+|.+++++++.+.+|++.
+T Consensus        53 ~~~a~~~gis~s~i~~W~~~   72 (95)
+T 2JRT_A           53 REALDRYSLSEEEFALWRSA   72 (95)
+T ss_dssp             HHHHHHTTCCHHHHHHHHHH
+T ss_pred             HHHHHHhCCCHHHHHHHHHH
+
+
+No 35
+>2CW1_A SN4m; LAMBDA CRO FOLD, DE NOVO PROTEIN; NMR {N/A} SCOP: k.46.1.1
+Probab=24.51  E-value=2.1e+02  Score=15.58  Aligned_cols=22  Identities=9%  Similarity=0.182  Sum_probs=0.0  Template_Neff=10.600
+
+Q ss_pred             HHHHHHhCCCHHHHHHHHccCC
+Q FD01543278_020   32 KSIAKEMNITPTAAKNLLSEKG   53 (80)
+Q Consensus        32 ~~la~~~~~t~~ei~~~r~~n~   53 (80)
+                      ..||+.++++..-|.+|.....
+T Consensus        17 ~~la~~l~~s~~~i~~~~~~~~   38 (65)
+T 2CW1_A           17 EYAARALGLSQKLIEEVLKRGL   38 (65)
+T ss_dssp             HHHHHHSSSCHHHHHHHHHTTC
+T ss_pred             HHHHHHhCCCHHHHHHHHhCCC
+
+
+No 36
+>PF04645.16 ; DUF603 ; Protein of unknown function, DUF603
+Probab=23.58  E-value=1.8e+02  Score=21.37  Aligned_cols=48  Identities=8%  Similarity=0.095  Sum_probs=0.0  Template_Neff=7.600
+
+Q ss_pred             HHHHHHhCCCHHHHHHHHccCCCcccccC-CceEEEcchhh-hccCCCCC
+Q FD01543278_020   32 KSIAKEMNITPTAAKNLLSEKGLTPHHLS-VTEIILVPSDL-HGNVPHIG   79 (80)
+Q Consensus        32 ~~la~~~~~t~~ei~~~r~~n~~TWHe~~-~~tmqLVPt~I-h~~f~H~G   79 (80)
+                      ..+|+.+|+|..-|.+|.+...+.-+-.. .++..+-...+ ..--.|.+
+T Consensus        23 ~EIA~~LgVSk~tV~r~ik~~~~~~~~~k~~g~~~i~~~~~~~~i~~~~~   72 (181)
+T Q9S073_BORBU/1   23 REIADKLGVSKVNVWRMRQKWESGESVVNQDSRLTISEDTLEHLLSQTFK   72 (181)
+T ss_pred             HHHHHHHCCCHHHHHHHHHhhhcCCceeccCCeEEeCHHHHHHHHHHhhh
+
+
+No 37
+>8DGL_A Recombination Directionality Factor RdfS; Excisionase, Recombination Directionality Factor, winged helix-turn-helix, superhelix, DNA BINDING PROTEIN; HET: GOL; 2.45A {Mesorhizobium japonicum R7A}
+Probab=23.30  E-value=2.9e+02  Score=16.63  Aligned_cols=39  Identities=8%  Similarity=-0.026  Sum_probs=0.0  Template_Neff=10.000
+
+Q ss_pred             HHHHHHhCCCHHHHHHHHccCCCcccccC-CceEEEcchhh
+Q FD01543278_020   32 KSIAKEMNITPTAAKNLLSEKGLTPHHLS-VTEIILVPSDL   71 (80)
+Q Consensus        32 ~~la~~~~~t~~ei~~~r~~n~~TWHe~~-~~tmqLVPt~I   71 (80)
+                      +.+|+.+++++.-|.+|+....+. +... ++...+-+.+|
+T Consensus        23 ~e~a~~lg~~~~t~~~~~~~~~~~-~~~~~g~~~~~~~~~v   62 (91)
+T 8DGL_A           23 AQAAFYIGLSQRTLEKMRLTGGGP-KYRKHGRYVRYHIDEL   62 (91)
+T ss_dssp             HHHHHHHTCCHHHHHHHHHTTCSS-CCEEETTEEEEEHHHH
+T ss_pred             HHHHHHhCCCHHHHHHHHHhCCCC-CCEeeCCccEEEHHHH
+
+
+No 38
+>2O8K_A RNA polymerase sigma factor RpoN; PROTEIN-DNA COMPLEX, HELIX-TURN-HELIX, TRANSCRIPTION FACTOR, SIGMA-54, RNA POLYMERASE, TRANSCRIPTION-DNA COMPLEX; NMR {Aquifex aeolicus}
+Probab=23.17  E-value=1.9e+02  Score=16.43  Aligned_cols=26  Identities=12%  Similarity=0.188  Sum_probs=0.0  Template_Neff=9.400
+
+Q ss_pred             HHHHHHHhC-----CCHHHHHHHHccCCCcc
+Q FD01543278_020   31 YKSIAKEMN-----ITPTAAKNLLSEKGLTP   56 (80)
+Q Consensus        31 d~~la~~~~-----~t~~ei~~~r~~n~~TW   56 (80)
+                      |..|++.+.     ++...|.+||++.++..
+T Consensus        27 d~~i~~~L~~~gi~isrrtV~~yr~~~~~~~   57 (63)
+T 2O8K_A           27 DQEIANILKEKGFKVARRTVAKYREMLGIPS   57 (63)
+T ss_dssp             HHHHHHHHHHHTCCCCHHHHHHHHHHHTCSC
+T ss_pred             HHHHHHHHHHcCCCCCHHHHHHHHHHhCCCc
+
+
+No 39
+>PF11116.12 ; DUF2624 ; Protein of unknown function (DUF2624)
+Probab=22.80  E-value=2.6e+02  Score=18.03  Aligned_cols=24  Identities=25%  Similarity=0.374  Sum_probs=0.0  Template_Neff=7.300
+
+Q ss_pred             HHHHHhC--CCHHHHHHHH---ccCCCcc
+Q FD01543278_020   33 SIAKEMN--ITPTAAKNLL---SEKGLTP   56 (80)
+Q Consensus        33 ~la~~~~--~t~~ei~~~r---~~n~~TW   56 (80)
+                      .+|+++|  +|..|+++.+   +.+.+.|
+T Consensus        22 ~~a~~~gi~Lt~~Ea~~i~~~lk~~~~~~   50 (83)
+T A0A6H3AMF7_BAC   22 KYSKEYEVPITTAQADQIVVLMKGKNINI   50 (83)
+T ss_pred             HHHHHhCCCCCHHHHHHHHHHhcCCCCCC
+
+
+No 40
+>1DQE_A PHEROMONE-BINDING PROTEIN; HELICAL BUNDLE, TRANSPORT PROTEIN; HET: BOM; 1.8A {Bombyx mori} SCOP: a.39.2.1
+Probab=22.68  E-value=2.8e+02  Score=17.70  Aligned_cols=26  Identities=19%  Similarity=0.355  Sum_probs=0.0  Template_Neff=10.600
+
+Q ss_pred             hcHHHHHHHHHHHhCCCHHHHHHHHc
+Q FD01543278_020   25 NDFTEVYKSIAKEMNITPTAAKNLLS   50 (80)
+Q Consensus        25 ~nf~~ad~~la~~~~~t~~ei~~~r~   50 (80)
+                      ..+..+.+.++++.+++.+++.+++.
+T Consensus        10 ~~~~~~~~~C~~~~~i~~~~~~~~~~   35 (137)
+T 1DQE_A           10 LNFGKALDECKKEMTLTDAINEDFYN   35 (137)
+T ss_dssp             HHHHTTHHHHHHHTTCCTHHHHHHHT
+T ss_pred             HHHHHHHHHHHHhCCCCHHHHHHHHH
+
+
+No 41
+>7LW0_D Terminase small subunit; DNA Packaging, Terminase, VIRAL PROTEIN; 2.32A {Escherichia phage lambda}
+Probab=22.37  E-value=1.9e+02  Score=14.18  Aligned_cols=21  Identities=14%  Similarity=0.159  Sum_probs=0.0  Template_Neff=12.100
+
+Q ss_pred             HHHHHHhCCCHHHHHHHHccC
+Q FD01543278_020   32 KSIAKEMNITPTAAKNLLSEK   52 (80)
+Q Consensus        32 ~~la~~~~~t~~ei~~~r~~n   52 (80)
+                      ..+++..+++++.+.+|+...
+T Consensus         6 ~~~~~~~~~~~~t~~~~~~~g   26 (56)
+T 7LW0_D            6 KQLADIFGASIRTIQNWQEQG   26 (56)
+T ss_dssp             HHHHHHHTCCHHHHHHHHHTT
+T ss_pred             HHHHHHHCCCHHHHHHHHHcC
+
+
+No 42
+>PF02255.20 ; PTS_IIA ; PTS system, Lactose/Cellobiose specific IIA subunit
+Probab=22.01  E-value=1.2e+02  Score=20.15  Aligned_cols=14  Identities=29%  Similarity=0.472  Sum_probs=0.0  Template_Neff=6.900
+
+Q ss_pred             chhcHHHHHHHHHH
+Q FD01543278_020   23 SQNDFTEVYKSIAK   36 (80)
+Q Consensus        23 R~~nf~~ad~~la~   36 (80)
+                      |..||.+|++.|.+
+T Consensus        25 ~~g~f~~a~~~l~e   38 (94)
+T Q18CM9_CLOD6/3   25 KENDFKKADELIEN   38 (94)
+T ss_pred             HcCCHHHHHHHHHH
+
+
+No 43
+>7LWR_G Terminase, small subunit; DNA Packaging, Terminase, VIRAL PROTEIN; 2.35A {Enterobacteria phage P21}
+Probab=21.33  E-value=2e+02  Score=14.04  Aligned_cols=20  Identities=25%  Similarity=0.426  Sum_probs=0.0  Template_Neff=12.000
+
+Q ss_pred             HHHHHHhCCCHHHHHHHHcc
+Q FD01543278_020   32 KSIAKEMNITPTAAKNLLSE   51 (80)
+Q Consensus        32 ~~la~~~~~t~~ei~~~r~~   51 (80)
+                      +.+|+.++++...+.+|+..
+T Consensus         6 ~~~~~~~~~~~~~~~~~~~~   25 (54)
+T 7LWR_G            6 KRLAEIFNVDPRTIERWQSQ   25 (54)
+T ss_dssp             HHHHHHHTCCHHHHHHHHHT
+T ss_pred             HHHHHHhCCCHHHHHHHHHC
+
+
+No 44
+>PF08769.15 ; Spo0A_C ; Sporulation initiation factor Spo0A C terminal
+Probab=21.20  E-value=1.9e+02  Score=18.24  Aligned_cols=20  Identities=35%  Similarity=0.639  Sum_probs=0.0  Template_Neff=9.400
+
+Q ss_pred             HHHHHHHHHHhCCCHHHHHH
+Q FD01543278_020   28 TEVYKSIAKEMNITPTAAKN   47 (80)
+Q Consensus        28 ~~ad~~la~~~~~t~~ei~~   47 (80)
+                      ......+|++++.|++.|++
+T Consensus        39 k~iY~~vA~~~~~s~~~Ver   58 (104)
+T F0T237_SYNGF/1   39 KELYPAIAKKYNTAPSRVER   58 (104)
+T ss_pred             cchHHHHHHHhCCCHHHHHH
+
+
+No 45
+>PF18090.5 ; SoPB_HTH ; Centromere-binding protein HTH domain
+Probab=21.05  E-value=2.6e+02  Score=15.27  Aligned_cols=24  Identities=17%  Similarity=0.237  Sum_probs=0.0  Template_Neff=11.300
+
+Q ss_pred             HHHHHHhCCCHHHHHHHHccCCCc
+Q FD01543278_020   32 KSIAKEMNITPTAAKNLLSEKGLT   55 (80)
+Q Consensus        32 ~~la~~~~~t~~ei~~~r~~n~~T   55 (80)
+                      ..||+.+|++.+.|.+|.....+.
+T Consensus        23 ~~la~~~g~~~~~v~~~~~~~~~~   46 (75)
+T D7U710_VITVI/1   23 SALADAENISRKIITRCINTAKLP   46 (75)
+T ss_pred             HHHHHHhCCCHHHHHHHHHHccCC
+
+
+No 46
+>2E2A_B PROTEIN (ENZYME IIA); ENZYME IIA, HELICAL BUNDLES, PTS, TRANSFERASE, PHOSPHOTRANSFERASE SYSTEM; 2.1A {Lactococcus lactis} SCOP: a.7.2.1
+Probab=20.96  E-value=1.3e+02  Score=20.33  Aligned_cols=14  Identities=14%  Similarity=0.347  Sum_probs=0.0  Template_Neff=7.200
+
+Q ss_pred             chhcHHHHHHHHHH
+Q FD01543278_020   23 SQNDFTEVYKSIAK   36 (80)
+Q Consensus        23 R~~nf~~ad~~la~   36 (80)
+                      |..||.+|++.|.+
+T Consensus        32 ~~gd~~~A~~~l~~   45 (105)
+T 2E2A_B           32 ENGDFAKADSLVVE   45 (105)
+T ss_dssp             HTTCHHHHHHHHHH
+T ss_pred             HcCCHHHHHHHHHH
+
+
+No 47
+>5DIC_A Odorant-binding protein; Palmitate olfaction odorant, Odorant-binding protein; HET: PLM; 1.185A {Phormia regina}
+Probab=20.62  E-value=3.6e+02  Score=16.74  Aligned_cols=28  Identities=11%  Similarity=0.201  Sum_probs=0.0  Template_Neff=10.500
+
+Q ss_pred             hcHHHHHHHHHHHhCCCHHHHHHHHccC
+Q FD01543278_020   25 NDFTEVYKSIAKEMNITPTAAKNLLSEK   52 (80)
+Q Consensus        25 ~nf~~ad~~la~~~~~t~~ei~~~r~~n   52 (80)
+                      ..+.++-+.++++.+++.+++.+++...
+T Consensus        10 ~~~~~~~~~C~~~~~~~~~~~~~~~~~~   37 (117)
+T 5DIC_A           10 AKVKVHFDECVKQEKVSEEEATKLRNKD   37 (117)
+T ss_dssp             HHHHHHHHHHHHHTTCCHHHHHHHHTTC
+T ss_pred             HHHHHHHHHHHHHhCCCHHHHHHHHcCC
+
+
+No 48
+>1C3Y_A THP12 CARRIER PROTEIN; EF-HAND, ALL-ALPHA, ANTIFREEZE PROTEIN; NMR {Tenebrio molitor} SCOP: a.39.2.1
+Probab=20.54  E-value=3.4e+02  Score=16.49  Aligned_cols=26  Identities=4%  Similarity=0.128  Sum_probs=0.0  Template_Neff=10.600
+
+Q ss_pred             HHHHHHHHHHHhCCCHHHHHHHHccC
+Q FD01543278_020   27 FTEVYKSIAKEMNITPTAAKNLLSEK   52 (80)
+Q Consensus        27 f~~ad~~la~~~~~t~~ei~~~r~~n   52 (80)
+                      +.++...+.++.+++.+++..+++..
+T Consensus         7 ~~~~~~~C~~~~~~~~~~~~~~~~~~   32 (108)
+T 1C3Y_A            7 LKQHSDACKAESGVSEESLNKVRNRE   32 (108)
+T ss_dssp             SSSSCTTHHHHCCCTTSHHHHHTSSS
+T ss_pred             HHHHHHHHHHHHCCCHHHHHHHHcCC
+
+
+No 49
+>6OGH_A AAEL005772-PA; Odorant binding protein, Chemo-sensory signaling, Lipid binding, TRANSPORT PROTEIN; HET: EIC, EPE; 1.85A {Aedes aegypti}
+Probab=20.37  E-value=3.6e+02  Score=16.65  Aligned_cols=35  Identities=9%  Similarity=0.099  Sum_probs=0.0  Template_Neff=10.900
+
+Q ss_pred             cccCCchhcHHHHHHHHHHHhCCCHHHHHHHHccC
+Q FD01543278_020   18 GVLNGSQNDFTEVYKSIAKEMNITPTAAKNLLSEK   52 (80)
+Q Consensus        18 ~mt~~R~~nf~~ad~~la~~~~~t~~ei~~~r~~n   52 (80)
+                      .+...-...+.++-+.+.++++++.+++..++...
+T Consensus         2 ~~~~~~~~~~~~~~~~C~~~~~~~~~~~~~~~~~~   36 (123)
+T 6OGH_A            2 EFTVSTTEDLQRYRTECVSSLNIPADYVEKFKKWE   36 (123)
+T ss_dssp             -CCCCCHHHHHHHHHHHHHHHTCCHHHHHHHHTTC
+T ss_pred             CCccCCHHHHHHHHHHHHHHcCCCHHHHHHHhhCC
+
+
+No 50
+>PF09035.14 ; Tn916-Xis ; Excisionase from transposon Tn916
+Probab=20.27  E-value=2.2e+02  Score=14.27  Aligned_cols=25  Identities=12%  Similarity=0.138  Sum_probs=0.0  Template_Neff=12.600
+
+Q ss_pred             HHHHHHhCCCHHHHHHHH-ccCCCcc
+Q FD01543278_020   32 KSIAKEMNITPTAAKNLL-SEKGLTP   56 (80)
+Q Consensus        32 ~~la~~~~~t~~ei~~~r-~~n~~TW   56 (80)
+                      ..+|+.+++++..+..|. ....+..
+T Consensus        19 ~~~~~~~~~~~~~~~~~~~~~~~~~~   44 (69)
+T D4LZS3_9FIRM/1   19 SEAAEYYGIGEKRLRQIAGENEGADF   44 (69)
+T ss_pred             HHHHHHHCCCHHHHHHHHhcCCCCCc
+
+
+No 51
+>1TUJ_A odorant binding protein ASP2; ALPHA HELIX, COMPLEX, TSP, ODORANT-BINDING PROTEIN, TRANSPORT PROTEIN; HET: TSD; NMR {Apis mellifera}
+Probab=20.12  E-value=3.5e+02  Score=16.91  Aligned_cols=26  Identities=23%  Similarity=0.280  Sum_probs=0.0  Template_Neff=10.600
+
+Q ss_pred             HHHHHHHHHHHhCCCHHHHHHHHccC
+Q FD01543278_020   27 FTEVYKSIAKEMNITPTAAKNLLSEK   52 (80)
+Q Consensus        27 f~~ad~~la~~~~~t~~ei~~~r~~n   52 (80)
+                      +..+-+.++++.+++++++..++...
+T Consensus        14 ~~~~~~~C~~~~~v~~~~~~~~~~~~   39 (123)
+T 1TUJ_A           14 LMPDIMPCADELHISEDIATNIQAAK   39 (123)
+T ss_dssp             SHHHHHHHHHHHSSCTTTTCSSCSSS
+T ss_pred             HHHHhHHHHHHhCCCHHHHHHHHHhc
+
+

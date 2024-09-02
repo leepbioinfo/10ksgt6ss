@@ -1,0 +1,1330 @@
+>FD01845354_01428 peptidase M23
+NG-GRQFRAPR------S--G-----G---------RKHAGCDLKFP-------------
+-PGTPIYAVADGVLVRNP-YSF--------YSG-----------------------TSAV
+EIRH----------GE-LILRYGEIAN-----------------------------GSY-
+T---GGSSVKKGQIIAKVGRL---NS----------------------------------
+-----G-SSMLHLEIYTNGA-SS----A-S--LTTR------------------------
+--VGE--LRRRSDVTDPAPYLNVWK
+>WP_202100890.1/99-253 WP_202100890.1 peptidoglycan-binding protein [Salmonella enterica]
+NG-GRQFGASR------S--E-----G---------RRHAGCDLIFP-------------
+-RGTLIYAVADGVLARSP-YPF--------YEG-----------------------TSAV
+EIRH----------GN-LLLRYGEIAN-----------------------------GSY-
+V---GGQTVKKGQVIAKVGRL---HS----------------------------------
+-----G-SSMLHLEIYTNAA-SS----G-G--LTDQR-----------------------
+--RSP--YQRRSDVTDPASCLDVWK
+>MBL8762145.1/72-224 M23 family metallopeptidase [Phycisphaerae bacterium]
+TG-ARRFGADR------S--G-----G---------RKHAGCDLYFP-------------
+-EGTAIHALADGVLIQEP-YSF--------YAK-----------------------THAV
+EVRH----------GN-HVVRYGEIKP-----------------------------GSY-
+V---GGQKVKQGQVIAKVGHL---VG---------------------------------I
+K---VP-SDMLHLELYEGTA-T-----G-A--LTTS------------------------
+--TAP--YKRRSDLLDPTKYLNEWS
+>NLE02383.1/1022-1172 peptidoglycan DD-metalloendopeptidase family protein [Fibrobacter sp.]
+DG-GRFFGANR------S--N-----G---------RKHAGCDLIAP-------------
+-TNTPIYAIGDGVVIQKE-YSF--------YEG-----------------------TNAL
+EIKH----------GN-YVVRYGEILPG---------------------------SASS-
+L--SAGTKVTKGQQIAKVGLL---NS----------------------------------
+G------SHMLHFEMYSGSA-T-----G-Q--LTNRS-----------------------
+--NPP--YQRRKDLIDPAPFLDKMK
+>WP_170129316.1/106-257 WP_170129316.1 peptidoglycan-binding protein [Minicystis rosea]
+TG-ARYFGAPR------D--N-----G---R-----RLHAGCDLLGS-------------
+-KGTIIYAIADGTLVRPA-YYF--------YTG-----------------------TYAV
+ELRH----------DS-FIVRYGEILG-----------------------------GSY-
+I---GGHSVKKGQPIAQIGQL---DS----------------------------------
+-----G-SSMLHFEMYSNAD-ST----E-P--LTTA------------------------
+--TGP--YKRRGDLINPSSHLDEWA
+>BCD99351.1/114-261 BCD99351.1 hypothetical protein MARGE09_P3553 [Marinagarivorans cellulosilyticus]
+EG-MRAFGGSR------S--K-----G---------RKHAGCDLYAP-------------
+-IGTAIYAMADGVILKPR-YAF--------YLG-----------------------TFAL
+EVKH----------DD-FVARYGELGG----------------------------AGPK-
+F--EVGSTVKRGDLIGYVGKL---RG---------------------------------L
+N------MSMLHLELYSGKS-E-----G-G--LTNRS-----------------------
+--NPP--FMRRNDLIDPTPILDKAE
+>WP_139309959.1/116-263 WP_139309959.1 peptidoglycan DD-metalloendopeptidase family protein [Teredinibacter haidensis]
+TG-MRRFGATR------S--G-----G---------RLHAGCDLYAQ-------------
+-IGTPVYAMADGVVETAG-YEF--------YLG-----------------------TYAV
+EVKH----------LD-FLALYGELGK----------------------------VSSP-
+L--KKGATVKKGQLVGKIGKL---QG---------------------------------L
+N------MSMLHLEMYSGKE-N-----G-R--LTVKS-----------------------
+--NLP--YKRRSDLIDPTSILDKAK
+>APR76956.1/112-262 Membrane protein [Minicystis rosea]
+SG-ARYFGARR------D--G-----G---K-----RRHAGCDLLGP-------------
+-VGSQIYAIADGTLVRGP-YYF--------YSN-----------------------TYAI
+EVRH----------GP-YIVRYGEILG-----------------------------GSY-
+V---GGQTIRKGQPLCKIGRL---SS----------------------------------
+-----G-SSMLHFEMYSNGK-ST----A-S--LTG-------------------------
+--PGA--FKRRADLMDPTKLLDEWV
+>WP_053066754.1/610-764 LysM peptidoglycan-binding domain-containing protein [Archangium gephyra]
+TG-ARVFGALR------S--G-----G---K-----RKHAGCDLYFP-------------
+-AGTWIHAVADGEVIQQP-YNF--------YAG-----------------------TQAL
+EIRH----------GP-IIVRYGEIQP-----------------------------NSF-
+V---GGKTVKKGQRLCKVGHL---VG---------------------------------I
+K---VE-SDMLHIEMYAGTE-S-----G-N--LTAKD-----------------------
+--NKP--YQRRKDLLDPTPFLDAWS
+>WP_170055014.1/1-151 M23 family metallopeptidase [Roseomonas sp. JC162]
+EA-PRHFGARR------S--K-----G---K-----RKHAGCDLYAP-------------
+-VGTPIFAVANGVVLDF--YEF--------YLE-----------------------SWAL
+EVDH----------GD-FVARYGEVKKT---------------------------LPAG-
+V--KKGAKIFAGQHIANVGVL---QG---------------------------------L
+K------LSMLHFEMYAGTA-K-----G-A--LTQKG-----------------------
+--NPP--YQRRSDLMDPTPYLDAAQ
+>GJD72340.1/1-151 GJD72340.1 hypothetical protein CFIICLFH_0553 [Methylobacterium goesingense]
+EG-MRRFGANR------D--G-----G---K-----RKHAGCDLYAP-------------
+-VNTPVYAVADGIITQF--ASF--------YLE-----------------------TSYI
+TVDH----------DD-FIVRYGEVKNS---------------------------LPSG-
+I--RINSEVKAGDLIGYIGKL---KG---------------------------------L
+N------MSMLHFEMYSNIA-T-----G-P--LTNRA-----------------------
+--NKP--YQRRSDLIDPTSYLKVWK
+>MBW2523346.1/3-146 M23 family metallopeptidase [Deltaproteobacteria bacterium]
+TG-ARYFGAGR------S--K-----G---------RKHGGCDLIAP-------------
+-RGTDVYAVDDGTVIQGP-YYF--------YEG-----------------------TYAL
+EVKH----------KS-FVVRYGEIEKK---------------------------VAAG-
+I--EAGAKLEKGQRIGDVGKL---------------------------------------
+--------KMLHFEMYSGAK-T-----G-A--LTVRG-----------------------
+--NKP--YQRRSDLINPTAYLDAW-
+>WP_153822383.1/97-258 peptidoglycan-binding protein [Polyangium spumosum]
+SP-PRSFGSRR------S--G-----G---A-----RAHAGCDLYAS-------------
+-LGTWVHAIADGEVILGP-YPF--------YCE-----------------------TYAL
+EVHH----------GS-FVIRYGEIQK-----------------------------FTT-
+V--KQGDKVKAGQRIAKVGHL---VG---------------------------------I
+K---VP-SDMLHLEMYKGDV-S-----G-P--LTQRSG----------GAKTE-------
+-SGAS--YQRRADLMDPTAHLHRWS
+>WP_170160993.1/92-240 peptidoglycan DD-metalloendopeptidase family protein [Methylocaldum marinum]
+SG-AREFGARR------D--G-----G---K-----RRHAGCDLLAS-------------
+-PGTPILAMDDGEVNADP-YYF--------YSG-----------------------TNAL
+EIRH----------ADGWIARYGEISG----------------------------AAVG-
+L--KRGSQVKRGQVITYVGQL---GS----------------------------------
+G------RSMLHLEFYTGSG-S-----G-N--LTVRG-----------------------
+--NRP--FQRRSDLANPTEFLDA--
+>WP_194015631.1/4-152 SH3 domain-containing protein [Microcystis aeruginosa]
+DG-GRQFGADR------P--G-----G---------RKHAGCDLIAP-------------
+-KGTEILAMADGKVIVGP-YAF--------FSG-----------------------TNAI
+EVKH----------DNGMVIRYCEIGQM---------------------------LPRG-
+I--QVGARVSKGQVIAYVGRL---HS----------------------------------
+G------SSMLHLEMYQGTQ-N-----G-A--LTQAG-----------------------
+--NRP--YQRRSDLLDPTDILDI--
+>MCB1823342.1/106-257 peptidoglycan DD-metalloendopeptidase family protein [Candidatus Competibacteraceae bacterium]
+TG-GRYFGAPRTT---ST--G-----G---H-----RSHAGCDLIVP-------------
+-KGTSILAVADGEVIRNP-YYF--------YSG-----------------------TYAL
+EVRH----------TGGFVVRYGEIST----------------------------AAQG-
+V--SAGSSVTRGQVIAFVGKL---ES----------------------------------
+G------SSMLHFEMYAGTA-S-----G-S--LTVRG-----------------------
+--NPP--YQRRSDLLDPTPYLDQ--
+>KAF5407230.1/111-272 MAG: Peptidase family M23 [Candidatus Udaeobacter sp.]
+ER-PRAFASPR------A--G-----G---A-----RLHAGCDLYFP-------------
+-KGSPIHAVADGVVTRGP-YPF--------YCE-----------------------TFAL
+EIDH----------GP-FLARYGEIQS-----------------------------KTE-
+V--IAGATVMAGQKIASVGHL---IG---------------------------------I
+Q---VP-SDMLHFELYDKSL-S-----G-P--LTVASDS---------GSAMM-------
+-NGVP--FMRRKDLIDPTLKLKQWR
+>MCA9654023.1/11-162 M23 family metallopeptidase [Myxococcales bacterium]
+TS-PRSFGSGR------K--G-----G---------RKHAGCDLYAP-------------
+-VGTPIRAMAGGKVLTAL-YSF--------YGG-----------------------TYAL
+EVDH----------GT-FVARYGEIQKE---------------------------IADK-
+L--KVGDSVTPGLVIGQVGKL---NN---------------------------------Y
+H------QSMLHLELYTGSG-K-----G-G--LTDRT-----------------------
+--SKP--YQRRADLFNPTTWLDAAK
+>PYX01229.1/135-301 hypothetical protein DMG89_02270 [Acidobacteria bacterium]
+HS-PRAFASNR------N--N-----G---L-----RAHAGCDLYFA-------------
+-KGTWIHAIGDGTVVRGP-YPF--------YCQ-----------------------TFAL
+EVDH----------GD-FLARYGEIQA-----------------------------KTT-
+V--KQGDKVRAGQQIARVGHL---VG---------------------------------I
+Q---VP-SDMLHLELYDKSA-S-----G-P--LTITDTGR--------SKKRS-------
+-DGIS--FMRRKDLIDPTPRLNQWQ
+>WP_051303332.1/11-159 M23 family metallopeptidase [Psychromonas aquimarina]
+VS-PRSFGSNR------S--G-----G---------RKHAGCDLYAS-------------
+-AGTDILSMLDGKVINI--YDF--------YLG-----------------------TKAI
+EVDH----------GK-FVARYGEISN----------------------------VANG-
+I--KIGSSVSRGDVIAKVGTLKFKSG---------------------------------Q
+T------MSMLHLELYDKSK-T-----G-S--LTDRN-----------------------
+--NLP--YKRRADLIDPTHYLN---
+>WP_183272697.1/100-257 WP_183272697.1 peptidoglycan-binding protein [Buttiauxella sp. A111]
+NG-GRQFGAPR------D--R-----G---A-----RRHAGCDLIFP-------------
+-EGTLIYAVADGVRVHDQ-WPF--------YSG-----------------------TSAV
+SIRH----------GN-ILVRYGEIAN-----------------------------GSY-
+I---GGAIVTKGQVIAKVGRL---DS----------------------------------
+-----G-RSMLHLEIYTNAA-SS----A-E--LSIRG-----------------------
+ERGGP--YRRRADLTNPAPYLDVWK
+>MCB0378199.1/375-526 M23 family metallopeptidase [Bdellovibrionales bacterium]
+SG-GRQFGAGR------S--K-----G---------RKHAACDLRRP-------------
+-YKDPIVAIDDGTVLRK--YYF--------YKG-----------------------TDAL
+EIRH----------SDGRVVRYGEVSQA---------------------------NTSG-
+I--RSGAKVKKGQQVAIVGQL---SG----------------------------------
+-----G-SSMLHFELYSGKS-S-----G-P--LTQRD-----------------------
+--RKP--YQRRADLVNPTSELQKWQ
+>WP_068328284.1/109-269 M23 family metallopeptidase [Photobacterium jeanii]
+VH-PRHFGSNR------S--G-----G---K-----RKHAGCDLYAP-------------
+-EGTPIYAMADGVIIKF--SYF--------YYG-----------------------TYEL
+VVKH----------GT-GVIRYGEVATV---------------------------LPNK-
+L--KVGSKVKKGDQIANVGLLHFPSG---------------------------------N
+T------MSMLHLEMYSGKE-T-----G-N--LTDKS-----------------------
+AGANK--YMRRADLIDPTTYLDRAA
+>WP_139379450.1/131-294 M23 family metallopeptidase [Zoogloea sp. LCSB751]
+QA-PRAYGSNR------S--S-----G---A-----RAHAGCDLYAS-------------
+-IGTSIHAVRAGVVLRDP-YPF--------YAE-----------------------TDAL
+EIDH----------GD-FLIRYGEIQP-----------------------------GSP-
+L--RKGDRVIAGQFIAKVGRL---VG---------------------------------I
+S---VP-SAMLHLEMYAGTA-S-----G-R--LTVAEDE---------SARRA-------
+-DGVP--FLRRADLIDPTPYLDRWK
+>MBV9835829.1/1-148 M23 family metallopeptidase [Alphaproteobacteria bacterium]
+TG-GRRYGANR------S--N-----G---T-----RKHAGCDLIAP-------------
+-IGTPIRAVDNGTVQAF--YFF--------YHD-----------------------TYAL
+EIDH----------GE-FTVRYGEVNRR---------------------------LPPG-
+I--RVGASVLRGQHVANVGRL---SG----------------------------------
+G------SHMLHFEMYDNSA-T-----G-P--LTNRR-----------------------
+--NPP--FQRRSDLIDPTPYLDA--
+>WP_050434204.1/103-267 peptidoglycan-binding protein [Chondromyces crocatus]
+KG-AGAFGSGR------N--------G---------RAHAGCDIYAP-------------
+-LGTWVHAIANGEVTLGP-YYF--------YAN-----------------------TYAI
+EVNH----------GD-FVARYGEVQK-----------------------------DSP-
+V--RKGDKVKAGQRIARVGHL---VG---------------------------------I
+S---VK-SDMLHLELYKGTA-S-----G-A--LTVKGAA---------SAKSP-------
+-AGLP--YQRRKDLMDPTPLLAQWR
+>WP_211881147.1/1-151 M23 family metallopeptidase [Roseomonas hellenica]
+EG-MRRFGANR------D--H-----G---R-----RKHAGCDLYAP-------------
+-IGTPVFAVADGTVIDV--YPF--------YLG-----------------------SWAI
+EVDH----------GS-FVVRYGEVKPK---------------------------VAAG-
+I--KPKARVTARQLLGEVGLL---KG---------------------------------L
+K------MSMIHFEMFSGAA-K-----G-P--LTVKG-----------------------
+--NPP--YQRRSDLMDPTPFLDAAD
+>MBY0275555.1/283-449 peptidoglycan DD-metalloendopeptidase family protein [Candidatus Binatia bacterium]
+KG-ARAFGADR------S--------G---N-----RAHAACDLYAP-------------
+-EGTVIHAVADGTVVRGP-VEF--------YAK-----------------------TFAL
+EVDH----------GK-FLARYGEIRG-----------------------------DTF-
+V--REGDGVRAGQPIARVGHL---QG---------------------------------I
+A---VA-SDMLHLELYDKSA-H-----G-P--LTVPAAA---------GAIAP-------
+-SGRP--FLRRKDLIDPTPYLSRWK
+>MBC97156.1/196-346 hypothetical protein [Halobacteriovoraceae bacterium]
+TG-ERRFGAGR------S--G-----G---------RLHAASDLYRN-------------
+-LNDPIRAIQDGVVIQGL-RYF--------YDG-----------------------TYSL
+VVRH----------KGGFIVRYGEVAGR---------------------------AAPN-
+I--REGARVKKGQVIGYAGKL---SV----------------------------------
+R------PPMLHFELYNGTK-T-----G-A--LTNG------------------------
+--YGS--YQRRSDLMNPEDYLLQWL
+>MAF77994.1/431-583 hypothetical protein [Halobacteriovoraceae bacterium]
+SG-MRRFRAGR------S--G-----G---------RLHAACDLYRY-------------
+-KNEPIKSVAPGKVISDL-YYF--------YQG-----------------------TYAL
+EIRH----------SGGFVARYGEITGR---------------------------KASG-
+V--RKNANVRMGQRIGYMGKV---NS----------------------------------
+N---CC-RPMLHFELYSGSK-R-----G-S--LSTS------------------------
+--RGR--YKRRSDLLDPTRYLTKWK
+>HBH34943.1/31-176 hypothetical protein [Gammaproteobacteria bacterium]
+EG-GRKYGSRR------S--N-----G---T-----RKHAGCDLIAP-------------
+-KGTQVLAMDDGKVIRGP-YHF--------YSG-----------------------TYAL
+EIKH----------SNGKVVRYGEIMKK---------------------------VLPG-
+I--RVGVRVARGQVIARVGRL---RS----------------------------------
+G------SSMLHLEIYKGTE-S-----G-Q--LTQAG-----------------------
+--NK---YKRRSDLINPTSI-----
+>MBK6520660.1/6-164 M23 family metallopeptidase [Polyangiaceae bacterium]
+GG-SRYFGAPR------S--K-----G---------RKHGGCDLIKP-------------
+-AYETIYAVHDGVLVHEE-TLF--------YLG-----------------------TYYV
+TYQH----------GP-YLIRYGEIQKG---------------------------STKG-
+A--KRGHKVKKGQPICKVGLM---NG---------------------------YK--A-S
+G---PR-GHMLHLEMYAKGS-DH----T-P--LRSN------------------------
+--KGP--YMRRKDVMDPAPHLDEWV
+>WP_105380092.1/374-527 WP_105380092.1 M23 family metallopeptidase [Massilia phosphatilytica]
+DG-ARRFGANR------S--Q-----G---------RKHAGIDLYAP-------------
+-VGTPIRAMADGVVIQT--YAF--------YLD-----------------------TWVV
+EVDH----------GD-FIARYGEVQP----------------------------LTIL-
+V--KRGQKIERGQTIAHVGKL---KG---------------------------------L
+S------YSMLHLEMYGTNE-SPVGKGR-G--LTQKA-----------------------
+--KVP--FQRREDLIDPTGSIDLAK
+>NRA69228.1/190-338 M23 family metallopeptidase [Pseudobacteriovorax sp.]
+VP-PRSFGSCR------S--N-----C---S-----RLHAGADLYGP-------------
+-IGRPVYAVADGVITDF--HYF--------YRG-----------------------TYAL
+VIDH----------GV-FVVRYGEVSFN---------------------------LPRG-
+I--SVGQRVRRGQRIGSVGDL---QG---------------------------------L
+N------INMLHFERYTGEA-R-----G-P--LTTS------------------------
+--TGP--YKRRWDLVDPTEDLIAW-
+>TNF00524.1/409-561 M23 family metallopeptidase [Deltaproteobacteria bacterium]
+SG-MRRFGAGR------S--G-----G---N-----RLHAACDLYRY-------------
+-KDEPILAIAPGKVIRNM-YYF--------YQG-----------------------TYAL
+EVRH----------SGGYVVRYGEITGK---------------------------SPSG-
+V--SAGKSVSTGQQIGYMGKV---NS----------------------------------
+N---CC-RPMLHFELYSGKQ-S-----G-A--LSTG------------------------
+--GNR--YKRRSDLMDPTKYLLRWE
+>WP_175533642.1/1-149 M23 family metallopeptidase [Falsiroseomonas stagni]
+ES-PRRFGASR------A--K-----G---T-----RLHAGCDLYAP-------------
+-IGTPVFAVAAGEVLAV--YEF--------YLS-----------------------SWAV
+EVDH----------GD-FIVRYGEVKKD---------------------------VGPG-
+I--AKGAQVLPGAQIGQVGAL---KG---------------------------------L
+K------LSMLHFEMYAGTA-K-----G-A--LTDRS-----------------------
+--NPP--YQRRSDLLDPTAWLDD--
+>MBX7169442.1/3-166 M23 family metallopeptidase [Pyrinomonadaceae bacterium]
+SG-KRWFGSSR------D--G-----G---------RKHAACDLIAK-------------
+-KGTPIYAVAPGLVLDK--HYF--------YHD-----------------------TWAL
+VVDH----------IH-FIVRYGEIDKT---------------------------LAEG-
+V--TVGTSVSEGQHIANVGLL---SG----------------------------------
+-----G-SSMLHFEMYNGDG-V-----G-N--FTKKSNHD--------NYLYV-------
+-PSAN--YQRREDLLDPTPYLEEWA
+>MBD3322040.1/720-878 peptidoglycan DD-metalloendopeptidase family protein [Chitinivibrionales bacterium]
+KW-PARFGDGR------D--K-----D---ESGVYHRKHAGCDLYAP-------------
+-IGTEIRAVRDGIVILEP-YHF--------YNG-----------------------TYAV
+EINH----------GD-FICRYGEMKRD---------------------------IPSD-
+I--KKGAKVKQGQIVGYVGKL---KG---------------------------------M
+S------QSMLHFEMFTGEA-T-----G-N--LSDKQ-----------------------
+--NPP--YMRRWDIINPAEWLNEGV
+>MBK6653800.1/104-255 peptidoglycan DD-metalloendopeptidase family protein [Zoogloea sp.]
+HP-PRSFGSRR------S--G-----G---R-----RAHAGCDLYAP-------------
+-VGRLIHAVRDGVVIRDP-YPF--------YAQ-----------------------TDAL
+EIDH----------GD-FVIRYGEIKP-----------------------------DCT-
+L--RKGEQVKAGQVIARVGLL---VG---------------------------------I
+Q---VP-SAMLHLEMYDGSA-S-----G-P--LTAPESV---------SARRV-------
+-DGVP--FLRRADLMDPTP------
+>WP_021275236.1/386-538 M23 family metallopeptidase [Bacteriovorax sp. Seq25_V]
+SG-MRRFGAGR------G--S-----G---T-----RTHAACDLYRF-------------
+-KDEPILAVAPGKVIQNL-YYF--------YQG-----------------------TYAL
+EVKH----------SGGFVVRYGELTGD---------------------------VPSG-
+I--RAGATVKMGQRIGYMGVV---NS----------------------------------
+N---CC-RPMLHFELFKGDH-K-----G-P--LSTT------------------------
+--GNK--YRRRGDLIDPTYYLLKWE
+>NUP04922.1/51-196 M23 family metallopeptidase [Polyangiaceae bacterium]
+TG-GRSFGSGR------A--G-----G---------RLHAAVDLLAP-------------
+-FKAPIRAIADGRVIQPP-YFF--------YLG-----------------------SNAL
+EIDH----------GDIGVVRYGEISQV---------------------------KTVR-
+V--HTGQRVKKGEVIAYVGLL---DT----------------------------------
+-----G-SSMLHFELYKGNR-S-----G-A--LTVVS-----------------------
+--NPP--YQRRSDLRNPTKLI----
+>WP_096908458.1/406-556 peptidoglycan DD-metalloendopeptidase family protein [Halobacteriovorax marinus]
+SG-MRMFKARR------G--G-----G---S-----RSHAACDLYRY-------------
+-KDEPILSVAPGVVVRDL-YYF--------YQG-----------------------TYAL
+EVRH----------SGGFIVRYGELTGK---------------------------KESG-
+V--SSGKKVKMGQRVGYMGKV---NS----------------------------------
+N---CC-RPMLHFELFDGSG-R-----G-S--LSQK------------------------
+--GNK--FQRRSDLMDPTHYLQKWE
+>OUR98760.1/391-542 hypothetical protein A9Q84_04935 [Halobacteriovorax marinus]
+SG-MRKFNARR------G--G-----G---T-----RSHAACDLYRY-------------
+-KDEPILSIAPGVVVRDQ-YYF--------YQG-----------------------TYAI
+EVVH----------SGGFVARYGELSGK---------------------------KQRG-
+I--AKAAKVKMGQRIGYMGKV---NS----------------------------------
+N---CC-RPMLHFEIYSGKK-T-----G-A--LSQS------------------------
+--GNK--YRRRSDLLDPTHYLLKWE
+>MCC6556016.1/108-267 peptidoglycan-binding protein [Polyangiaceae bacterium]
+KP-PGSFGANR---------------G---A-----RAHAGCDLYAP-------------
+-LGTWIHAITAGEVLLGP-YYF--------YAG-----------------------TFAL
+EVHH----------GH-FIARYGEIQK-----------------------------DTP-
+V--RKGDKVKAGQRIARVGHL---VN---------------------------------I
+N---VK-SDMLHLELYKGSG-S-----G-S--LTVKGSA---------SAKRA-------
+-DGVP--YQRRSDLMDPTPHLANWR
+>MBX3176259.1/113-274 glycoside hydrolase family protein [Candidatus Hydrogenedentes bacterium]
+TG-GRAFGAVR------E--G-----G---K-----RAHAGCDLYLK-------------
+-HGTWVHAMADGRVVRGP-YPF--------YAH-----------------------TFAI
+EVEH----------GD-YVARYGEIRP-----------------------------ACI-
+V--REGDIVRAGQRIGMVGHL---VG---------------------------------I
+S---VP-CDMLHLEMYGGSA-T-----G-P--LSVDSAH---------SKRDA-------
+-QGVP--FNRRSDLLDPTNHLDKLK
+>WP_176809863.1/617-764 M23 family metallopeptidase [Mannheimia pernigra]
+TN-PRFFGAGR------K--G-----G---------RKHAGIDLYAP-------------
+-VGTSVRAMADGVVIRV--YAF--------YAG-----------------------THAV
+EVRH----------PN-HIIRYGEVRS----------------------------NSIK-
+V--KPGDKVVQGQVLAEVGKL---QG---------------------------------I
+K------NSMLHLEMYSNIN-DT----S-S--LTVKG-----------------------
+--SEGGIYKRRNDLIDPTPFI----
+>MBN1183843.1/187-324 peptidoglycan DD-metalloendopeptidase family protein [Bacteroidales bacterium]
+NS-PARFGDSR------S--N-----G---------RKHAGCDLYAP-------------
+-VGTEIRAIKNGVVIRNP-SVF--------YRG-----------------------TYSI
+EINH----------GN-FIGRYCELKP-----------------------------IQG-
+L--VLGSEVTKGQVIGTVEKL---HG---------------------------------I
+D------QSMLHFEMYSGHG-D-----G-P--LTNKQ-----------------------
+--NLP--YQRRNDLTDPTNFLNR--
+>MBN2695763.1/921-1073 N-acetylmuramoyl-L-alanine amidase [bacterium]
+TN-PRNFGSNR------D--G-----G---A-----RKHAGVDLYGP-------------
+-VGRNIYAVGDGKILAY--YYF--------YDG-----------------------TYAV
+EVDH----------GD-FVIRYGEVGR----------------------------LASG-
+V--SVGSRVKRGDLIAHVGHL---QS---------------------------------L
+N------MSMLHFERYSGTM-T-----G-A--LTNRA-----------------------
+--NKP--YQRRKDLVNPTSDLLKWK
+>RZA01513.1/83-230 M23 family metallopeptidase, partial [Proteobacteria bacterium]
+TG-MRAFGSGR------D--G-----G---A-----RTHAAADLYRS-------------
+-KNDPIKAVTSGKVIRNT-YFF--------YQG-----------------------TYAI
+EVKH----------SGGFVVRYGEITGS---------------------------SPTK-
+L----NQSVSTGQTVGYMGKT---------------------------------------
+T---CC-TPMLHFELYSGKA-S-----G-P--LAG-------------------------
+--GGK--YQRRSDLINPTSYLKQWQ
+>MBL8258784.1/4-153 M23 family metallopeptidase [Candidatus Competibacteraceae bacterium]
+TG-GRRFGANR------D--E-----G---N-----RKHAGCDLIAP-------------
+-RGTEIYAVEGGVVETKP-YLF--------YRG-----------------------TYAV
+EFRL----------DSGKLVRYCEIEK----------------------------LASG-
+I--TKGSPVSEGGLIAYVGKM---YV----------------------------------
+-------SSMLHFELYEGSG-S-----G-P--LTVRS-----------------------
+--NPP--YQRRSDLIDPADYLDGCK
+>NCA70732.1/1065-1216 hypothetical protein [Sphingobacteriia bacterium]
+RG--ARFGTSR------P--N-----G---------RLHAGCDLIAK-------------
+-PNTRILAMADGQVVRGP-YLF--------YSG-----------------------TYAL
+EVEHEYE------NGKTILVRYGEISQH---------------------------VPQG-
+I--SAGKKVACGQVIAKIGQL---NS----------------------------------
+-----G-SSMLHLEMYSNGQ-DH----S-K--LTVA------------------------
+--GTK--YKRRADLLDPTETLDK--
+>MBX3040573.1/430-582 M23 family metallopeptidase [Bdellovibrionaceae bacterium]
+TG-MRRFKAGR------S--K-----G---R-----RLHAACDLYRV-------------
+-HGETAVSVAPGKVVNGL-YKF--------YQG-----------------------TYAL
+EIQH----------PGGFVARYGELTGK---------------------------KVSN-
+M--GAGKNVKLGQVVGHIGTV---NS----------------------------------
+G---CC-KPMLHFELYSGTK-K-----G-S--LSRK------------------------
+--GNK--FQRRTDLIDPSSHLRKWE
+>TDM09221.1/456-607 MAG: hypothetical protein C4K60_07915 [Ideonella sp. MAG2]
+EG-ARRFGSGR------T--G-----G---------RKHAGIDLYAP-------------
+-TGTVVRAMAPGKVLRV--YAF--------YCG-----------------------TSAI
+EIDH----------GS-FIARYGEVDSKR--------------------------DKIY-
+V--EPGDKVERGEKIGVVGRL---VG---------------------------------I
+K---VP-SNMLHLEMYGSSS-H-----A-D--LTVKG-----------------------
+--NPP--YQRRDDLIDPTPSIDQ--
+>WP_161988421.1/19-180 M23 family metallopeptidase [Elioraea sp. Yellowstone]
+DS-PRRFGARR------A--N-----G---------RLHAGCDLYVP-------------
+-HGTEILAAADGVITRF--AFFALNSTL--TQK-----------------------VSAM
+EILH----------AGGWIGRYCEIANT---------------------------LPAG-
+L--KAGSAVKAGQVIAFVGPL---MDV--------------------------------L
+D---VP-SDMLHFEMYAGTA-S-----G-S--LSDFG-----------------------
+--RPP--FMRRKDLIDPTPYLDAAA
+>PIP92524.1/400-550 MAG: hypothetical protein COW78_19870 [Bdellovibrio sp. CG22_combo_CG10-13_8_21_14_all_39_27]
+SG-ARAFGAGR------S--G-----G---A-----RKHAACDLYRF-------------
+-VEEPIKSVAPGTVVRDR-YYF--------YQG-----------------------TYAL
+EVVH----------SGGFLVRYGELDNK---------------------------SVSG-
+M--SKGRKVKMSERIGYMGKV---NS----------------------------------
+N---CC-RPMLHFELFKGTA-R-----G-A--LTTG------------------------
+--GSG--FQRRSDLLNPTQYLLKWE
+>NRA65662.1/176-322 M23 family metallopeptidase [Pseudobacteriovorax sp.]
+RS-GRQFGANR------N--G-----G---R-----RKHAAADLIAI-------------
+-DGTQIRAVQDGTILDF--YKF--------YKK-----------------------SWAL
+VVDH----------GN-FIVRYGEVAPT---------------------------LPEG-
+I--EVGQQVTKGMIIAEVGVI---SK---------------------------------P
+G----T-GNMLHFEMYQGTE-T-----G-N--LTNRS-----------------------
+--NPP--YMRRADLMDPTDFL----
+>EIL2082622.1/64-211 M23 family metallopeptidase [Acinetobacter baumannii]
+NG-FARFGSNR------S--G-----G---K-----RKHAGCDLYAP-------------
+-TGTEIRAMADGKVRVV--KGF--------YSG-----------------------TDVI
+EIVH----------KK-HIIRYGEVLA----------------------------GKSL-
+V--KVGDDVKRGQTIGYVGKL---T----------------------------------V
+Q---VP-SMMLHLEMYSNPK-DT----S-P--LTVRG-----------------------
+--NNA--YQRRSDLIDPTTFLD---
+>MBY0316118.1/271-422 M23 family metallopeptidase [Bdellovibrionales bacterium]
+SG-MRAFKASR------G--G-----G---K-----RWHAACDIYRV-------------
+-KDESAVSVHNGTVVRGL-YFF--------YEG-----------------------TYAL
+EVRH----------SDGKIARYGELTSK---------------------------VATG-
+V--KQGAAVKTNQVLGYIGKV---NS----------------------------------
+G---CC-QPMLHFELYSGKA-T-----G-S--LTQS------------------------
+--GNK--FSRRSDLIDPSSYLTDWE
+>WP_217943617.1/468-621 peptidoglycan DD-metalloendopeptidase family protein [Duganella sp. HSC-15S17]
+DG-ARRFGSNR------S--G-----G---T-----RKHAGIDLYAP-------------
+-VGTPVRAMADGVVLQV--YAF--------YEG-----------------------TWVI
+EVNH----------GT-FIARYGEVAH----------------------------KGIE-
+V--KALDEVKRGQKLGTVGKL---NN---------------------------------L
+D------ISMLHLELYGTTE-NPKEKGK-A--LTQKT-----------------------
+--RQP--FQRRDDLINPTESIDQ--
+>WP_061834942.1/447-600 peptidoglycan DD-metalloendopeptidase family protein [Bdellovibrio bacteriovorus]
+SG-MRRFKAGR------S--K-----G---K-----RLHAACDLYRY-------------
+-HGEAAVSIADGKVSRGL-YYF--------YQN-----------------------TYAL
+DVQY----------PGGFVARYGELTGK---------------------------AAKG-
+V--STGAKVTRGQVMGYIGTV---SS----------------------------------
+N---CC-PAMLHFELYSGTK-K-----G-G--LSAR------------------------
+--GNK--FGRRSDLMDPTKYLLKWE
+>MAZ48692.1/388-540 hypothetical protein [Halobacteriovoraceae bacterium]
+SG-MRRFEANR------S--G-----G---R-----RKHAACDLYRF-------------
+-INEPAVAIASGTVISNL-YYF--------YQG-----------------------TYAV
+EIEH----------PGGYIARYGEITGR---------------------------RATG-
+I--RPGLEVTKGQRVGFIGRV---NS----------------------------------
+G---CC-RPMLHFELYAGTM-E-----G-D--LTDSS-----------------------
+--ESI--FQRREDLLDPTNFLLRWQ
+>MBK9262709.1/87-237 LysM peptidoglycan-binding domain-containing protein [Polyangiaceae bacterium]
+NG-PRYFGCGR------S--G-----G---------RKHAGVDLYAP-------------
+-FGSKVRAIADGVIIQKP-YYF--------YDG-----------------------TNAL
+EVFH----------PGIGVVRYGEISSS---------------------------KKVA-
+V--KAGQQVKMGELIAYVGLL---DS---------------------------------L
+N------MSMIHFELFGESA-R-----G-K-NLT--------------------------
+-GGGP--YRRHPALKDPTPLVDRLY
+>WP_117015328.1/452-613 WP_117015328.1 MULTISPECIES: LysM peptidoglycan-binding domain-containing protein [unclassified Duganella]
+EG-ALQFNSSR---------------G---A-----RRHAGCDLYAP-------------
+-VGTEVRAMADGVILQC--YSF--------YWH-----------------------TDAV
+EVDH----------GD-FIVRYGEVAPRSA-------------------------KEQQ-
+A--MRGKEVKRGDVIGKVGQLIKDNG---------------------------------K
+K---HK-DTMLHLELYSSNL-STAK--S-Q--LTDKK-----------------------
+--RGP--FQRRADLMDPTATLDKCV
+>EBD3762827.1/295-411 IS256 family transposase [Salmonella enterica]
+---------------------------------------------FP-------------
+-PGTPIYAVADGVLVRNP-YPF--------YSG-----------------------TSAV
+EIRH----------GE-LILRYGEIAN-----------------------------GSH-
+I---GGSSVKKGQIIAKVGRL---NS----------------------------------
+-----G-SSMLHLEIYTNGA-SS----A-S--LTTR------------------------
+--VGE--LRRRSDVTDPAPYLNVWK
+>GJD66498.1/95-240 hypothetical protein MPEAHAMD_6696 [Methylobacterium frigidaeris]
+TG-GRQFRYRR------D--G-----G---A-----RLHAACDLKAP-------------
+-PGTPVRSMDEGTVVQPP-RTF--------YDN-----------------------TIAL
+EVNH----------GN-YIARYGEMSHT---------------------------VPGL-
+N--RAGVAIRKGQTIGFVGRL---SS----------------------------------
+-----G-NSMLHLELYSGSA-V-----G-P--LTVR------------------------
+--RRP--FNRRSDLLDPTDFLDL--
+>MBY0384467.1/335-482 M23 family metallopeptidase [bacterium]
+SG-RRYFGAGR------S--------G---------RKHAACDLLRP-------------
+-EGEKVFAVANGTVLQK--YRF--------YAG-----------------------TYAI
+EVKH----------DSGHVVRYGEVSAK---------------------------SVPK-
+S--AKGEPVVKGQHIGYISNL---------------------------------------
+--------RMLHFEMYSGKG-T-----G-P--LTVRG-----------------------
+--KNQ--YSRRSDLIDPTSYLLSWE
+>MBS0315378.1/155-310 peptidoglycan-binding protein [Proteobacteria bacterium]
+GG-ARFFGAPR------D--G-----G---------RLHAGCDLLAP-------------
+-VGTTIFAIGDGVLVRGP-YPFTGPWMG--LND-----------------------TDAV
+EIRH----------GP-ILVRYGEIAR-----------------------------GSY-
+T---GGHNVHAGQPIARVGQ----------------------------------------
+P---GR-HAMLHFEVYSNGS-SA----A-S--LS--------------------------
+-GSNR--YRRRNDVTDPAPLLAVWR
+>MCE1168076.1/189-338 M23 family metallopeptidase [Sphingobacteriia bacterium]
+KY-PGRFGDSR------D--G-----G---S-----RKHGGADLYTP-------------
+-VGTNVYAVKGGTVIQNP-YKF--------YQG-----------------------SYAI
+EVNH----------GS-FIARYSEINI-----------------------------ASG-
+L--HAGSFITQGQLIGTVADL---S----------------------------------L
+N------KSMLHFEMFSGSA-I-----G-P--LTNRA-----------------------
+--NLP--YMRRSDLIDPTHFLNFGY
+>WP_165922935.1/80-243 M23 family metallopeptidase [Sulfurirhabdus autotrophica]
+TG-ERKFNAPR---------------G---I-----RRHAGCDLYAP-------------
+-LGTEVRAMADGVIIQC--YDF--------YWQ-----------------------TDAI
+EVDH----------GD-FIARYGEIKPRTD-------------------------LERN-
+K--LRGQEVKRGDVLGSVGHLIKANG---------------------------------E
+K---FK-YTMLHIELYGSST-SPLGVNS-H--LSNKN-----------------------
+--LPP--FQRRSDLADPTATLDKCV
+>RZJ38011.1/2-143 hypothetical protein EOO18_04400, partial [Chryseobacterium sp.]
+--------------------------G---A-----RKHAGCDLIVP-------------
+-PGTPICAIADGYVRGKP-YYF--------YNG-----------------------SYAL
+EVIH----------DG-IVVRYGEILPT-----------------AVIDPSLD--LLPD-
+I--TTDAEVKKGQVIAYVAKM---TG----------------------------------
+-----G-SSMLHFECYSNSS-LP----G-G--LTDKS-----------------------
+KSGGA--FKRRSDLMDPTNLLDGAK
+>MBS1971321.1/404-556 M23 family metallopeptidase [Bdellovibrionales bacterium]
+EG-KTRFRAGR------A--G-----G---R-----RLHAGVDLYRK-------------
+-KGEPAVAVASGRVIRGH-YYF--------YQG-----------------------VFAI
+EVKH----------PL-FIARYGEVLGS---------------------------IPKG-
+A--LKGQNVVAGQTVGLIGKV---NS----------------------------------
+G---CC-TPMLHFELYKGTS-R-----G-P--LTRYR-----------------------
+--VPP--YDRRPDVMDPTDYVRKWE
+>WP_156258632.1/133-304 WP_156258632.1 peptidoglycan DD-metalloendopeptidase family protein [Oceanobacillus sp. HTM 045]
+TG-ARYFGAPR------K--DKN---GL--Y-----RLHGAVDLICP-------------
+-VGTPIFAVADGVVKTKI-RHF--------YRS-----------------------TGEF
+AIDH----------GT-FWVRYCEIAMKAS-------------------------RELG-
+L--EPGTKVKKGQLIGFIGIM---RS----------------------------------
+-------SSMLHCEMYSGEA-T-----G-T--LATRAHKK--------PHTRT-------
+VKDAP--FNRRRDLIDPTPFLKTWI
+>TVQ90671.1/35-181 hypothetical protein EA400_06005 [Chromatiaceae bacterium]
+CC-ARQFGARR------Q--G-----G---R-----RKHAGVDLKFP-------------
+-PETPIRAIDDGRVVEAP-ALF--------YQG-----------------------TLAF
+AVDH----------GW-CVARYGEISSA---------------------------APAF-
+R--RVGALVRRGEIIAHVGQL---NS----------------------------------
+-----G-NSMLHLELCTGTG-N-----G-P--FTVRE-----------------------
+--RLP--FQRRADLLDPMEFMRA--
+>NUP10788.1/5-169 M23 family metallopeptidase [Polyangiaceae bacterium]
+QG--RAFGAYR------T--K-----T---------RKHGGCDIIKP-------------
+-AYEQIYAVADGVLVHEE-KEF--------YLG-----------------------TFYV
+TYQH----------GP-YLIRYGETQGG---------------------------SSTK-
+K--KAGDTIKKGEPLAKVGLM---YKNAK--------------------KKIRYD--A-S
+G---PR-GHMLHFEMYSKGS-DH----S-G--LWSD------------------------
+--YGP--YNRRKDVIDPGPFLDEWV
+>PZO18822.1/5-149 hypothetical protein DCE87_01695 [Betaproteobacteria bacterium]
+QT-PRSFGAKR------A--S-----G---------RTHAGCDLYAP-------------
+-LGSPVLAITAGRVVES--RDF--------YLG-----------------------TFQV
+TIDH----------GALGVVRYGEISH-----------------------------DGI-
+P--KTGSVVEAGQQIGKIGNL---GK----------------------------------
+----GL-HPMLHIEHFSGAA-T-----G-A--MTN-------------------------
+PRNPP--YSRRSDLQDCTKLLD---
+>WP_156257546.1/137-305 WP_156257546.1 peptidoglycan DD-metalloendopeptidase family protein [Oceanobacillus sp. HTM 045]
+TG-ARYFGAPR------T--K-D---GR--Y-----RKHAGVDLICK-------------
+-VGTPVFAVADGVVKTPI-RHF--------YRS-----------------------TGEF
+AIDH----------GD-FWVRYCEIAIKAS-------------------------KALG-
+L-DEPGTEVKKGQLIGFIGIM---KS----------------------------------
+-------SSMLHFEMYSGEE-S-----G-T--LALHAHRK--------PYTKK-------
+LKDAS--FMRRRDLINPTDCLKQWM
+>WP_112325906.1/104-258 WP_112325906.1 peptidoglycan DD-metalloendopeptidase family protein [Roseithermus sacchariphilus]
+AG-MRAFGSRR------S--G-----G---R-----RAHAGIDLYFP-------------
+-DFTPILALADGVVTRGP-YPF--------YLR-----------------------TFAV
+EIDH----------GP-FVARYGEIAPE---------------------------EAWF-
+V--EAGDTVRRGQPIGRVGIL---TNNDG--------------------RR--------L
+G---VP-SMMLHLELYDKTE-T-----G-K--LTRAEGT---------SARDA-------
+-FGVP--FFRRRDLIDPTGFL----
+>MBD65149.1/451-612 hypothetical protein [Halobacteriovoraceae bacterium]
+SR-GRRFGAGRSS----S--S-----G---P-----RKHAGCDLYRK-------------
+-YNEDIRAIGVGKVIRDK-YLF--------YLG-----------------------TYAV
+EVVH----------AGGAVARYGEISVK---------------------------NAPG-
+I--AEGAILSQGQTLGYIGKL---NS----------------------------------
+N---CC-LPMLHFELYKGDQ-T-----G-P--LTVWLPDA------------------TT
+EREKL--YRRRHDLLNPTNYLKTWE
+>WP_201538887.1/612-767 M23 family metallopeptidase [Psychrobacter sp. 1044]
+SG-MRSFGSNR------S--S-----G---K-----RKHAGADLYAP-------------
+-TGTTVRAMESGIVLST--GGF--------YAG-----------------------TDFV
+TIKH----------QN-HIIRYGELAP----------------------------GSIK-
+V--KAEDEVIRGQPIGAVGKL---KG---------------------------------I
+N---VP-SNMLHLEMYSNTS-DT----S-N--LTIKG-----------------------
+AAGGK--FKRRSDLINPNSFLDNAD
+>WP_019013403.1/20-183 M23 family metallopeptidase [Elioraea tepidiphila]
+VH-PRNFGATR------S--S-----G---------RKHAGCDLYAP-------------
+-TGTKVLAVADGTIIGF--GRFTVVPAF--PEL-----------------------VGAI
+EVEH----------EGGWIARYCEVGRK---------------------------LAGA-
+L--KVGSSVKAGEVIGEIGHL---MHK--------------------------------L
+P---IP-SDMLHFELYGGWE-T-----G-S--LSRPG-----------------------
+--VGA--FHRRADLLDPTAYLDACA
+>WP_014086607.1/355-511 peptidoglycan DD-metalloendopeptidase family protein [Pseudogulbenkiania sp. NH8B]
+AGMPGEFGHSR------A--------G---------RKHAGCDIYAS-------------
+-AGTEIRAVADGVVVDK--HRF--------YWH-----------------------TDQI
+TVDH----------GG-FIVRYGEIDPR----------------------------SSE-
+L--KVGEKVKRGQVIARVGQLIMPSG---------------------------------K
+K---YK-QCMLHFELYGSSI-SVAK--K-P--LSND------------------------
+--TPP--FKRRDDIVNPTATLDAAD
+>RMH35666.1/92-254 M23 family metallopeptidase [Acidobacteria bacterium]
+EG-MAQFGWPR------A--R-----G---------RLHAGCDLYAP-------------
+-FKSDVVAITDGIVVEV--GDF--------YLG-----------------------TQAL
+AIRH----------EGIGVVRYGEIVEI---------------------------PESF-
+Y--KVGAKVKAGDIIGKVGQV---IK----------------------------------
+-----I-SAMVHLELFDGTK-I-----G-P--LTDRTKGI--------KYYNDG-----V
+KRDGN--YQRRADLMNPTKLLDR--
+>MBP9682355.1/177-333 M23 family metallopeptidase [Bacteriovorax sp.]
+EG-MRAFGGPR------N--K-----G---K-----RAHAAADLYRY-------------
+-ENEALMAVAPGVVLRNL-YYF--------YQD-----------------------TYAL
+EVLH----------SGGFVVRYGEMTGE---------------------------KAPD-
+V--SMGKQLKKGQVLGYMGKV---NS----------------------------------
+G---CC-EAMLHFELFTGEK-T-----G-S--LTRPGVDI--------------------
+-GGVL--FNRREDLINPTRYLLKWE
+>MBQ6795882.1/79-222 M23 family metallopeptidase [Clostridia bacterium]
+TG-GRVFGSKR------K--D-----G---------RRHAGMDLVVP-------------
+-PGTKVIAMTDGVVDNYS-PTF--------YEG-----------------------TGAL
+TVNN----------ADGTVVRYGEISST--------------------------------
+L--KKGTEVKRGQVIGTVIAN---NSP---------------------------------
+----ER-SSMLHIEYYTGEA-A-----G-P--LTCSD-----------------------
+--NLP--YMRRSDLTDPM-------
+>MBI4952743.1/3-187 peptidoglycan DD-metalloendopeptidase family protein [Myxococcales bacterium]
+GG-MRRFGSAR------S--G-----G---------RLHAGCDLYGP-------------
+-VGTPIVAVADGTVLLAP-YLF--------YDD-----------------------TYAL
+EVHH----------PGFGVVRYGEILPPGHYKSWQKSLAAGREKAGLADASAA-IAAPT-
+L--KAGTKVTEGEVIAAVGRL---AS---------------------------------L
+K------MSMLHFELYDEAA-R-----G-Q--SLSG------------------------
+--SGK--FKRNKLLVDPTQKLLDLE
+>NRA67534.1/120-277 M23 family metallopeptidase [Pseudobacteriovorax sp.]
+VG-VPSFGWGR------D--G-----G---S-----RLHAGSDLYTR-------------
+-AGRTVRAISDGVVRDR--YYF--------YRG-----------------------TWAL
+VVEHTLP------DGSRRVVRYGEIAPG-----------------------------SG-
+L--PVGTRVKSGQKVGAIGVL---TG----------------------------------
+----IP-QPMLHFEYYQGNR-Q-----G-P--LTVRS-----------------------
+--SRP--FQRRGDLLNPETLLDRLQ
+>MCC6137326.1/343-491 M23 family metallopeptidase [Bdellovibrionaceae bacterium]
+DG-KRYFGAVR------R--S-----G---K-----RKHAAADLLRP-------------
+-TGEKVLAIDGGKVLRK--YHF--------YAG-----------------------TYAV
+EVKH----------DSGYVARYGEVAPQ---------------------------NVAQ-
+S--GPGERVIKGQHIGNIGSL---------------------------------------
+--------RMLHFEIYSDKV-D-----G-P--LTQLN-----------------------
+--NGE--YWRRSDLLNPTPLLNKWQ
+>MBS1797143.1/4-182 M23 family metallopeptidase [Acidobacteria bacterium]
+TG-GRRFGDDR---------------G---S-----MLHPACDLIAV-------------
+-PGTEIYAVEDGTVVYAP-RAF--------FESGPHIADPDDPKKSICKPGVECLMVYDM
+LVKH----------AN-FLVRYGEIAVR---------------------------APKE-
+I--VKGAEVKEGQLIAYVGAQ---TV----------------------------------
+-------ASMLHFEMYSNTE-DI----S-Y--PTEKGNM---------KYLNF-------
+KPKKT--YSRRKDLMDPTDYLDGCV
+>MBX7105723.1/29-184 M23 family metallopeptidase [Gemmataceae bacterium]
+AR-RRTFGAFR------A--S---------D-----RDHAGVDIIQP-------------
+-VTTPVLAISAGTVLKFQ-RNF--------TDK-------------------KNFETDAL
+WVDH----------DT-YVIRYGELRPGQSRN----------------------GSGKT-
+W--KVGDTMEQGQVIGQVGYV---ARD---------------------------------
+-------SQMLHFEMYWGDS-T-----G-N--LSDRTNK---------IYKYV-------
+-SGNK--YQRRSDLLDPTEYVNLMA
+>MBX7105721.1/12-188 M23 family metallopeptidase [Gemmataceae bacterium]
+KW-GCKFAASR------S--D-----G---K-----RAHAGCDLLSP-------------
+-LGTPILAIAAGTVLRVE-AAF--------TDK-------------------PGFITDAL
+VIDH----------DT-YIIRYGEIEPGSAVN----------------------SKGKK-
+L--RAGDTVEQGEQIARIGNV---GS----------------------------------
+-------DRMLHFEIYYGDA-E-----G-K--LSNKKNTGDS-----ALYSYV-------
+-PKRN--YQRRSDLMDPTTFLDKMA
+>MBU2510294.1/634-831 M23 family metallopeptidase [bacterium]
+DD-PRNFSSGR------NVVN-----GQ-PT-----RYHAGCDLYAP-------------
+-VGEKIYAVADGVIKRY--RNF--------YWQ-----------------------TYSL
+EIVH----------DD-FIVRYGEVQPPI--GAYDT---------LQPPNAVSKGLPDN-
+L--AEGEKVKRGQHIAYVGQL---RKPIT--------------------VNNVKM--R-V
+N---YQ-YSMLHLEMYKDTS-R-----S-P--LTDLLSPADEN--PTNQYTEV-------
+-TAKT--FKRRSDLLDPTKFLDE--
+>MBR3919837.1/171-328 peptidoglycan-binding protein [Clostridia bacterium]
+TG-SRKFASAR------D--S-----G---K-----RAHAGIDFVAE-------------
+-AGTKIYAMTSGTVLQV--YTF--------YET-----------------------TKAV
+EVQN----------DDGSILRYCEISSA--------------------------------
+V--KAGDKVKQGDVIGTIMRA---AI----------------------------------
+----SK-TTMLHLELYMGDT-S-----G-G--LTQRNNK---------KYTYV-------
+DANNK--FQRRSDLMNPTFLKNLDH
+>WP_083792147.1/16-171 WP_083792147.1 M23 family metallopeptidase [Caldicellulosiruptor owensensis]
+TD-GRQFGAPR------K--N-----G---T-----RTHAGVDLLTYDK------KNNKG
+VKDAKVLAMTDGTVTAV--YDF--------YAG-----------------------TQAI
+EIKN----------SDGSVIRYGEVKSK--------------------------------
+V--KVGDKVKQGQVIATVIPN---TQ----------------------------------
+----SG-NAMLHLEVYKGDS-S-----R-P--LTQRNNK---------TYKYV-------
+-PEAN--YERRSNLINPMDLLRLKT
+>MBS1796489.1/3-166 peptidoglycan DD-metalloendopeptidase family protein [Acidobacteria bacterium]
+YG-GIKFGAERKK---KD--G-----S---L-----RTHAACDLVAA-------------
+-PGTPVVAVEWGIVLDVPKTPF--------IEG---------------------TKLYSV
+IIEH----------SF-FIGRYTEINRDD--------------------------IGSE-
+I--YPGATVQEGQYISTLQRN---GKG---------------------------------
+-------GAMLHFEMYDKSS-A-----G-Y--LSQPSNT---------KYKNV-------
+-PAGS--YGRRSDLMNPTPYLDQW-
+>PYS86742.1/4-176 hypothetical protein DMF62_14820 [Acidobacteria bacterium]
+AG-SLSFGDER------Q------------W-----QAHAACDLLAP-------------
+-AGTEIYSVEKGKVWYGP-RSF--------FLSGPQ---HKENGKSVCNADASCIMTYEI
+AIIH----------AN-FIIRYGEVGSG---------------------------KAKG-
+I--EPGAEVSEGQLIGWVGPQ---SV----------------------------------
+-------HTMLHLEMYGNID-DI----S-S--LTQETNT---------QYINFP------
+QTKKN--FKRRKDLMNPTDYL----
+>WP_102780607.1/89-250 peptidoglycan DD-metalloendopeptidase family protein [Providencia stuartii]
+GN-QTVFGRNR------N--G-----G---R-----RKHAAIDLYTY-------------
+-PYQPIYAISDGVIFDI--SNF--------YSY-----------------------TDQI
+SIKHKTV------DGREFIARYGEVDSN----------------------------TVD-
+V--KVGQKVKQGQFLAKTGKL---LTVNK---------------KTKK-LEPEML--I-D
+G---VV-VFMLHFEYYTD---GSNT-KD-K--LTNK------------------------
+-SNPP--FQRRADLADPFDLLMEGY
+>DAW34123.1/138-297 MAG TPA: peptidase [Siphoviridae sp.]
+SG-GRQFGASR------S--N-----G---N-----RAHAGIDLITP-------------
+-AGTEVIAITDGVVNYIC-YGF--------YAG-----------------------TDAI
+ITKN----------SDGTWFTYGELTPL--------------------------------
+V--QTGSAVVKGQVIGKIKAN---NS----------------------------------
+----SG-ASMLHFETYKGDF-D-----T-N--VLNTNGD---------SYLYV-------
+-PNKK--YKRRIDLLDPSYVVNLPM
+>HBY62223.1/1-160 hypothetical protein [Bryobacterales bacterium]
+RS-GLRFGDPR------T--SKDPKTGETTK-----RRHAGCDLMTS-------------
+-AGAEVRAVTSGKVTELI-RDF--------RNG-----------------------TSAV
+VIRHDVP-------PLACDILYGEIVPL--------------------------------
+I--KPGDTVFAGEVIGRVQRH---PSG---------------------------------
+-------GAMLHLELYRKGP-GV---KA-S-VLTA-------------------------
+-NKAG--FKRRSDLQDPADLLDL--
+>WP_233707869.1/22-186 M23 family metallopeptidase, partial [Helicobacter cinaedi]
+AT-QTIYGRNR------Q--D-----G---T-----RKHAARDLYTN-------------
+-PLTEVIAIADGKVLEQ--KDF--------YEG-----------------------TYQV
+TILHETS------KYSKFIVRYGELDKN----------------------------SIL-
+V--KDGDEIKQGQVLGKTGKM---NNIN--------------------------------
+-------NYMLHFEFYKDGT-KDGI-RG-KDVLTIS------------------------
+-GKND--FNRREDITDPLEILQEGY
+>NLW33411.1/296-466 hypothetical protein [Fibrobacter sp.]
+SG-VRSFGSPR------N--N-----G---T-----RFHAGCDLYAP-------------
+-VGSKVYSMDDGIYLRQ--YNF--------YGQ-----------------------TYAM
+EIKH----------GK-RIIRYCEIQPPKYDHIYET---------NIPPDSIR--NGFN-
+F--IEGTEIKRGQLIGYVGQL---RFINK----------------VTG---------VHE
+N---YK-LSMLHLEMYNGEC-NDDE----N--LSQSNN----------IYLHV-------
+-KVMN--YIRRKDLLNSAEFLD---
+>HIR60626.1/175-332 peptidoglycan-binding protein [Candidatus Faecivivens stercoravium]
+TG-GRTFGYRR------S--D-----G---------RQHAAIDYYVHNG-----------
+-AGTPVYAMTSGTVTGVS-TTF--------YAG-----------------------TGAV
+TVQN----------TDGSVIRYGEIKAA--------------------------------
+V--KNGAKVKKGQVIGYLAAN---TV----------------------------------
+----DG-GTMLHLELYRGDA-S-----G-L--LTQTGNT---------SYTYV-------
+--SGR--FNRRADLLDPTFLLALSE
+>WP_065617633.1/926-1112 M23 family metallopeptidase [Gilliamella apicola]
+NN-QTMFGWGR------S--G-----G---T-----RKHAARDLYTE-------------
+-PYTEIVAISDGVILQV--APF--------YSQ-----------------------TDQI
+TIKHETW------SGRQFIIRYGEVDHD----------------------------SAKK
+L--KVGDFVKQGTVIAKTGKL---LKD----------------------GKPELV--I-N
+G---KV-IYMLHLEYYSGNS-GLNL-TK-P--LSDK------------------------
+-ANKP--YERRKDLLDPLDILKEGY
+>MBV9290773.1/2-121 M23 family metallopeptidase [Hyphomicrobiales bacterium]
+-------------------------------------AHAGCDLYFP-------------
+-VGTEIYAMADGVVLEGP-TPF--------YAG-----------------------TSYL
+TIEH----------GH-ILVRYGEIQA-----------------------------NAF-
+V--ERNQRVSGGQKIARVGHL---VG---------------------------------V
+N---VP-SDMLHLEVYGSKS-P-----G-S--LTVAAQA---------SKLRE-------
+-DNVP--YLRRWD------------
+>WP_065602216.1/37-221 peptidoglycan DD-metalloendopeptidase family protein [Gilliamella apicola]
+NN-QTGFGTVR------S--K-----G---I-----RKHAARDLYTK-------------
+-PYTEIVAICDGTVLQT--SEF--------YSE-----------------------TNQI
+TVKHKTK------SGRQFIIRYGEVDPK----------------------------SIK-
+V--KQGDFVKQGTVLAKTGFL---HNK--------------------ETKKPEVV--K-N
+G---TI-IYMLHFEYYSNVG-ELNL-KK-P--LTDK------------------------
+-SRLP--FQRREDLLDPLEILIEGY
+>WP_107929712.1/922-1072 peptidoglycan DD-metalloendopeptidase family protein [Campylobacter concisus]
+-----SFGSGR------S--G-----G---K-----RRHAGRDLYTL-------------
+-ANAEIVAIADGIVLNT--SFF--------YCK-----------------------TNQV
+TIMHYFK-------GRKIIIRYGELV------------------------------NIP-
+V--KAGDRVKKGQFLGQTGKL---LND--------------------R-NQHINV--V-S
+G---YT-IYMIHFEYYTDGN-NT---RD-P--LTVRD-----------------------
+-PNNK--FKRRSDLSDPLEILRIGY
+>HIT94496.1/176-324 peptidoglycan-binding protein [Candidatus Faecivivens stercoripullorum]
+TG-GRSFGYKR------S--D-----G---------RQHAGIDFFVVDG-----------
+-AGTPVYAMTDGTVTATS-TTF--------YAG-----------------------TGAV
+TVKN----------NDGTVVRYGEITPA--------------------------------
+V--SNGRTVRKGQIIGYLAKN---NN----------------------------------
+----DG-GTMLHLELYRGDA-E-----G-I--LTRV-NT---------DYWYV-------
+--SGN--YNRRSDLLNPTE------
+>MBE7031939.1/122-261 hypothetical protein [Oscillospiraceae bacterium]
+SG-GRMYGAPR------G--G-----G---------RLHAGMDLIVP-------------
+-SGTRVVAMTGGIVIENN-KGF--------YAG-----------------------TDAL
+IVKN----------SDGTTVLYGEIKSS--------------------------------
+L--GAGTIIKQGQTIGSVIAN---NA----------------------------------
+----TG-ASMLHIEYYTGEA-S-----G-S--IF--------------------------
+-GGGP--YRRRSDLTSPM-------
+>WP_141675016.1/528-700 M23 family metallopeptidase [Gilliamella apicola]
+DN-QTMFGSNR------S--G-----G---K-----RKHAGRDLYTE-------------
+-PNAEIVAVCDGVVLDI--RDF--------YCK-----------------------THQI
+TVKHHTN------SGREFIIRYGEVDKS----------------------------SIKN
+L--KVGDSVKQGAILAKTGKL---LNN--------------------D-DTPLMV--L-S
+G---KI-IYMLHLEYYSGES-GLDL-KK-P--LSNK------------------------
+-ANKP--YERRKDLLDPLELLKQGY
+>WP_056773746.1/197-354 WP_056773746.1 peptidoglycan DD-metalloendopeptidase family protein [Serratia sp. Leaf51]
+GN-AAAFGRPR------S--G-----G---------RQHGGRDLYTN-------------
+-EYEPVVAICDGKILGT--FPF--------YDG-----------------------TNEV
+SIIHNTK------DGRKFIVRYGELDPQ----------------------------SIM-
+V--RTGEEIKQGQQLGNTGRL---INN--------------------H-GQPTVI--L-D
+H---KT-VYMLHFELYTGSI-AYNL-SP-S--LTNR------------------------
+-SNPP--FSRRGDLVDPINILAEGY
+>WP_214039324.1/574-758 glycoside hydrolase family protein [Photorhabdus akhurstii]
+RN-MAAFGTNR------S--G-----G---K-----RKHAARDLYTN-------------
+-PHEKVVAICDGIVLDV--HSF--------YSG-----------------------TYQV
+TVKHTTK------DGRNFIIRYGELDPN----------------------------SIK-
+V--GINERIKQNQHIGSTGRL---LHK--------------------D-GSPVLK--L-N
+G---NT-VFMLHFEYYTGDD-GLNI-NH-S--LTDR------------------------
+-DNPP--FIRRRDLSDPLNILDEGY
+>WP_181637571.1/590-748 peptidoglycan DD-metalloendopeptidase family protein [Citrobacter freundii]
+SN-MAAYGTNR------N--G-----G---A-----RKHAARDLYTK-------------
+-PYEKVVAICDGIVLDS--RGF--------YCK-----------------------TNQV
+TIKHLTN------DGRSFLIRYGELDPD----------------------------SIQ-
+V--RINDSVKQGQIIGKTGKL---LEG--------------------N-NTPSVI--R-N
+G---RI-VFMLHFEFYAGRN-GLNI-SS-P--LTDT------------------------
+-SRLP--YQRRSDLEDPLPILDEGY
+>MBP5645756.1/149-276 peptidoglycan DD-metalloendopeptidase family protein [Bacteroidales bacterium]
+-------GSRR------D------------E-----RKHAGCDLYAP-------------
+-EGTAVFSITKGTVMSV--GSF--------YKG-----------------------TDEI
+AINH----------NS-FIGRYCELIPS-----------------------------FD-
+I--KPGCKVNSGDFLGVIVSMPIKNG----------------------------------
+----GN-NSMLHFEMYLGNA-S-----G-K--LSNRN-----------------------
+--NPP--FERRSDLKNPTMVLN---
+>WP_054625041.1/327-512 WP_054625041.1 M23 family metallopeptidase [Cronobacter sakazakii]
+AN-MAAFGANR------Q--------G---N-----RKHAARDLYTK-------------
+-PYEEVVAICDGVVLDT--RVF--------YCQ-----------------------TNQV
+TIRHQTK------DGRYFIVRYGELDPE----------------------------SIC-
+I--SINNNVCQGQVIGKTGKL---MDS----------------------GHPVVV--R-D
+G---RI-VFMLHFEYYSGEE-GLNL-MH-S--LTET------------------------
+-SRLP--YQRRRDLEDPLSILDEGF
+>MBP7552704.1/199-360 peptidoglycan-binding protein [Spirochaetes bacterium]
+AG-SRYFGATR------D--G-----G---Q-----RAHAGIDIIPTTG-----------
+-PGTAVYAMTSGTVTGY--YLF--------YAG-----------------------TYAL
+EVKN----------DDGTVARYTEITST--------------------------------
+K--RPGNRITKGQAIGTIIRN---TS----------------------------------
+----GG-SYMLHLEVYMGTS-T-----G-A--LTNTTNT---------YYKYV-------
+-TDNN--YNRRSDLVNPMGVTRLPK
+>OQB68071.1/199-355 Autolytic lysozyme [Spirochaetes bacterium ADurb.Bin133]
+TG-ARYFGAPR------N--G-----G---T-----RAHAGIDIVPNSG-----------
+-PGTLVYAMTNGTVTGY--YHF--------YAG-----------------------TYAL
+EVEN----------DDGTVARYTEITST--------------------------------
+K--QINARIKKGEAIGKIIRN---NS----------------------------------
+----GG-SYMLHLEVYMGDS-T-----G-A--LTNSANT---------SYKYV-------
+-SWKK--YNRRSDLVDPMGV-----
+>OHD05997.1/196-351 hypothetical protein A2Z98_10615 [Spirochaetes bacterium GWB1_27_13]
+GA-SRYFGASR------D--G-----G---A-----RAHAGADLVPVNG-----------
+-PGTQVIAMTSGTVLNY--YLF--------YAG-----------------------TYAL
+EVKN----------DDGTIARYTEISSS--------------------------------
+L--RAGARVAKAQVIGTIIRN---TS----------------------------------
+----AERSYMLHLEVYMGTS-T-----G-G--LTNTSNY---------TYNYV-------
+-PYKN--YQRRSDLLNPMGVMQL--
+>NEP90784.1/46-146 M23 family metallopeptidase [Okeania sp. SIO2C2]
+TG-GRYFGANR------P--S-----R---------RKHAGCDLIAP-------------
+-SGTEVLAMEDGEVLQS--YPF--------WQG-----------------------TDAL
+EIKH----------QGGMIVRYCEIS-----------------------------VASG-
+M--RPGIRVSKGQVIAHVKR----------------------------------------
+------------------------------------------------------------
+-------------------------
+>WP_105693686.1/230-386 peptidoglycan DD-metalloendopeptidase family protein [Cronobacter dublinensis]
+AN-MAAFGANR------N--------G---A-----RKHAARDLYTK-------------
+-PYEEVVAICDGIVLDK--RKF--------YCE-----------------------TIQV
+TIKHQSN------DGRLFLVRYGELDPK----------------------------SVQ-
+V--TINDVVEQGQLIGTTGKL---LDD----------------------GVPVVV--R-D
+G---RI-IFMLHFEYYSGAN-GFNL-LH-P--LTDN------------------------
+-TRMP--YQRRSDLEDPLPILEEEY
+>WP_233780426.1/174-352 M23 family metallopeptidase [Fulvivirga sp. SW1-E11]
+SN-PATFAAKR---------G-----S---N-----RLHAARDLYYE-------------
+-VGEPIYAMADGKVIEV--KSF--------YND-----------------------TFEI
+TIEHDYEIV----KGFKMIVRYGEVNKN----------------------------NIL-
+V--KVGDTVKKGQHIAKVGLL---IPY-------------------------VHQ--P-A
+G---EK-RGMLHLEMYTGEL-S-----S-S--PYPGDVLYNK-----MKYARSK----FY
+NGNQS--FRRREDLIDPLDILN---
+>EHF4933386.1/323-482 glycoside hydrolase family protein [Enterobacter hormaechei]
+SN-MAAYGTNR------N--G-----G---A-----RKHAARDLYTK-------------
+-PYEKVVAICDGKVLGT--NPF--------YDG-----------------------TNEI
+SIFHTTT------DGRKFIVRYGELDPP----------------------------SIK-
+V--KIGDEVKQGQHIGNTGKL---INP--------------------KTNRPRLK--L-G
+N---VI-VYMLHLELYTSKV-SCSI-NP-P--LTDK------------------------
+-TKPP--FLRRSDLVDPIEILSEGY
+>WP_052456915.1/112-269 peptidoglycan DD-metalloendopeptidase family protein [Capnocytophaga cynodegmi]
+SN-QTTFNSNR------G--G-----G---K-----RKHAGRDLYTQ-------------
+-PLTPVVAMADGIVIGT--GNF--------YAG-----------------------TDYI
+AIYHKTP------SGREFIINYGEVDPN----------------------------KKM-
+V--KKGDTVEKGQQLGVTGYL---KN--------------------------ITV--I-E
+G---EL-IYMLHFEYYSGRE-GFNL-DK-N--HILG------------------------
+-HSNM--YKRRSDLEDPLKILEEAY
+>WP_080898091.1/828-987 peptidoglycan DD-metalloendopeptidase family protein [Klebsiella variicola]
+AS-QAIFGRNR------S--G-----G---S-----RKHAARDLYTE-------------
+-PSTEIVAVCDGTVKSI--TAY--------YMG-----------------------TSQI
+TIEHKTN------DNRRFFARYGEVDPN----------------------------SIT-
+V--NVGDKVSQGSIIAKTGLM---ISPET--------------------NRHPSI--I-A
+G---QT-VYMLHFEYYPGNE-SE----S-P--PNNT------------------------
+-LDLP--YRRRNDLRDPLEILREGY
+>PYS90561.1/4-136 hypothetical protein DMF62_04435 [Acidobacteria bacterium]
+NY-SCRFGAPR------N--D-----G---------RKHGGVDLAAN-------------
+-VGADVFAVGDGVVVEAA-GGF--D-----------------------------------
+--------------------KYGTSVIV----------------------------PPM-
+K--RVGDFVEMGELIAKVGKQ---PG----------------------------------
+-------GTQLHLEMYDGTE-S-----G-Q--FLQPG-----------------------
+--NLP--YKRRGNIVDPTPFMDSWQ
+>WP_233715269.1/166-348 peptidoglycan DD-metalloendopeptidase family protein [Helicobacter trogontum]
+AT-QTIYGRNR------N--G-----G---R-----RKHAARDLYTDFF-ER---NIKNP
+KSNVEIVAIADGEVLDK--RDF--------YLD-----------------------TKQV
+TILHETS------KYGKFIVRYGELDSS----------------------------RIL-
+V--NIGDKVKQGQVIGCAGLM---LKN----------------------GIHPNI--I-P
+N---KQ-VMMLHFEYFTNGN-DTNV-IG-K--LTDT------------------------
+-SKLP--FQRRNDIADPLEILQEGY
+>WP_065579402.1/488-690 M23 family metallopeptidase [Gilliamella apicola]
+NN-QTAFSSSR------N--G-----G---------RKHAGRDLYTE-------------
+-PKEDIIAVSDGVVLKI--NEF--------YCY-----------------------THQI
+TVKHHTN------SGRQFIIRYGEVDKE----------------------------SIK-
+V--KTGDFVKQGTVLAKTGLL---LRNVRATDPQSRIIEVNIGGETKK-MTPLMV--I-N
+G---KI-IYMLHLEYYSGNS-GLDL-KK-S--LTDK------------------------
+-SKKP--YERRDDLTDPIELLKEGY
+>WP_194139016.1/944-1102 peptidoglycan DD-metalloendopeptidase family protein [Flavobacterium sp. KB82]
+RN-QATFDSYR------E--N-----R---T-----RKHAARDLYTE-------------
+-PETEVIAIADGKVLET--RYF--------YAG-----------------------TDQV
+TVLHKLK------DGRKFIARYGELKPN----------------------------SVE-
+V--KAGDVIKQKTVIGKTGKL---RGK--------------------------SV--I-T
+G---QD-IYMLHFEIFSAEE-DESI-GD-P--LTNTL-----------------------
+-NGSP--FKRRKDLIDSIDILLEGY
+>WP_223227877.1/111-274 M23 family metallopeptidase [Campylobacter concisus]
+-------NWDR------P--G-----G---------RKHAARDLYADRI-ARTNANELAF
+TSNVEIVSIADGEVIKA--GPF--------YYK-----------------------TNHI
+TIQYDTV------EFGSFIIRYGEVDPS----------------------------RVK-
+V--KVGDKVRKGQVIGYAGFM---INN----------------------GKHPGI--I-K
+N---EI-VTMLHFEYFTNGA-NTKD-AF-T--VTND------------------------
+-PNNK--FKRRKDLADPIEILKEGY
+>WP_007839365.1/993-1150 PAAR-like protein [Chryseobacterium populi]
+DN-MATFNANR------S--------G---N-----RRHAARDLYTK-------------
+-PLETVVAIADGEVLEI--KSF--------YDR-----------------------TDQV
+TIRHKLK------DGRDFIIRYGELDPK----------------------------SIT-
+V--KKGDKITQKKEIGKTGKL---MKT--------------------D-TEVRLK--I-G
+G---VT-VYMLHFEHFTTGT-DFDV-QKNP--LSN-------------------------
+-DTKP--FMRRADLVDSLAILEEGY
+>WP_139261701.1/164-326 M23 family metallopeptidase, partial [Flavobacterium johnsoniae]
+-N-MTTYNSNR------N--S-----G---A-----RKHAARDLYTK-------------
+-PLTEVVAIADGTVLEI--ADF--------YCL-----------------------THQI
+TIRHTLK------DGRDFIIRYGELDPQ----------------------------SIT-
+V--KAGDKIKQKHVLGKTGKL---LDFIK---------------KTGK-YVPLMK--I-K
+D---EI-VYMLHFECYNGNL-GFDL-NKNP--LTN-------------------------
+-WSKP--FLRRNDLLDPLSILKEGY
+>WP_162150100.1/40-205 peptidoglycan DD-metalloendopeptidase family protein [Saccharicrinis fermentans]
+SN-GTTFGASR------D--K-----G---A-----RKHAGRDLYAS-------------
+-WGTPIRAMADGEVIEMT-RNW--------FNN-----------------------VGVI
+SIAHKTT------SGRKFICRYGEVDGS----------------------------SIA-
+F--KKGQKVMQGDFIARIGFL---KYPGK----------------NKD-MPPIQS--P-R
+G---LR-TNMLHFEFYSNGE-THAD-IGVN--LS--------------------------
+-SNIY--RRKRTDLTDPLEILKEAY
+>RWB21213.1/302-429 hypothetical protein EOQ40_12165 [Mesorhizobium sp.]
+-A-SRRFLADR------S--G-----G---A-----RYHCAIDLYCS-------------
+-EGDAVVAVEDGRIVNF--YHF--------YQD-----------------------TYAL
+LVQH-----------DGYVVNYGEVSPNSL-------------------------SSLG-
+L--SIGDRVSAGQRIGTVGRL---------------------------------------
+--------NMLHFETYSSGT-TK---NY-S-----------------------------W
+PQANP----RPNRLRNPSQLL----
+>WP_193707856.1/35-207 WP_193707856.1 M23 family metallopeptidase [Tenacibaculum finnmarkense]
+DN-AATFGYYR---------G-----T---N-----RIHAARDLYYE-------------
+-LKEPIYTIYDGVVKNV--YSF--------YLD-----------------------TWAI
+EIEHDYEHK----SGYKLYVRYGEVGKN----------------------------NIL-
+V--KTGDKVIRGQQIAEIGLM---YNSKK--------------------KKYIMQ--P-Y
+P---DK-RGMLHIEMYSGEE-T-----G-K--LTNRGIKYKE-----MMYSASI----NY
+SKSRS--FQRRKDLFDPLELLNEGY
+>MBK5211320.1/490-638 peptidoglycan DD-metalloendopeptidase family protein [Coriobacteriia bacterium]
+GN-TSAFGSYR------D--G-----G---A-----RAHAAIDLIEP-------------
+-VGTKVYAMTDGVVERISVGTY--------YAG-----------------------TGAV
+QVKN----------TDGSVIWYCEVKAA-----------------------------TG-
+L--KVGSKVKKNQLIAAMQLN---HYG---------------------------------
+-------TSMLHLEAYSGKS-S-----G-N--LSQTNSND--------TYDNV-------
+-TAVH--FNRRRDLISPMGVLGLNM
+>WP_065719532.1/675-827 peptidoglycan DD-metalloendopeptidase family protein [Chryseobacterium sp. CBo1]
+-N-MTTFNSNR------S--K-----G---T-----RKHAGRDLYTQ-------------
+-PETEIVAMADGVVLKT--APF--------YAG-----------------------TDYI
+AVHHKTN------DGREFIINYGEVAPS----------------------------KKE-
+V--KEGDQVVQGQKLGVTGYL---HG--------------------------ITV--I-S
+G---HT-IYMIHFEHYTGTE-GFDL-DK-N--HILS------------------------
+-GDNK--YKRRSDLVDPLEILREGY
+>HBP37601.1/173-306 hypothetical protein [Clostridiales bacterium]
+-------GSSR------S--S---------R-----RIHAGIDLYAP-------------
+-TGTPIYAMTAGWVQNI--DDF--------YQG-----------------------LSEI
+AIAN----------QDGTTIRYCELIPS--------------------------------
+V--SIGDQVVQGQQIGTLKQN---YDG---------------------------------
+-------TCMLHLEIYATIS-S-----D-P--LTQTENLS--------DYLHVP------
+VGKKS--YLRRRDLVDPSAVL----
+>WP_108090449.1/695-848 peptidoglycan DD-metalloendopeptidase family protein [Enterobacter cloacae]
+-------GRNR------S--G-----G---T-----RKHAARDLYTN-------------
+-PYEAVVAVCDGKVLGS--GFF--------YDA-----------------------TNEV
+TILHETV------NGRKFIVRYGELDPS----------------------------SIK-
+V--SVGQNISKGDVIGNTGKL---IST--------------------RTGLPTVK--V-D
+G---TV-VYMLHFEVYTGDV-AYNI-RA-P--LTDR------------------------
+-SILP--FLRRKDLIDPISILNEGY
+>WP_111376205.1/948-1100 peptidoglycan DD-metalloendopeptidase family protein [Flavobacterium nitrogenifigens]
+---QATFDSFR------D--H-----G---R-----RKHAARDLYTE-------------
+-PKALVIAIANGEVLET--RYF--------YAG-----------------------THQV
+TVLHKLK------DGRKFIARYGELDPN----------------------------SIE-
+V--KKGDQVKQGKVLGKTGKL---LGK--------------------------SV--I-S
+G---YD-IYMLHFEIFSAEK-EENI-NN-P--LTNKV-----------------------
+-NGSP--FQRRKDLLDSIDILLEGY
+>WP_175479112.1/313-473 glycoside hydrolase family protein [Aeromonas sobria]
+NN-AATFSYPR------N--N-----G---------RKHAARDLYTN-------------
+-PFEEVVAVSNGEVLQV--ASF--------YCQ-----------------------THEI
+TILHRTN------DGREFIMRYGELAPD----------------------------NIK-
+V--SVGDIVIQGQSLGYTGKL---LQN----------------------GIPLVK--I-N
+G---SI-VFMLHVEVYSCQS-GSDL-KK-P--LTNR------------------------
+-GVRP--YQRREDLVDAIDILKEGY
+>WP_169754763.1/88-252 WP_169754763.1 peptidoglycan DD-metalloendopeptidase family protein [Campylobacter curvus]
+-------GKFR------G--G-----G---------RKHAARDLYTDIR-DKESVDLNTF
+KSDVEIVAIADGEVLDT--GDF--------YYD-----------------------THQI
+TILHRTS------KYGDFIIRYGEVDKD----------------------------RKK-
+V--AKGDFVRQGDTIGYAGLM---MDG----------------------SRHPDI--VGK
+D---KL-VTMLHFEYFTNAN-LSVD-KF-R--LTNR------------------------
+-SNPP--FMRRDDLADPLEILMDGY
+>WP_005001622.1/282-454 MULTISPECIES: LysM peptidoglycan-binding domain-containing protein [Acinetobacter]
+AS-MAIFGRNR------S--S---------N-----RKHAGRDLYSNCK------PVSKA
+ENGFEVVAIAPGKVIAS--QEF--------YLQ-----------------------TNQL
+SIRHKTE------DAREFIIRYGELDPK----------------------------SIT-
+L--KVGDSVKQGQILGKTGVM---KNK--------------------N-GPAAIP--I-A
+GKTAHN-VSMLHFEYFTGNGFSLDD-AS-N--LTIK------------------------
+-EHGV--YSRRDDIADPLAILLEGY
+>WP_175453149.1/91-243 peptidoglycan-binding protein [Microbulbifer yueqingensis]
+---SRGFGARR------D--N-----G---------RRHQGVDLYGY-------------
+-HKDLVVAIADGVVVDNP-RHF--------YHG-----------------------TDRV
+LIR-----------GEGGVILYGEIEHRSA-------------------------QKMG-
+L--SKGKYVKAGDPVGRVGRM---SGG---------------------------------
+-------SSMLHLEAYRTDI-TSRP-RK-R-----------------------------W
+YAG----KSPPAELLDPTDLLQRAA
+>WP_024549785.1/605-755 glycoside hydrolase family protein [Siccibacter turicensis]
+-------GRNR------S--N-----G---A-----RKHAARDLYSE-------------
+-PNTEIVAISNGIVKSI--THY--------YYS-----------------------TWQI
+TIQHTTG------DGRHFYIRYGEVDPR----------------------------SIK-
+V--SVGTSVSQGDVVAKTGLM---INPAT--------------------GHHPNI--I-P
+G---ET-VYMLHFEYYPGQE-KT----P-P--PNNV------------------------
+-QNPP--FQRRQDLYDPLEILQEGY
+>WP_109038031.1/242-399 LysM peptidoglycan-binding domain-containing protein [Aquabacterium olei]
+----TTFGGGRRTP---D--G-----G---R-----RLHAGRDLYAR-------------
+-DLTDVYAVAPGKVLRV--APF--------YMK-----------------------TDQV
+SVRHKTS------DGREFIVRYGELDPE----------------------------SIR-
+V--KKGDDLMQGQLIGKTGIL---RRS--------------------N-GEKLII--A-D
+G---KN-VSMLHFELYSGAA-GLDN-AD-N--LST-------------------------
+-TTGE--YRRRSDLIDPLPILQEGY
+>WP_157798194.1/119-278 pesticin C-terminus-like muramidase, partial [Aeromonas cavernicola]
+SN-AATFKYPR------D--N-----G---S-----RRHAARDLYTK-------------
+-AYEEVIAVCDGKVLDV--SDF--------YLC-----------------------TWEI
+VIHHKTS------DGREFIMRYGEVDPA----------------------------KIK-
+V--KTGDIVKQGQLLGVTGLL---LKS--------------------D-GTHPVI--V-Q
+N---AT-VYMLHVEIYTGAN-GMNI-NS-P--LTNS------------------------
+-HNPP--FMRRSDLVDSIDILQEGY
+>WP_231058984.1/1-105 M23 family metallopeptidase [Massilia sp. G4R7]
+------------------------------------------------------------
+---------ADGKVVQV--YAF--------YLG-----------------------TWVI
+EVDH----------GS-FIARYGEVKP----------------------------TGLK-
+V--KGNQEVKRGQLLGQVGKL---QG---------------------------------L
+K------SSMLHLEMYSSNK-SPRD--E-G--LTLRG-----------------------
+--RPP--YQRRSDLMDPTASIDK--
+>WP_202704039.1/967-1119 peptidoglycan DD-metalloendopeptidase family protein [Flavobacterium sp. UGB4466]
+---QATFDSYR------D--Y-----G---A-----RKHGGRDLYTE-------------
+-KNAEVIAIADGKVLET--AYF--------YSQ-----------------------TNQV
+TVLHKLK------DGRKFIARYGELNPK----------------------------SIK-
+V--KKNDIVKQGDTLGQTGKL---VGV--------------------------TV--I-T
+G---QD-IYMLHFEIFSTEN-GENL-DS-P--LTNTL-----------------------
+-NGSP--FKRRKDLIDSVDILVEGY
+>WP_163400377.1/598-745 M23 family metallopeptidase [Flavobacterium fluviatile]
+------FNSNR------G--G-----G---T-----RKHAGRDLYTN-------------
+-PEEPVVAICKGEVLEV--KSF--------YAQ-----------------------TNQV
+TILHETN------DGRKFIIRYGELAPN----------------------------SIT-
+V--KKGDSVIQKQQIGVTGHL---VG--------------------------ITV--I-T
+G---ET-IYMLHFEHYTGDK-GYDL-SI-P--LST-------------------------
+-DDKP--FMRRIDLVDSVTILQEGF
+>WP_101018435.1/509-682 peptidoglycan DD-metalloendopeptidase family protein [Olleya sp. Bg11-27]
+KN-AATFAYGR------R--S-----K---KTKKIVRLHAARDLYYD-------------
+-VNEPIYAIADGIVKRV--AFF--------YYD-----------------------TWVI
+EIEHEYEAKIAKIKGHKMLVRYGEVKKG---------------------------SAIL-
+V--KEGEKVTRGQKIGEIGLL---NPY-------------------------VRQ--P-Y
+P---DK-RGMLHIEMYTGEG-S-----G-N--LSDKSIKYSD-----MLYATSK-----K
+NKGIT--FQRRKDLFDPLDLLNE--
+>WP_182035655.1/591-750 glycoside hydrolase family protein [Enterobacter bugandensis]
+AS-QAIFGRNR------S--R-----G---N-----RKHAARDLYSE-------------
+-PLTEIVAVSNGIVRSI--SHY--------YFG-----------------------TWQI
+TIEHTTN------DGRHFYIRYGEVDPN----------------------------SII-
+V--KNGELVLQGAVIAKTGLM---IDPST--------------------RRHPNI--I-P
+G---QV-VYMLHFEYYPGNE-TL----P-P--PNNT------------------------
+-QTPP--FQRRNDLQDPIDILREGY
+>WP_125021527.1/706-888 peptidoglycan DD-metalloendopeptidase family protein [Kaistella carnis]
+AN-AATFGYRR---------G-----K---D-----RIHAARDLYYD-------------
+-VDEPIYAIYGGTVKLV--YKY--------YND-----------------------TYAI
+EIEHDYEYK----KGFKLFALYGEVNKS----------------------------GIL-
+V--KEGDIVKRGDPIAKVGLL---DPF-------------------------VVQ--P-Y
+P---DK-RGMLHFELYTGEA-S-----G-A--TGSKT-KYSD-----MLYAESI----NY
+SKDRS--FKRRKDLFDPLQLLEEMI
+>KAA1246859.1/260-405 M23 family metallopeptidase [Aquimarina sp. RZ0]
+KN-QTNYDVRR------S--------D---T-----RQHAARDLETD-------------
+-PFENVVAIAVGEVLRV--AYF--------YEG-----------------------TWQI
+TILHEIP------DGRKFIVRYGELDPD---------------------------VNNN-
+Y--KTGDSVVQSQVLGKTGDL---TS----------------------------------
+----IT-RFMLHFELYSGEQ-GYDL-TI-P--LA--------------------------
+-GGGK--FQRRTDLIDPLTILKEGY
+>NQZ01084.1/170-298 M23 family metallopeptidase [Bdellovibrionales bacterium]
+TG-MRRFGARR------R--A-----G---------RKHAGCDLYRR-------------
+-TNDRVRAIRSGRVLRK--RYF--------YLG-----------------------TYAL
+EIRI----------QDGSVYIYGEVSGR---------------------------SVRG-
+V--SRGQTITKGQHIAYIGDL---RG---------------------------------I
+S------QSMLHFEQYTGSA-T-----G-S--LTQ-------------------------
+-------------------------
+>WP_192395368.1/443-588 WP_192395368.1 N-acetylmuramoyl-L-alanine amidase [Methylomonas fluvii]
+RN-GRRFLAER------A--G-----G---------RYHVGVDLWGN-------------
+-AGDIIVACEDGIIVNH--YHF--------YHG-----------------------VHAL
+FVQC----------DSGVVINYGEVKEKSW-------------------------QEFG-
+L--EKGSRVKAGQPIARVGQM---TD----------------------------------
+-------SSMCHFEMYAKGT-TV---NQ-R-----------------------------Y
+FKG----SQPPRELLNPTKYL----
+>MCB0486662.1/59-216 M23 family metallopeptidase [Flavobacteriaceae bacterium]
+NA-ARSFGAKR------A--D-----G---A-----RKHAGIDLYCN-------------
+-AGDIVRACEDGQVVGI--QGF--------LGQ-----------------------TKAI
+LIQN----------HSGIVCLYGEVKNNSW-------------------------NEFG-
+V--LKNHFVEKGQAIARVGIT---PGG---------------------------------
+-------SSMLHFETYKKGT-LQ---NT-P-----------------------------W
+YSN----KNPPSNLLNPTKYLLQAQ
+>WP_012404971.1/244-397 LysM peptidoglycan-binding domain-containing protein [Paraburkholderia phymatum]
+-----RYGANR------A--G-----G---------RKHAARDLYVK-------------
+-SDTPIVAIAPGVVIKC--EFF--------YCH-----------------------TWQI
+SIHHKTT------DGREFIALYGEVKPS----------------------------SIT-
+V--KIGDTVNQGQILAASGTL---LKA--------------------N-GTPLHV--V-G
+N---EN-VSMLHFEAYSGSL-GFDS-HS-R--LNGSA-----------------------
+-MPAP--FQRRADLIDSLTILLEGY
+>WP_232657666.1/193-355 peptidoglycan DD-metalloendopeptidase family protein, partial [Tenacibaculum maritimum]
+------FGYKR---------P-----S---N-----RIHAARDLYYE-------------
+-VGESIYAMDDGIVKSV--YAF--------YYD-----------------------TWAI
+EIEHSYEYK----KGKKLYVRYGEVSKN----------------------------NIK-
+V--KKGDKVKKGDKIAEVGLL---IPN-------------------------IKQ--P-K
+S---DK-RGMLHIEMYTGEA-T-----G-K--LTDKTVKYSD-----MMYAKSS----NY
+SKNRS--FQRRKDLIDPLPLLEESY
+>WP_156941612.1/267-397 WP_156941612.1 N-acetylmuramoyl-L-alanine amidase [Mesorhizobium sp. WSM2561]
+NS-SRQFMADR------Q--GSA---G---P-----RYHAAIDLYCS-------------
+-QGDAVVAVEDGKIVNF--YAF--------YKG-----------------------TNAL
+LVKH-----------DGYVVNYGEVLPNSL-------------------------GALG-
+L--SIGSSVKAGQQIGRVGKL---------------------------------------
+--------NMLHFETYVPGT-TK---NY-S-----------------------------W
+LQKNP----PPAKLRNPSQLL----
+>QZT38993.1/513-650 M23 family metallopeptidase [Prolixibacteraceae bacterium]
+-------GVVR---------G-----G---N-----RIHAACDLYGD-------------
+-PGDDVLAVADGKVISV--TKY--------YND-----------------------TYQI
+TIRHDFEIK----KGVKMIVRYGEVHKN----------------------------NIK-
+V--KVPDKVTKGQKIAEIGLL---IPK-------------------------IEQ--P-S
+G---DA-RGMLHFEMYTGEC-K-----G-D--SVSGSAGYTE-----MLYSESD------
+---------------DPT-------
+>TAL44349.1/2-130 MAG: hypothetical protein EPN89_14155, partial [Methylovulum sp.]
+----RRFLADR------A--D-----G---------RYHVGIDLWAE-------------
+-AGDVIVACEDGEIVNH--YHF--------YNN-----------------------VYAL
+FEQC----------NSGLVINYGEVKPDSW-------------------------REFG-
+V--QKGARVKAGQPIARVGQM---TN----------------------------------
+-------SAMCHFEMYVKGT-TV---NH-R-----------------------------Y
+YKG----GTPPKELLNPTQYL----
+>WP_214877767.1/245-396 LysM peptidoglycan-binding domain-containing protein [Paraburkholderia strydomiana]
+------FGANR------K--G-----G---------RKHAARDLYLD-------------
+-AHTPIVAIAPGVVVKR--EFF--------YSQ-----------------------TWQI
+SIHHKTS------DGREFIALYGEVDLD----------------------------SIK-
+V--KVGDSVRQGDVLARSGIL---IDN----------------------GRALSV--V-G
+N---RN-VSMLHFETYDGSG-GFSP-NS-R--LNGSG-----------------------
+-LRSP--FYRRADLMDSLAILHEGY
+>MCD8213907.1/201-372 M23 family metallopeptidase [Campylobacter sp.]
+AS-QAIFGSSR------K------------K-----RKHAARDLYTNIV-TRNNENEIAF
+SSDVQIVSIAEGKVLNT--GSF--------YHK-----------------------TDQI
+TILHESK------KFGKFIIRYGEVDPS----------------------------RIQ-
+V--KERDKVRAGDLIGYAGFM---VDEQT--------------------EKHPYI--V-S
+G---KI-VTMLHFEYFTDGE-NT---KG-S--LTNR------------------------
+-SNTP--FSRRSDLADPLEILKEGY
+>WP_133522780.1/702-854 glycoside hydrolase family protein [Buttiauxella sp. JUb87]
+----------R------E--R-----G---------RKHAARDLYTN-------------
+-PYTPVVAICPGTVLEV--RNF--------YNR-----------------------THQI
+TVHHKAT------DGREFIARYGEVNPT----------------------------TIK-
+V--NSGDEVVQGQQLGETGAL---ISTDD----------------NGL-TRPTFK--L-N
+G---TI-VFMLHFELFSGAE-GFTL-AK-S--LTDV------------------------
+-NESH--YKRRGDLLDPVQLLVEGY
+>WP_118866721.1/202-361 glycoside hydrolase family protein [Prevotella denticola]
+-S-MAVFGAAR------K--------G---K-----RLHAARDLYTN-------------
+-GSEYVVAICPGKVLGV--NFF--------HDQ-----------------------TFEV
+TILHTTE------DGQKFIVRYGELDRK----------------------------SIT-
+V--SVNQTVRQRQIIGKTGKL---LNK--------------------K-NKPTVI--L-S
+N---TV-VYMLHFEYFSGSE-GYNI-NK-S--LTQKP----------------------Y
+SESNR--YVRRKDLLDPLDILREGY
+>WP_143377184.1/581-747 glycoside hydrolase family protein [Flavobacterium sp. ZT3R18]
+NN-MATFNTTR------S--GNR--CGN-WT-----RKHAARDLYTN-------------
+-PETEVVAICKGVVLEV--KDF--------YSK-----------------------THQI
+TILHETN------DGRKFIVRYGELAPN----------------------------SIT-
+V--KKDDLIEQKQKLGVTGKL---LNN--------------------D-GSALLI--R-D
+G---HI-VYMLHFEIYSGNA-GFDI-NI-P--LSN-------------------------
+-CEPP--FARRNDLIDPLEILREGY
+>MAV89851.1/745-870 hypothetical protein [Bdellovibrionaceae bacterium]
+GN-WGVYGASR------S--G-----G---R-----RAHAATDLYQPKGLARPSNTYSKN
+YYGGPFRAMKDGKVIRGA-TYF--------YQG-----------------------TSYI
+VVHH----------TDNIVSRYGEIYPGT-------------------------------
+L--YKSKTVKTGQYLGYIKWV---GVG---------------------------------
+----SV-PPMLHFENYLPKN-NS-------------------------------------
+-------------------------
+>WP_068943659.1/469-632 MULTISPECIES: M23 family metallopeptidase [Chryseobacterium]
+-N-MATYNAGR------S--G-----T---T-----RKHAGRDLYTN-------------
+-PLETVVAIADGEVLEV--RDF--------YCE-----------------------THQI
+SIRHTLK------DGRDFIIRYGELDPK----------------------------SIK-
+V--KKGDKVVQKQELGKTGKL---LKYIK---------------KTHE-YVPLMK--L-N
+G---ET-IYMLHFEYFTGSI-GFNL-DKNP--LTDK------------------------
+-GERN--HQRRRDVFDALPILREGY
+>WP_020455207.1/686-845 WP_020455207.1 glycoside hydrolase family protein [Enterobacter sp. R4-368]
+AS-QAIFGRSR------S--N-----G---T-----RKHAARDLYTG-------------
+-PSTEIVAVSNGLIRNI--SHY--------YYG-----------------------TWQI
+TVEHTTE------NGQHFFIRYGEVDPR----------------------------SIL-
+V--HAGQHVMQGTVLAKTGLM---INPST--------------------GQHPNI--I-P
+G---QV-VYMLHFEYYPGSG-EL----P-P--PNNT------------------------
+-PNPP--FLRRDDLRDPIGILMEGY
+>WP_056692432.1/303-448 MULTISPECIES: peptidoglycan DD-metalloendopeptidase family protein [unclassified Aureimonas]
+AS-GRRFLASR------N--G-----G---A-----RFHVGLDLYAN-------------
+-QGDEVIACEDGRIVNY--YPF--------YRT------------------SKGDMSYAL
+LVAH-----------ADLVINYGEVAETSR-------------------------RQFG-
+W--SVGDKVRAGQKIGTISG----------------------------------------
+-------TAMLHFETYRSGT-TA---NE-R-----------------------------W
+LPG----KARPNALLNPTLYL----
+>SUC46777.1/595-753 Phage-related lysozyme (muraminidase) [Providencia stuartii]
+-------GRNRYTHKGNT--T-----I---T-----RKHAARDLYTE-------------
+-PKEEVIAICNGVVKSI--SHY--------YNG-----------------------TWQI
+TIEHKTV------DGREFIVRYGEVDKK----------------------------SIL-
+V--NVDDNVSLGDTIAKTGFL---VDLRT--------------------NKHLSI--I-P
+N---EI-VYMLHFEFYTDVT-LGE-----P--PNNTG-----------------------
+AKEPP--FHRRGDLVDPLGILQEGY
+>WP_060016599.1/240-394 peptidoglycan DD-metalloendopeptidase family protein [Burkholderia stagnalis]
+-----RFGTLR------D--R-----G---R-----RKHAARDLYVE-------------
+-AYTPIVAIAPGVVMKR--EPF--------YCQ-----------------------TWQI
+SIHHKTT------DGREFIALYGEVDPS----------------------------SIK-
+V--KVGESVSQGQLIAKSGVL---LHD--------------------D-GTPLTI--V-H
+G---KN-VSMLHFETYSGAL-GFDP-NS-K--LNGKV-----------------------
+-LKNM--FQRREDLMDSVDILQEGY
+>QLN18533.1/592-752 glycoside hydrolase family protein [Escherichia coli]
+AS-QAIFGRNR------N--N-----G---N-----RKHGARDLYTE-------------
+-PKSDIVSVCNGIVRAI--SRY--------YYG-----------------------TWQV
+TIEHSTR------DGRHFYVRYGEVDPS----------------------------SIL-
+V--KINDHIMQGAIIAKIGLM---IKPDT--------------------GRPPVI--I-P
+GE--EV-VYMLHFEYYPGNN-GT----P-P--PNNT------------------------
+-QIPP--FYRRDDLHDPIDILMEGY
+>MBM3621470.1/20-137 M23 family metallopeptidase [Alphaproteobacteria bacterium]
+---TASFGADR------D--F-----G---------RLHAGCDIGAP-------------
+-HDMRVVAIAGGKVVERGAKPF--------MEG---------------------LPLWAI
+AIKH----------DAGFVARYTEINEI----------------------------PES-
+L--KVGSTVAEGQFLGIVQIA---------------------------------------
+----GT-MSMLHFELYRGDR-S-----G-L--LSVPKNK---------------------
+-------------------------
+>PYT32112.1/58-179 hypothetical protein DMG58_10770, partial [Acidobacteria bacterium]
+PT-NTHFGAPR------G--G-----G---F-----PVHGACDLVAP-------------
+-AGTKVLAVQDGRIIRGP-YEF------ITYCE----------------GTKHQTTTYAI
+DVAH----------EH-FTLRYGEISNA---------------------------LAKG-
+L--HAGSTVSEGQVIAFVGMQ---CN----------------------------------
+-------GTMLIL-----------------------------------------------
+-------------------------
+>NCN39972.1/765-908 hypothetical protein [bacterium]
+NN-WGLYGARR------S--G-----G---G-----RAHAATDLYQPFGLTRPSSNYSSK
+YFGGAFRAMKDGKVVREA-TYF--------YLG-----------------------TSYI
+VVHH----------ADDVVSRYGEIYPGT-------------------------------
+I--YRSKNVRAGQTLGYIKWV---GVG---------------------------------
+----AV-PPMLHFENYKPGD-RDVR-RG---VLSGSKR----------------------
+-------INRRNS------------
+>MBS2026230.1/920-1063 peptidoglycan DD-metalloendopeptidase family protein [Deltaproteobacteria bacterium]
+TG-ARNFLAGR------S--G-----G---E-----RYHVGIDVWGD-------------
+-YNDLVVAIENGTIVNS--YAF--------YHG-----------------------VDCL
+IVQC----------DSGLVINYGEVDPDAK-------------------------REFK-
+R--KAGTVVKAGQPIARVGRM---TGG---------------------------------
+-------SSMLHFETYPTGT-KQ---NG-H-----------------------------Y
+YKKDP-ESVLKKGFFDPTQYLLSLA
+>MBX3503726.1/1-176 M23 family metallopeptidase [Alphaproteobacteria bacterium]
+GS-SAGFGADR------K--------G---------RLHAGCDIGAA-------------
+-HGTPVIAIEGGKVVERGTKPF--------IAG---------------------TMLFAI
+AIKH----------DSGFVGRYTEINGI----------------------------PES-
+L--QTGASVSAGQELGYTQQG---------------------------------------
+----GE-KCMLHFELYRGTR-K-----G-S--LSCPKAKLPKGKRP-NEYTEAEAAAIRA
+AGYLP-MYGRRDDVLDPRDFL----
+>HAO32471.1/5-85 hypothetical protein [Candidatus Competibacteraceae bacterium]
+QG-GRRFGANR------D--G-----G---D-----RKHAGCDLIAP-------------
+-KGTEIYAVESGVVATKP-YLF--------YRG-----------------------TYAI
+EFQL----------DSGKLVRYCEIEK---------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------
+>STZ00729.1/393-555 membrane-bound lytic murein transglycosylase D [Moraxella lacunata]
+-------NWNR------N--G-----G---R-----RKHAGRDLYTRAQ-----NADASA
+KPGSEVVSIAPGKILDV--KSF--------YYE-----------------------TDAV
+TISHTTE------DGRKFIIRYGELDPK----------------------------SVEH
+LKKRIGETIQQGEVLGVTGVL---INN----------------------GKPVTI--A-N
+N---KN-ISMLHFEYFTGKGHSLDR-AD-N--LRN-------------------------
+-PNNI--YQRRTDLADPLDILLEGY
+>HGT69637.1/270-395 HGT69637.1 MAG TPA: hypothetical protein ENS60_08130 [Actinobacteria bacterium]
+---RDTFGAPR------S--G-----G---------RTHQGCDIITA-------------
+-RNTPIVAVTDGVITRT--NPY--------DTG-----------------------LGGI
+TIHLRG--------NDGNVYYYAHLASI----------------------------KEG-
+I--RAGVRVEAGEVIGYAGNT---GNAS--------------------------------
+----GG-AVHLHFEIRPNGG-A-----A--------------------------------
+--------------INPYPIL----
+>WP_114196535.1/244-398 peptidoglycan DD-metalloendopeptidase family protein [Paraburkholderia caledonica]
+-----RFGAHR------N--Q-----G---S-----RKHAGRDLYVE-------------
+-AHTEVLAIANGVVIKC--EPF--------YCQ-----------------------THQI
+SIHHTTA------DGCEFIGLYGEVDAA----------------------------SIR-
+V--NVGDRVNQGDVIARSGIL---MKA--------------------G-NVPVQV--I-G
+N---QN-VSMLHFEAYSGAA-GFDR-HS-R--LNGGG-----------------------
+-LPGP--FYRRSDLIDSLALLQEGY
+>GJH18794.1/272-422 LysM peptidoglycan-binding domain-containing protein [Caballeronia novacaledonica]
+------FGADR------G--G-----G---------RRHAGRDLYVD-------------
+-KHTEIVAIAPGIVTRC--APF--------YCQ-----------------------TDQI
+TIHHMTS------DGRQFVVRYGEVDPS----------------------------SIK-
+V--TRGDQVQQGQIIAKSGVL---INN----------------------GRLLSI--V-G
+S---KN-VSMLHFEAYSGAL-GYEN-TP-S--LTDT------------------------
+-NASG--FQRRRDLIDPLAILTEGY
+>MBP6045407.1/1-149 peptidoglycan DD-metalloendopeptidase family protein [Candidatus Woesebacteria bacterium]
+----GTFGHSR------S--G-----G---------RKHGGCDIYTN-------------
+-EGELVYPVAKGKVLYIN-KCF--------LEG-------------LCV-----AWTQAV
+LIEHKVN-------NQVFCIRYSEILVD-----------------------------KT-
+L--KIGDAVDVNKAIGKVTAV---CRI--------------------------------D
+N---SP-LPMLHIEAYSPTF-G-----A-N--MNPTV-----------------------
+KSNPP--YQRHKNLIDPTVAIAAAY
+>MBQ2766279.1/261-385 peptidoglycan DD-metalloendopeptidase family protein [Clostridia bacterium]
+---SSGYGNRIHP---VT--------GK--P-----QFHQGIDIPAP-------------
+-YGTEIYAVNDGTVIEC--SYN--------YAD-----------------------GNYI
+TVSH----------GGGIASFYSHLSRY---------------------------R----
+V--KVGDKVSRGQVIANVGTS---GY----------------------------------
+----TT-GAHLNLNIYENNT-A--------------------------------------
+--------------VNPLN------
+>MBU1090952.1/45-159 M23 family metallopeptidase [Candidatus Omnitrophica bacterium]
+MG-DGSFGASR------S--------G---N-----RKHLGVDLLAE-------------
+-VGTPVRAVRSGIVLAG--EER--------RGM-----------------------GKYV
+VIKH----------LGGIKTIYGHLSKIR-------------------------------
+V--AKYQLVRQGQIIGDVGKT---GNANY-------------------------------
+----RSMLSHLHLEVRKNNI----------------------------------------
+-------------PQDPL-------
+>WP_194109401.1/419-587 LysM peptidoglycan-binding domain-containing protein [Moraxella sp. K127]
+-------NWNR------K--G-----G---------RKHAGRDLYTRIQ-----NADNNA
+KSGSVVVSIASGKILAV--QNF--------YHG-----------------------THQV
+TISHVTE------DGRKFIIRYGELDPE----------------------------SVEH
+LKGRIGKSINQGEPLGVTGVL---KANAD-----------------GS-GPPMSFKAV-K
+G---KN-ISMLHFEYFTGKGHSLDR-AD-N--LTIK------------------------
+-KANI--YERRADLADPLEILLEGY
+>NPV86088.1/30-176 M23 family metallopeptidase [Anaerolineae bacterium]
+------------------------------D-----RRHAGVDIYAP-------------
+-AGSEVVATEDGVVLDV--SIFTSPERLPYWNT-----------------------TYCV
+LLQN----------AEGMVFRYAEMGD------------------------------VT-
+V--KKGDRVAAGQVLGHVGTV---LDLNK----------------IDH-RSPAYIQRLKH
+S---GS-PSMLHFEMYRTPP-ST----QEK-----------------------------Y
+LGGNFFSPDKPDDLLDPLPYL----
+>HHS13432.1/22-179 M23 family metallopeptidase [bacterium]
+NH-PGTFWACR------E------------D-----RHHGGVDLYAP-------------
+-PGTPVVSTEKGRVLET--GRFTDPNQRPYWNT-----------------------TYFV
+LIYH----------ESGLTARYAELMD------------------------------FC-
+V--KTGETVRAGQLLGHVGAV---LNLER----------------IDG-NAPAYIRKLGD
+E---GR-SSMLHFELYTSPH-RS----GRD-----------------------------Y
+SGGNWFRKTRPAGLLDPVPYL----
+>RJP29547.1/46-158 M23 family metallopeptidase [Candidatus Omnitrophica bacterium]
+---EGQFGAKR------S--G-----G---------RLHNGIDLFAD-------------
+-IWAPVRASNCGIVVAS--ESS--------RGM-----------------------GKFV
+VIKH----------PGSVSTVYGHLNELC-------------------------------
+V--KEGQFVRQGDIIGKVGKT---GNANY-------------------------------
+----RSMDAHLHLEIRKNGS----------------------------------------
+-------------PQEPL-------
+>RKY32065.1/46-162 hypothetical protein DRP74_03430 [Candidatus Omnitrophica bacterium]
+WG-EGFFGARR------S--G-----G---K-----RQHNGLDLLAE-------------
+-IGTPVLAARSGIVKDA--TRS--------RGM-----------------------GNYV
+VLSH----------GENITTIYGHLSKIH-------------------------------
+V--NKNELVRQGQIIGEVGKT---GNANH-------------------------------
+----REILPHLHFEIRVDNS----------------------------------------
+-------------PRDPLN------
+>WP_214582751.1/30-174 M23 family metallopeptidase [Clavibacter michiganensis]
+---GQQWDAYR------P--D-----G---------RKHAGADFNVG-----------VA
+YRGTPVLSIADGTVVRGR-YTA-EASGTQTYTF-----------------------GNFV
+TIRN----------GDGIYATYAHMDGAPL------------------------------
+V--NPGDRVSRGQTVGRLGST---GTN---------------------------------
+-------VFHLHLEMRTGDH-A-----G-D--FTTQ------------------------
+------------DDFDPVPFIQA--

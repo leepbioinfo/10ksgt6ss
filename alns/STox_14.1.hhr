@@ -1,0 +1,161 @@
+Query         FD01851368_03298 RHS repeat family protein
+Match_columns 100
+No_of_seqs    23 out of 26
+Neff          2.65771
+Searched_HMMs 86581
+Date          Tue Feb 27 20:07:40 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/9276115.hhr -oa3m ../results/9276115.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 PF20755.1 ; DUF6834_C ; Domain  52.4      76 0.00088   24.2   4.8   48   39-100    54-120 (129)
+  2 8BL6_A dIG14-scdim-EF62; de no  42.8      63 0.00073   26.9   3.4   38   55-96     98-135 (176)
+  3 2NDA_A Mid-cell-anchored prote  38.3      59 0.00068   25.0   2.4   21   69-96     82-102 (113)
+  4 2PH7_A Uncharacterized protein  37.7      83 0.00096   26.7   3.4   54   37-100   146-218 (246)
+  5 6E5C_A De novo beta protein; b  36.3 1.1E+02  0.0012   22.5   3.3   42   50-91      7-68  (78)
+  6 8ALO_B Transmembrane regulator  28.4      81 0.00093   25.6   1.9   25   65-91     55-79  (164)
+  7 PF17323.6 ; ToxS ; Trans-membr  28.3      90   0.001   24.9   2.1   25   65-91     42-66  (147)
+  8 6M3N_A anti-CRIPSR AcrIF7; ant  21.8 1.6E+02  0.0019   21.4   2.2   17   39-55     45-61  (69)
+  9 PF14894.10 ; Lsm_C ; Lsm C-ter  20.8 1.8E+02  0.0021   20.3   2.2   29   59-90     11-39  (62)
+
+No 1
+>PF20755.1 ; DUF6834_C ; Domain of unknown function (DUF6834), C-terminal domain
+Probab=52.44  E-value=76  Score=24.16  Aligned_cols=48  Identities=21%  Similarity=0.311  Sum_probs=0.0  Template_Neff=5.800
+
+Q ss_pred             HHHHHHHHHhhcCCCCCcccCcCCCCCceeEEecCCCCc--------------eeCCC--eEEEEeCCCC---CeeeeeC
+Q FD01851368_032   39 DDLKYAGEQAATLKPGEMKDFPINPNSKSEVYIPGGNGV--------------PIKPD--KIRVRNNGDG---TFHGFPI   99 (100)
+Q Consensus        39 ~DL~yA~~~A~tL~pg~~~~F~l~~~skS~V~~p~~dGt--------------~~~at--~i~vRNng~G---TfHGyPi   99 (100)
+                      ++++.+.++|            ...+...++-.|  -+.              .+...  +|||-|...|   .|-|||-
+T Consensus        54 e~~~~~~~l~------------~~~~~dyViVVP--te~~~~pFI~Ffre~~~~ik~~~~~IWv~N~e~~tIdpfIG~P~  119 (129)
+T F2KNS2_ARCVS/8   54 EDVRVHARFA------------SSYSGEYVIVVP--TEDSPIPFIKFFRKYSELINSVGLKIWVVDVEREAIDPYIGYPR  119 (129)
+T ss_pred             HHHHHHHHHh------------ccCCCCEEEEeC--CCCCchHHHHHHHHchHHHhhcCcEEEEEeCCCCccccccCCcC
+
+
+Q ss_pred             C
+Q FD01851368_032  100 D  100 (100)
+Q Consensus       100 ~  100 (100)
+                      |
+T Consensus       120 D  120 (129)
+T F2KNS2_ARCVS/8  120 D  120 (129)
+T ss_pred             C
+
+
+No 2
+>8BL6_A dIG14-scdim-EF62; de novo, immunoglobulin, single-chain dimer, sandwich, beta, EF-hand, DE NOVO PROTEIN; 2.8A {N/A}
+Probab=42.78  E-value=63  Score=26.92  Aligned_cols=38  Identities=13%  Similarity=0.133  Sum_probs=0.0  Template_Neff=2.300
+
+Q ss_pred             CcccCcCCCCCceeEEecCCCCceeCCCeEEEEeCCCCCeee
+Q FD01851368_032   55 EMKDFPINPNSKSEVYIPGGNGVPIKPDKIRVRNNGDGTFHG   96 (100)
+Q Consensus        55 ~~~~F~l~~~skS~V~~p~~dGt~~~at~i~vRNng~GTfHG   96 (100)
+                      ++.+|..|.-.-|.|-..    ..-..-+||+||-|..+|||
+T Consensus        98 ESFYFe~p~~~islv~ve----keGdkLrV~LrNdG~~~F~G  135 (176)
+T 8BL6_A           98 GDGYISAAEKGRVEVRVE----FEGDKMRVRLRNDSSTPVEV  135 (176)
+T ss_dssp             ---------CCEEEEEEE----EETTEEEEEEEEESSSCEEE
+T ss_pred             CceEecccccceEEEEEE----EeCCEEEEEEEcCCCCcEEE
+
+
+No 3
+>2NDA_A Mid-cell-anchored protein Z; MapZ, FtsZ, peptidoglycan, division, CELL CYCLE; NMR {Streptococcus pneumoniae R6}
+Probab=38.31  E-value=59  Score=25.00  Aligned_cols=21  Identities=33%  Similarity=0.578  Sum_probs=0.0  Template_Neff=4.200
+
+Q ss_pred             EEecCCCCceeCCCeEEEEeCCCCCeee
+Q FD01851368_032   69 VYIPGGNGVPIKPDKIRVRNNGDGTFHG   96 (100)
+Q Consensus        69 V~~p~~dGt~~~at~i~vRNng~GTfHG   96 (100)
+                      +|.+  ||     ..|..-|.-+|.|||
+T Consensus        82 ly~~--dg-----~ylVtIN~KTGwf~G  102 (113)
+T 2NDA_A           82 LYKP--DG-----TYLFTLNCKTGYFVG  102 (113)
+T ss_dssp             EECT--TC-----CEEEEEETTTCCEEC
+T ss_pred             EECc--CC-----eEEEEEEccCCcccc
+
+
+No 4
+>2PH7_A Uncharacterized protein AF_2093; AF2093, Archaeoglobus fulgidus, STRUCTURAL GENOMICS, SOUTHEAST COLLABORATORY FOR STRUCTURAL GENOMICS, SECSG, PSI, Protein Structure Initiative, UNKNOWN; HET: MSE; 2.4A {Archaeoglobus fulgidus DSM 4304}
+Probab=37.69  E-value=83  Score=26.67  Aligned_cols=54  Identities=26%  Similarity=0.297  Sum_probs=0.0  Template_Neff=5.300
+
+Q ss_pred             CHHHHHHHHHHhhcCCCCCcccCcCCCCCceeEEecCCCCc--------------eeCCC--eEEEEeCCCC---Ceeee
+Q FD01851368_032   37 SKDDLKYAGEQAATLKPGEMKDFPINPNSKSEVYIPGGNGV--------------PIKPD--KIRVRNNGDG---TFHGF   97 (100)
+Q Consensus        37 sk~DL~yA~~~A~tL~pg~~~~F~l~~~skS~V~~p~~dGt--------------~~~at--~i~vRNng~G---TfHGy   97 (100)
+                      +..|+..+.+....|..+...+.        ++-.|  -+.              .+...  +|||-|...|   .|-||
+T Consensus       146 si~~v~e~l~~~~~l~~~~~~dy--------ViVVP--teetp~pFI~Ffre~~~~ik~~~~~IWVaN~e~~tIdPFIG~  215 (246)
+T 2PH7_A          146 TIDDTFEDVDIHLRMVDEVDGDY--------VVIVP--TENELNPFLKFFKQYSEDAKRAGLKIWVVNPDEKTIDPFIGY  215 (246)
+T ss_dssp             CHHHHHHTHHHHHHHTTSSSSEE--------EEEEE--CCSSSHHHHHHHHHHHHHHHHHTCEEEEEETTTTEEEEEECC
+T ss_pred             ehhcHHHHHHHHHHhhccCCCCE--------EEEeC--CCCCchHHHHHHHHchHHHHHcCcEEEEEcCCCCcccccCCc
+
+
+Q ss_pred             eCC
+Q FD01851368_032   98 PID  100 (100)
+Q Consensus        98 Pi~  100 (100)
+                      |-|
+T Consensus       216 P~D  218 (246)
+T 2PH7_A          216 PKD  218 (246)
+T ss_dssp             CSC
+T ss_pred             cCC
+
+
+No 5
+>6E5C_A De novo beta protein; beta sheet, beta protein, de novo, DE NOVO PROTEIN; NMR {synthetic construct}
+Probab=36.25  E-value=1.1e+02  Score=22.48  Aligned_cols=42  Identities=38%  Similarity=0.715  Sum_probs=0.0  Template_Neff=1.000
+
+Q ss_pred             cCCCCCcccCcCCCCCceeEEecC-----CCCc---------------eeCCCeEEEEeCCC
+Q FD01851368_032   50 TLKPGEMKDFPINPNSKSEVYIPG-----GNGV---------------PIKPDKIRVRNNGD   91 (100)
+Q Consensus        50 tL~pg~~~~F~l~~~skS~V~~p~-----~dGt---------------~~~at~i~vRNng~   91 (100)
+                      ++.||+.-...++||..-.+-.-+     |.|+               +.++-+||+||..+
+T Consensus         7 tvnpgeeyevkvnpgtrveiqakgpaefegggtrtrlnpgesykfenltsqplrirlrnlsd   68 (78)
+T 6E5C_A            7 TVNPGEEYEVKVNPGTRVEIQAKGPAEFEGGGTRTRLNPGESYKFENLTSQPLRIRLRNLSD   68 (78)
+T ss_dssp             EECTTCEEEEEECTTCEEEEEESSCEEEEETTEEEEECTTCEEEEECCSSSCEEEEEEECSS
+T ss_pred             eeCCCceeEEEeCCCCeeEEEecCCeeccCCceeeecCCCCceecccCCCCCeEEEEecccC
+
+
+No 6
+>8ALO_B Transmembrane regulatory protein ToxS; Vibrio cholerae, transcription regulator, protein complex, ToxR, ToxS, hetero complex, MEMBRANE PROTEIN; 3.002A {Vibrio cholerae}
+Probab=28.40  E-value=81  Score=25.63  Aligned_cols=25  Identities=16%  Similarity=0.485  Sum_probs=0.0  Template_Neff=4.400
+
+Q ss_pred             CceeEEecCCCCceeCCCeEEEEeCCC
+Q FD01851368_032   65 SKSEVYIPGGNGVPIKPDKIRVRNNGD   91 (100)
+Q Consensus        65 skS~V~~p~~dGt~~~at~i~vRNng~   91 (100)
+                      ++.++|+|  ||+-+..++|++-+...
+T Consensus        55 ~SnvkyLP--NgtY~R~S~v~l~s~~~   79 (164)
+T 8ALO_B           55 TSNVKYLP--NGTYLRVSIVKLFSDDN   79 (164)
+T ss_dssp             EEEEEECT--TSEEEEEEEEEEESSSS
+T ss_pred             eecEEECC--CCeEEEEEEEEEEcCCC
+
+
+No 7
+>PF17323.6 ; ToxS ; Trans-membrane regulatory protein ToxS
+Probab=28.26  E-value=90  Score=24.93  Aligned_cols=25  Identities=16%  Similarity=0.328  Sum_probs=0.0  Template_Neff=4.500
+
+Q ss_pred             CceeEEecCCCCceeCCCeEEEEeCCC
+Q FD01851368_032   65 SKSEVYIPGGNGVPIKPDKIRVRNNGD   91 (100)
+Q Consensus        65 skS~V~~p~~dGt~~~at~i~vRNng~   91 (100)
+                      ++.++|+|  ||+-+..++|.+-+...
+T Consensus        42 ~SnvkyLp--NgtY~R~s~v~l~s~~~   66 (147)
+T D0YZ12_PHODD/3   42 NSHMVYLP--NHTYSRITVMKLFSQDE   66 (147)
+T ss_pred             EeeeEECC--CCceEEEEEEEEEeCCC
+
+
+No 8
+>6M3N_A anti-CRIPSR AcrIF7; anti-CRISPR inhibitor, Hydrolase Inhibitor; NMR {Pseudomonas aeruginosa}
+Probab=21.77  E-value=1.6e+02  Score=21.39  Aligned_cols=17  Identities=35%  Similarity=0.390  Sum_probs=0.0  Template_Neff=2.300
+
+Q ss_pred             HHHHHHHHHhhcCCCCC
+Q FD01851368_032   39 DDLKYAGEQAATLKPGE   55 (100)
+Q Consensus        39 ~DL~yA~~~A~tL~pg~   55 (100)
+                      .+.....++|+.|+|||
+T Consensus        45 ~~v~a~q~~Aa~L~~GE   61 (69)
+T 6M3N_A           45 AVVEEMNAKAAQLKDGE   61 (69)
+T ss_dssp             HHHHHHHHHHHHCCTTC
+T ss_pred             HHHHHHHHHHhcCCCCc
+
+
+No 9
+>PF14894.10 ; Lsm_C ; Lsm C-terminal
+Probab=20.78  E-value=1.8e+02  Score=20.27  Aligned_cols=29  Identities=28%  Similarity=0.401  Sum_probs=0.0  Template_Neff=4.200
+
+Q ss_pred             CcCCCCCceeEEecCCCCceeCCCeEEEEeCC
+Q FD01851368_032   59 FPINPNSKSEVYIPGGNGVPIKPDKIRVRNNG   90 (100)
+Q Consensus        59 F~l~~~skS~V~~p~~dGt~~~at~i~vRNng   90 (100)
+                      |+|+|+.  +.|++ --+..+..++|+|..+|
+T Consensus        11 f~l~p~~--Vk~~~-ea~~I~V~drirVtE~G   39 (62)
+T F4B811_ACIHW/8   11 LNLRPGD--IKVYE-EAGVITVLEKIKVTENG   39 (62)
+T ss_pred             hCCCccc--eEEEe-cCCEEEEeccEEeCCCc
+
+

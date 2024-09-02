@@ -1,0 +1,2576 @@
+>FD01845391_03387 hypothetical protein
+DKIDDTDYEEAAKELG--C-EVAAIK--AVAKTETG-S------YGS---YFK----FEG
+NDD---Y------VPAILFERHHFHKYTN-----------------------------GK
+-Y-------------D--------------Q---FED-----ISNSV-------------
+----------------------------------------------AGGY-G-AT-----
+--S---------VQYTKLVKAYA-L------DKKA-----ALKSA--SW-GKFQILASNF
+ATAGYASPED-FVFALSKS-EKNQLKAFVSFIK---ADR---------------VLLHSI
+RT-----KDWLSFAKRYNGP---RQNG--YDLKMERNYN
+>RWR03591.1 hypothetical protein ED28_00985 [[Pantoea] beijingensis]
+DKIDDIDYEEAAKELV--C-EVAAIK--AVAKTETG-S------YGS---YFK----FED
+NDD---Y------VPAILFERHHFHKYTN-----------------------------GK
+-Y-------------D--------------Q---FED-----ISNSI-------------
+----------------------------------------------AGGY-G-AT-----
+--S---------VQYTKLAKAYA-L------DKKA-----ALKSA--SW-GKFQILASNF
+VTAGYASPED-FVFALSKS-EKNQLKAFVSFIK---ADR---------------ILLHSI
+RT-----KDWLSFAKRYNGP---RQNG--YDLKMERNYN
+>WP_241957727.1 MULTISPECIES: N-acetylmuramidase domain-containing protein [Escherichia]
+DTIDDADYENAARTLQ--C-EVAAIK--AVAKTETG-S------SGS---YFK----FEQ
+EDD---Y------VPSILFERHHFHRYTN-----------------------------GV
+-Y-------------D---------------S--QPD-----ISNSR-------------
+----------------------------------------------SGGY-G-TR-----
+--S---------EQYQKLLRAYV-L------DKQA-----ALKSA--SW-GKFQILASNY
+QAAGYSSPEE-FIISISES-EKNHLAAFINFIK---SNP---------------VLLRAI
+RD-----KDWLNFALCYNGQ---SQRG--YDDRIRANY-
+>WP_239283269.1 N-acetylmuramidase domain-containing protein, partial [Citrobacter werkmanii]
+------------------------------------------------------------
+-------------VPAILFERHHFHKYTN-----------------------------GK
+-Y-------------D--------------Q---FED-----ISNSV-------------
+----------------------------------------------AGGY-D-AT-----
+--S---------VQYTKLVKAYA-L------DKKA-----ALKSA--SW-GKFQILASNF
+ATAGYASPED-FVFALSKS-EKNQLKAFVSFIK---ADR---------------VLLHSI
+RT-----KDWLSFAKRYNGP---RQNG--YDLKMERNYN
+>TNI79327.1 hypothetical protein CF116_14460 [Aeromonas veronii]
+EVVEESDYVNAASELG--C-EINAIK--AVALTETG-S------TGS---YYK----FSD
+QDD---A------VLSILFERHKFSNMTN-----------------------------GK
+-Y-------------D--------------KS--HPE-----ISNPV-------------
+----------------------------------------------GGGY-G-TY-----
+--K---------VQYRKLMLAYS-L------DKNA-----ALKAA--SW-GKFQILGSNH
+LSSGYKDVNE-FVSSLSSS-EKNHLKAFVNFIK---ADN---------------RLLKAI
+RA-----KDWLAFALVYNGP---RQKG--YDKKMKDNYN
+>WP_244079747.1 N-acetylmuramidase domain-containing protein [Escherichia coli]
+DTIDDADYENAARTLQ--C-EVAAIK--AVAKTETG-S------SGS---YFK----FEQ
+EDD---Y------VPSILFERHHFHRYTN-----------------------------GV
+-Y-------------D---------------S--QPD-----ISNSR-------------
+----------------------------------------------SGGY-G-TR-----
+--S---------EQYQKLLRAYV-L------DKQA-----ALKSA--SW-GKFQILASNY
+QAAGYSSPEE-FIISISES-EKNHL-----------------------------------
+---------------------------------------
+>WP_255296566.1 N-acetylmuramidase family protein [Xenorhabdus szentirmaii]
+EKIDESDYISAAKQLN--C-EVAAIK--AVAQTETG-S------AGS---YFK----FDN
+DDD---Y------VLSILFERHHFSRYTN-----------------------------GI
+-Y-------------D--------------SE--YSE-----ISNKK-------------
+----------------------------------------------AGGY-G-RH-----
+--S---------EQYRKIALAYS-L------NKVA-----ALKSA--SW-GKFQILGSNH
+ITSGYSSVEE-FVLDLSRS-EKNHLKAFVNFIQ---SNK---------------KLHNAI
+VN-----KDWLSFALIYNGP---SQKG--YDAKMKANY-
+>WP_199030239.1 N-acetylmuramidase family protein, partial [Ralstonia sp. ASV6]
+ETIDENDYIAAAQELN--C-EVAAIK--AVAASETG-S------SGS---YYH----FP-
+EWD---D------VPAILYERHYFHQLTS-----------------------------GA
+-Y-------------D--------------NS--NPD-----ISNAS-------------
+----------------------------------------------SGGY-G-IY-----
+--S---------AQYGKLLRAYR-L------NKSA-----ALKSA--SW-GKFQIMGRNH
+GAAGYESVEN-FVAAMSQS-EKNHLMAFVSFIK---ADP---------------FLLTAI
+RA-----KNWHNFAVRYNGS---AQSG--YDTKMSQNYN
+>WP_191947110.1 N-acetylmuramidase domain-containing protein [Pseudomonas fluorescens]
+SVIEDVDYVTAAATLG--C-EVEAVK--AVALTETG-S------LGS---YFA----RG-
+GDD---K------VTTILFERHYFHQLTG-----------------------------GR
+-F-------------D--------------GS--DPD-----ISSRT-------------
+----------------------------------------------RGGY-G-AY-----
+--S---------VQYGKMVRAYR-L------SPSA-----ALKSA--SW-GRFQIMGKNF
+SSAGYASVED-FVRDLNRS-EKNHLKAFVSFIK---SDA---------------VLSSAI
+VQ-----KDWLKFALRYNGP---AQEG--YDEKMRENYN
+>WP_206678896.1 N-acetylmuramidase domain-containing protein [Pseudomonas sp. SST3]
+AIIDDKDYLLAANELG--C-EVAAIK--AVAVTETG-N------IGS---YFT----NE-
+GDD---I------VPSILFERHYFHALTG-----------------------------GV
+-H-------------D--------------TA--HPD-----VSNSS-------------
+----------------------------------------------RGGY-G-RF-----
+--S---------EQYKKLVKAYE-L------NSSA-----ALKSA--SW-GKFQIMGRYY
+QNAGYTSVEE-FVRELSTS-EKNHLKAFVSFIK---ADN---------------RLAKAI
+VE-----KDWLSFAKAYNGP---AQQG--YDKKMEAHYN
+>WP_229001677.1 N-acetylmuramidase domain-containing protein [Photorhabdus aegyptia]
+-------------------------K--AVAQTETG-S------TGS---YYK----FLD
+SDD---Y------VPSILFERHHFSRYTQ-----------------------------RT
+-Y-------------D--------------SS--HPD-----ISNQV-------------
+----------------------------------------------PGGY-G-HH-----
+--S---------EQYGKLLLAYS-L------NGEA-----ALKSA--SW-GKFQILGSNY
+TAAGYDSVNA-FVLDISLS-EKNHLKAFVNFIH---SNN---------------KLLNAI
+RT-----KDWLSFARIYNGP---RQNG--YDVKMSRNYD
+>WP_147892021.1 N-acetylmuramidase domain-containing protein [Lysobacter sp. Alg18-2.2]
+ERIEESDYEVAASLLG--C-EVAAIK--AVAQAETG-A------MGS---FFQ----LR-
+GWD---S------VPAILYERHYFHRLTS-----------------------------GA
+-F-------------D--------------AS--HPD-----ISDRR-------------
+----------------------------------------------AGAG-G-TW-----
+--S---------DQYRKLLRAYA-L------SEEA-----ALKSA--SW-TKFQIMGANH
+VAAGFESVRE-MVRAASVS-EKFHLRMFVSFIS---SDA---------------VLQRSL
+VG-----KDWLAFARRYNGP---AQRG--YDLRMRENY-
+>WP_221305793.1 MULTISPECIES: N-acetylmuramidase domain-containing protein [unclassified Paraburkholderia]
+QPLNEKAYADAATELG--C-EVQAIK--AVAKTETG-S------LGP---YFKPDQELAS
+GDD---L------VPTILFERHLFHRATH-----------------------------GK
+-Y-------------D--------------QS--HPH-----ISNPL-------------
+----------------------------------------------QGDY-G-RK-----
+--T---------VQYEKLMEAYA-L------DSNA-----ALLSS--SW-GRFQILGSNF
+KATGFHNVQD-YVASVSES-ELNQLRAFVSFIR---ADP---------------VLKKAL
+SS-----KDWHGFAVRYNGP---AQEG--YDEAIARNY-
+>MBG2499388.1 DUF3380 domain-containing protein [Klebsiella pneumoniae]
+DKIDDTDYEEAAKELE--C-EVAAIK--AVAKTETG-S------YGS---YFK----FED
+NDD---Y------VPAILFERHHFHKYTN-----------------------------GR
+-Y-------------D--------------Q---FED-----ISNPV-------------
+----------------------------------------------AGGY-G-AT-----
+--S---------I-----------------------------------------------
+------------------------------------------------------------
+---------------------------------------
+>GHH60780.1 hypothetical protein GCM10009090_36570 [[Pseudomonas] boreopolis]
+STIDESDYEDAANKLG--C-EVAAIK--AVAAAETG-A------TGS---YYA----FK-
+EWD---T------VPAILYERHYFHRLTS-----------------------------GA
+-Y-------------S--------------TT--NPE-----ISDPT-------------
+----------------------------------------------NGGY-G-KY-----
+--T---------AQYRKLLEAYN-L------DKSA-----ALKSA--SW-GKFQIMGNNH
+IAAGYSSVED-FVREISIS-EKNHLKAFVSFIQ---SDS---------------TLSKAI
+VD-----KDWLSFARAYNGP---AQKG--YDTKMRDNYN
+>MCL2875133.1 N-acetylmuramidase family protein [Betaproteobacteria bacterium]
+DHIEESDYEAAAVLVG--C-ETAVFK--AIGRQESG-S------AA----WYK----FA-
+GWD---S------VPKILFERHKFHNFTN-----------------------------GQ
+-F-------------D--------------SI--DSN-----ISNAV-------------
+----------------------------------------------AGGY-G-LE-----
+--S---------AQYKRLLKAYK-L------NKTA-----ALKSA--SW-GKFQVMGFNH
+QAAGYSSVEE-FVRDLSMS-EKNHLKAAANFAK---NTP---------------ALRQAL
+IN-----KNWSAIALHYNGPQ-YAQNN--YDTHLQQFYN
+>MBK6356494.1 N-acetylmuramidase family protein [Betaproteobacteria bacterium]
+---SDTDFATAAASLG--V-EVAVIK--AVAEVESS-G------AG----FD--------
+-ES---G------RPRILFERHYFHRLTG-----------------------------GK
+-Y-------------D--------------AR--HAD-----ISNKS-------------
+----------------------------------------------SGGY-G-KF-----
+--S---------AQYAKLEQAYA-L------DRDA-----ALRSA--SW-GRFQIMGNNF
+RDAGYTSAAD-FVLAMTKS-ESAHLGAFVSFVG---NSR---------------KMRNAL
+VK-----KDWAAFAATYNGPA-YEKNR--YDAKLKEAYD
+>GGY19060.1 hypothetical protein GCM10008098_09050 [Rhodanobacter panaciterrae]
+---SEQDYAVAATQLG--A-EVAAIK--SVAEVETS-G------AA----FD--------
+-DY---G------RPRILFERHYFHRLTH-----------------------------GR
+-Y-------------D--------------KR--HPD-----ISNSL-------------
+----------------------------------------------AGGY-G-KF-----
+--S---------AQYGKLEKAYL-L------DAVA-----ALESA--SW-GRFQIMGNNY
+RDAGFASVQE-FVLALSRT-EAAHLRAFASFVS---ANK---------------ALNKAL
+QQ-----KEWAAFARAYNGKG-YKKND--YDTKLKNAYD
+>GBQ88286.1 hypothetical protein AA23498_0340 [Acetobacter nitrogenifigens DSM 23921 = LMG 23498]
+ATISPEKYTQMAQNIG--C-EVAAIK--AVVMTETS-R------QP----FD--------
+-AQ---G------RPTILFERHYFHKLTH-----------------------------GR
+-F-------------D--------------AV--APD-----ISNKT-------------
+----------------------------------------------AGGY-G-KF-----
+--S---------AQYGRLEKALK-L------DRDA-----ALQSA--SW-GAFQIMGANF
+RAAGCSSVEQ-FVTNMA-D-INKQADAFVCFIR---EDA---------------VLQTSI
+VN-----KHWTTFARRYNGPK-YAENR--YDAKLEKNYL
+>WP_139382668.1 N-acetylmuramidase family protein, partial [Luteibacter sp. 22Crub2.1]
+HELSEEDFVEAANDLQ--C-EAEVIK--AIAKVETG-Y------PGP---FFRPGEILDE
+GDD---I------VPTILYERHIFHRRTG-----------------------------GA
+-Y-------------D--------------LT--HQE-----ISDSAHYVRK--------
+----------------------LVHGER-------ET-------PKKILY-G-DS-----
+--V---------KQYERLLKAYA-I------SPHE-----ALMSA--SW-GAFQIMGFNY
+EACGHSSVDA-FVRALSES-ESNHLKALVSFMK---KNP---------------RLLTAI
+RQ-----KDWTAIAKNYNGPQ-Y--DD--YDVRMSRAYG
+>MBU6246131.1 DUF3380 domain-containing protein [Xanthomonadaceae bacterium]
+---GPQSYARAAMALG--V-DVAVIR--AVAEVETS-G------KA----FD--------
+-NE---G------RPRILFERRYFHRLTQ-----------------------------GR
+-F-------------D--------------HT--HPD-----ISNAL-------------
+----------------------------------------------RGGY-G-TF-----
+--S---------SQYPKLEKAYR-L------APTA-----ALQSA--SW-GRFQIMGKNF
+HAAGFPSVQW-FVLALSRS-EANHLEAFARFVK---SDE---------------AMLDAL
+RN-----RRWSSFASRYNGVG-YRDND--YDGKLERAYR
+>WP_244071993.1 N-acetylmuramidase domain-containing protein [Nitrosomonas sp. PY1]
+---SENDYNLAASQLK--V-ESAVIK--AIAEVETA-G------EA----FD--------
+-KL---G------RPRILFERHYFHRLTG-----------------------------GK
+-Y-------------D--------------IA--YPD-----ISNKI-------------
+----------------------------------------------AGGY-G-KF-----
+--S---------EQYGKLEKAYK-L------DSNA-----ALSSV--SW-GRFQIMGSNY
+RAAGFNSVEA-FVFAMTKA-ELEHLKAFVSFVA---NDS---------------SMLKAL
+SS-----KNWVDFARRYNGQN-YKANN--YDTKLSEAYN
+>SKB83278.1 Protein of unknown function [Luteibacter sp. 22Crub2.1]
+SELSNQDFIDAAEFLA--C-EPEVIQ--AIAKVETG-E------TGS---FFLPGRSLAA
+DDD---I------VPTILYERHIFHKLTG-----------------------------GS
+-Y-------------D--------------RI--DPE-----ISDAARYVKQ--------
+----------------------LADGEH-------ES-------PKRMRY-G-PS-----
+--S---------GQYARLMRAYA-L------APDA-----ALMSA--SW-GRFQLMGFNH
+LACGHDAVTA-FVGALSRS-ESSHLRAAVSFMK---QNP---------------LLLDAI
+RR-----KDWVAIARQYNGRY-Y--DD--YDVRMSRAYD
+>MCE3261825.1 hypothetical protein [Pseudoduganella sp.]
+---TDSGYEKAAKKLK--V-EVAAIK--AVAEVETK-G------SG----FL--------
+-AD---G------RPTILFERHYFRRFTD-----------------------------GA
+-F-------------D--------------GT--NPD-----ISNKN-------------
+----------------------------------------------AGGYGA-AG-----
+--D---------NQYAKLDQAYA-L------NPDA-----ALKSA--SW-GRFQIMGANY
+TQAGYGSVSD-FVNSQLDS-ADKHLEAFTAFIS---KDK---------------ALLDAL
+RD-----KDWTKFARGYNGKD-YWKND--YDSKMKAAY-
+>WP_135246300.1 N-acetylmuramidase family protein [Polymorphobacter arshaanensis]
+-------------LIG--C-EVAAVK--AVTMTEVGIR------GA----FD--------
+-AL---G------RPMILFERHYFSRLTG-----------------------------HR
+-F-------------D--------------AA--HPD-----ISNQK-------------
+----------------------------------------------SGGY-G-KF-----
+--S---------AQYAKLDRAIA-L------DRHA-----ALQSA--SW-GAFQIMGANY
+AAAGFANVED-FVAAMKHS-LGKQIEAFGNFVV---ANP---------------RLRAAI
+KA-----KDWTTFARIYNGPG-YAENH--YDLKMKQNY-
+>MCH7862764.1 N-acetylmuramidase family protein [Proteobacteria bacterium]
+DTLTEADYATAATTLG--C-EVAAIK--AVADTEAR-D------EP----WD--------
+-MM---G------RPIILFERHKFAKHTH-----------------------------GL
+-Y-------------N--------------RS--HPD-----ISTPR-------------
+----------------------------------------------WGGY-G-PS-----
+--S---------RQYDRLRRAAM-L------DETA-----ALKSA--SW-GLFQILGENH
+GAAGHPTVAA-FVDAMMLR-RSEHLKAFARFVA---ANP---------------GMKTAI
+QA-----RDWATFARAYNGPN-YTQND--YDGKMRRAY-
+>WP_151956803.1 N-acetylmuramidase domain-containing protein [Acinetobacter guillouiae]
+DMITEDDYVTAATQLG--C-EVAAIK--AVAKTESP-R------GA----FS------TL
+LGK---K------APTILYERHYFQRFTA-----------------------------YR
+-Y-------------D--------------AS--HPI-----LSGPQ-------------
+-----------------------------------------------GNY-G-LY-----
+--S---------AQYKKLIEAMA-I------NEDA-----ALKSC--SW-GKFQIMGANF
+KNCGYSNVAE-MVKDAFKN-EKVQLNQFVNFIR---YDP---------------NLVAAI
+QA-----KQWTRFAKGYNGAK-YYKNA--YDNKMKTAY-
+>WP_072998858.1 N-acetylmuramidase family protein [Epilithonimonas mollis]
+--LQEQDFKNAAKALN--C-EVAAIK--AVAEVESR-S------DG----FL--------
+-PT---D------EPVILFERHIFSKLTK-----------------------------GI
+-F-------------D--------------KS--HPN-----ISNPT-------------
+----------------------------------------------SGGY-G-TV-----
+--S---------QQHKRLQTAVA-L------DRNA-----ALMSA--SW-GKFQIMGFNF
+TLAGYNSLQQ-FVTAMYSS-EAEHLSAFVQYIK---NT----------------FLDDEL
+RD-----KRWTDFARKYNGPL-YYKNK--YDTKLAAAY-
+>MBL7975894.1 N-acetylmuramidase family protein [Candidatus Kapabacteria bacterium]
+---TDQDFQDAANMLG--C-TVAAIK--AVSEVESR-Q------KG----FY--------
+-DN---G------EPVILFERHIFSKYTN-----------------------------HM
+-F-------------D--------------KT--NPD-----ISNPK-------------
+----------------------------------------------PGGY-G-PS-----
+--S---------AQHARLQEAVK-L------NRNA-----ALMSA--SW-GKFQIMGFNF
+ALAGFTSLQE-FINSMYTS-ERDHLMAFVQYVK---HC----------------SLDDEL
+RN-----KQWAEFAKRYNGID-YKKNN--YDTKLAAAY-
+>WP_123879915.1 N-acetylmuramidase family protein [Chryseobacterium carnipullorum]
+---TEQDYINAAKELG--C-EVAAIK--AVAEVESR-G------SG----FL--------
+-SS---G------EPKILFERHRFYKYTN-----------------------------GK
+-YYNKKEVIDGKEIVN--------------TS--NND-----ICNKT-------------
+----------------------------------------------PGGY-G-KE-----
+--S---------DQHLKLKTASA-L------NRDA-----ALMSC--SW-GRFQVMGDNW
+QKLGYKTLQE-FINKMYDS-EGGHLDAFVRYIK---AF----------------GLQGHL
+RN-----KSWAAFAKGYNGPG-YKANN--YDVKMQAAYN
+>WP_176167776.1 N-acetylmuramidase family protein [Luteibacter sp. 22Crub2.1]
+SRLTYANYESAAESLQ--C-EPEALV--AIAKTESK-K------VGA---YFVPGDVHPD
+GDD---P------VPSILFERHIFHSCSN-----------------------------GA
+-Y-------------D--------------T---QSD-----ISSPHPYS----------
+--------------------------------------------NDDIPY-G-PF-----
+--S---------SQYAKLLKAYE-L------HPDA-----ALKAA--SW-GKFQILGKNF
+GACGFATVTE-FVCAQSEN-ELSQLKSLVAFIL---NDQ---------------RLQKSL
+RR-----KDWKEFALAYNGRN-QAKSH--YDERMASNY-
+>WP_246545477.1 N-acetylmuramidase domain-containing protein [Geobacter chapellei]
+AKITEDDYEDAAKQLG--C-EVAAIK--AVAEVETK-Q------RA----FD--------
+-EK---N------RPTILYERHQFAKHTNPE---------------------------NK
+-Y-------------N--------------KI--NPD-----ISSSIAYTCE--------
+-----------------------RKTKGGSVI------------PNDERYGA-YG-----
+--E---------NQYKRLAKAYS-L------EKEA-----ALKSC--SW-GKFQIMGFNY
+KAAGFNSVLS-YVQAMCIS-EREHLKAFVKLVN---ADQ---------------IEKNAL
+IN-----KDWRRFARKYNGSS-YKKNK--YDTKLQEAY-
+>WP_000596722.1 N-acetylmuramidase domain-containing protein, partial [Escherichia sp. TW15838]
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------IPTSR-------------
+----------------------------------------------SGGY-G-TR-----
+--S---------EQYQKLLRAYV-L------DKQA-----ALKSA--SW-GKFQILASNY
+QAAGYSSPEE-FIISISES-EKNHLAAFINFIK---SNP---------------VLLRAI
+RD-----KDWLNFALCYNGQ---SQRG--YDDRIRANY-
+>WP_059136423.1 N-acetylmuramidase family protein [Chryseobacterium aquaticum]
+---TEQDYKNAAKELR--C-EIAAIK--AVAEVESL-D------GG----FQ--------
+-SD---G------KPKILFERHKFHEFTG-----------------------------GK
+-Y-------------S--------------AE--YPD-----ISNLR-------------
+----------------------------------------------AGGY-T--------
+--K---------NEHARLEKAAK-L------NRTE-----ALKSA--SW-GKFQIMGFNY
+SIVGFSTLQD-FINAMYRS-ESDQLNAFVQFIK---SN----------------KLDDEL
+RE-----KRWSDFARIYNGKN-FHINQ--YDVKMAKAY-
+>WP_169434361.1 N-acetylmuramidase domain-containing protein [Massilia forsythiae]
+--------ANAARKLN--V-EVAAIK--AVAEVESK-G------NG----FF--------
+-SD---G------RPKILFERHYFHRLTN-----------------------------GV
+-F-------------D--------------AS--NPE-----ISNSI-------------
+----------------------------------------------SGGYGA-SG-----
+--D---------NQYRKLDIAFA-L------DNTA-----ALKST--SW-GQFQIMGANY
+RAAGYNSVTD-FVDSQRQG-ADVQLKAFADFVG---SDR---------------GLLNAL
+RE-----KDWSVFARKYNGPN-YRENN--YDNKMREAY-
+>WP_222705563.1 N-acetylmuramidase domain-containing protein [Terriglobus albidus]
+---------------C--C-EVRAIK--AVTSVEAP-R------GA----YD--------
+-EF---G------RPTILFERHLFHRFTA-----------------------------GR
+-H-------------D--------------RF--APD-----ISNAN-------------
+----------------------------------------------RGGY-G-KY-----
+--A---------AQYDKLQRAYQ-L------DATA-----ALRAA--SW-GAFQILGDNY
+AQAGFGTVDL-FVTAMCQS-IQQQLRAFVAFIK---FSA---------------TLTQAI
+QN-----RNWATFARVYNGPA-YKDNR--YDTNLQGAYD
+>WP_099789642.1 N-acetylmuramidase family protein [Massilia eurypsychrophila]
+RGITDNDFLLAAATLG--V-EVAAIQ--AVAEVETL-G------NP----FD--------
+-SQ---G------RPTILYERHYFHRLTQ-----------------------------GR
+-F-------------D--------------AT--HPA-----ISQAT-------------
+----------------------------------------------TGGY-G-KS-----
+--R---------EQYPKLAEAWH-L------APDA-----ALRSA--SW-GRFQIMGNNF
+LAAGFTSAAA-MVLAHARA-EPEHLRAFVQFVA---HNK---------------PMLGAL
+RR-----NDWETFALLYNGPG-YKKNR--YDEKMASAY-
+>TFW03292.1 DUF3380 domain-containing protein [Oxalobacteraceae bacterium OM1]
+EQIEDKDYDAAAKELG--C-EVEVIK--AIAKQETG-KLAALGIGA----FD--------
+-KL---N------RPTILYERHIFSRITG-----------------------------HA
+-F-------------D--------------TN--HPD-----LSSSQEYLAG--------
+----------------------TAKNTRGERY------------DDGNHY-G-MF-----
+--S---------WQYKKLAKAIK-L------NKDA-----AIQAC--SW-GKFQVLGTHF
+RLCGFSSPGD-FAKAMCRN-EKAHLSVMVAFCK---GN----------------KLLPTL
+KN-----RDWAAIARTYNGPK-FKKNN--YDKELEAHYK
+>RQM36932.1 DUF3380 domain-containing protein [Erwinia psidii]
+RELTEEMYVSAAKSLN--C-EVAAVK--AVVITESKMT------GP----FD--------
+-AK---G------RPTILFERHHFMAYTD-----------------------------KK
+-Y-------------N--------------ST--HPD-----ISGPR-------------
+----------------------------------------------GIPY-G-KF-----
+--S---------VQYDRLNEAIK-L------DREA-----ALKSA--SW-GAFQIMGSNY
+ATSGYASVEK-FVEGMN-T-LAGQVYAFVNHIS---RTP---------------VLLNAI
+RT-----KNWSNFAYHYNGPG-YKDKN--YDTQMATNYD
+>BCA63544.1 hypothetical protein HMP09_2778 [Sphingomonas sp. HMP9]
+------------ARLQ--C-ETAAIK--AVVETEVAIR------GA----FD--------
+-GD---G------RPTILYERHKFSKHTG-----------------------------GR
+-Y-------------D--------------VP--HPD-----LSNPV-------------
+----------------------------------------------GGGY-G-RF-----
+--S---------EQYPKLERAMK-L------NSSA-----ALKSA--SW-GAFQILGENH
+VQAGHATVEA-FVAAMKSG-ILAQAEAFVAFVL---ANR---------------TLLTAL
+RA-----RNWSTFARIYNGPA-YKKFA--YDDKMRSSY-
+>WP_160623454.1 N-acetylmuramidase family protein [Mixta intestinalis]
+-SISHDQYVKAARILS--C-EVAAIK--AVVLSETP-R------GA----FD--------
+-EK---G------RPIILYERHYFHCLTK-----------------------------GK
+-Y-------------D---------------S--NPK-----ISHKS-------------
+----------------------------------------------AGGY-G-KY-----
+--S---------EQYIKLYEAIK-L------DKNA-----ALRSA--SW-GAFQIMGNNY
+KKAGHHNIES-FIEAMNTI-E-GQLDAFINFIL---NTP---------------SLKYAL
+QN-----KQWATFAAIYNGPK-YKENN--YDVKMARNYR
+>MPS68206.1 DUF3380 domain-containing protein [Novosphingobium sp.]
+APLSAADYEEAAKKIG--C-SVAAIR--AVSQVESA-G------GG----FL--------
+-AD---G------RPKILFERHIFHKLTK-----------------------------GN
+-Y-------------T--------------AA--HSD-----ISWPK-------------
+----------------------------------------------RGGY-V-GG-----
+--A---------GEYPRLRQAIA-L------DRKA-----ALQSA--SW-GRFQIMGFNF
+ASSGYADVEA-FVKAMVDG-EAGQLDAFVGFIR---KN----------------RLGDEL
+IR-----LDWAGFARGYNGPD-YAAND--YHNKMRRAYE
+>MBV9889428.1 N-acetylmuramidase family protein [Rhizobacter sp.]
+RGLSDADYGRAAAALG--A-EIAAVQ--AVADVETS-G------NA----FD--------
+-DH---G------RPRILFERHYFHRLTA-----------------------------GR
+-F-------------G--------------AT--HAA-----ISDAT-------------
+----------------------------------------------AGGY-G-KF-----
+--S---------EQYGKLEEAYG-L------DADA-----ALRSA--SW-GRFQIMGDNC
+KAAGFASVRE-FVIALTQS-EAAHLDAFVAFVG---SDR---------------GMAEAL
+RT-----KDWASFARRYNGSG-YAKND--YDNKIKQSYD
+>WP_228112002.1 N-acetylmuramidase domain-containing protein [Zoogloea sp. 1C4]
+--------------------DIAAIQ--AIAEVETS-G------HA----FD--------
+-ES---G------RPRILFERHYFHRYTA-----------------------------AK
+-Y-------------D--------------AK--HPG-----ISNAK-------------
+----------------------------------------------QGGY-G-KF-----
+--S---------ARYAKLEEAYR-L------APEA-----ALRSA--SW-GRFQIMGDNF
+KAAGFTSVKA-FVLAMSQS-ESQHLKAFTHFVM---SNK---------------AMLSAL
+RE-----HDWARFAKAYNGPG-YLKNE--YDTKLR----
+>WP_019397267.1 N-acetylmuramidase family protein [Pseudoxanthomonas sp. GW2]
+---TTADYQRAAASLG--V-DVATVR--AVTEVEAR-G------TG----FL--------
+-DS---G------EPVILFERHVFHRLTS-----------------------------GF
+-Y-------------S--------------AM--HPD-----ISNAT-------------
+----------------------------------------------PGGY-G-PL-----
+--S---------QQHARLQKAAA-L------DREM-----ALQSA--SW-GLFQIMGFNH
+AAAGHLTLQG-FINAMYRS-EGDHLDAFVAFVR---SEP---------------AMHRAL
+KA-----RNWADFARRYNGPA-YAANR--YDTRLAAAY-
+>KND22819.1 hypothetical protein AFK20_01585 [Enhydrobacter aerosaccus]
+---TDADFIAAAKTLR--C-DVSAIR--AVAEIESP-K------GG----FL--------
+-YD---DH-AGEWRPTVLFERHVMYRRYKDKYG---------------YDKA------IA
+-M-------------V--------------NQ--CPD-----IINTK-------------
+----------------------------------------------SGGY-I-GG-----
+--E---------AEHRRIEKARK-L------DNTI-----ALESA--SW-GMFQIMGYHW
+KALGYQSVVD-FVLAMSKA-EASQLEAFVRFIQ---ANK---------------TLLNAI
+RS-----KDWALFALTYNGKA-YRQNQ--YDVKMARANN
+>WP_141670602.1 N-acetylmuramidase family protein, partial [Gilliamella apicola]
+DLLTDADYEEVANELG--C-ESKALK--AVGIKETK-D------QS----FY------TH
+LGD---H------VPKILFERHYFHKLTN-----------------------------GK
+-Y-------------D--------------D---DPD-----ISNKS-------------
+---------------------------------------------SFTKY-G-SY-----
+--A---------KQYERLIKAYA-L------SPRE-----ALMSA--SW-GKFQVMGANM
+HSDKL-SIED-ILYKISQS-EKNHLITLKGYLL---KNK---------------NALEAL
+KS-----KKWDSFALYYNGSG-YKKNN--YDILIKEIY-
+>NNC59752.1 DUF3380 domain-containing protein [Erythrobacter sp.]
+ARLGQSDYLRAAEAID--C-EVAAIR--AVIEVESL-G------SG----IQ--------
+-RD---G------RPRILFERHCFHRDTE-----------------------------GR
+-W-------------S--------------GL--HPD-----ISSPR-------------
+----------------------------------------------PGGY-R-GR-----
+--Q---------AEYDRLAKAML-L------DRGA-----ALRSA--SW-GAFQIMGFNH
+RVIGFDTVSD-FVAAMIAS-EANQLDAFIGFIR---AN----------------RLDAAL
+RA-----HDWATFARGYNGRN-YRTNR--YDEKL-----
+>WP_034948182.1 N-acetylmuramidase domain-containing protein [Erwinia oleae]
+KVLTEDMYISAAKALN--C-EVAAIK--AIVMTETEIR------GP----FD--------
+-DQ---D------RPTILFEKHYFSRLTQ-----------------------------KK
+-Y-------------D--------------AS--HPT-----ISGPA-------------
+----------------------------------------------TMDY-G-TF-----
+--S---------SQYKKLYAAME-L------DKLA-----AYKSA--SW-GAFQIMGENY
+SSSGYSDIIS-FVKGME-T-IGGQLFAFVNHVK---NTP---------------VLLHSL
+QS-----KNWSAFARYYNGPG-YKKNK--YDAKMGRNYE
+>WP_153235727.1 N-acetylmuramidase family protein [Glaciimonas soli]
+EKLTEADYETAAKELD--C-EVEAIK--AFAIVESG-G------SG----FD--------
+-KH---N------RPKVLFERQYFSRFTK-----------------------------SK
+-F-------------D--------------KD--YPD-----ISAKKGYRWKPVH-----
+-----------------------------KVKSADEL--------DKDSYPN-AG-----
+--S---EDFNIELSYQRLVKAYK-L------DKDA-----ALKAC--SW-GIFQVLGANY
+AG-AFSSVQE-MVKAVSKN-EIGHLKTFVSFIK---VN----------------KLEIYL
+KN-----KEWLTLAIKYNGPS---QDK--YDVKLKKCY-
+>WP_153000818.1 N-acetylmuramidase domain-containing protein [Novosphingobium barchaimii]
+---RDADYARAARDLG--C-SVAALR--AVASVESA-G------GG----FL--------
+-PD---G------RPKILFERHVFHRRTK-----------------------------GR
+-F-------------S--------------AA--HPN-----ISHIE-------------
+----------------------------------------------RGGY-L-GG-----
+--V---------REYDRLRRAIA-L------DRKA-----ALESA--SW-GKFQLMGFNH
+QAAGHSSIDG-FVSAIKSG-EPAQLDGFVTFIR---SR----------------GLDDEL
+RR-----QDWTAFARGYNGPA-FAENA--YDRKM-----
+>QYM94603.1 DUF3380 domain-containing protein [Dickeya zeae]
+DSVSEELYLNAARELN--C-EVAAIK--AVVMTETALR------SA----FI--------
+-SP---G------KPKILYERHYFRRLTQ-----------------------------GR
+-Y-------------D--------------HS--YPE-----ISGER-------------
+----------------------------------------------YKQY-G-SH-----
+--E---------LQYERLEKAMA-L------DRQA-----ALMSV--SW-GAFQIMGANY
+RSAGFNELED-FVSAMK-N-TNGQVFAFINHIK---NTP---------------TLRTAL
+QN-----KDWTTFAKFYNGKK-YAERN--YHIKMANNYH
+>WP_114998245.1 N-acetylmuramidase family protein [Empedobacter falsenii]
+--LTEQDYINAAKQLN--V-EVAMIK--AFAKKEAK-S------SG----FI--------
+-TE---S------EPRILFERHKFHQKTN-----------------------------GK
+-Y-------------S--------------VE--NPD-----ISNKT-------------
+----------------------------------------------PGGY-G-KE-----
+--S---------DQHKRLQKAAN-L------NRNA-----ALESA--SW-GLFQIMGENW
+KALGYPTLQA-FINAMYES-EAKQLDAFIRFIK---VN----------------KIDVDM
+RN-----KNFKNIARKYNGPN-YAINN--YDKDLEKYY-
+>QEY72154.1 N-acetylmuramidase family protein [Pseudomonas denitrificans (nom. rej.)]
+ESIQQRDFEEAAFIIG--C-EVAAIK--AVAATETG-S------TGS---FYK----FQ-
+DWD---F------VPAILYERHYFHSLTG-----------------------------GR
+-Y-------------D--------------ES--NQS-----ISSRT-------------
+----------------------------------------------PGGY-G-QY-----
+--V---------EQYPKLLQAYD-L------DASA-----ALKSA--SW-GKFQIMG---
+------------------------------------------------------------
+---------------------------------------
+>MCC7069670.1 N-acetylmuramidase family protein [Burkholderiales bacterium]
+SALTDADFENAAASLD--C-EVNVIK--AVALTETK-G------SP----WE--------
+-KL---G------RPIILFERHKFRKHTG-----------------------------GV
+-Y-------------N--------------RS--HPD-----ISGPQ-------------
+-----------------------------------------------SEY-G-LP-----
+--R---------EQYAKLKRAAT-L------DEEA-----ALKSA--SW-GAFQILGENH
+VACGFATVGD-FVTAMMRQ-EADHLAAFVRFIQ---ANS---------------GMHKAL
+KA-----KQWATFASLYNGPN-YAANR--YDTKMQTQYD
+>WP_219209439.1 N-acetylmuramidase domain-containing protein [Variovorax boronicumulans]
+-------FSRAADALG--V-DVPSIK--AVAQIEAP-N------GG----FL--------
+-AS---G------EPTILFERHVFSRRTQ-----------------------------GR
+-F-------------D--------------AT--HPQ-----ISNPT-------------
+----------------------------------------------RGGY-G-PT-----
+--S---------AQHGRLAEAAA-L------DRTA-----ALESA--SW-GKFQIMGFNH
+QTAGFMTLQG-FINAMYAS-EGKQLDAFVSFLK---NDRAG-------------AMQRAL
+KA-----RDWATFARLYNGAD-YAAHN--YDGRLRNAYR
+>WP_160780015.1 N-acetylmuramidase domain-containing protein [Parerythrobacter jejuensis]
+SPLTDADFERAAAALR--C-SVPAVR--AVAQVESL-G------GG----YQ--------
+-ND---G------RPKILFERHWFHRKTN-----------------------------GK
+-W-------------T--------------QS--HSH-----ISWPKW------------
+-----------------------------------------------GGY-K-GG-----
+--S---------REYGRLEEAIG-L------DRNA-----ALQSA--SW-GAFQIMGFNH
+KLVGYSNVED-FVKAMVES-SGKQLDAFVQFIK---SN----------------KLDDEL
+RR-----LDWKGFARGYNGSQ-YWKNK--YDQKMARAYD
+>WP_218444239.1 N-acetylmuramidase domain-containing protein [Pacificimonas sp. WHA3]
+AKMTAGAIEQAARDLD--C-QVAAVK--AVMEVESA-G------GG----FF--------
+-RN---K------KPKILFERHHFAKFTN-----------------------------NA
+-Y-------------N--------------GT--HPD-----ISSRR-------------
+----------------------------------------------AGGY-K-GG-----
+--A---------HEYGRLSRAIA-L------DREA-----GLKSA--SW-GMFQIMGWNH
+KLCGYANVED-FITAMVTS-EDTHLEAFIGYVK---SR----------------KLKDEL
+QR-----LDWRGFARGYNGAA-YEKNK--YHIKM-----
+>WP_152321706.1 N-acetylmuramidase domain-containing protein [Erwinia endophytica]
+KSVSEELYVSAAKALN--C-EVAAIK--SVVITESQIT------GP----FD--------
+-SY---G------RPTILYERHIFSGLTN-----------------------------HK
+-F-------------D--------------GS--HPE-----ISGPK-------------
+----------------------------------------------YKKY-G-TV-----
+--D---------AQYKKLQAAME-L------DKGA-----ALKSA--SW-GAFQIMGGNF
+SSAGYASIDA-FVEGMQ-T-INGQTYAFVNHIK---NTP---------------VLLHAL
+QN-----KNWARFARYYNGES-YKEND--YDTKLSANYN
+>WP_204193918.1 N-acetylmuramidase domain-containing protein [Sphingomonas sp. BT552]
+DGLTAQDYEAAAKTLG--A-DAAAIR--AVADTETK-S------SS----WD--------
+-NV---G------RPTILFERHYFSRLTQ-----------------------------GA
+-F-------------D--------------RS--HTD-----ISAKS-------------
+----------------------------------------------AGGY-G-KF-----
+--A---------AQYPKLIRAAM-L------DEDA-----ALRSA--SW-GKFQIMGDNF
+KACGFTNVAS-FVDAMLEG-ERRHLAAFVSFIG---ADG---------------RLKTAL
+QK-----REWATFARIYNGPK-YADNA--YDTKMADAYA
+>OGU56272.1 hypothetical protein A2V66_07225 [Ignavibacteria bacterium RBG_13_36_8]
+KLLQEVDFENAAREIG--C-EIDTVK--TVCEVEAP-R------GG----FL--------
+-SD---G------RPVILFEAHKFHKHTN-----------------------------GK
+-Y-------------D--------------NE--YPN-----ISSKVW------------
+---------------------------------------------NKSLY-F-GE-----
+--E---------KEYKRLEIAKN-L------DKAA-----AYKSA--SW-GKFQILGENF
+RECGFTNVFS-FVDAMIES-EGQHLSAFVKFVK---AK----------------GLVQSL
+ID-----KNWEAFARGYNGPG-YEKNS--YHIKMEEAYN
+>MCL4715443.1 DUF3380 domain-containing protein [Hyphomonadaceae bacterium]
+SPLASSDYIAAAQRLG--C-EWQALA--AVAEVESG-RE-----GA----FG--------
+-PD---G------RPIILYERHLFARKTG-----------------------------GL
+-Y-------------N--------------LS--HPH-----LSQPR-------------
+----------------------------------------------PGGYPT-TQ-----
+--S---------ARWTLLQEAYA-L------NPEA-----ALESA--SW-GRFQVLGQNY
+PTLHMASARD-YVAKLARS-EKDQLEAFEAFIV---AN----------------GLAGAL
+QR-----RDWTLFARRYNGPN-YAENR--YDQKMAEAYQ
+>NNE68283.1 DUF3380 domain-containing protein [Pyrinomonadaceae bacterium]
+--LSNEDFCRAADRLD--C-SVAAIK--AVATVESR-G------NG----FD--------
+-TK---D------RPKILFERHKFAKFTN-----------------------------GR
+-Y-------------N--------------AT--HPH-----ISNWK-------------
+----------------------------------------------AGGY-G-RS-----
+--S---------AQYDRFSEAFM-L------DPKA-----AMMSS--SW-GKFQVMGFNY
+AVCGYRTVDE-FVEAMKQD-EGNHLDCFVEYVI---VN----------------RLDDEL
+RK-----RKWADFAKGYNGSD-YKKND--YDKQMAAAY-
+>WP_235421181.1 N-acetylmuramidase domain-containing protein [Erwinia oleae]
+--------ISAAKALS--C-EVAAIK--AIVMTETEIT------GP----FD--------
+-NK---G------RPSILYERHYFSRLTK-----------------------------GK
+-Y-------------D--------------VS--HPE-----VSGPR-------------
+----------------------------------------------YVKY-G-RI-----
+--S---------EQYTKLYKAME-L------DKEA-----AWRSA--SW-GAFQIMGDNY
+PTAGFSSIGG-FVEGMN-T-ISGQLYAFVNHVK---NIP---------------ALNNAI
+IN-----KNWSRFARLYNGPA-YKEKG--YDVTMSNNYD
+>WP_193702702.1 N-acetylmuramidase family protein [Tenacibaculum finnmarkense]
+--INEKDFKEAAKTLG--V-EVAIIK--AVCEVEAP-M------GG----FL--------
+-QT---G------EPVILFERHKFHQFTD-----------------------------GV
+-F-------------S--------------EK--HPS-----ISNPR-------------
+----------------------------------------------AGGY-T-RGRREHM
+L-K---------GEHFRLQKAEK-L------NREA-----ALKSA--SW-GKFQIMGFNY
+KLCGFSNIQT-FINAMYNS-EKAQLKAFVNFIK---SV----------------GLSDEL
+RR-----KDWKGFARGYNGRA-YYKNA--YDKKLKRAY-
+>PXA98432.1 peptidoglycan-binding protein [Nostoc sp. 3335mG]
+DVLTDADYATAARDLQ--C-EVAAIR--AVANVEAQ-N------SP----WD--------
+-YE---G------RPVILFERHKFAFHTG-----------------------------GR
+-F-------------S--------------GT--HPD-----LSQRS-------------
+----------------------------------------------SGGH-G-LP-----
+--D---------KQYGKLRHAAM-L------DEAA-----ALKSA--SW-GLFQILGENH
+RTAGYPDVAA-FVTGMMQS-RAHHLRAFVGHVR---GYP---------------ALHRAI
+QQ-----KHWAGFALRYNGKD-YREGN--YDGKMRAAY-
+>RYF34848.1 N-acetylmuramidase family protein [Comamonadaceae bacterium]
+-KLSDDDFQRAATLLR--C-PVAAIR--AVCAVEAP-G------GG----FL--------
+-PN---G------QPTILFERHQFSKRTG-----------------------------RQ
+-F-------------D--------------KS--NPD-----ISNAA-------------
+----------------------------------------------RGGY-K-GG-----
+--E---------AEHSRLAAATR-L------DRDA-----ALQST--SW-GKFQIMGFNY
+GAAGFASLQS-FINAMYAS-EGAQLDAFVAFIL---SE----------------RLDGAM
+RE-----ERWADFARRYNGP-------------------
+>WP_189987631.1 N-acetylmuramidase domain-containing protein [Thalassobaculum fulvum]
+---KDSDFERAAARLG--C-EVAAIR--AVAEVESG-GR-----SG----FL--------
+-PD---K------RPKILFESRWFHKLTG-----------------------------GR
+-Y-------------D--------------AS--HGG-----ISTPTW------------
+---------------------------------------------VRN-Y-R-GG-----
+--A---------AEYQRLNEAIA-L------DREA-----ALKST--SW-GMFQILGVNF
+AVAGFGDVQA-YVTAQLVS-EGAHLDAFAGFVT---AN----------------RLDDEL
+RD-----RRWSDFARGYNGPG-YRQNR--YDEKMADAY-
+>WP_070962636.1 N-acetylmuramidase family protein [Vibrio sonorensis]
+RGITRSDYITAAAYLG--C-EVESIM--AVDFVESN-G------CG----FF--------
+-EN---G------MPKILFEAHHFSKHTD-----------------------------GI
+-Y-------------D--------------DE--HPD-----ISSKKW------------
+---------------------------------------------NRELY-K-RG-----
+--E---------KEYERLIKSYS-L------CPEA-----ALKSA--SW-GRYQILGSNY
+KSSGYTSVAS-FVISMFLS-EKNHLNSFCKFIK---NNS---------------KLHDSI
+IE-----KDWRTFARIYNGPS-YEKNK--YDVKISEKY-
+>WP_243919007.1 N-acetylmuramidase domain-containing protein [Novosphingobium sp. 2638]
+TPLDDKAIEAAAKSLG--C-QVAAVR--AVIDVESR--------GG----FL--------
+-PD---G------RPKILFERHYFSRLTK-----------------------------HK
+-Y-------------D--------------AS--HPA-----ISNPKW------------
+-----------------------------------------------GGY-K-GG-----
+--A---------AEYVRLGEAIK-L------DRDA-----ALRSA--SW-GLFQIMGDNC
+GICGFSNVED-FVKAMVSG-EAAQLDAFVAFVR---AN----------------HLDDEL
+VR-----LDWAGFARGYNGPA-YKKNK--YDTKL-----
+>WP_108262760.1 N-acetylmuramidase domain-containing protein [Mangrovicoccus ximenensis]
+---SEEAYQKAAEELD--C-DIAAIK--AVAEVESR-R------AP----FD--------
+-GD---G------RPTILFERHKFRKYTG-----------------------------GR
+-F-------------S--------------QS--HPV-----LSGP--------------
+----------------------------------------------AGNY-G-KF-----
+--S---------EQWPKMLDALK-L------DEEA-----ALKSA--SW-GQFQIMGFNH
+ELAGYSDVES-FVEALVAD-VDNHLDAFVDFVL---GC----------------DLDRHL
+RS-----LNWRKFALGYNGQN-YRQNR--YDEKM-----
+>MBA4155674.1 peptigoglycan-binding protein LysM [Flavobacterium sp.]
+GEITKLDIEQAAAELR--C-EPGLIY--AIARQESA-S------SS----FI------KI
+NDK---T------VPTILYERHKFSEFTK-----------------------------HS
+-Y-------------D--------------KL--YHD-----ISGRAYKRARK-------
+----------------------NKKGFWVENKTGELV-------SENDVY-GSSG-----
+--V---------SQYRRLVKAYQ-L------DQDA-----ALKAC--SW-GKFQIMGFNF
+KNAGFGTVND-FVKAMCKS-DAEHIKAFLKFAK---SNK---------------LLLQGL
+RN-----KDYKKIAQGHNG--------------------
+>OQC01925.1 LysM domain protein [Bacteroidetes bacterium ADurb.Bin090]
+EKITEDDYEKAAKELG--C-EVEVIK--AFAKVESG-GR-----PG----FD--------
+-KI---N------RPIILYERHVFSRNTNPK---------------------------GK
+-Y-------------N--------------KT--SPD-----LSSNIGYKLK--------
+--------------------------KKGANLSSDE--------LSLNYYSA-SS-----
+--D---------QNYVRLAKAYM-L------DKNA-----ALKAC--SW-GKFQILGENY
+TICGYVSVDE-FVKDHAKS-ERRQLAAFVQFVK---SK----------------KLQKHM
+KE-----KTWDKIAEGYNGKN-YKKFK--YDERIKSAYE
+>MBC8738392.1 N-acetylmuramidase family protein [Paraburkholderia sp. UCT31]
+---------------------------------ETG-S------LGP---YLKPDQELAS
+GDD---L------VPTILFERHLFHRATH-----------------------------GK
+-Y-------------D--------------QS--HPH-----ISNPL-------------
+----------------------------------------------QGGY-G-RK-----
+--T---------VQYEKLLEAYA-L------DSNA-----ALLSS--SW-GRFQILGSNF
+KATGFHNVQD-YVASVSES-ELNQLQAFVFLSR---QIR---------------------
+---------------------------------------
+>RUT67889.1 DUF3380 domain-containing protein [Flavobacterium cupreum]
+----------AAKKLG--I-PIASVR--AVYKVETG-G------NA----FR--------
+-EN---G------DPKILFERHYFSNFTN-----------------------------GK
+-F-------------D--------------KT--NPD-----ISNPQ-------------
+----------------------------------------------QGGY-G-NY-----
+--S---------EQIGKLNKAVG-L------DKDA-----GYKSA--SY-GGFQIMESNF
+KAAGFKNVSD-FATTMMSNDEDKHLTAFVNIIL---SND---------------DLLEAI
+QS-----GDWKTFAKIYNGPK-YKKNK--YDEKLKSAYD
+>WP_128782371.1 N-acetylmuramidase family protein [Photobacterium chitinilyticum]
+---AESDYQHAAELLS--C-DIAAIK--AVSDVESA-G------KG----FL--------
+-PD---G------LPCILFEAHQFSKFTD-----------------------------HQ
+-Y-------------D--------------SS--QPA-----ISSRKW------------
+---------------------------------------------NRSLY-K-GG-----
+--E---------AEYPRLKQAIQ-L------DRTA-----ALKSA--SW-GRYQIMGFNH
+KSAGYLDVES-YVQAMFES-ERNHLIAFVYFIK---SDR---------------HLLSAI
+QN-----HQWEAFARHYNGPS-YQTNH--YDEKLRQAY-
+>MBL8329719.1 N-acetylmuramidase family protein [Rubrivivax sp.]
+ERLNDQAMADAAAALG--C-ETAAVK--AVAEVESR-G------AG----FD--------
+-AL---G------RPTVLYERQVFSRNCTPK---------------------------GR
+-F-------------D---------------S--MPD-----ISAPTGY-----------
+---------------------------------------------GRGNY-G-NT-----
+--E---------SQWQKIAKAYA-L------DPVA-----ALKAP--SW-GIFQVLGENH
+KACGFANVAD-FVRLMVTS-QVGHLQVFVAFIR---ANP---------------SLLKAI
+RE-----KDWATFARWYNG--------------------
+>7Q4S_AAA Chain AAA, Endolysin [Pseudomonas phage JG004]
+---TEQDFQSAADDLG--V-DVASVK--AVTKVESR-G------SG----FL--------
+-LS---G------VPKILFERHWMFKLLKRKLG---------------HD----------
+------------------------------PE--IND-----VCNPK-------------
+----------------------------------------------AGGY-L-GG-----
+--Q---------AEHERLDKAVK-M------DRDC-----ALQSA--SW-GLFQIMGFHW
+EALGYASVQA-FVNAQYAS-EGSQLNTFVRFIK---INP---------------AIHKAL
+KS-----KNWAEFAKRYNGPD-YKKNN--YDVKLAEAYQ
+>WP_081405989.1 N-acetylmuramidase family protein [Acinetobacter sp. TGL-Y2]
+-------------------------K--AVAKVESS-T------RGAFQDYL--------
+-GK---K------VPTILFERHYFRNFTG-----------------------------GK
+-Y-------------N--------------KS--HQL-----ISGPY-------------
+---------------------------------------------DPSKY-G-KY-----
+--S---------AQYPKLLEAMG-L------NEDA-----GLKSC--SW-GKFQIMGANF
+KNCGHANVKE-MITDAFTS-EKEQLKQFVNFVI---YDK---------------NLLSAI
+QG-----KKWDNFARGYNGPR-YADNK--YDVKMKEAYD
+>WP_093071406.1 N-acetylmuramidase family protein [Psychrobacter pacificensis]
+MTLVNCDYKVAARRLR--C-DEAAIR--AVSDVESR-G------DG----FL--------
+-FD---KD-DNQWRIKILFERHIMYRLLDKKFG---------------RDKA------LD
+-H-------------V--------------RT--SPD-----VVNTR-------------
+----------------------------------------------TGGY-S-GG-----
+--T---------AEHDRLAKARR-I------DKDL-----GLESA--SW-GMFQLMGFHW
+ERLGYKSAVD-FVLTLSKG-EPEQLEAFCRFIE---TDK---------------RLLNAI
+RS-----RDWAMFAEIYNGRN-YKKNK--YDTKMR----
+>VWX63544.1 conserved hypothetical protein [Burkholderiales bacterium 8X]
+KAIDDQAIEEAAEALG--C-EAAAVK--AVAEVESR-G------GG----FD--------
+-AS---Q------RPKILFERHVFARCTDPT---------------------------GK
+-F-------------D--------------GQ--FPD-----VSGWRKP-----------
+--------------------------------------------YAPGTY-G-NG-----
+--G---------KQYERLAQALT-L------DRAA-----ALKAP--SW-GMFQILGENH
+RACGFETVEA-YVAAMTVS-EVEQLKAFVSFIR---GDA---------------RLSVAI
+RK-----KDWPAFARNYNGAQ-FAKFQ--YDTKM-----
+>UAV84556.1 peptidoglycan hydrolase [Pseudomonas phage PHB09]
+---SSQSFVEAALKLG--C-EVAAIK--AIASVETK-G------SA----WI--------
+-TP---G------VPQILYERHIMARLLKAK---------------------------GV
+PI-------------T--------------GL--PSD-----LVNTT-------------
+----------------------------------------------PGGY-G-KF-----
+--S---------EQHGKLDRAVK-I------DREC-----ALQSC--SW-GMFQLMGFNY
+KLCGYATVQA-FVNAMYKS-EDEQLNAFVGFIK---SNL---------------QLNDAL
+KS-----KDWATVARLYNGAD-YKINQ--YDSKLKAAYE
+>QEM40954.1 endolysin [Pseudomonas phage PAP-JP]
+---TDREYQQAAEMLG--V-DVPAIK--AVTKVEAP-V------GG----FQ--------
+-PT---G------EPTILYERHQMYRQLQAK-----------------GLPT--------
+---------------E--------------GH--PPD-----LVNKV-------------
+----------------------------------------------AGGY-G-KY-----
+--S---------EQHAKLARAVK-I------DRDS-----ALESC--SW-GMFQIMGYHW
+KLMGYPTLQA-FVNAMYAS-EGAQMDAFCRFIK---AQP---------------TTHAAL
+KA-----HDWAKFARLYNGPG-YAKNQ--YDVKLEKAY-
+>WP_092685330.1 N-acetylmuramidase domain-containing protein [Albimonas donghaensis]
+----AGPWLDAAEALD--C-EVAAIR--AVAEVESR-G------AA----FL--------
+-AS---G------RPPILFERHVFHRLTD-----------------------------GR
+-W-------------S--------------ST--YPA-----ISSPA-------------
+----------------------------------------------AGDYGA-AG-----
+--D---------AQFSRLRAAMD-L------DRVA-----ALEAA--SW-GRWQVMGFNA
+RLCGWAGVEA-FVSAMCGS-EAAQIAAFVGYVR---GA----------------GLADAL
+RR-----HDWAAFARGYNGPA-YAANR--YDQKMRAAYA
+>WP_127789876.1 N-acetylmuramidase domain-containing protein [Rhodovarius crocodyli]
+---------------G--T-DLATIR--AVLTVETG-GA-----GG----FL--------
+-TD---G----SKRPRILFEAHIFGRLTG-----------------------------GR
+-F-------------N--------------VS--HPD-----ISRASW------------
+---------------------------------------------TTGLY-L-GG-----
+--A---------AEYTRLLRAVE-L------DRRA-----ALSAA--SW-GLFQILGSNF
+QAAGFTSVEV-FVASMLKG-EREHLLAFCSFVK---AN----------------RLTTAL
+RD-----KDWAAFARAYNGPS-YAVNR--YDEKLESAY-
+>HCC55700.1 peptidoglycan-binding protein [Bryobacterales bacterium]
+----------VAQTLS--V-GAASIW--AVLEVETS-G------CG----FL--------
+-ED---R------RPTILYERHIFHRLTG-----------------------------GR
+-F-------------D--------------DG----D-----ISSPV-------------
+----------------------------------------------CGGYGA-FG-----
+--G---------HQYDRLNRAIA-L------DSNA-----ALQSA--SW-GLGQIMGENF
+REAGFASVED-MVSAMSDS-EDAQLAAVAAFIS---AR----------------GFASAL
+RA-----QDWSTFARGYNGPA-YAKNQ--YDIRLRGEFQ
+>MBX9843406.1 N-acetylmuramidase domain-containing protein [Xanthobacteraceae bacterium]
+---------QAGGIVG--I-PNAAMW--AVIHVESS-G------AG----YQ--------
+-PD---R------RPKILFERHKFHRATN-----------------------------GR
+-F-------------D--------------HS--HPD-----ISNPT-------------
+----------------------------------------------AGGYGA-GR-----
+--A---------HQYDRLAVAIS-L------NREA-----ALESA--SW-GLGQVLGSNF
+RVAGFRDVED-MVAKMVGS-ERNQLLGMFKFID---GN----------------NLGHHL
+RD-----RNWLAFALGYNGPN-AEANG--YPHKLETAFN
+>WP_187336701.1 N-acetylmuramidase family protein [Novosphingopyxis iocasae]
+---------------H--C-EEAAIH--AVIAVESR-G-------G----FD--------
+-RQ---G------RPKILFERHYFHRLTN-----------------------------GR
+-F-------------A--------------AN--HPD-----ISARQW------------
+---------------------------------------------GG--Y-G-PA-----
+--S---------RQYDRLARAIA-L------DREA-----ALRSA--SW-GMFQIMGDNF
+AAAGFTDVEP-MVAAMMEG-EDRHLQAFCAFVT---AR----------------GLADAL
+AR-----RDWAAFARGYNGP-------------------
+>MBE0438291.1 DUF3380 domain-containing protein [Gammaproteobacteria bacterium]
+ADIDIRTVEQAAKVLL--C-EVEAIK--AVAEVESS-G------SG----FF--------
+-ED---G------SVAILFERHIMYRMLNSK-----------------GKDP------LV
+-W-------------Q--------------DK--YPN-----IVNRV-------------
+----------------------------------------------PGGY-Q-GG-----
+--I---------REHIRLDQAKS-I------HEPS-----ALESA--SW-GTYQIMGFHW
+RTLGYKNVYD-FVSEAKTK-E-GQLELFVKFIR---SNR---------------LLLEAI
+QT-----KDWEVFARIYNGPN-HKD----YDKKLLRAY-
+>MBI1187022.1 DUF3380 domain-containing protein [Alphaproteobacteria bacterium]
+------DFEAAAQRLN--C-EWQAVA--AVAEVESG-SL-----GA----FG--------
+-PD---G------RPIILYEPHIFSRNTS-----------------------------RR
+-F-------------D--------------GS--HPH-----LSYPNF------------
+---------------------------------------------GARPYPR-TQ-----
+--A---------ERWAQVREAFA-L------DEDA-----ALKSA--SY-GKFQILGQNF
+AVCGFASPRA-FASAMAES-EAGQLRAFEGFVR---GN----------------RLDNAL
+RA-----LDWRAFARGYNGPA-YEQTR--YHIKMEEAYN
+>WP_177236332.1 N-acetylmuramidase domain-containing protein [Albimonas pacifica]
+----DRPYIEAAETLG--C-EVAAVK--AVAEVESR-G------DA----FL--------
+-PD---G------RPKILFERHIFSRTTR-----------------------------NA
+-H-------------D--------------AG--HGE-----ISNPS-------------
+----------------------------------------------PGGY-K-GG-----
+--A---------AEYDRLAEAIK-L------DRAA-----ALESA--SW-GKFQIMGFNA
+STCGFRTVED-FVEAMCAS-EEAQLEAFVAFVK---RN----------------GLDRAL
+RA-----RDWAAFARGYNGPA-FRKNK--YDEKMAAAYR
+>WP_159288668.1 N-acetylmuramidase family protein [Tenacibaculum maritimum]
+---NESDFIDAAKQLN--V-SVAVIK--AVCEVEAP-R------GG----FL--------
+-RY---G------QPVILFERHKFHQFTE-----------------------------GI
+-Y-------------S--------------KT--NSD-----ISNPR-------------
+----------------------------------------------PGGY-L-GY-----
+--S---------QEHLRLQKATK-L------NREA-----GLKSA--SW-GRFQIMGFNY
+KLCGFTSLQK-FINAMYRS-EKSQLDAFVNFIK---SV----------------KLQDEL
+QK-----LDWHGFARAYNGKN-YYKNK--YAKRLKKAY-
+>WP_210797205.1 N-acetylmuramidase domain-containing protein [Pseudoalteromonas ostreae]
+--LSESDYQDIAKELG--C-KVAAIK--AVAEVESS-G------DA----FF--------
+-SN---G------KPKILFEAHIFSRLTN-----------------------------HI
+-Y-------------D--------------TS--HPS-----ISSRSW------------
+---------------------------------------------NRSLY-T-GG-----
+--S---------QEYARLEKAME-L------NVVE-----ALKAA--SW-GRFQIMGFNY
+SASGFASVEQ-FVKAMFNS-ERKQLDAFVSFVK---SK----------------GLDKYL
+LT-----LNWAAFAKGYNGAQ-YTQNK--YDIKLQKAF-
+>WP_158823704.1 N-acetylmuramidase family protein [Granulicella sp. S156]
+DSFSDQDFIDIAKALE--C-EVAAVK--AVQFVESG-K------LP----YD--------
+-KK---G------RPTILFERHLFSQFTF-----------------------------RR
+-Y-------------D--------------AH--FPA-----ISNPA-------------
+----------------------------------------------PGGY-SWPE-----
+--L---------DQYVRLQHAYA-L------DPIP-----ALRAT--SW-GGFQILGDNF
+HEAGCESVGA-FIRAVCGS-IQQQKDTFVHFVK---SNH---------------ARLVAL
+QK-----KDWAQFALHYNGKH-FKINH--YDTQLAKAY-
+>WP_229710296.1 N-acetylmuramidase domain-containing protein [Novosphingobium indicum]
+TPLSQTDFEDAARELG--C-SVAAVK--AVAFVESA-G------DG----FF--------
+-SD---G------RPKILFERHIFHRQTG-----------------------------GR
+-F-------------S--------------AQ--HSD-----ISWAS-------------
+----------------------------------------------GGGY-I-GG-----
+--T---------REYDRLTRAIA-L------DREG-----ALKSA--SW-GKFQIMGFNH
+EVVGFGDVES-FVAAMVSG-EPAQLKAFCAFIK---RN----------------GLADEL
+VR-----LDWEGFARGYNGPS-FRRFK--YHTKMAEAY-
+>WP_159793463.1 N-acetylmuramidase domain-containing protein [Croceibacterium salegens]
+-------YERAATDLG--C-SVAAIR--AVAQVESA-G------NG----FL--------
+-PD---G------RPKILFERHIFHRLTN-----------------------------GQ
+-F-------------T--------------AA--HPD-----ISFPS-------------
+----------------------------------------------GGGY-L-GK-----
+--E---------LEYGRLEEAMA-L------DEKA-----ALSSA--SW-GKFQVMGFNH
+KLVGEPSLDT-FIDTMVSG-EPGQLKYFIGYIK---AT----------------GLADEL
+QR-----LDWRGFARGYNGAS-FEKFN--YDKKMQRAF-
+>CAG8999239.1 hypothetical protein CENE_01208 [uncultured Celerinatantimonas sp.]
+TGLNDDDFATAAEQIG--C-DVAAIK--AVSKVETA-G------SG----FF--------
+-SN---G------LPCILFEAHQFSRLTH-----------------------------HQ
+-Y-------------D--------------QS--YPD-----ISALHW------------
+---------------------------------------------DRSLY-L-GG-----
+--E---------KEYQRLEQAIH-L------DQSA-----ALQAA--SY-GRYQIMGFNF
+KSAGYGSVQD-FVRDMFLA-ESHHLMAFVHFIQ---SVP---------------EMAKAL
+IA-----HDWATFARHYNGPA-YAQNH--YDKKLEKAY-
+>MBK1688971.1 hypothetical protein [Rubrivivax gelatinosus]
+---SDADWQRAATTLG--V-DVAAIR--AVAQVEAP-G------SG----FL--------
+-AD---G------RPKILFEAHVFGRRTG-----------------------------GA
+-Y-------------N--------------AS--HPD-----ISSARW------------
+---------------------------------------------NRSLY-V-GG-----
+--A---------GEYPRLEQAMA-L------DRTA-----ALESA--SW-GRFQIMGFNH
+QAAGYADVES-FVQAMQQG-EGRQLDAFVSFIQ---ADP---------------AMHQAL
+RD-----HDWAGFALRYNGEG-YAANQ--YDTRM-----
+>WP_160287311.1 N-acetylmuramidase domain-containing protein [Pseudomonas knackmussii]
+VPLDDSGMDQVCAALG--V-ADAEVW--AVLTVETR-G------FG----FL--------
+-AD---R------RPQILFVRHVFHRLTK-----------------------------GK
+-F-------------D--------------AG--NAD-----ISNVT-------------
+----------------------------------------------PGGY-I-GG-----
+--A---------GEYDRLAKAIA-L------DKAN-----ALQSA--SW-GIGQVMGFNF
+KTAGYASTDK-FVAGMVKD-ENSQLLAMANFIK---EN----------------GLAAAL
+QR-----KNWVSFARGYNGPD-FKRNE--YDTRL-----
+>YP_009997613.1 N-acetylmuramidase family protein [Achromobacter phage vB_AchrS_AchV4]
+--LTDNDFRAAALVLG--V-PEASVR--AVSEVESN-G------GG----FL--------
+-PD---G------RPKILFERHIFRRELIKR-----------------GVDT------RA
+-L-------------E--------------QN--RPD-----LVNVK-------------
+----------------------------------------------TGGY-K-GG-----
+--D---------AEWDRLAEAIK-I------NRAA-----ALCAA--SW-GRFQLMGFNW
+ETAGFTSVQD-LVNAMYRG-EGEHLMAFVRFIK---ADA---------------AMHRAL
+VA-----RNWTDFARRYNGPN---QKG--YDTKMAAAY-
+>WP_092865535.1 N-acetylmuramidase family protein [Albimonas pacifica]
+--------QEAADEIG--C-ELAAIQ--AVAEVESR-N------AA----FL--------
+-PS---G------RPPILFERHVFARETG-----------------------------DQ
+-F-------------T--------------AG--HPR-----ISGPP-------------
+-----------------------------------------------GGYGA-PG-----
+--D---------AQYLRLEEAYN-L------APIA-----ALRSA--SW-GRFQIMGFNA
+QVCGWPSVEA-FVAAMCES-EAQQLAAFVGFVR---ANP---------------AALRAL
+QR-----RDWAAFAHAYNGPN-YRVNR--YDEKM-----
+>WP_159223367.1 N-acetylmuramidase family protein [Pantoea sp. 111]
+--VSVADYQRAADIIG--C-SVYAVQ--AVATVESN-G------DG----ML--------
+-PD---G------RPKILFERHVMYQRYKAAVG---------------QAQA------DI
+-A-------------V--------------LK--WPG-----VVNSK-------------
+----------------------------------------------PGGY-S-TG-----
+--P---------GEHDRLALAVA-I------NRNC-----ALESC--SW-GAFQIMGYHW
+KALGYPSLQD-FVNAMYKG-ESAQLDAFIRFIM---ADQ---------------VLVAAL
+RD-----KNWAKFARRYNGPA-YATNR--YDVKM-----
+>WP_135962741.1 N-acetylmuramidase domain-containing protein [Sphingomonas gei]
+---------RAADDIG--C-DVAAVK--AVIDVESR-G-------G----FL--------
+-PD---T------RPKILFERHVFSKRTG-----------------------------GR
+-F-------------D--------------QS--HPE-----ISSRE-------------
+----------------------------------------------PGGY-R-GG-----
+--A---------AEYDRLGQAIP-L------DRKA-----ALESA--SW-GAFQIMGYHH
+DSLGMPDVED-FCRRMSNS-EDDHLAAFVRFVK---LN----------------KLDDEL
+CR-----RDWAGFARGYNGPG-FLKNR--YDTKLAAAYT
+>MBF0325973.1 N-acetylmuramidase family protein [Alphaproteobacteria bacterium]
+TRLVADDIARAAKALE--C-EEAVVR--AVIKVESG-G------AG----FL--------
+-SD---G------RPKILFEAHLFAKLTK-----------------------------GR
+-H-------------N--------------SS--HPD-----ISSAEW------------
+---------------------------------------------NRALY-Q-GG-----
+--R---------AEYDRLARAMA-L------DEGA-----ALQAA--SW-GMFQILGLNH
+ARCGFATAHD-FVAAMVEG-EGRQLDAFVAFVK---ANA---------------RLWDAA
+IN-----RDWAAFARWYNGPA-YAQNK--YDQKL-----
+>TXT37901.1 peptidoglycan-binding domain 1 protein [Comamonadaceae bacterium]
+---DAATFSNVTNSLG--I-DSATLW--TLLAVETK-G------VG----FL--------
+-PD---K------RPDILFERHIFSRQTH-----------------------------GV
+-Y-------------D--------------QA--YSG-----ISNPQ-------------
+----------------------------------------------PGGYGA-SG-----
+--A---------NQYVRLAQAIA-L------NRTA-----ALSSA--SW-GIGQIMGFNF
+AASGFASVDD-MVAAMSAS-ENAQLSAMAAFLQ---SN----------------KLTTPL
+QQ-----KDWAAYAKKYNGPN-YAINQ--YDQKLAASY-
+>KPF61040.1 hypothetical protein D621_01315 [beta proteobacterium AAP51]
+APLTEAVFLQAAQALA--C-EPAAVK--AVAEVESR-G------AP----FD--------
+-RQ---S------RPTILYERHVFARCTRPV---------------------------GR
+-F-------------N--------------AS--HPD-----LSAGKGY-----------
+---------------------------------------------GPGGY-G-NS-----
+--E---------RQWERLAQAYA-L------DPEA-----ALKAA--SW-GMFQILGENH
+RECGHATAAE-FVRAMTVS-QVEHLEAFVRFVA---SHR---------------LRLQAL
+RT-----LDWPTFARYYNGPD-YAKYN--YDRKMAEAY-
+>WP_226572813.1 N-acetylmuramidase domain-containing protein [Mangrovibacter yixingensis]
+----------AAHILG--C-EAAAVK--AVASTETK-S------SA----FF--------
+-AS---G------KPAILFERHVFSRLTG-----------------------------SI
+-Y-------------D--------------DK--HPD-----LSSTTPYKTK--------
+----------------------GH---------------------GPDYY-G-GH-----
+--A---------EQYSKLDRARM-L------NDVA-----ALESA--SW-GEFQIMGENF
+SACGFSSVYA-FVNAMNTI--QGQFSAFVNLIK---SDH---------------VLLNAL
+KN-----KTWVTFARRYNGKN-FTINH--YDAKMANYYH
+>WP_246870997.1 N-acetylmuramidase domain-containing protein [Pantoea ananatis]
+------------------------------------------------------------
+---------------TILYERHYFSRLTN-----------------------------NK
+-Y-------------D--------------AT--HPD-----ISGKR-------------
+----------------------------------------------YDHY-G-KF-----
+--S---------EQYDKLNKAIA-L------DRAA-----ALQSA--SW-GAFQIMGSNY
+VTSGYANIEE-FVKGMN-T-IPGQVYAFVNHVS---HTP---------------TLLNAI
+RT-----KNWASFARYYNGSD-YKKNN--YDVHLSQNYD
+>PSG89410.1 peptidoglycan-binding protein [Mesoflavibacter zeaxanthinifaciens subsp. sabulilitoris]
+---TEADYQYAASIIG--C-DVAVIK--AVSFVESG-GR-----SG----FL--------
+-KD---G-----KTPKILFEGHWFHKLTK-----------------------------GR
+-F-------------T--------------TS-KNAN-----ISYPRW------------
+---------------------------------------------IRKYY----N-----
+--Q---------DQHKRLQKAVD-L------DRDA-----ALKSA--SW-GKFQIMGFNY
+KLAGYDTLQD-FINAMYKS-EREHLIAFVNFVQ---HR----------------RLDDEL
+RR-----LDWQGFAYGYNGAG-YAQNK--YDEKLEKAY-
+>MBI4781629.1 N-acetylmuramidase family protein [Oscillatoriophycideae cyanobacterium NC_groundwater_1537_Pr4_S-0.65um_50_18]
+---TDADYQQAANLLG--I-EMAIVR--AIVEVESS-G------RG----FL--------
+-KD---G------RPKILFERHIFYHETK-----------------------------GA
+-H-------------A--------------NL--HPD-----ICNAK-------------
+----------------------------------------------SGGY-L-GN-----
+--E---------AEWKRLEVALR-L------DRKA-----ALMSA--SW-GLGQIMGFNH
+EIVGYANVDD-FVQAMHNS-EAKQLAAMMTFLK---AN----------------HLIPAL
+RN-----RDWKTIARFYNGEG--GVGV--YDIKLAKAYS
+>WP_114968554.1 N-acetylmuramidase family protein [Rhodoferax ferrireducens]
+---TDQDFTDAAAELV--C-EVAAIR--AVCQVEAP-K------GG----FN--------
+-PD---D------SPATLFEGHKFYKYTA-----------------------------GR
+-F-------------A--------------VQ--APD-----LCFKVL------------
+---------------------------------------------TRAHYGK-TW-----
+--Q---------QEQARLQRAME-L------DREA-----ALKSA--SW-GKFQIMGFNH
+AMVGFASVQA-FVNAMYVG-EREQLLAFVRYVQ---TA----------------GLAPAL
+RR-----RDWAAFAHGYNGPA-YADND--YDGKMAKAF-
+>MBW4475143.1 DUF3380 domain-containing protein [Stenomitos rutilans HA7619-LM2]
+---SDADYQRAASLLG--I-EVAAIR--AVVSVEAS-G------SG----FL--------
+-SD---G------RPKILFERHLFWSFTP-----------------------------LP
+-V-------------S--------------QT--RPD-----LSNPK-------------
+----------------------------------------------AGGY-L-GG-----
+--A---------AEWDRLNDAIK-F------DRTA-----ALRAA--SW-GLGQVLGDNY
+QVAGYNDVEA-FVRAMCVS-EGKQLDAMVNYIR---GN----------------HLDVAL
+RR-----QDWTSFAIGYNGPA--GAGV--YDVKIAHAYN
+>WP_243928431.1 N-acetylmuramidase domain-containing protein [Methylobacterium sp. J-076]
+-------------ELG--C-DVAAIQ--AVTEVESK-G------DG----FF--------
+-PS---N------RPKILFEAHIFSKRTF-----------------------------HV
+-Y-------------D--------------ST--FPD-----ISSKKW------------
+---------------------------------------------NKGLY-K-GG-----
+--E---------AEYDRLTKAMA-L------DRVA-----ALQSA--SW-GMFQIMGFNA
+KACGFGTVED-MVAAMFES-QSKQLEAFVKFIK---SS----------------KLVSSI
+KS-----KDWKAFAVGYNGPA-YADNK--YDIKLANAY-
+>WP_124541799.1 TIGR02594 family protein [Albitalea terrae]
+KGISEADYQRVARDLG--V-DVAAIK--AVADVESS-G------SG----ML--------
+-PS---G------KPKILFEAHIFHRETG-----------------------------GR
+-F-------------D--------------RS--NPN-----LSSPTW------------
+---------------------------------------------NRSLYGA-GG-----
+--E---------HQWERFEAAYK-L------DPAA-----AIKAT--SW-GRFQVMGFNH
+QRVGYPTPQA-FMAAMKSG-EGKQLDAFAAFIR---TDS---------------KLLTAL
+RN-----HDWASFAYRYNGAG-YAQNH--YDSKMAAAY-
+>MBP7240687.1 DUF3380 domain-containing protein [Amaricoccus sp.]
+---TEADYQSAARDLG--V-DVAVIR--AVTAVEAR-G------RG----FI--------
+DGT---D------LPLILFEGHHFHRLTG-----------------------------GR
+-Y-------------D--------------RD--FPG-----ISYPRW------------
+---------------------------------------------DKSKY-K-GG-----
+--R---------GEYDRLRQAIK-VHDS---KPEP-----ALMSA--SW-GMFQIMGFNH
+AKVGYGSVVD-FVNAMAES-ERNQLQAFVAFVR---AA----------------GLADEL
+KR-----QDWANFARGYNGPG-YKANK--YDAKL-----
+>YP_010105029.1 endolysin [Acinetobacter phage VB_ApiP_XC38]
+KFITDAEIASKAKEYG--I-EEAALR--AVMDVECK-G------RG----FN--------
+-DD---G------TPVILFERHKFYNGLIAINW---------------VTKA------KE
+-W-------------A--------------KQ--YPD-----ICNPTW------------
+-----------------------------------------------GGY-G-KE-----
+--S---------AQHGRLQRASA-L------NRDV-----ALASA--SW-GLGQVLGENW
+KDLGYKSLQS-FVNAMYKD-EVSQLDAMCRFIK---HN----------------GLIKHI
+QN-----KDWAKFARAYNGPK-YAENK--YDTKLAAAY-
+>KGM41952.1 hypothetical protein JY96_06240 [Aquabacterium sp. NJ1]
+ARISEKQWEDAAESLS--C-EVAVLK--AIADVETK-G------AS----FWR-----LN
+AVD---G----KQVPSILFERHWFKRLTK-----------------------------GA
+-Y-------------D--------------KT--HPD-----ISGPAYTSSK--------
+-----------------------------------EA-------AAADRY-G-SH-----
+--S---------TSYLRLINAYR-L------DPEA-----ALASC--SW-GKFQIMGGEF
+KNCGQPSASD-MVTIMCGG-EAGQIRLLAGFIRH-KANG---------------KLWSAV
+QG-----KDWANIALYYNGGG-YKKNA--YDTKMHAAY-
+>WP_036251897.1 N-acetylmuramidase family protein [Methylobacter sp. BBA5.1]
+VKLTNSDFDKAAKKLG--C-EEACIR--AVTDVESK-G------GG----FF--------
+-SS---G------KPKILFEAHIFSKKTF-----------------------------HA
+-F-------------D--------------KR--YPD-----ISSSKW------------
+---------------------------------------------NKALY-L-GG-----
+--E---------AEYSRLEKAMT-I------NRQA-----ALEST--SW-GLFQIMGFNY
+SASGFSSIED-YTQAMFES-EGKQLLAFVNFIS---KV----------------GLTKYL
+KS-----KDWKSFARAYNGPK-YQENK--YDTKLEIAY-
+>WP_207483115.1 N-acetylmuramidase domain-containing protein [Arenibaculum pallidiluteum]
+---------------G--C-EPAVLS--AVIAVETG-GR-----GG----FL------DE
+APP---R------RPRILFEAHVFSRLTA-----------------------------GR
+-W-------------D--------------AS--HPG-----LSRPRW------------
+--------------------------------------------GGPGTYGP-AG-----
+--A---------HQHERLAHAAA-L------NGPA-----ALQAC--SW-GLFQILGENH
+RLCGFEDPES-FARAMARD-EAAQLDAFLAFVR---AR----------------GLVPLL
+RA-----RDWTAFARRYNGPG-QAGNR--YDARLAAAY-
+>MBE0627246.1 DUF3380 domain-containing protein [Burkholderiales bacterium]
+RALSDEGMDRVCSALD--V-SAAEVW--AVLTVETR-G------FG----FF--------
+-QD---R------RPQILFERHVFHRLTQ-----------------------------GR
+-H-------------D--------------DG--NAD-----ISDAK-------------
+----------------------------------------------AGGY-V-GD-----
+--A---------GEYARLEKAMR-L------DRKA-----ALQSA--SW-GIGQVMGFNY
+RLTGHISVNA-MVGAMVRS-EDAQLLAVANFIK---GS----------------KLARAL
+QR-----QDWVSFARGYNGPE-FKRND--YDLRL-----
+>WP_226660753.1 N-acetylmuramidase domain-containing protein [Microbulbifer aggregans]
+---SESDFQQAANALG--V-DIAAVK--AVAEVESR-G------DG----FL--------
+-SN---N------VPKVLFEGHWFSRFTN-----------------------------GK
+-F-------------D--------------QK--HPT-----LSHAKW------------
+---------------------------------------------TKAHY-K-GG-----
+--E---------EEYLRFLSAYA-L------DAEA-----AMKSS--SW-GRFQIMGFNF
+HKCDYGSVTG-FVTDMHIS-EKYHLQAFANFLI---TT----------------DLARHL
+RA-----KDWAAFARGYNGPA-YSENQ--YDTRIGEAYS
+>YP_010356634.1 N-acetylmuramidase [Polaribacter phage Danklef_1]
+---TDLDYKAAAFVIG--C-DIATIK--AVALVESN-G------GG----FN--------
+-QD---G------TPKILFEGHWFHKLTK-----------------------------GK
+-Y-------------T--------------NW-INRN-----ISYPKW------------
+---------------------------------------------IRTYY----N-----
+--E---------NQHKRLQKAVL-L------DREA-----ALKSA--SW-GKFQIMGFNY
+DKCGFSNVQD-FVNAMFRS-EGAQLEAFVNFII---SR----------------NLDDEL
+RD-----KNWSRFAYFYNGSG-FAKNK--YDTKLADAY-
+>NLA66812.1 N-acetylmuramidase family protein [Gammaproteobacteria bacterium]
+---TDTDFERAAQRLG--C-QVAAIK--AVAEVEST-G------AG----FL--------
+-PS---G------EPKILFEAHVFDRLTG-----------------------------GR
+-Y-------------R--------------RS--HPG-----LSSARW------------
+---------------------------------------------DRSLYGA-AG-----
+--Q---------HQHRRLQAAVE-L------DRDA-----ALQSA--SW-GRFQIMGFNW
+RMVGRASLQD-FINAQYRS-EGEHLADFVGYVL---AR----------------GLADEL
+QR-----LDWVGFALGYNGPG-YAANR--YDEKMARAY-
+>WP_190334987.1 N-acetylmuramidase family protein [Vibrio sp. S9_S30]
+---SDEDFEKAAESLG--C-GVAAVK--AVSEVESA-G------SG----FF--------
+-AS---G------PPCILFEAHIFSKHSN-----------------------------RQ
+-F-------------D--------------DS--HPE-----ISSRKW------------
+---------------------------------------------DRSLY-V-GG-----
+--E---------KEYERLQEAMT-L------DRKA-----ALKSA--SY-GRYQIMGFNH
+AAAGYDDIET-FVRDMFLA-ERFHLFAFVSFIQ---SNP---------------RMHHAI
+QT-----LDWATFARHYNGPA-YAENR--YDEKLLLAYH
+>PPQ39510.1 hypothetical protein CCS01_01305 [Rhodopila globiformis]
+---------------G--S-DAAVVQ--AVAETETC-R------AA----WD--------
+-DD---G------RPTILFERHDFSRLTR-----------------------------RQ
+-F-------------D--------------AS--HPD-----ISNPV-------------
+----------------------------------------------PGGY-G-PY-----
+--A---------AQWPRLRRAAM-L------DETA-----ALQSA--SW-GAFQIMGENY
+GACGFASVDG-FVEAMAAS-EQQQLDAFVAFVQ---RDP---------------RTLTAL
+RR-----RAWAAFARLYNGPD-YADND--YDGKLAEAYR
+>MBC7909320.1 N-acetylmuramidase family protein [Pyrinomonadaceae bacterium]
+--LTDQDFSDCATSLD--C-QIAAVR--AVVAVESA-G------GG----FL--------
+-PD---G------RPKILFEAKYFHKLTG-----------------------------GK
+-F-------------D--------------KT--NPN-----ISSPVW------------
+---------------------------------------------NKNLY-K-GG-----
+--A---------REWDRLNEALA-L------DHDA-----ALQSA--SW-GLFQIMGANY
+KLCGFDNVND-FVAAMEKS-EGDQLKAFIGFVK---SN----------------KLDGFL
+RT-----RNWASFANGYNGPG-YKKNQ--YDVKLANAYN
+>MCA0186595.1 N-acetylmuramidase domain-containing protein [Proteobacteria bacterium]
+NPLSQEGLDQAARGLG--V-GLPALW--AVMTVETK-G------CG----FL--------
+-AD---R------RPLILFERHIFHRKTG-----------------------------GR
+-F-------------D--------------AS--DPD-----LSSRT-------------
+----------------------------------------------AGGYGK-GG-----
+--A---------NQYDRLARAIA-L------DRQA-----ALEST--SW-GLGQVMGFNA
+VAAGYPDAES-MVTAMCQS-EDAQLLGMVGFIR---DA----------------RLARHL
+KN-----GDWAAFAQGYNGPE-FQKNK--YDEKLR----
+>UPT64971.1 MAG: N-acetylmuramidase family protein [Caulobacterales bacterium]
+SPLRRVDFEAVAGRLG--C-EWEAVA--AVAEVESG-PL-----GG----FG--------
+-AD---G------RPVILFERHLFSRKTS-----------------------------SR
+-F-------------D--------------AS--HPT-----VSNRT-------------
+----------------------------------------------PGGYPR-TQ-----
+--A---------ERWAQLTQAYA-L------DAEA-----ALASA--SY-GRFQVLGQNY
+PNLSMPNAHE-YVSKLARS-ERDQLEAFEGFIR---AN----------------SLADEL
+QR-----KDWTGFASRYNGPG-YAANQ--YDTKMAQAY-
+>WP_212915182.1 MULTISPECIES: N-acetylmuramidase domain-containing protein [Marinomonas]
+---TEEAYQQASQLLA--C-EVPAIK--AVSDVESS-G------SG----YF--------
+-SN---G------TPCLLFEAQHFSKLTN-----------------------------HQ
+-Y-------------D--------------ES--HPD-----ISSPNW------------
+---------------------------------------------NRSLY-I-GG-----
+--I---------KEYMRLQKAMM-L------NRNA-----ALQSA--SY-GRYQIMGFNH
+QAAGYAEVES-FVRDMFLA-ETHHLIAFVNFIK---SNK---------------FLLDAI
+QQ-----KDWPTFARYYNGSA-YAKNQ--YDVKLKNAY-
+>WP_183700306.1 N-acetylmuramidase family protein [Marinobacter oulmenensis]
+---TEVDIKNSATRLN--V-DIAAIK--AVTEVESR-E------SG----FL--------
+-ES---G------LPVILFERHVMYRQLPAD-------------------TR------SI
+-Q-------------A--------------AS--FPA-----LVNSK-------------
+----------------------------------------------PGGY-V-GG-----
+--E---------SEWRRLKRACS-I------DREA-----AIQSA--SW-GLFQIMGFHW
+AHLGYASVSD-FSEAMHRS-EGDQLAAFVKFIQ---KDH---------------RLHQAL
+QQ-----KDWATFARYYNGPA-YRRNQ--YDTRMAAAYQ
+>WP_018629171.1 N-acetylmuramidase family protein [Niabella aurantiaca]
+---TDKDYQDAARILG--V-EVAAIK--AVAQVESA-G------AG----FL--------
+-PD---G------QPKILFERHYFHRLTG-----------------------------GK
+-Y-------------D--------------KV--GPD-----ISGPYK------------
+----------------------------------------------TGSYGP-GG-----
+--Q---------HQHDRLEKAAA-L------DRDA-----ALQSA--SY-GKFQIMGSNF
+KLAGFATLQL-FINAMYSG-EPAHLMAFCNFIR---NT----------------GLLPAL
+KA-----KNWAAFARGYNGTG-YAKNR--YDEKMAAAY-
+>WP_008990263.1 N-acetylmuramidase family protein [Galbibacter marinus]
+---TENDYKWAANVLG--C-ELAVIK--AVANIESA-K------TG----FL--------
+-SD---G------SPKILFEGHIFHGETA-----------------------------GK
+-Y-------------S--------------KREIYKD-----ISYSKW------------
+---------------------------------------------TRKYY-G-DG-----
+--Y---------QEYDRFRRAFE-L------DPIA-----AIKSA--SW-GKFQIMGFNY
+KRAGFNDVFE-FMVAMDTS-ERKHLEAFVGFIK---ST----------------GLDDEL
+KS-----KDWKGFARGYNGSA-YAQNR--YDEKLMKAY-
+>MBK6973024.1 DUF3380 domain-containing protein [Sterolibacteriaceae bacterium]
+ARLGEGDYLRAAQSLA--C-EVACVK--AVTEVESR-G------GG----FL--------
+-AS---A------RPKILFEAHIFSKRTQ-----------------------------HK
+-Y-------------D--------------TT--HPD-----VSSAKW------------
+---------------------------------------------DKKLY-K-GG-----
+--E---------KEYARLAKAMS-L------DRRA-----ALESA--SW-GLFQIMGFHY
+RKTGFASIDA-YVEAMFES-EGRQLDAFINFIQ---AN----------------GLDERL
+RS-----RRWAEFAKGYNGPR-FAENQ--YDRKLQTAY-
+>WP_249071162.1 N-acetylmuramidase domain-containing protein [Argonema antarcticum]
+---SDDDYGKAAQLIN--C-EVAAIR--AVVEVESN-G------NG----FL--------
+-KD---G------RPVILFEAHWFSHFTD-----------------------------GK
+-Y-------------D--------------GS--NQN-----ISSQKW------------
+---------------------------------------------NRKLY-K-GG-----
+--A---------LEYPRLEEAIN-L------NREA-----ALKSA--SW-GLFQIMGFNY
+DVCGFKDVEY-FVSAMYAS-EGKQLEVFVKFIR---SQ----------------KLAGFL
+RN-----HDWANFAKGYNGPS-YKAND--YDGKLARAY-
+>QNO00248.1 putative peptidoglycan binding protein [Pseudomonas phage phiPsa315]
+---TEIDYKLAASLLG--V-EPACIK--AVTKVESR-G------SG----FL--------
+-PS---G------EPVILFERHWMYKLLKAKTG---------------KE----------
+------------------------------PE--LSE-----VCNPK-------------
+----------------------------------------------AGGY-Q-GG-----
+--A---------AEHIRLNTAVM-I------DREC-----ALQSA--SW-GLFQIMGFHW
+KALGFESVQK-FINQQYRS-EAGQLDTFVRFVK---LNP---------------GMLAAL
+KA-----KDWAKFAKLYNGPN-YAINK--YDEKLAAAY-
+>TDL99632.1 peptidoglycan-binding protein [Flavobacteriaceae bacterium]
+--LQLKDFIEAANYLN--V-DVSTIK--AVAEVESG-DQ-----GG----FY--------
+-QD---G------HPVILFEGHYFWELTK-----------------------------GK
+-F-------------G--------------LS----N-----VSHPKW------------
+---------------------------------------------TTDFY-R--------
+--E---------NQKLRLEKAAA-L------DRTA-----ALQSA--SW-GMFQIMGANF
+RRCGFATVQG-FVNAMYKG-EKEHLMAFCAFIK---SQ----------------RLQDEL
+QR-----KDFAGFASVYNGPR-FKKNK--YDTKMAK---
+>NLY33940.1 DUF3380 domain-containing protein [Alcaligenaceae bacterium]
+KLLKQSDIVAAAKALD--V-PVAAVM--AVNEVESR-G------LG----FL--------
+-KD---G------RPVILFERHIFYKQLVSR-----------------KIDA------RS
+-L-------------A--------------SK--YPG-----IVNQK-------------
+----------------------------------------------RGGY-A-GG-----
+--S---------SEYMRLSVAVN-I------NQEA-----AYESC--SW-GLFQIMGFHW
+ESLGYPNVLA-FVKDQQES-EAKQLQAFIKFIQ---NDD---------------VLLKAL
+RS-----QDWEAFAKRYNGPA-YAENL--YDIKLARAYN
+>BAL95906.1 hypothetical protein RGE_25670 [Rubrivivax gelatinosus IL144]
+DPITQADWENLAAQIK--C-EPEVLK--AIAEVESK-G------RA----FW--------
+-RL---NQGEGHTVPAILYERHIFSKCTK-----------------------------GR
+-F-------------D--------------K---YPD-----LSWPTGYRKR--------
+----------------------SELGAADAKMSDGRV-------DENDIY-S-DF-----
+--A---------SSYLRLVRAYA-L------DSAG-----ALKAC--SW-GKFQILGENY
+TLCGQRRVED-LVSKMCSS-EKSQLGMLASFIE---NKPAAWINPKNRKLGKHASLLQAV
+RA-----KNWQMIAFNYNGSS-YKKNF--YDQKMEQAY-
+>WP_119701059.1 N-acetylmuramidase family protein [Pseudomonas jilinensis]
+VLLKEQDLVRAAEQLG--I-ELAVIK--AVNEVESR-G------SG----FF--------
+-AP---G------KPAILFERHIMHRQLSQAGPE--------DDRELIVQQI------SE
+-L-------------V--------------AV--HPD-----LVNSR-------------
+----------------------------------------------PGGY-V-GG-----
+--L---------GEYPRLARAKM-I------DANA-----AVEST--SW-GLFQIMGFHW
+RLLGYTSADN-FEQAMRSG-EAAQLEAFVRFIQ---ADS---------------AMHKAL
+KN-----RKWADFARRYNGPG-FARNL--YDIKLARAY-
+>WP_236638264.1 N-acetylmuramidase domain-containing protein [Mangrovicoccus ximenensis]
+HPLSGDGMDAVCEMLG--T-GEPEIW--AVLKVETR-G------FG----YL--------
+-AD---R------RPLILFERHIFHRLTG-----------------------------GK
+-F-------------S--------------AA--HPD-----ISNRK-------------
+----------------------------------------------PGGY-K-GL-----
+--A---------AEYPRLEKAME-L------DREA-----ALKSA--SW-GLGQIMGFNH
+EVAGYGSAEE-MVAAFVGS-EDAQLAGVGKFIS---KNA---------------KCLNGI
+KR-----RDWGSFAACYNGPD-FRKNH--YDTRL-----
+>MCB1955212.1 N-acetylmuramidase family protein [Rhodocyclaceae bacterium]
+---TEADFADAANLLG--C-DVATIK--AVCAVEAP-R------GG----FL--------
+-DD---G------RPVVLFEGHKFSRMTG-----------------------------GR
+-F-------------D--------------RL--HPT-----ISYPSW------------
+---------------------------------------------TRAHY-A-KGATSAI
+RMA---------GEWARLAQAVA-L------DRDA-----ALKSA--SW-GRFQIMGFNH
+DACGFDSVQA-FVNAMYMN-EGAHLKAFVMLVK---NW----------------GIDDEL
+RH-----RDWAAFARRYNGPA-YEQNA--YDTRLAAAY-
+>TXH53813.1 MAG: N-acetylmuramidase family protein [Desulfurellales bacterium]
+TKLTEQDYEQAALDLL--C-DVPAIK--AVVEVEAP-R------GG----FL--------
+-SD---G------RPVILFERHKFFQFTK-----------------------------GA
+-Y-------------Y--------------AT--HPD-----ICNPE-------------
+----------------------------------------------RGGY-V-GG-----
+--A---------GEWARYERAAA-L------DANA-----AALSA--SW-GKFQIMGFNY
+ERAGFATVGE-FVAAMCES-EQQHLQAFVAFIR---AQ----------------GLDDDL
+RS-----RNWATFARIYNGPK-YRENQ--YDEKMAAAY-
+>WP_250679087.1 N-acetylmuramidase domain-containing protein [Geomonas sp. Red32]
+ETITEEDYRNAAKAIG--C-EVEVIK--AVAKIEGG--------KG----FD--------
+-NK---N------RPRILYERHVFSRNTSPF---------------------------GR
+-F-------------N--------------SQ--NPD-----ISSNKAHRKR--------
+--------------------------KKGEKV-------------GDDIY----------
+--G---------NSFPRLAKAYN-L------DKSA-----ALKAC--SW-GKFQILGEGH
+KLAGFKTVEE-FVAAMCRS-EQEHLKAFVNFSS---SNK---------------LLKAAL
+IS-----KKWEAIAREYNGKS-YRKFN--YDHILKEAY-
+>YP_009837671.1 putative peptidoglycan binding protein [Erwinia phage vB_EamM-Bue1]
+QHLTEMDLIRAAQSLQ--C-ELAAIK--AVNTVESK-G------TG----FS--------
+-KT---G------LIKILFERHKMYKFLAQKYG---------------SQKA------DE
+-L-------------A--------------AK--YPD-----IVNKN-------------
+----------------------------------------------SGGY-I-GG-----
+--D---------AEHQRLKRAIA-L------DEEC-----AYLSA--SY-GLFQMMGFNY
+KIAGYSSAKSMFDDFVASG-EGAHLRAFVAFIK---ADQ---------------TLLRAI
+RS-----KDWPTFAYAYNGPG-YAANK--YDVKMADAYL
+>YP_010348186.1 virion structural protein [Pseudomonas phage Phabio]
+--LTEADYVWAAQQLN--V-EVAAIK--AVSEVESP-K------GA----FL--------
+-AD---G------RPPILYERHIMRRRLLLR-----------------NIDP------VP
+-F-------------I--------------AK--YPD-----LVNTA-------------
+----------------------------------------------TGGY-L-GG-----
+--T---------KEYERLDRAIT-I------DRDS-----ALESC--SW-GAYQILGQHW
+KAIGYNNVSE-FVTAMSTS-ARGQLEVFVRFIK---IDP---------------GLNKAL
+RN-----KDWTDFAARYNGPN-YAINK--YDAKLNTAY-
+>WP_232594484.1 N-acetylmuramidase domain-containing protein [Marinibactrum halimedae]
+---SDKDFIAAAHTLS--C-EVAAVK--AVSDVESS-G------KG----FF--------
+-DN---G------APVLLFEAHHFSKFTE-----------------------------GR
+-Y-------------N--------------ES--HPS-----ISSKQW------------
+---------------------------------------------DRSLY-F-GG-----
+--E---------REYLRLQEAVQ-L------DRSA-----ALKSA--SY-GRYQLMGFNH
+HLAGYDDVDA-LVTDMFLD-ERHHLMAFVRFIQ---SNT---------------AMHQAI
+KS-----KDWASFARAYNGPS-YAQNQ--YDERLSNAYQ
+>PYR66068.1 peptidoglycan-binding protein [Acidobacteria bacterium]
+QPLTSDGVRAATDELS--V-DATALW--AVLAVETS-G------FG----FF--------
+-AD---R------RPRILFERHYFHRLTN-----------------------------GR
+-F-------------D--------------QS--HPQ-----ISAPS-------------
+----------------------------------------------SGGY-V-GG-----
+--T---------GEYARLEEAIA-L------DEPA-----ALQAA--SW-GVGQVMGANF
+HEAGFPDVAA-MVAASVKD-ENGQLLTAVRFMA---SK----------------GLAAAL
+RA-----RDWTTFASKYNGPK-FQENQ--YDTKL-----
+>UUZ68721.1 N-acetylmuramidase domain-containing protein [Polaromonas sp. P2-4]
+LPLSEAGLAKAAGDIG--I-GLPALW--AVMTVETK-G------CG----FL--------
+-RD---R------RPLILFERHVFHKRTN-----------------------------GR
+-F-------------D--------------AT--APD-----LSDPD-------------
+----------------------------------------------PGGYGA-GG-----
+--P---------FQHDRLARAIA-L------DRRA-----ALESA--SW-GLGQVMGYNA
+ASVGFADVEA-MARAMSSS-EDAQFQGMVGFIT---AN----------------KLSKFL
+QQ-----GDWENFASRYNGPG-FKKNR--YDEKL-----
+>WP_084611105.1 N-acetylmuramidase domain-containing protein [Zooshikella ganghwensis]
+--------QTAANQLD--V-DRAAVK--AVADVESC-G------KA----FI--------
+-AK---H------KPAILFEAHIFSRLTQ-----------------------------HQ
+-Y-------------D--------------EA--YPH-----LSSRKW------------
+---------------------------------------------NPKLY-K-GG-----
+--L---------KEYDRLAEAKL-L------NETE-----ALKSA--SW-GKFQIMGFNY
+QLAGFKTIND-FVAAMCNS-EEAQLMAFVSFIQ---AHK---------------SMLQAL
+RN-----HDWAKFAKCYNGPA-YAKNR--YDSKLAEAYQ
+>MBE2186751.1 N-acetylmuramidase family protein [Rhodothermales bacterium]
+---EPDDFVRAAARLG--C-SVRAIR--ALDHVESR-G------QG----FL--------
+-AS---G------EPTILYEPHVFHRGSG-----------------------------GR
+-F-------------D--------------GE--VVH-----IGGAAWPLSY--------
+----------------------RRW--------------------KRGAY-G-PT-----
+--G---------IQHTKLAAAVR-L------DREA-----ALKAC--SW-GRYQILGENH
+RRCGFTTVQA-FVTAMYGS-EQAHLSAFCAFIE---SDP---------------KLHAAL
+RT-----LDWRTVALRYNG--------------------
+>MBX9720842.1 N-acetylmuramidase family protein [Candidatus Obscuribacterales bacterium]
+EPLAEPAFLEAASALG--C-EVVAVR--AVAEVESR-G------AG----FD--------
+-TE---R------RPTLLYERHVFSRNTVPR---------------------------GK
+-H-------------D--------------AA--HPD-----LSARQPY-----------
+---------------------------------------------APGTF-G-NT-----
+--E---------RQWVKLGQAYG-L------DPVA-----ALKAP--SW-GLFQILGENH
+RACGYASVVD-YARAMTTS-PVAHLRAFVAFVR---SNP---------------TLLKAI
+RE-----RNWAAFARAYNGPN-YTQYR--YDQKMAAAY-
+>MBV8795552.1 DUF3380 domain-containing protein [Hyphomicrobiales bacterium]
+LPLTDDALAAAAQKLG--C-GVAEIW--AIAFTETD-PP----YGG----FL--------
+-AD---K------RPQILFERHIFSRLTN-----------------------------GQ
+-F-------------D--------------AA--NPN-----ISNPR-------------
+----------------------------------------------PGGYGA-GG-----
+--A---------HQYDRLSQAMS-L------DESA-----ALQSA--SW-GIGQVLGENY
+REAGFASPEE-LALQQFAS-EDQQLIAVANEIV---AD----------------GAARAL
+AT-----HDWKTFARIYNGPN-YAQND--YDTTIRTWY-
+>HCK84866.1 hypothetical protein [Hyphomonadaceae bacterium]
+----------------------EAIA--AVAKTEAE-R------GA----YG--------
+-PD---G------RPTVLFERHKFRKFTN-----------------------------GA
+-H-------------D--------------HS--HPD-----LSNAD-------------
+----------------------------------------------AGGY-G-SAEH---
+--A---------HAWSRVTRAYA-L------DPEA-----ALRAT--SW-GQFQMMGFNF
+PMTHCKNAHE-LVLYLTQC-EANQLAVFMDFVR---HE----------------ELIDAL
+KR-----RDWAAFAFKYNGKD-YAKNK--YDERMARHY-
+>WP_143706915.1 N-acetylmuramidase family protein, partial [Xanthomonas oryzae]
+AKLSDQDIQDAAKELR--C-EPGLIF--AIATQESS-Q------SS----FI------DL
+DGN---K------IPAILYERHWFRKLTNPS-----------------KNQP------SP
+-Y-------------E--------------AT--HPN-----ICGPAYKRAKK-------
+----------------------NKKGEYVEKKTGNIV-------QEDDIY-GSPG-----
+--I---------HQYKRLLIAYK-L------NQEA-----ALQSC--SW-GKFQIMGFNY
+KVAGFASVKE-FTKAMSLS-DAEHMKAFLKFAK---SNP---------------TLLEGL
+QN-----KDYEKIAEGHNG--------------------
+>MBU3917689.1 N-acetylmuramidase family protein [bacterium]
+--------EEIAKELD--V-EVAAIK--AVAHVESR-G------DG----FL--------
+-PS---G------HPKILFESHQFRKRTQ-----------------------------GQ
+-Y-------------D--------------SS--HPT-----ISHKYADSEG--------
+--------------------------------------------NVIRNYLG-GE-----
+--E---------EVTERLNVAIG-L------DREA-----ALKSA--SW-GKFQIMGFNH
+KSAGYNTVEE-FVTAMKED-LDNHYWAFAMFVK---SNP---------------NMHTAL
+KN-----KDWASFACAYNGED-YATNK--YDQKMKEAY-
+>QZI85621.1 endolysin N-acetylmuramidase [Stenotrophomonas phage Suzuki]
+--LTDADIARAAKALV--V-SQAKVR--AILDVEAP-R------GG----FQ--------
+-DD---G------QVTILFEPHKFSEYTN-----------------------------GR
+-F-------------D--------------RS--HPH-----LSNPVW------------
+---------------------------------------------GAVPY-G-SY-----
+--A---------SQHGKLQQAVA-L------DRDA-----ALRAT--SW-GIPQVLGNNW
+KKVGAASLQD-FINRMHRS-EGAQLDLMVAFIQ---SDA---------------ELWNAL
+KR-----GDWATVARKYNGSQ-YRKNQ--YDVKL-----
+>WP_063378704.1 N-acetylmuramidase family protein [Pseudoalteromonas luteoviolacea]
+------DMQFAAEQLD--V-PTAVIA--AVAEVESN-G------CG----FF--------
+-DC---G------RPSILFERHVFYRIVSQKS----------------KDFA------AS
+-V-------------S--------------NK--YPN-----ICNPK-------------
+----------------------------------------------PGGY-I-GG-----
+--S---------GEYQRFSNAAT-LEFAYMLDKDA-----AISAC--SW-GMFQIMGYHF
+SLLGYSSAND-FKLDMEIS-ERNQLLALVKFIK---ADS---------------NMHKAL
+KG-----HKWAEFAKRYNGPN-YKKNL--YDVKLAQAYA
+>WP_200578511.1 N-acetylmuramidase family protein [Paraburkholderia aspalathi]
+------------------------------------------------------------
+------G------RPKILFERHIMYRKLSEKLG---------------KSKA------DA
+-L-------------A--------------SQ--HPD-----IVNPK-------------
+----------------------------------------------SGGY-Q-GG-----
+--S---------KEHDRLAQAVA-I------DREC-----ALQSA--SW-GGFQIMGFHW
+KTLGYASIQA-FVNAMYKS-EGEQLDAFSRFIK---ADP---------------AMHRAL
+KA-----LDWAEFARRYNGPG-YAANK--YDIKMSQAYK
+>PSB47307.1 peptidoglycan-binding protein [Cyanosarcina cf. burmensis CCALA 770]
+---TSIDYTRCATLLG--V-DPASVR--AVVAVECS-G------SG----FL--------
+-AD---G------RPKILFERHWFYKLTP-----------------------------LP
+-V-------------S--------------KT--RPD-----ISNRQ-------------
+----------------------------------------------PGGY-L-GS-----
+--T---------REWDRLNAAIS-F------DRTA-----ALKSA--SW-GLGQIMGFNY
+AFCGFDSVEA-LVGAMHES-EGRQLEAMMRFIK---ANP---------------SMHQAL
+RD-----RNWQRFAYYYNGPA-YRRND--YDNKL-----
+>GJH39067.1 hypothetical protein CBA19CS91_39940 [Paraburkholderia hospita]
+------NYDAAAAKLR--V-EVALIR--AVAEVESS-G------SG----FL--------
+-DS---H------RPKILFERHCFYRALKAK-----------------GMDA------DG
+-F-------------A--------------KH--MPD-----ICNPV-------------
+----------------------------------------------SGGY-E-GG-----
+--A---------HEYDRLELAAS-I------DHAA-----AYESA--SW-GAFQIMGYHW
+RALGYTSIDD-YVQEMHES-EEAQLDAFVRFVL---VTP---------------SLVKAL
+RA-----KDFASFAAGYNGPA-YRKFS--YDSKMASAYG
+>WP_220816055.1 N-acetylmuramidase domain-containing protein [Pseudomonas sp. MRCP1333]
+RLLGHTQLAAAAKRLG--V-ELAAIY--AVNEVESA-G------VG----FL--------
+-NN---G------KPKILFERHVMLQRLQLPRAE-------GDDVAELKRRA------AE
+-L-------------A--------------AK--YPN-----LVNTA-------------
+----------------------------------------------PGGY-S-GG-----
+--T---------AEHQRLALAKS-L------DERA-----ALEST--SW-GAFQVMGYHA
+ERLGYASVQE-FAALMAKD-EGEQFEAFVRFLE---ADK---------------ALLKAL
+KG-----KKWAEFARLYNGPA-YARNL--YDVKLERAY-
+>WP_064025668.1 N-acetylmuramidase domain-containing protein [Methylomonas koyamae]
+RPLSGAGIEQVCSTLG--V-AQPQVW--AVLSVETR-G------FG----FL--------
+-KD---R------RPQILFERHIFHNQTG-----------------------------GR
+-F-------------D--------------SS--APD-----VSNSK-------------
+----------------------------------------------AGGY-I-GG-----
+--E---------VEYDRLNAAIG-L------DQAA-----ALKSA--SW-GIGQVMGFNF
+ADAGFANVAD-MVAAFVED-ENAQLLAMANFIK---AN----------------GLAGAM
+QK-----GKWDAFARGYNGPS-FEKNQ--YDTRL-----
+>WP_168426902.1 N-acetylmuramidase family protein [Limnobacter sp. SAORIC-690]
+---QATDFARAAGALN--V-SLATIK--AIASVESK-G------NG----FD--------
+-TE---R------RPVILYEPHLFSRLTN-----------------------------RK
+-Y-------------D--------------EA--FPL-----LSSRVW------------
+---------------------------------------------NKALY-N-QG-----
+--G---------TSYEKLEVASA-L------DRSA-----ALQSC--SW-GAFQILGMNY
+KLCGFSSIDA-MVQAMFKN-EGEHLLAFVRFVQ---SQ----------------RLDQFL
+RN-----KDWAAFANGYNGPL-YKQNK--YDEKIEKAY-
+>UGO52713.1 putative endolysin [Serratia phage vB_SmaS_Opt-155]
+-------FKAVALELD--A-EEAAIK--AVAAVESN-G------NG----FT--------
+-VDAGMK------VPKVLFERHVMYRQLANKLG---------------STTA------DY
+-L-------------A--------------RQ--YPD-----LVNTS-------------
+----------------------------------------------PGGY-T-ND-----
+-------------EHGRLARATS-I------DRDC-----ALSAA--SW-GAFQVMGYHW
+KTLGYASLQE-FINEMYTD-QG-QLNAFVKFIK---ADS---------------RLLRAL
+RN-----KEWSTFARIYNGPN-YSKFN--YDKKMALEYA
+>WP_093161681.1 N-acetylmuramidase family protein [Variovorax sp. YR216]
+---AEADFARAAEALR--C-PVAAVK--AVCEVEAP-E------GG----FD--------
+-AA---G------RPRILFEGHKFSAATG-----------------------------GR
+-Y-------------D--------------KA--YPT-----LSYPVW------------
+---------------------------------------------TRQFY-A-RGADANA
+RNA---------GEHQRLQQAAR-L------DRNA-----ALASA--SW-GKFQILGENF
+RACGFTTLQA-FINAMYSS-EGRQLEAFVAFVK---HE----------------GLADEM
+RD-----LRWADFARRYNGPR-YAENS--YDVKLAAAY-
+>KAA6462972.1 DUF3380 domain-containing protein [Acidobacteria bacterium AB60]
+------------------------------------------------------------
+---------------QILFERHLFSKSTG-----------------------------GQ
+-Y-------------D--------------AT--APD-----VSNPV-------------
+----------------------------------------------AGGYGL-GG-----
+--E---------NQYTRLAQAYA-L------DSTA-----ALASA--SW-GLGQILGQHA
+THVGYGSVED-MVTAMSAS-EDDQLKAVVGYIQ---WQ----------------NLERAL
+QQ-----QDWAAYARSYNGID-YAKNQ--YDTRLSGAY-
+>MBU6408500.1 DUF3380 domain-containing protein [Alphaproteobacteria bacterium]
+SPLSRADYAAAASRLG--C-EVEALM--AVAEVESG-RL-----GA----FA--------
+-PD---G------RPVILFEPHVFARFTG-----------------------------QQ
+-F-------------N--------------ES--HPH-----LSSRRW------------
+---------------------------------------------NRALYPRGGQ-----
+--G---------PIYDQLAEAYA-L------NGEA-----ALKAT--SW-GRFQILGQHF
+SWQGFPDAHG-FVAALASS-EARQLASFERFIT---HN----------------NLDDEL
+RR-----LDWRGFAAGYNGPA-FEQNR--YDQRMAEAY-
+>WP_092683756.1 N-acetylmuramidase domain-containing protein [Albimonas donghaensis]
+-----APWLAAAAELG--C-ELAAIK--AVARVESR-G------AP----FL--------
+-PS---G------RPPILFERHIFHRLTG-----------------------------GR
+-F-------------D--------------AA--APE-----VSDAS-------------
+----------------------------------------------PGGYGA-GG-----
+--E---------AQYARLEAAAR-L------DRAA-----ALGAA--SW-GRFQIMGMNA
+GLCGWPDVES-FVADQCDD-EAAQLDAFAGFVR---GA----------------RLDGRL
+RA-----RDWAAFARGYNGP-------------------
+>WP_187978438.1 N-acetylmuramidase domain-containing protein [Pseudomonas psychrotolerans]
+------DLEHAAKTLG--V-PVATVQ--AVNEVESK-G------EG----FL--------
+-DN---G------RVVILFERHVFYQRLVKAHG---------------QAEA------DR
+-L-------------A--------------AL--NPN-----LINPK-------------
+----------------------------------------------SGGY-V-GG-----
+--A---------AEWQRLTSARQ-I------DEAC-----ALESC--SW-GLFQVMGYHW
+QDLGYASVQD-FVTRLQTS-EAEQLDAFVRFVK---AEP---------------ALLKAL
+KA-----GKWADFARGYNGPA-YARNL--YDVKLERAF-
+>WP_205224850.1 N-acetylmuramidase domain-containing protein [Desulfogranum marinum]
+EPLDDNGMDKVCSTLG--V-SESKIW--AILTVETR-G------FG----FF--------
+-SD---R------SPQILFERHIFHKLTN-----------------------------GM
+-Y-------------D--------------EG--NAD-----ISHKR-------------
+----------------------------------------------PGGY-K-GG-----
+--P---------KEYSRLKKAIK-L------DQDA-----ALKSA--SW-GIGQVMGFNH
+DVAGFPTVKA-LVQGMVKN-ENEQLLAMAHFIK---GN----------------NLAGAL
+HR-----NNWVAFARGYNGSG-FKKNE--YDTRL-----
+>WP_172588523.1 N-acetylmuramidase family protein [Ferriphaselus amnicola]
+---SHFDLERAAARLA--V-PVASIC--AVNEVESR-G------HG----FL--------
+-DD---G------RPVILFERHVMYQRLAAK-----------------GIEV------EP
+-I-------------S--------------RR--FPN-----LIHTA-------------
+----------------------------------------------RGGY-M-GG-----
+--S---------AEHMRLAAASQ-I------DRDC-----ALESC--SW-GLFQIMGYHW
+QALGYATLDE-FTTAMRLS-ESGHLDAFVRFIL---SEP---------------PLLKAL
+RA-----RKWADFARLYNGPA-YKDNL--YDVKLARAYD
+>WP_227308391.1 N-acetylmuramidase domain-containing protein [Acidisoma cellulosilyticum]
+---TDADYASAAQTLG--C-DIPAIK--AFSIVESG-GQ-----SG----FL--------
+-PD---G------RPKILFEAHIFHEQTS-----------------------------GK
+-F-------------D--------------D---HKDRSGVLLSTSTW------------
+---------------------------------------------IPSLYGA-PG-----
+--T---------HQWDRRDDAAA-L------DPTA-----ADSAC--SW-GEFQIMGSNH
+AAVSFENVSD-FVKAMKSG-AGAHLDAFVAFIQ---SA----------------RLNQAL
+KS-----HDWQTLARGYNGPG--QVFG--YASKLQAAYS
+>WP_094268999.1 N-acetylmuramidase family protein [Thauera propionica]
+-------LEHAAQDLG--V-PLAAVR--AVNEVESR-G------TG----FL--------
+-PD---D------RPVILYERHIMHRRLKAR-----------------GVQPD---TLAA
+-L-------------V--------------AR--HPD-----LINPQ-------------
+----------------------------------------------RGGY-L-GG-----
+--T---------AEHARLTAASR-I------HPDA-----AIESC--SW-GLFQIMGWHW
+QALGYASPQR-WAELMSTT-EGYQLRAFVAFVQ---ADP---------------ALHAAL
+RE-----LRWATFARLYNGPD-YRANL--YDVRLARAY-
+>WP_159061411.1 N-acetylmuramidase domain-containing protein [Vitreoscilla massiliensis]
+KFLTEQDFKNAAAFLG--V-EVAAIK--AVAEVESY-G------GG----FL--------
+-AD---G------RTKILFERHKFYKYYGATMG---------------KTAA------AK
+-L-------------M--------------QV--NPN-----ICNSK-------------
+----------------------------------------------AGGY-K-GN-----
+--E---------AEYPRFKAAIS-Y------DETA-----AMLSA--SY-GRFQIMGFNY
+RACGFDSVQA-YVAAQATT-EGAHLMAFCNFIK---ANE---------------AIYKAL
+KA-----KRWAAFAAGYNGAD-YKINN--YDTKMAQAY-
+>PYR74202.1 peptidoglycan-binding protein [Acidobacteria bacterium]
+---TDAGVSSAAAGME--V-PVHEIW--AVIAVETP-G------CG----FF--------
+-HD---R------RPQILYERHVFHTLTR-----------------------------GR
+-F-------------D--------------DG----D-----ISDPR-------------
+----------------------------------------------PGGYGR-RG-----
+--A---------HQYARLSQAME-V------SRAA-----ALRSA--SW-GLGQILGKNC
+EMAGFADVDA-FVRAMSHS-EDAQLAAVARFIT---SA----------------GLDKAL
+RT-----HDWVTFARRYNGPA-YARNR--YDERLDDEYR
+>YP_001956952.1 virion structural protein [Pseudomonas phage 201phi2-1]
+---TDKDYQWAADYLQ--V-DLPAVK--AVKEVEAP-A------GG----FL--------
+-PD---G------RVTILYERHVMFKRLRVN-----------------GINP------EP
+-F-------------A--------------AA--NPS-----IVNKS-------------
+----------------------------------------------TGGY-L-GK-----
+--S---------AEYTRLEQAEK-I------DEVS-----ALESC--SW-GAYQIMGYHW
+KLLGFGSVHD-FLAKMKES-ERGQLECFVKFIK---ADA---------------ALLKNL
+RA-----KDWAKFAAGYNGPN-YRQNN--YDVKLASAY-
+>WP_140219819.1 N-acetylmuramidase domain-containing protein [Pseudomonas psychrotolerans]
+KHLEDKDIREAAADLE--C-EPGLIY--AIAKQESS-H------SS----FI------EM
+DGE---K------IPSILYERHHFKRLAQ-----------------------------NE
+AL-------------Q--------------SS--HSD-----IYGSPYRRAKK-------
+----------------------LRDGSYIDSKTLEKI-------QLADTY-GPSG-----
+--R---------FQYERLIRAYR-L------NKDA-----ALQAS--SW-GKFQIMGFNH
+KAAGYETVKD-FTRAMSMG-DGEHIKAFLKFAK---SNT---------------VLLRGL
+RT-----KNFETIAQGHNG--------------------
+>MBV8048346.1 DUF3380 domain-containing protein [Paludibacterium sp.]
+TPLSEDGLTQAITTLG--I-DHAAFW--AVLQVESS-G------FG----FL--------
+-AD---R------RPKILFERHIFHRESR-----------------------------AR
+-F-------------S--------------EA--YPD-----ISNPQ-------------
+----------------------------------------------PGGY-S-RG-----
+--A---------SEYDRLQRAMA-L------DHAA-----ALKSA--SW-GIAQVMGFNH
+AIVGFASVEA-MVQAMVAG-EDRQIMAMVKFIQ---SN----------------QLDSAL
+RQ-----PDWRRFARGYNGPR-YEERK--YHEKL-----
+>OAN53964.1 hypothetical protein A6A04_13520 [Magnetospirillum marisnigri]
+------------SALG--V-SPAAVR--AVCSVESS-G------GG----FL--------
+-PD---G------RPKILFEAHIFHRLTG-----------------------------GQ
+-F-------------A--------------AL--HPN-----ISSAKW------------
+---------------------------------------------DRSLYGR-SG-----
+--A---------HQYDRLAEAMA-L------DVDA-----SIKSA--SW-GMFQILGRYH
+EQCGFARAVD-FALAMASG-EPAQLKAFADFVT---ADP---------------QMLAAL
+RH-----LDWTGFARRYNGPG-FAANN--YHIKLADAY-
+>MBH2042029.1 DUF3380 domain-containing protein [Comamonadaceae bacterium]
+--------MDVVADLG--V-GIPELL--AVLAVESR-N------CG----FL--------
+-PD---R------RPIILFERHIFHKLTR-----------------------------GR
+-F-------------S--------------EH--NPG-----ISNPV-------------
+----------------------------------------------AGGY-A-GL-----
+--A---------KEYPRLEKAIS-L------DRDA-----ALKSA--SW-GAGQIMGFNH
+AAAGFADVEA-MVSAMQRS-EDEQLKSVAAFLK---KN----------------NFVRFL
+QS-----RDWTALARGYNGAA-FAKNK--YDVRL-----
+>MBD9426001.1 DUF3380 domain-containing protein [Pseudomonas sp. PDM15]
+GEVKDEDIRSAAAELR--C-EPGLVY--AIARQESA-H------SS----FI------NI
+DGE---K------IPSILYERHQFRRYSG-----------------------------NP
+AF-------------A--------------ES--HPE-----IYGAAYKRARQ-------
+----------------------NRSGAYIEVNTGTEI-------SLQDIY-GPSG-----
+--R---------FQYERLMAAYR-L------NEDA-----ALKSC--SW-GKFQIMGFNH
+EAAGFRTVKE-FTAAMSTG-DAEHIKAFLKFAR---SNS---------------ILLNGL
+RE-----KNFEKIAEGHNGSG-WRGINPDYATNIERFYN
+>HBE51693.1 hypothetical protein [Cyanobacteria bacterium UBA11369]
+---TNRDYSNAANLLN--L-EVAVIR--AVVEVETA-G------SG----FL--------
+-PD---G------RPKILFERHWFYKLTP-----------------------------LP
+-V-------------S--------------KS--RFD-----LSNPQ-------------
+----------------------------------------------PGGY-L-GG-----
+--I---------REWDRLNDAIN-L------DRIP-----ALKSA--SW-GLGQVMGFNY
+KVAGYSDVEE-FVNAMHIS-EGKHLEAMMNFIK---SQ----------------NLDKAL
+RS-----RDWAAFARGYNGPA-YARNK--YDQKL-----
+>WP_114772650.1 N-acetylmuramidase domain-containing protein [Microvirga subterranea]
+--------DEVAETLA--T-DAAKLW--AVIEIEAM-R------CG----FL--------
+-ED---K------RPVILFERHIFHRYTK-----------------------------SR
+-F-------------D--------------SD--YPD-----LSNSI-------------
+----------------------------------------------PGGYGK-GG-----
+--A---------SQYSRLERAVA-L------DREA-----ALRST--SW-GLGQVMGFNA
+EIAGFASASE-MVRDMCQS-EDAQLRGMMNFIL---HN----------------GLHKPL
+RV-----GNWTSFAAGYNGPK-HYIND--YAGRLRGAFN
+>WP_081868266.1 N-acetylmuramidase domain-containing protein [Caballeronia glathei]
+AQITEENWLSAANELG--C-EIEVIM--AIAEQETE-KLKALGMGA----FD--------
+-KQ---R------RPTILFERHRFGKNTN-----------------------------QK
+-F-------------S--------------ED--NPD-----ISGSKEYMPG--------
+----------------------SARDERGKRY------------DDGNHY-G-LF-----
+--S---------WQYKKLAKAYT-L------DPGA-----ALAAC--SW-GKFQIMGENY
+RACGFNDVKT-FVESMCIS-EVEHLKAVVNFAT---ST----------------GLRPAL
+KG-----KNWASIAAAYNGPR-YKRNS--YDTQLKNIYD
+>WP_077262666.1 N-acetylmuramidase family protein [Vibrio campbellii]
+---CDQDFENASMSLG--F-GIAAIK--AVSDVESN-G------CG----FL--------
+-KC---G------KPQILFEAHKFSKYTQ-----------------------------HK
+-F-------------D--------------DS--HPK-----ISSKKW------------
+---------------------------------------------QRGLY-L-GG-----
+--E---------KEYGRLQEAIE-L------DSHA-----ALLST--SF-GRYQIMGFNY
+QAAGYNNVED-FVSNMFLS-ESKHLQSFVSFIQ---SNS---------------QLHRAL
+KA-----KNWPYFASLYNGPD-YAQNS--YDKKLERAY-
+>WP_192897984.1 N-acetylmuramidase domain-containing protein [Granulicella sibirica]
+-----------ASTLN--V-QVPEIW--AVLSVETK-G------TG----FL--------
+-PD---R------RPQILFERHYFSRLTN-----------------------------HQ
+-Y-------------D--------------AT--HPG-----ISNPI-------------
+----------------------------------------------QGGYGA-IG-----
+--A---------NQYLRLQEAYG-L------NQDA-----ALQSA--SW-GMGQIMGANH
+KAAGFDDAAS-MVTAMTNS-EDAHLAAMVSFLI---AN----------------RLDRFL
+AA-----HDWASFARGYNGPN-YAINH--YDDKLNTCY-
+>WP_119978196.1 N-acetylmuramidase family protein [Shewanella algidipiscicola]
+KFIQSSQLLAAASLLG--V-SFSAMA--SVAEVESN-G------FG----FF--------
+-AC---G------RPSILFERHVFYREVLEQD----------------AAAA------AE
+-L-------------A--------------TK--YPN-----ICNPA-------------
+----------------------------------------------RGGY-T-GG-----
+--S---------GEYQRFAIAYQ-F------NPEA-----AICAC--SW-GMFQIMGFHW
+QALGYPSPQA-FKQAMDMS-EGEQLNALVKFIE---ADP---------------VLHKAL
+KA-----RKWAEFAKRYNGPA-YKEND--YDIKLARKYQ
+>WP_172999748.1 N-acetylmuramidase family protein [Achromobacter xylosoxidans]
+---REPDLIAAAERLG--V-SLACIK--AVNEVESN-G------RG----FL--------
+-PD---G------RPAILFERHVFHERLREH-----------------GIDP------AP
+-H-------------T--------------AR--LPA-----IVNPR-------------
+----------------------------------------------RGGY-A-GG-----
+--A---------AEYVRLAAAIQ-I------CRPA-----ALEAA--SW-GAFQIMGYHW
+RRLGFESVEA-FVAAQQES-EGAQLAAFVAFIE---TDP---------------GLHKAL
+AG-----RKWAAFARGYNGPA-YAENL--YDVKLERAYT
+>WP_084227660.1 N-acetylmuramidase domain-containing protein [Lysobacter sp. A03]
+-------YQRAASTLG--V-DVATVR--AVADVESS-G------GG----FL--------
+-AD---G------RPKILFERHIFARETG-----------------------------GR
+-F-------------N--------------GS--HPG-----ISGSP-------------
+-----------------------------------------------GGYGA-SG-----
+--A---------NQHARFEQAFK-L------DPAA-----AMKSA--SW-GEFQIMGFNH
+KMVGYDSVGK-FVDAMRSS-AGSQLDAFVSFIE---SA----------------GLKGKL
+QN-----RDWAGFARGYNGPG-YAKNN--YD--------
+>MBZ5553753.1 N-acetylmuramidase family protein [Acidobacteriia bacterium]
+-KLTDQDYQAAANLLQ--C-DVASIK--AVAEVESR-G------DG----FL--------
+-SD---G------RVKVLFEGHQFYKFTN-----------------------------GL
+-Y-------------A--------------TS--HPT-----ICYQKW------------
+---------------------------------------------TTEFY-A-KGATADI
+RGA---------GELARLEEAMS-L------DRTA-----ALKSA--SY-GKFQIMGFNF
+QICGFTTVDD-FYQAVQIS-EGAHLNAFCSFIK---AN----------------SLDAAL
+RE-----SRWADFANKYNGPD-YQKNQ--YDTKLAAAY-
+>DAT82302.1 MAG TPA: lysozyme family protein [Myoviridae sp.]
+---KEADIRAAAEILA--V-EPAVIK--AVVHVESA-G------SG----YL--------
+-SD---G------RVKILFERHVFRRELEKALG---------------KAAA------AE
+-A-------------E--------------RE--APH-----ICAKT-------------
+----------------------------------------------PGGY-R-GG-----
+--T---------AEYTRLARAMT-I------DPEC-----GMKAA--SW-GLFQIMGFNY
+AAAGHSDIHS-FVDAVKKS-EGEQLLAFARFVT---SDK---------------VMLSAL
+QA-----KDWAAFAERYNGKA-YKKNN--YDAKLANAY-
+>WP_202832526.1 N-acetylmuramidase family protein [Belnapia arida]
+---------AAAKTLG--C-EVAAVR--AVAQVETK-R------SP----WD--------
+-EE---G------RPTILFERHKFRTHTG-----------------------------GG
+-Y-------------N--------------RS--HPD-----LSGPQ-------------
+-----------------------------------------------GAY-G-KF-----
+--S---------AQYPKLRRAAL-L------DEAA-----ALKSA--SW-GTFQILGENH
+DAAGYKTVEA-FVDAMMEN-DARHLEAFVAFVN---ANK---------------GMRKAL
+QD-----RNWAGFASRYNGPD-YKKND--YDTQMKAAY-
+>WP_094984593.1 N-acetylmuramidase family protein [Cellvibrio mixtus]
+SRLTEPDYNKAAIILG--V-DTATIK--AIASIESM-G------DG----FL--------
+-GN---G------KPKILFEGHWFSKLTQ-----------------------------GA
+-Y-------------D--------------KE--NPT-----ISHKTW------------
+---------------------------------------------TKKNY-L-GN-----
+--E---------KEYSRLNTAIS-L------DRRA-----ALKST--SW-GKFQIMGFNH
+KYCGYQDIES-LVKDMRKS-EHYHLMAFVKLIK---SM----------------KWDAQL
+KA-----KDWKGFSKKYNGPG-YQKNK--YDVKLQQAYK
+>MBV8050750.1 DUF3380 domain-containing protein [Acidobacteriaceae bacterium]
+------------------------------------------------------------
+------R------RPQICFERHVFHRLTQ-----------------------------GK
+-Y-------------D--------------DG----D-----ISDPT-------------
+----------------------------------------------PGGYGA-PG-----
+--A---------HQYERLNLAIE-K------DRNA-----ALKSA--SW-GIGQIMGENF
+VLAGHKSVED-FVIAMMRS-EDDQLAAMADFLF---SR----------------KLHFAL
+QA-----HDWADFARHYNGPD-FAVNQ--YALRLNIAY-
+>WP_256053555.1 N-acetylmuramidase domain-containing protein [Stutzerimonas stutzeri]
+---KEIDLQQAADRLG--V-PLASVK--AVNQVESR-G------EG----FL--------
+-SN---C------RPVILFERHVMHDRLQAHGIT--------------ERTA------DN
+-L-------------A--------------QQ--YPA-----LVNRK-------------
+----------------------------------------------PGGY-I-GG-----
+--T---------AEHQRLAQAKQ-I------HDEA-----AVESA--SW-GLFQIMGHHW
+QRLGYMDAQH-FADTMSLS-EAAQLDAFVSFIE---ADP---------------ALHKSL
+KT-----RSWKQFARIYNGPN-YARNL--YDVKLARAY-
+>WP_183088448.1 N-acetylmuramidase domain-containing protein [Pseudomonas ullengensis]
+--------------LG--SGQAAALW--AVFEVETA-GVT--QGFG----FR--------
+-AD---R------RPQILFERHIFRKQTQ-----------------------------GR
+-F-------------D--------------A---EAD-----VSGPQ-------------
+-----------------------------------------------GGY-G-GL-----
+--A---------GQYAKLEKAVA-LCEKAKLGAEA-----ALCSA--SW-GLGQVMGFNH
+QSAGFATATA-MVNAMVKG-EDAQLAGMVGFLI---DN----------------GLDRQL
+RA-----QNWEAFARRYNGPA-YAKNH--YHLKLEAQY-
+>MBX2855087.1 N-acetylmuramidase family protein [Rhodobacteraceae bacterium]
+WALTQQDVENTATFLG--V-TPAHIW--AVVSVETR-G------YG----FF--------
+-AD---R------TPAILFERHYFSRLTG-----------------------------GA
+-F-------------D--------------AS--HGD-----ISNPR-------------
+----------------------------------------------FGGY-G-AS-----
+--S---------QQYSRLARAAA-L------DYDA-----ALKSA--SW-GIGQVMGANA
+ENLDYSSVRE-FVELARKS-EGEQLTAMARFID---RN----------------GLKRPM
+QR-----RDWTFFARRYNGPS-FAKNK--YDTRLEAAYQ
+>WP_109095297.1 N-acetylmuramidase domain-containing protein [Azospirillum sp. TSH64]
+---------------G--C-LPAVVR--AVLAVEAG-G------AP----FL--------
+-PD---G------RPKILFEAHVFSRLTR-----------------------------GR
+-F-------------N--------------RS--NPA-----VSAPKW------------
+---------------------------------------------DRSLY-R-GG-----
+--A---------GEYERLLVAMR-L------DREA-----ALKAA--SW-GAFQILGSNH
+AAAGYAEVEA-FVEAHSES-AGNHLAAFVAFVR---SS----------------KLDDEL
+RR-----AEWARFAESYNGPG-YRANA--YDVRLASAFT
+>WP_247067359.1 N-acetylmuramidase domain-containing protein [Novacetimonas hansenii]
+------------KAIG--C-ETAAIK--AVVMIEAS-PNQ----PA----FD--------
+-IL---N------RPQILYERHILKKMTH-----------------------------SR
+-F-------------D--------------AI--APD-----ISGPVR------------
+---------------------------------------------GPGEY-G-GY-----
+--N---------KQYERLNAAMK-L------DYDA-----ALKAT--SW-GAFQILGENF
+RHAGYGSVSD-FVRAMGDI--NKQADVFVKFNL---SNN---------------KMRRAL
+IN-----KDWATFASVYNGPT-YYRYN--YDRRIKANY-
+>AKX51714.1 peptidoglycan-binding protein [Thiopseudomonas alkaliphila]
+---KQADIERAAADLG--V-EIAAVM--AVNLVESA-G------SG----FI--------
+--D---H------RPVILFERHQMRRQLLKHGMS--------------EAEV------DK
+-L-------------A--------------AV--HHQ-----IINRK-------------
+----------------------------------------------PGGY-I-GG-----
+--L---------GEHQKLQQAQR-I------HPAA-----AIESC--SW-GAFQIMGYHW
+ELLGYKSAQD-YAAQMHSG-ESAHLDALVRFIK---ADP---------------GLHKAL
+KA-----RKWADFAKRYNGPS-YAQNL--YDVKMARAY-
+>WP_180539387.1 N-acetylmuramidase domain-containing protein [Nevskia soli]
+------------------V-KAPEIW--ALVAVETS-G------CG----ML--------
+-PD---R------RPQILYERHIFSRLTG-----------------------------GQ
+-Y-------------D--------------DG----D-----ISDPT-------------
+----------------------------------------------PGGYGP-SG-----
+--A---------PQYDRLARAVA-L------DRES-----ALKST--SW-GLGQVMGENY
+ASSGFGSVDD-MVAAMVDS-EDAQLATVCQFIL---HN----------------KLDNYL
+QV-----HDWTSFASKYNGPS-YAKNS--YDSKLRGEYG
+>PLC03524.1 hypothetical protein CY658_22205 [Variovorax sp. RO1]
+LEVTEAQYAAMAKELG--C-EVAAIK--AVAQTETT-G------EA----YF--------
+-SN---G------LPVILFERHKFFKLTKPA-----------------KG--------GH
+PY----------------------------AK--FSD-----ICNPI-------------
+----------------------------------------------VGGY-N-PP-----
+--EGYAHDALKIWQYERMVKAAQ-L------DRAA-----AVASC--SW-GAFQVMGEYW
+SSMGYSSPES-LANECMAS-IDGQAKLFMKYIKMKNKEV---------------GIIKKL
+ID-----KDWEGFTGYYNGAN-WKSQNPSYPAKMKKAYD
+>MBF1634970.1 DUF3380 domain-containing protein [Prevotella sp.]
+YKPSLSALRKAAKKLG--V-ELSVIR--AVFQTETG-G------QT----YT--------
+-KD---G------RIKILYERHYFSKFTH-----------------------------GK
+-Y-------------N--------------K---DRD-----ISAPTPFKGK--------
+--------------------------THKEKGKEVAT-------PEIDQY-G-NP-----
+--S---------NQYRRFEKAKK-L------DEEA-----AYSSI--SY-GSFQIMGSNY
+KDAGYKSAKE-FGDAMFSADEDKMLDAFTNYIS---ANH---------------AMRKAL
+LN-----HDWATFARLYNGPS-YKDNK--YDTKMAENY-
+>SPF33254.1 Peptidoglycan-binding domain 1 protein [Candidatus Sulfopaludibacter sp. SbA4]
+------------------------------------------------------------
+------R------RPPILFERHIFSGLTN-----------------------------RQ
+-F-------------D--------------IS----D-----VSNPQ-------------
+----------------------------------------------AGGYGL-GG-----
+--A---------NQYLRLANAIH-L------DRAA-----ALKSA--SW-GLGQIMGSNF
+AAAGFPDVES-MVAAMTAS-EDAQLAAFVSFLQ---TN----------------SYTGYL
+QA-----HDWPSFARRYNG--------------------
+>MBF0308071.1 DUF3380 domain-containing protein [Magnetococcales bacterium]
+-----------CHTLG--V-EAAVLW--AVLQVETS-G------VG----FL--------
+-PD---R------RPGILFERHIFSRRTG-----------------------------GR
+-F-------------D--------------AG--HPG-----VSQPQ-------------
+----------------------------------------------AGGYGP-EG-----
+--A---------AQYDRLAEALA-L------DRRA-----ALESA--SW-GLGQVMGFNA
+GVAGYAGVEE-LVAAMMQG-EDAHVAAMTAFIR---KN----------------GLARAL
+AG-----RDWASFARGYNGVD-YARNA--YDRKLAEAYG
+>WP_159341525.1 N-acetylmuramidase family protein [Halomonas meridiana]
+RMLRQVDLVDAADRLG--V-ELAAVM--AVNEVESR-G------SG----FHF-----GG
+PRN---G------APVILFERHIMRRQLQHH-----------------AINP------MP
+-Y-------------Q--------------HA--MPD-----IVNAS-------------
+----------------------------------------------PGGY-L-GG-----
+--H---------WEHNRRERAGK-I------HGAA-----SIESA--SW-GLFQIMGFHW
+KRLGYESAEN-YAADMAIN-EANQLDAFVRFIE---KDK---------------AIHAAL
+RR-----HDWADFASRYNGPN-YAAND--YDTKLAAAY-
+>WP_089417208.1 N-acetylmuramidase family protein [Vitreoscilla filiformis]
+---SDNDFETAAFILE--C-EVAAIR--AVAEVESA-G------AG----FL--------
+-SN---G------LAKILFEGHIFYKYTS-----------------------------GA
+-Y-------------A--------------TS--NPT-----ICYSRW------------
+---------------------------------------------TTKFY-K-GG-----
+--A---------AEYDRLREAEA-L------NRTA-----ARMSA--SY-GKFQIMGFNY
+GICGFNNVDE-FYDAMQNT-EADQLNAFCEFIK---SN----------------NLVPAL
+QN-----RNWAQFARVYNGPE-YARNA--YDTKL-----
+>NMM10649.1 DUF3380 domain-containing protein [Polaromonas sp.]
+GDITEADWNLAANGID--C-DAAVLK--AIAKVESG-KR-----SS----FW--------
+-RL---NKIDGAQIPAIMFERHYFSQLTG-----------------------------RK
+-F-------------D--------------AQ--HPD-----ISWPTGYQQQ--------
+----------------------GKLGSDNKEMHDRKV-------VVSDIY-S-DF-----
+--A---------SSYLRLINAYQ-L------DADA-----ALKSC--SW-GKFQIMGANY
+ATCGAADLNR-FVATMCAS-ELGQIKLLAGFIQ---RKPRPWKDRRNHALGKEVSLWDAV
+KT-----KNWQAIAFNYNGPG-YKKYH--YDTQIQHAY-
+>WP_239492196.1 N-acetylmuramidase domain-containing protein [Luteitalea sp. TBR-22]
+---PDQTWTALAEVLQ--V-EKAVLQ--AVAQVESG-G------SG----FL--------
+-DT---Q----PPRPKVLFEGHYFHRLTG-----------------------------GR
+-F-------------S--------------AS--HPT-----LSFPKW------------
+---------------------------------------------TRKYYAR-TG-----
+--L---------GEWARLDQAIA-L------DRAA-----ALQSA--SW-GAFQIMGANF
+ADAGCVDVEA-FVTAQWTS-ADTQLECFTRFIG---RA----------------WYLDPL
+RA-----KDWATFARRYNGPG-YAENQ--YDVKLSRAYD
+>BBK09361.1 DUF3380 domain-containing protein [Klebsiella phage 05F01]
+---TEDQYKKAASDLG--V-SVAAIK--AVAEVESN-G------SG----FI--------
+-AS--TG------QPKILFERHIMYKQLVKNGL---------------QAVA------DE
+-A-------------L--------------KT--HPT-----VVNKT-------------
+----------------------------------------------AGGY-K-GG-----
+--V---------NEWLRLDEAVD-L------DRKS-----ALESC--SW-GAFQIMGFYW
+KTLGYSSIQD-LVNAAYSG-DAGQLDMFVRFIK---ANP---------------GIVKAM
+KN-----LDWASVAKQYNGVN-YAKNK--YDVKLRDAY-
+>WP_114233176.1 N-acetylmuramidase family protein, partial [Pseudomonas aeruginosa]
+---QNADLVAAGARLG--L-PLATIY--AVNQVESN-G------QG----FL--------
+-GN---G------KPAILFERHIMYRRLAAHD----------------QVTA------DQ
+-L-------------A--------------AQ--FPA-----LVNHR-------------
+----------------------------------------------PGGY-A-GG-----
+--T---------AEHQRLANARQ-I------DDTA-----ALESA--SW-GTFQIMGFHW
+QRLGYVSVQA-FAESMGRS-ESAQFEAFVRFID---TDP---------------ALHKAL
+KA-----RKWADFARLYNGPD-YKRNL--YDIKLARAY-
+>WP_039045593.1 N-acetylmuramidase family protein [Plesiomonas shigelloides]
+NQLTIGDLQAAAIELG--L-SLPIMA--AFAQVEAA-G------EG----FD--------
+-TL---Q------RPRILFERHIFYKQLAASLG---------------TAAA------DD
+-M-------------A--------------RK--YPQ-----LCNQK-------------
+----------------------------------------------RGGY-Q-GG-----
+--A---------TEWSRLQTAMT-I------SRNA-----AIESA--SW-GMFQIMGFHW
+QSLGYASAAD-FMAAMCRS-ESQHLQAVTKFIA---NDR---------------TLLAAL
+KA-----RKWADAARRYNGPA-YKENR--YDQKLAEAY-
+>WP_143488013.1 N-acetylmuramidase family protein [Pseudomonas mangiferae]
+---------EAADRIG--V-PLAAMQ--AVNAVESN-G------AG----FL--------
+-SN---G------RPTLLFERHVMYERLLMPRPG--------ESRDTRQATV------DE
+-L-------------V--------------RQ--YPN-----IVNPV-------------
+----------------------------------------------RGGY-V-GG-----
+--T---------AEHQRLALACQ-L------DGNA-----GIESA--SW-GLFQIMGYHW
+QRLGYPNPQA-FANAMADS-EGHQLDAFVRFIE---SDT---------------ALLKAL
+KG-----CKWADFARRYNGPA-YARNL--YDVKLKRSF-
+>MBM9595882.1 DUF3380 domain-containing protein [Roseitranquillus sediminis]
+-------------------------K--AVTAVEAR-G------SG----FI--------
+-KN--TD------MPCILFEGHWFHKFTR-----------------------------GA
+-Y-------------D--------------NH--YPH-----LSYAKW------------
+---------------------------------------------TKQHY-K-GG-----
+--R---------GEYDRLLEAIT-VSD----DPDP-----ALRST--SW-GLFQIMGFNH
+EMAGHATVRE-FVNAMAES-EGNQLKAFVSFVE---AEP---------------ELAESL
+RS-----QQWSDFASRYNGPG-YKKNQ--YDTKL-----
+>MCC7005286.1 N-acetylmuramidase family protein [Ottowia sp.]
+---KSSDLQKAADELA--V-PLASIQ--AIHTVESH-G------RG----FL--------
+-RD---G------RPVILFERHIMYRQLKAK-----------------GSDV------TT
+-L-------------A--------------LR--YPN-----IVNLQ-------------
+----------------------------------------------RGGY-M-GG-----
+--A---------AEHQRLNIAKT-L------DAGC-----AIAST--SW-GSFQIMGWHW
+QQLGYASAQG-FSDAMYQS-EAHQLDAFVRFVK---TDA---------------ALYRAL
+KS-----QSWAEFARGYNGAA-YKENQ--YDVKLEQAYQ
+>WP_015173563.1 N-acetylmuramidase family protein [Geitlerinema sp. PCC 7407]
+--LQEQDYAEVAVRLS--V-EVAVIK--AVVQVESS-G------AG----FL--------
+-SD---G------RPKILFEATWFSHFTE-----------------------------SR
+-Y-------------D--------------HL--HSN-----LSSAKW------------
+---------------------------------------------DRSLY-K-GG-----
+--L---------AEWRRLNAAIA-L------SPKS-----ALKSA--SW-GLFQIMGFNH
+PLCGYANIED-YVTDMQRS-EGHQLRAFVAFIE---NQ----------------GLSKYL
+RN-----RDWAGFAYHYNGPS-YATLA--YDHKLASAYS
+>WP_231110434.1 N-acetylmuramidase domain-containing protein [Burkholderia territorii]
+APLDDGGLSAALDALQ--V-GAAQLW--AVLHVETG-G------VG----YL--------
+-SD---R------RPDILFERHIFSRLTY-----------------------------GQ
+-F-------------D--------------GT--NPD-----VSNRQ-------------
+----------------------------------------------PGGYGA-GG-----
+--A---------HQYDRLDAAMA-L------DSSA-----ALKSA--SW-GIGQTMGFNY
+QEAGCANVED-MVARMVQS-ESDQLMCAAGEIL---EG----------------GAVAAL
+RA-----RDWTNFARIYNGPN-YAQNN--YDSRLSAAYQ
+>DAY37639.1 MAG TPA: N acetylmuramidase [Myoviridae sp.]
+TGISDTAYSRVAKSIG--V-EPAVIK--AVKTVESN-G------SG----FL--------
+-PS---G------QIKSLFEGHVFWRELTAR-----------------KLEP------EK
+IL-------------N--------------KD--NQN-----ILYKTW------------
+---------------------------------------------TTKHY-K-SG-----
+--V---------VEYNRLVRALE-I------NREA-----AFASA--SY-GLFQIMGNNY
+KLCGCTSPED-LYNKMCHS-ETKQLELFGEFIK---QS----------------GMVNCL
+KK-----KDWVGFAKRYNGPS-YKQNK--YDTRLEQAYN
+>NJO55114.1 DUF3380 domain-containing protein [Rhodospirillales bacterium]
+KALSPAGLATAADTLG--V-NAAAMW--AVLSVETR-G------AG----FL--------
+-SD---R------RPIILFERHVFSRRTG-----------------------------RR
+-F-------------D--------------HS--HPA-----ISNVS-------------
+----------------------------------------------FGGYGR-SG-----
+--A---------QQYERLANALS-L------DRRA-----ALESA--SW-GLGQVMGHHA
+ERLGYGHVEQ-MVAAMAEG-EDAQLAAMAGFIR---AHR---------------RCHRAL
+MA-----LDWTAFARIYNGPG-YARNN--YHRRLEQQYR
+>WP_196065750.1 N-acetylmuramidase family protein [Bacteroides cellulosilyticus]
+--LTDDDFNQVSRMLA--C-EPAALK--AVQQVETG-GR-----GG----FF--------
+-VP---G------KPAILFEGHIFWSQLKKR-----------------CLHP------ED
+-Y-------------V--------------NG--NES-----ILYSVW------------
+---------------------------------------------TKQYY-K-GG-----
+--I---------RKYERLEQART-I------NREA-----VDSSA--SW-GMFQIMGFNY
+AACGEKCVKS-FVQSMCES-ECKQLLLFANFIQ---KNP---------------PMLRVL
+QS-----KDWAAFAKCYNGPA-YAQNR--YDVKLVEAYQ
+>WP_064598381.1 N-acetylmuramidase domain-containing protein [Mangrovibacter phragmitis]
+NVITEDYFIEAAHTLK--C-EVAAVK--AIAMTETK-G------SP----FL--------
+-SP---G------KPYILYERHIFSSLTN-----------------------------NR
+-F-------------D--------------TS--HPD-----ISAKEP------------
+----------------------------------------------YPHY-G-TY-----
+--N---------QQYIRLDEARK-L------DENA-----ALESA--SW-GAFQILGRYY
+KRCGFNSIQQ-FVSGMKTI--DGQFYSFINFIN---SDN---------------SLLNAL
+QQ-----KSWRRVAYIYNGRA-YYKKH--YDIRLANNYQ
+>WP_183380133.1 MULTISPECIES: N-acetylmuramidase domain-containing protein [unclassified Herbaspirillum]
+RPITEHHYLSVAKEIG--C-DVAVIK--AIAEQETH-G------DP----FW--------
+-KM--EG----MYFPVIVFERHWFRKLTG-----------------------------YK
+-F-------------DRKTNKVISESK--FSE--YSD-----ICGPEYKKQK--------
+-----------------------------KINNKNKY-------SEDETY-G-TK-----
+--N---------LQLIRLSKAYK-L------DKEA-----ALKSC--SW-GMFQIMGFNH
+LEAGYSTAFS-FVKDMSKS-EFHQFEAFKDFCL---RTKRG-------------RLRDAL
+VS-----KDWEKIASHYNG--------------------
+>OLP19632.1 hypothetical protein BST81_04835 [Leptolyngbya sp. 'hensonii']
+---------------N--V-SVATIK--AVVEVETS-G------GG----FL--------
+-PD---G------RPKILFEAHYFSYYTN-----------------------------HV
+-Y-------------D--------------DS--HPN-----ISSYSW------------
+---------------------------------------------NRSLY-I-GG-----
+--A---------AEYNRLNQAIA-L------NRTA-----ALMSA--SW-GLGQIMGDNF
+RAAGYANVEA-FVKDMYES-AGKQLQAMVNFIR---AN----------------SLDDEL
+RR-----QDWAGFANGYNGPA-YRQNQ--YDLKLKAAY-
+>MBL8043534.1 N-acetylmuramidase family protein [Nitrospira sp.]
+PRISDTDIAKEATTLA--V-EPAVIY--AVSKVESG-GT-----TG----FD--------
+-DQ---G------RPKILFEALWFNRFTE-----------------------------GR
+-Y-------------D--------------KS--HPH-----LSQASW------------
+---------------------------------------------TGARR-Y-YS-----
+--I---------DQWTRLTEAFA-L------NAEA-----ALKSA--SW-GKFQVMGFNH
+N--GFDDVFT-FCDAMFVS-EAGHLRSFVAFCT---DN----------------KLVQYL
+RS-----KDWAKFALGYNGPA-YKENK--YDEKMESAYN
+>ATC34181.1 DUF3380 domain-containing protein [Caulobacter vibrioides]
+---SDDDVRAAAKVLC--V-TTRHVR--AVMAVESR-G------RG----VH--------
+-PE--TR------RPIILFEPHIFARETK-----------------------------GR
+-F-------------S--------------AT--HPD-----ISYATW------------
+---------------------------------------------GGKPYPA-TQ-----
+--G---------QRYDQLVAAMA-L------DETA-----ALRSA--SY-GLFQIMGFNH
+RACGHASVQS-FVRDMIQG-ERAQLRCFALFIV---ANH---------------DMHAAL
+KA-----SDWAGFARRYNGPG-FAQHG--YDQKLK----
+>WP_137938592.1 N-acetylmuramidase domain-containing protein [Chitinivorax sp. B]
+---SETQLDQVLANLG--V-TAPALW--AVIEVETA-G------DG----FL--------
+-PS---R------KPRILFERHKFSAKTN-----------------------------HQ
+-Y-------------D--------------QS--HPD-----ISQPT-------------
+----------------------------------------------WGGYGP-GG-----
+--E---------HQYDRLNEACA-L------NWNA-----ACESA--SW-GLGQVMGEQW
+QSLGYASIQA-FVAAMCMD-EGGQLDAMARFIR---VN----------------KLDLKL
+QS-----KDWQGFARSYNGPA-YADNR--YDIKLSQQYQ
+>WP_160928707.1 N-acetylmuramidase family protein [Vibrio tetraodonis]
+---SQQDYLLASKALD--C-DVAAIK--AVSEVESN-G------NG----FL--------
+-RS---L------RPKILFEAHQFSKHTQ-----------------------------RV
+-F-------------D--------------DS--YPN-----LSSKAW------------
+---------------------------------------------NPSLY-S-GG-----
+--E---------SEYLRLQQAME-L------DRDA-----ALMST--SF-GRYQIMGFNY
+QAAGYDNIEA-YVRDVFLS-EANHLRAFTNFIK---SNV---------------TLLDAI
+QT-----HNWSQFALHYNGSG-FAQNH--YDEKLAAAYN
+>WP_238999846.1 N-acetylmuramidase domain-containing protein [Jeongeupia naejangsanensis]
+------DLQRAADLLG--V-PLACIQ--AVNAVESR-G------SG----FL--------
+-DD---G------RPVILYERHIMYRQLEKA-----------------GHAA------AA
+-I-------------A--------------SR--YPD-----LVNTA-------------
+----------------------------------------------RGGY-A-GG-----
+--S---------AEYVRLANARR-I------DDAC-----ALEAC--SW-GAFQVMGYHW
+QALGYASINE-FVERMQRN-EGDHLEAFCRFVL---SEP---------------ALIKAL
+RG-----RKWADFARGYNGAA-YRENL--YDVKLARAY-
+>WP_236350075.1 N-acetylmuramidase domain-containing protein [Aeromonas veronii]
+NQLTITDLQQAADRLC--V-ELAKLA--AFAQVEAA-G------EG----FD--------
+-DC---Q------RPRLLFERHVFFKQIAKLQG---------------EAEA------NR
+-L-------------A--------------GL--YPA-----LCNPK-------------
+----------------------------------------------RGGY-Q-GG-----
+--P---------AEWARLQTAMT-L------HRAA-----AIESA--SW-GMFQVIGYHW
+QELGYASADD-WLAAMQQS-EREHLRAVVGFIE---LDP---------------VLHKAL
+KA-----GKWSEVARRYNGPA-YKENR--YDTKLAEAYD
+>MCJ8317002.1 N-acetylmuramidase domain-containing protein [Idiomarina sp.]
+-------LQKAADKLG--V-SLAVMA--AVAEVESV-G------EG----FF--------
+QTT---G------KPVILFERHVFHGRAKEAGI---------------FEEA------PD
+-L-------------E--------------SK--YPN-----VCNPS-------------
+----------------------------------------------PGGY-A-GG-----
+--T---------AEYQRFKLAST-L------SAKT-----AKESC--SW-GMFQIMGYHW
+ELLGYDSVSQ-FVDAMHES-EANHLDAVVRFIL---AQP---------------EMHSAL
+KQ-----KEWAEFAYRYNGPA-YHRNL--YDVKLQRAYE
+>WP_136931172.1 N-acetylmuramidase domain-containing protein [Polyangium fumosum]
+--LVPTDFANAARELG--C-ETAAVR--AVAEVESG-GR-----SG----FD--------
+-AQ---K------RPKILFEVHKFRKHTA-----------------------------RR
+-Y-------------D--------------QS--HPH-----LSAPYE------------
+---------------------------------------------SPRRRES-YR-----
+--K---------DQWQVLREAFT-L------DPEA-----AVKSC--SW-GMFQVMGENH
+AMCGWRNVRT-FVEDMFVS-EAQHMRAFLGFCR---DK----------------RLTRHL
+LT-----KNWAAFALGYNGED-YASNQ--YDTKMAEAY-
+>CAA6808671.1 Putative phage-encoded peptidoglycan binding protein [uncultured Sulfurovum sp.]
+----------RAEEND--L-SPAAVK--AVVKVESN-G------RG----FH--------
+-RD---G------SLKILFEGHIFWKELNKV-----------------NVNP------NN
+-H-------------V--------------EG--NKD-----ILFKSY------------
+---------------------------------------------TKAYY---RS-----
+--S---------LQYGRLNKAKR-I------HKEA-----ALKSA--SY-GMFQVMGFNY
+KVAGFNSVDD-FIASLQKS-EKNQLEAFFNFVK---NTK---------------GCFKAL
+QN-----KDWARFARIYNGPA-YRTNQ--YDEKMERHYA
+>MBR3878412.1 N-acetylmuramidase family protein [Bacteroidaceae bacterium]
+--LTEEDFQRCATTLD--V-EVATVK--AVQEVETG-GR-----GG----FF--------
+-EI---D------KPAILFEGHIFWNELKKR-----------------GKTP------ED
+-Y-------------L--------------KG--NED-----ILYPKW------------
+---------------------------------------------SKEHY-K-GG-----
+--I---------KEYERLERAIA-I------DEEA-----AISSA--SW-GLFQIMGFNY
+STCRCDSVQQ-FVALMKEN-EGKQLDLFTAFIK---SN----------------RLDTYL
+RN-----KDWAGFAKRYNGPA-YSKNQ--YDAKLEKAYT
+>MBE9028417.1 DUF3380 domain-containing protein [filamentous cyanobacterium LEGE 11480]
+KKLNNSDYVEVARMIG--T-NTATIR--AVVEVEAA-G------SG----YF--------
+-SD---G------RPKILFEAHWFSAFTN-----------------------------SR
+-Y-------------D--------------YS--YPS-----ISSPVW------------
+---------------------------------------------NRSLY-I-GG-----
+--V---------GEWDRLYKAVR-L------DRAG-----ALKSA--SW-GLGQVMGFNH
+VAAGYSNVED-FVKDMHTS-EGKQLMAMFNFIN---YN----------------GLAPYL
+VR-----RDWAGFALRYNGEG-YRVNQ--YDVRLAQAYN
+>MBR2775630.1 N-acetylmuramidase family protein [Prevotella sp.]
+---TETDFDRAAMLLD--C-EPAALK--AVRKVETG-GK-----GG----FL--------
+-PS---G------RPTILFEGHIFWQQLRAR-----------------GIDP------QG
+-V-------------A--------------TG-KNED-----ILYPKW------------
+---------------------------------------------TKAHY-K-GG-----
+--E---------AEYGRLLRARH-I------NEDA-----ANASA--SW-GMFQIMGFNH
+AACGEPSVAS-FVSSMCQS-ECRQLLLSVRFIR---GNR---------------PMLGAL
+QK-----KDWKAFARLYNGPA-YAQNR--YDEKLSTAYS
+>SAL57935.1 phage-encoded peptidoglycan binding protein [Caballeronia humi]
+APLDEDGVGNALDTLG--I-NAPELW--AVLAVETR-A------CG----YL--------
+-AD---G------RPAILFERHKFHAETK-----------------------------GQ
+-F-------------D--------------AS--HPD-----VSAPT-------------
+----------------------------------------------AGGYGA-GG-----
+--A---------HQYDRLAEAAA-L------DETA-----ALRSA--SW-GLGQVMGFNF
+SSAGYSSVQD-MVSAMTRS-ESDQLQATARLMV---GN----------------GWQKPL
+RQ-----HDWATFARNYNGPD-FRANN--YDVRL-----
+>WP_168967091.1 N-acetylmuramidase family protein [Aeromonas sp. DNRA1]
+NQLRIGDMQAGADLLG--L-PLATMT--TVAQVESI-G------EG----FT--------
+-TD---M------RPVVLFERHVFYKQLTKHLG---------------KATA------DQ
+-M-------------A--------------AS--YPN-----LVNPK-------------
+----------------------------------------------RGGY-A-GG-----
+--A---------AEWERLQLAIS-L------HREA-----AIESA--SW-GMFQIMGFHW
+QALGFASASD-WQTAMQRS-EVEHLTALCRFIQ---QDP---------------AMHKAL
+QG-----RKWADFARRYNGPA-FKEND--YDTKLARAYD
+>NBB68785.1 DUF3380 domain-containing protein [Alphaproteobacteria bacterium]
+-------IERGAERLG--V-STAALR--AVIAVETA-G------GG----FV--------
+-DG---D------LPKILFEGHIFHRLTE-----------------------------GA
+-F-------------D--------------DE--RPD-----LSHSRW------------
+---------------------------------------------TKAHY-K-GG-----
+--R---------GEYDRLLDAVG-F------DADA-----AMQAC--SW-GLGQVLGTHF
+AICGFASIDD-FVDTMAAG-EGGQLDAMVGFIA---HH----------------GLAEPL
+RE-----EAWAEFARRYNGPG-YAANA--YDTKL-----
+>HIX04170.1 N-acetylmuramidase family protein [Candidatus Odoribacter faecigallinarum]
+--LTDCDFAAAAERLG--T-DVPSLR--AVHEVETG-SS-----NG----FW--------
+-AP---G------KPIILFEGHVFWKQLEQR-----------------GISP------AP
+-L-------------A--------------AG--NES-----ILYPRW------------
+---------------------------------------------TRRYY-G-TE-----
+--R---------EEYARLARALR-I------HEEA-----ALMSA--SW-GMFQIMGFNH
+KACGFASVHD-FVRAMSQS-PQAQLLAFVGFVE---QR----------------GLVPFL
+RE-----HRWGDFARRYNGPG-YVYNR--YDLKLREAY-
+>MCP9760039.1 DUF3380 domain-containing protein [Aquitalea sp. S1-19]
+---SEDDIEAAAHLLD--V-DAAAIR--AVVEVESR-G------AG----FD--------
+-EN---S------EPAVLFERHVFHRNLPKE-------------------AA------TA
+-L-------------A--------------AS--HPE-----LCSAK-------------
+----------------------------------------------RGGY-Q-GG-----
+--K---------AEMARIRRAAK-L----CGDAGI-----AWESA--SW-GLFQIMGYHW
+RAMGYASADD-FVNAMWKS-EGEQLQAFVRFVK---INP---------------SIWRAL
+KD-----RNWKAFARHYNGPA-YAENL--YDVKLARAY-
+>WP_068336430.1 N-acetylmuramidase family protein [Photobacterium jeanii]
+EKITEHDIDQMAEKIG--C-EAAVIK--AVIDVESR-G------SA----FL--------
+-LS---G------KPKILFEAHIFSKLTK-----------------------------RQ
+-F-------------D--------------VS--HPH-----ISSRTW------------
+---------------------------------------------NRTLY-K-GG-----
+--E---------KEYPRLEDAIS-L------SPQH-----ALKSA--SW-GAFQIMGFNH
+KLAGFDTVES-FVSSMYKS-EKKQLDAFLSFIV---SC----------------GLKNHM
+VE-----KNWAQFAKGYNGSE-YKKNK--YDTKLAEAY-
+>WP_058379124.1 MULTISPECIES: N-acetylmuramidase family protein [Burkholderiales]
+--LIPADFQKAALLLS--V-PVAAVK--AVTEVESR-G------SG----FF--------
+-DD---G------RPVILFERHIMYRRLKDAIG---------------PQLT------ET
+-Y-------------A--------------KS--HPG-----VVNAT-------------
+----------------------------------------------PGGY-R-GG-----
+--V---------AECDRLDEAAK-I------HRAC-----ALESA--SW-GLFQIMGFHW
+QLLGYGSVQE-FINAMYRD-EAAQLDAFVRFVK---ANP---------------AIWSAL
+KA-----QDWAKFAKNYNGPN-YAANK--YDTKM-----
+>WP_170954699.1 N-acetylmuramidase domain-containing protein [Polaromonas sp. AER18D-145]
+---------TVLGRLG--V-DAPALW--AVLTVETS-G------CG----FL--------
+-PD---R------RPKILFERHWFSRLTN-----------------------------GR
+-F-------------D--------------GQ--APD-----ISNRS-------------
+----------------------------------------------AGGYGN-GG-----
+--A---------SQYERLTRAMM-L------DREA-----ALKST--SW-GLGQVMGFNA
+SKVGSASVDA-LVSASLAS-EDAQLDAMAGFIE---QG----------------DLARHL
+RN-----ADWVQFAFSYNGQD-FQKNR--YDEKL-----
+>PWT75595.1 peptidoglycan-binding protein [Chloroflexi bacterium]
+VVIDSDGLAEALGILG--T-EQPELW--AVLSVETG-G------SG----YL--------
+-SD---R------RPRILFERHIFHKETD-----------------------------GK
+-Y-------------D--------------TD--YPD-----LSNPR-------------
+----------------------------------------------PGGY-L-LG-----
+--A---------REYDRLNAAIL-L------DQTA-----ALLSA--SW-GLGQVMGFNA
+TVAGFANVDT-MVQDMVDS-ENAQLSGMATFID---SQ----------------DIAESL
+RA-----HRWSDFAKAYNGQD-YKKNQ--YDTRL-----
+>WP_211344897.1 N-acetylmuramidase domain-containing protein [Archangium gephyra]
+---------ACADKLS--V-HPAEIW--AVLQIETR-G------CG----YF--------
+-AD---R------RPAILFERHVFSRRTQ-----------------------------GR
+-F-------------D--------------AQ--APD-----LSNSK-------------
+----------------------------------------------AGGY-A-SG-----
+--P---------AEYPRLERAMA-L------DEQA-----AMESA--SW-GLGQVMGYHA
+QDLGYGSVQQ-FVSRMMAS-EDEQLAAMATFIQ---HH----------------GLDEAL
+RT-----HDWAAFARGYNGSG-YAKNE--YDKKL-----
+>WP_232879536.1 N-acetylmuramidase domain-containing protein [Pseudomonas monteilii]
+---KNADLVRAADRLG--V-PLAAVY--ALNEVESK-G------RG----FL--------
+-DN---G------KPVILYERHIMYARLQTIRQHYDDQEQLEQQRDQLQQRA------NQ
+-L-------------A--------------EQ--FPA-----LVNPK-------------
+----------------------------------------------FGGY-V-GG-----
+--T---------AEHQRLAQARS-I------DDQA-----ALESC--SW-GAFQVMGFHW
+ERLGYASVQD-FVEAMYRS-ESDQLEAFVRYIE---ADP---------------TLLKAL
+KS-----LKWAKVAELYNGPA-YKRNL--YDVKLQRAF-
+>NBR11424.1 DUF3380 domain-containing protein [Alphaproteobacteria bacterium]
+TPLTRRDVDEVLDLIG--A-EEAALW--AVLAVETS-G------SG----FL--------
+-PD---R------RSKILFERHYFHRLTN-----------------------------GR
+-F-------------D--------------AD--HPE-----ISAKS-------------
+----------------------------------------------AGGYGA-AG-----
+--A---------HQYDRLRIALQ-L------DEAA-----ALQSA--SW-GLGQIMGSHF
+AKLGYATPVE-MVETFARS-EGEQLTAIAKFLI---AE----------------GLVDVI
+RE-----KNWAHFARVYNGPN-YAINR--YDEKLASYY-
+>WP_040041870.1 N-acetylmuramidase domain-containing protein [Noviherbaspirillum autotrophicum]
+GDVTQSDIEDAAKELQ--C-QPGLIY--ALAKQESS-S------SS----FF------KL
+GNR---M------VPKILYERHQFKNRTSPK-----------------KKLP------SP
+-Y-------------E--------------NK--YPD-----ICGPAYSRAKK-------
+----------------------NKRGEWIELKSGAIL-------MESDVY-GPSG-----
+--I---------FQYKRLSKAYQ-L------DPFA-----ALEAC--SW-GKFQIMGFNY
+KRAGFNDVKA-FTKAMSRS-DVEHIKAFLKFAK---SNK---------------VLLNGL
+RM-----KNFEKIAEGHNG--------------------
+>WP_238745903.1 N-acetylmuramidase domain-containing protein [Kingella sp. CICC 24913]
+---TEADIAEAAALLE--V-EPAAVK--AVIQVESA-G------AG----HL--------
+-KEP-QQ------RVKILFERHIFARLLKER--D--------------SAAY------EK
+-A-------------C--------------RE--APH-----ICQTT-------------
+----------------------------------------------PGGY-K-GG-----
+--A---------AEYPRLARAMM-Y------HHET-----AMEAA--SW-GLFQIMGFNY
+KQAGFDSIHA-FVDAMKES-EGQQLTAFARFVK---ADK---------------AMHAAL
+KK-----HDWAAFAKRYNGPA-YQKNN--YDAKLANAYR
+>MBA1187568.1 N-acetylmuramidase family protein [Pseudomonas entomophila]
+---ARRDLLEAAGRLD--V-PLASIA--ALKDVESR-G------QG----FL--------
+-PD---G------RPTLLYERHIMYRRLHLPNKA-------EDVPAQLQQRA------EA
+-L-------------A--------------RT--YPS-----LVNPK-------------
+----------------------------------------------PGGY-V-GG-----
+--A---------AEHERLARARE-I------DDER-----ALESA--SW-GAFQVMGFHW
+SRLGYANVTA-FVEAMQRS-ETDQLEAFVRFIE---TDA---------------VLHRAL
+KA-----QQWSAVAKRYNGPD-YRRNQ--YDTKLQQAY-
+>WP_012702273.1 N-acetylmuramidase family protein [Azotobacter vinelandii]
+HLLKQRDLERAAERLG--V-PLASVL--AINLVESK-G------NG----FL--------
+-DN---G------RPEILFERHVMRERLLEHGYI-------LPSLGTPEATA------AA
+-L-------------A--------------ER--YPG-----IVNAT-------------
+----------------------------------------------PGGY-A-GG-----
+--A---------AEHQRLAQARQ-I------HDSA-----GLESA--SW-GLFQIMGYHW
+QRIGYASVQE-FAHCMAEN-EAQQLGAFVRFIE---ADQ---------------ALHKAL
+KA-----RKWAEFARRYNGAA-YARNL--YDVKLTRAY-
+>WP_090835646.1 N-acetylmuramidase family protein [Paraburkholderia hospita]
+--LTLDDFKRAAADLG--V-AVAAIR--AVASVETR-G------SG----FL--------
+-AD---G-----VRPVILFERHVMRKQLIANTG---------------SRSP------SI
+-I-------------Q--------------YA--NPN-----IVNAS-------------
+----------------------------------------------TGGY-Q-GG-----
+--A---------AEWDRLAEAIK-L------DRQS-----ALESC--SW-GAFQIMGYWW
+KSLGYASVQA-FVNAMYSG-EPGQLDAFVRFVK---ANP---------------NLLHAL
+RA-----QDFAAFAKGYNGPD-YAKNK--YDTKM-----
+>YP_010052796.1 hypothetical protein KE333_gp47 [Ralstonia phage Bakoly]
+----------LAATLG--C-EEAAIG--AAVRVETQ-G------AG----FL--------
+-DD---G------RPKILLERHYVWRLAG-----------------------------PT
+-L-------------RP-------------KL--PPD-----LCNPT-------------
+----------------------------------------------PGGY-L-GS-----
+--T---------REWDRYERLVA-L------TGGE-----ALAASCVSW-GLPQIMGANY
+AQAGFPTVLS-LATAMARD-EMAQLRALQAFIL---HSP---------------ALLSAL
+RN-----KDWHSFAVHYNGPA---QKG--YDERMAAAYN
+>MCA3174867.1 DUF3380 domain-containing protein [Burkholderiales bacterium]
+-PITNKEWEDAAEILE--T-EPEILR--AIAKVECG-TH-----LP----FW--------
+-RL---NHGEGAHLPAILYERHYFSRLTK-----------------------------RK
+-F-------------D--------------AS--HPD-----ISWRTGYQKK--------
+----------------------SQLGTTDAKMHDGRV-------DGDDIY-S-NF-----
+--A---------SSYLRLLNAYR-L------DPIA-----ALKSC--SW-GRFQIMGANH
+GLCGKTSLTD-FVKIMARS-EKGQLSLFQGFIR---HRGR--------HPAASLSLWEAV
+KQ-----KDWPSIACNYNGSG-YREHN--YDTKLKAAY-
+>WP_092006143.1 N-acetylmuramidase family protein [Paraburkholderia lycopersici]
+VHLTDAELVKSAATLG--V-PVPAIR--AVNEVESR-G------QG----FM--------
+-TD---G------RPVILFERHVFYAGLKSR-----------------GIDA------DA
+-L-------------A--------------AK--YPN-----IVSAT-------------
+----------------------------------------------RGGY-M-GG-----
+--A---------AEFDRLAAAVR-I------HPDA-----ARESA--SW-GAFQIMGYHW
+KKLAYSSIDD-YVSCMYRS-EVDQLDAFVRFVA---ADA---------------GLLVAL
+KG-----QAWADFARRYNGPD-FARNL--YDAKLAQAF-
+>UCS82818.1 endolysin [Yersinia phage vB_YenS_P400]
+---NQVDIKRAADKLG--V-EPAKVW--AVTEVESN-G------YG----ML--------
+-PS---G------KPKILFERHVFRKELAKR-----------------GIKT------DG
+-L--------------------------------PES-----ICSVK-------------
+----------------------------------------------TGGY-Q-GG-----
+--E---------AEYNRLDRAAK-I------EREA-----ALSSC--SW-GLFQIMGYHW
+KALKYASLQE-FVNAMYSG-EAGQLDAFVRFIQ---ANP---------------QLDKAL
+KS-----GDWTAFAKGYNGAG-YKANR--YDEKLKAAYD
+>RZM20815.1 DUF3380 domain-containing protein, partial [Sphingomonas sp.]
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------AKS-------------
+----------------------------------------------AGGY-G-KF-----
+--A---------AQYPKLIRAAM-L------DEDA-----ALRSA--SW-GKFQIMGDNF
+KACGFTNVAS-FVDAMLEG-ERRHLAAFVSFIG---ADG---------------RLKTAL
+QK-----REWATFARIYNGPK-YADNA--YDTKMADAYA
+>WP_144154963.1 N-acetylmuramidase family protein [Paraburkholderia sp. BCC1885]
+LMLTDDHFSYLAKSFG--C-EAAAVK--AVTMTETG-G------RG----YD--------
+-KN---G------LPRILLERHYFYRLSLPK-----------------AKQANWKHEKNP
+-Y----------------------------SK--FSD-----VCNPI-------------
+----------------------------------------------YGGY-G-PA-----
+--E--------LHQYERLVKAAR-L------DQDA-----ALMSC--SW-GAFQVMGESF
+KDCGCTSVVE-MVNSYLKS-IDGHVQMFEQFMK--NAKP---------------VAIKAL
+KE-----KNWVDFATAYNG--------------------
+>WP_200204715.1 N-acetylmuramidase family protein [Marinobacter sp. 1-3A]
+---TEKDIKAAAKKLG--V-QVAAIK--AVTEIESR-E------SG----FL--------
+-PS---G------RPVILFERHIMYRRLLPS-------------------ER------AH
+-N-------------A--------------VS--FPG-----IVNRK-------------
+----------------------------------------------PGGY-V-GG-----
+--E---------GEWRRLRRACG-I------HEPT-----AIESA--SW-GLFQIMGFHW
+RSLGYESAQK-FYHKMILS-EGEQLEAFVRFIK---QDS---------------HLHKAL
+KD-----RDWPDFAERYNGPA-YAKNQ--YDTRLAAAYQ
+>NQZ32519.1 DUF3380 domain-containing protein [Oceanospirillaceae bacterium]
+HWLSQSDLAQAAQDLG--V-SMACVH--AIKTVESK-G------LG----FL--------
+-ND---G------RPKILYERHVMLKRLHKNRLG--------------KITI------AN
+-A-------------R--------------TN--HPD-----LVNQK-------------
+----------------------------------------------PGGY-K-GG-----
+--T---------RAHNRLAIAQT-I------DDTS-----ALESC--SW-GLFQIMGYHW
+KHLGYTSVQE-FVALMHAN-EGNHWQAFTRFVK---ADK---------------ALHRAL
+KA-----QNWSEFARRYNGPA-YKKNH--YHTKLANAYH
+>WP_250450486.1 N-acetylmuramidase family protein [Lysobacter enzymogenes]
+---SPQAWKDLAERLG--V-DEACLK--AVAEVESS-G------GG----FM-------R
+PPS---Q------LPKVLFEGHVFHRQTQ-----------------------------GR
+-F-------------D--------------AS--HPE-----LSYPHW------------
+---------------------------------------------DRSKYSG-SV-----
+--A---------GEWKRLDAACA-L------DRGA-----ALESA--SW-GAFQIMGFNF
+AMCGFDDIEA-FVTAHKQS-AEAQLAAFSSFIR---RP----------------GLLDAL
+RN-----KDWKGFAAAYNGLG-FAKNS--YDTKLATAY-
+>WP_204814827.1 N-acetylmuramidase domain-containing protein [Agrobacterium salinitolerans]
+----------------------ASIK--AVCAVEAL-G------SG----FL--------
+-NS---G------RLKILYEAHKFSAATG-----------------------------RK
+-Y-------------D--------------KT--HPN-----VSSKSW------------
+---------------------------------------------NKALYGA-GG-----
+--E---------HQYTRLKQAMA-L------NETA-----ALASA--SW-GMFQILGSNY
+AAAGFPSVHA-FVYDQLQG-EDNQLLAFCSFVK---ANS---------------TMHKAL
+VK-----RDWATFARLYNGPG-YKANA--YDTKL-----
+>WP_115372622.1 N-acetylmuramidase family protein [Adhaeribacter pallidiroseus]
+------------KQFN--L-PLAGVR--AMVEVESA-G------SG----YV--------
+-PDG-SG------RPKILFERHKFHNFTN-----------------------------GM
+-Y-------------S--------------TT--HPV-----ISNKL-------------
+----------------------------------------------AGGY-S-TGATATV
+RSQ---------KEWFRMAQAIQ-L------DSKA-----ALASA--SW-GMGQVMGYHW
+QKLGYASLQD-FVNAMYES-EYNQLVAMFRYCK---LVP---------------GLMAAI
+TM-----ADWDDVARMYNGVS-YAKHQ--YHIKLAKAY-
+>BCN08514.1 peptidoglycan-binding protein [Ralstonia solanacearum]
+------DLQAAADTLN--V-PLAAVR--AVNEVESL-G------SG----FL--------
+-AD---G------RPVILFERHVMYDQLKKA-----------------GKDA------DA
+-L-------------A--------------LQ--FPN-----VVSKL-------------
+----------------------------------------------RGGY-V-GK-----
+--A---------GEYMRLTQAIQ-I------DETC-----ALSSA--SW-GLFQIMGYHA
+RRLEYRDVQE-FVTAMRTS-EAAQLEAFVRFIA---ADP---------------ALQKAL
+AG-----RKWAAFSAGYNGPA-YKTNL--HDVKMERAF-
+>WP_089851503.1 N-acetylmuramidase family protein [Halomonas saccharevitans]
+---RQADLVGAAETLE--V-ELAAMM--AVNEVESR-G------VG----FHH-----GG
+PRN---G------APVILFERHIMRRRLEHH-----------------GISP------KP
+-W-------------E--------------SR--TPN-----LVNRH-------------
+----------------------------------------------PGGY-Q-GG-----
+--P---------HEHGRLARAGE-I------HAEA-----AIESA--SW-GLFQIMGFHW
+QHLGYSSARV-WEEAMRAS-EGRQLEAFVSFIE---SDH---------------ALHAAL
+RH-----RDWRDFARRYNGPD-FERND--YDTRLDAAYR
+>WP_252985175.1 N-acetylmuramidase domain-containing protein [Burkholderia multivorans]
+DPITEQDFADAAKEIG--C-KVNVIK--AVHQTEVG-G------GS----FTT-------
+-VD---G----RTVPKILYERHYFYRLTG-----------------------------NK
+-Y-------------W--------------DT--NPD-----LSYPIGYYRLGTRYLKST
+MKLVGEDGKTHDVDVWRRYNKKKDKDHYKESETGKELLAEGVLEKDRDLY-G--------
+--S---------LSYRRLRKAFR-L------NASA-----ALESC--SW-GAFQIMGANY
+KTLGYASALE-MVKALSRS-ERAHLKGFVAFVK---ASP---------------SLVKAA
+KA-----EDFASFAAGYNGPT-YKENN--YDAVMKGHFD
+>YP_009006538.1 endolysin [Acinetobacter phage Petty]
+---------ELADLYG--I-PLAAMK--AIVEVECK-G------SG----FN--------
+-SD---G------TPVILYERHKFYEGLRAINW---------------ITKA------RE
+-W-------------S--------------QK--YPD-----LCNPY-------------
+----------------------------------------------AGGY-G-KY-----
+--S---------EQHKKLDRAAE-L------NRTV-----ALESC--SW-GLGQVMGYHW
+KSLGYTNLQE-FINCMYKS-EYCQLDAMCRFIE---VN----------------KLLPFI
+RK-----KDWAGFAMRYNGGG-YRKNQ--YDTKLSAAY-
+>HBN62668.1 peptidoglycan-binding protein [Porphyromonadaceae bacterium]
+RSLTDCDYRQVARQLG--V-DIASIK--AIVEIETG-RTH----RG----FN--------
+-DD---G------SPIVNFDLRVFRTMASRR-----------------KIDL------DS
+-F-------------E--------------ES--HPL-----VFSEGG------------
+---------------------------------------------------A-TQ-----
+--S---------EHHARLCKAMS-I------DSVA-----AIQST--FW-GMFQIGGFNW
+KSCGASSVSH-FVELMSAS-ERSQLDLFAEFIR---SS----------------GLLPLL
+QA-----KDWSAFARGYNGPS-YAEQG--YHTRLAEAYQ
+>MCP5255919.1 DUF3380 domain-containing protein [Zoogloeaceae bacterium]
+GEISPAQWDEAAAKLQ--C-ETAVLK--AFAEVESG-SR-----AA----FW--------
+-RL---NRGDGAVLPAILYERHYFSRLTA-----------------------------RR
+-Y-------------D--------------HT--HPD-----LSWRVGYRTR--------
+----------------------ARLGKSDRRMHDGRV-------DANDIY-A-NY-----
+--A---------SSYLRLINAFR-L------DPDA-----ALKSC--SW-GKFQIMGANH
+ALCWKTDVKE-FVATMAHS-ERAQLDLLVQFIR---RKPRRWRDANNKALGKEISLWDAV
+KT-----KNWSAIAFNYNGPS-YRTYR--YDQRLKSAY-
+>MBQ0714175.1 N-acetylmuramidase family protein [Paraperlucidibaca sp.]
+---SQADLQAAADELG--V-DLPAVM--AVNNVESR-G------TG----FL--------
+-PN---G------KPVILFERHIMYRRLAASEQP------------ELAENV------DA
+-F-------------A--------------ER--YPA-----IVSQR-------------
+----------------------------------------------PGGY-A-GG-----
+--S---------AEHQRLATAKQ-I------STDC-----AIESA--SW-GLFQIMGFHW
+QALGYESAAD-FEACMCRS-EREQLMAFVRFIK---LDS---------------SLHIAL
+RN-----HRWADFAKRYNGPA-FKRNN--YDRRL-----
+>WP_253949424.1 N-acetylmuramidase domain-containing protein [Mangrovicoccus sp. HB161399]
+KAISEEAYQKAADELG--C-DIAAIN--TVAEVESS-R------AP----FD--------
+-QE---G------RPTILFERHKFRKFTG-----------------------------GR
+-F-------------S--------------QS--HPE-----LSGK--------------
+----------------------------------------------PGNY-G-TF-----
+--S---------EQWPKMAEALK-L------DGEA-----ALKSA--SW-GQFQIMGFNH
+ELAGYSDVED-FVEALA-------------------------------------------
+---------------------------------------
+>GJQ43841.1 peptidoglycan-binding protein [Ignavibacteriaceae bacterium]
+KFLVQQDFIDAAKKLN--V-EVAVIK--AVSEVESA-G------SG----FL--------
+-ED---N-----RFPKILFEPFVFGRRTK-----------------------------HK
+-F-------------N--------------GA--TTT-----INGVVYPLSL--------
+----------------------QGKWSA-----------------KEAKY-G-KS-----
+--N---------IQFQKLDAASK-L------NRQV-----ALESC--SW-GKFQIMGYNY
+YLCGYKDLSS-FVGEMYIS-EGKHLLAFVEFIK---NQ----------------SLAGYL
+RN-----KQWAKFAKAYNGES-YAQNQ--YDIKLEKAY-
+>WP_065618748.1 N-acetylmuramidase family protein [Gilliamella apicola]
+---TTEELQEVATKLA--V-ELAMIQ--AVTKIEAR-H------SG----F---------
+-KN---G------LPVILFERHIFYRQLKKR-----------------GFDV------NR
+-L-------------S--------------QT--YPQ-----LVNLT-------------
+----------------------------------------------AGGY-L-GG-----
+--N---------EENNRLASAKR-I------DRQA-----AIESA--SW-GLFQIMGFHW
+AMLGYQSADE-FEQLMSQN-EQQQLDAFYRFISH-PSNN---------------QLLQVM
+KN-----KDFTRFARLYNGIA-YQKNH--YDVKLKEAYE
+>RYE58507.1 N-acetylmuramidase family protein [Sphingobacteriales bacterium]
+---TEMQFEKSASTLG--V-EPAVIK--AVAEVESN-G------EG----FL--------
+-AN---G------KIKILFEPHIFWKQLRQK-----------------GINP------QL
+-H-------------Q--------------AG--NED-----ILYPTW------------
+---------------------------------------------KPGKY-G-PV-----
+--S---------KQHNRLNRAAA-I------NREA-----ALLSA--SW-GKFQIMGFNF
+QRCNCESVED-FISRLSSG-EDEHLETFICYIK---NT----------------FLDDEL
+KA-----HDWKSFARAYNGPL-YWKNN--YDKKLQKAY-
+>WP_250697822.1 N-acetylmuramidase domain-containing protein [Acinetobacter sp. ANC 3781]
+--ITNDQIVDQAKLLG--I-EVAALK--AVMEVECK-G------SG----FN--------
+-TD---G------SPVILFERHKFYEGLQAINW---------------ITKS------KE
+-W-------------S--------------RL--YPD-----LCNSS-------------
+----------------------------------------------PGAY-G-KF-----
+--S---------EQHNKLDRASK-L------NRDV-----ALESC--SW-GLGQVMGYHW
+KALGYVSLQS-FIDAMYKD-EASQLDAMCRYIK---VN----------------NLISAL
+KN-----KDWKAFARGYNGRN-YAINK--YDVKLADAYK
+>TPW02083.1 hypothetical protein FD124_3522 [Alphaproteobacteria bacterium]
+--------EASAQRLG--C-EVAAVR--AVVKVESG-S------SG----FG--------
+-AD---G------RPIILFEPHIFSRLTQ-----------------------------HR
+-F-------------D--------------QT--DPD-----VSYLSW------------
+---------------------------------------------GDKPYPR-TQ-----
+--A---------DRWAQLAKAYV-L------DQEA-----AVASA--SW-GLFQIMGMNF
+RKCGFNSAKE-FVVDMAKS-EERQLLAFEGFVR---NS----------------DLVDEL
+QR-----LDWEGFARVYNGPG------------------
+>WP_208178747.1 N-acetylmuramidase domain-containing protein [Hymenobacter negativus]
+---TQQDLVDAAKDLG--I-EPEVMM--AIARQESH-G------GG----FF--------
+-KD---G------QPKILFERHKMYSHLKAD-----------------GLDA------KA
+-L-------------A--------------KA--NPD-----IVNPK-------------
+----------------------------------------------QGGY-G-KE-----
+--S---------IQYGKLTRARA-L------DESA-----ALQSA--SW-GRFQIMGENY
+RDL-YKTPQE-MEAAMRAS-EKQQLAFFVAFLR---KKGGG-------------KLVQAL
+KD-----HKWETVAMYYNGKY-WKKINPNYAANI-----
+>PHX39417.1 hypothetical protein AO284_41145, partial [Pseudomonas sp. NZIPFR-PS2]
+MTLSETDFQNAATQLGGGI-SVNIIK--AFATVESG-GR-----SG----FG--------
+-PA---K------LPVIAFEGHLFRKYTK-----------------------------HI
+-Y-------------D--------------QA--HPL-----LSYPYKKKAGP-------
+--------------------------------------------QWQTNN-K-DQ-----
+--A---------KAWETMATAFA-L------DQEA-----ALMSA--SW-GMFQIMGFNY
+ASCGYKTVFE-FSAALKVN-AGNQLKAFLGFCS---KSP---------------ALMKAM
+KS-----KDFTSMARNYNGED-YG--N--YDVLMQKAY-
+>DAF07825.1 MAG TPA: lysozyme family protein [Myoviridae sp.]
+---------EAAKLLD--V-DVASIQ--AVAEVESR-G------NG----FT--------
+-DT---G------FVKILFERHKFYKFYKEKYG---------------KTAA------DS
+-L-------------S--------------AK--YPD-----ICNTK-------------
+----------------------------------------------KGGY-L-GG-----
+--R---------KEHYRLDAAIK-I------DRTI-----AMLSA--SW-GRFQIMGFNY
+KACGFTDVES-FVKAMWVN-EDEHLKAFVNFVN---SDA---------------NLRRTL
+KA-----KQWSQFAALYNGTE-FKMNQ--YDTRLIQAYT
+>WP_213259850.1 N-acetylmuramidase domain-containing protein [Flavobacterium branchiicola]
+----------------------EHIL--AVFEVESE-G------NA----FR--------
+-SN---G------DPKILFERHYFSALTN-----------------------------GI
+-Y-------------D--------------QS--NPD-----ISNPN-------------
+----------------------------------------------QGGY-G-TY-----
+--D---------EQLDKLARAFA-L------NPEA-----AVKSA--SF-GAFQIMGKNY
+AQAGYTNATA-FYNDMTSRNLDKHLNAFANFII---TN----------------DLVGKL
+QN-----NQWANFAAKYNGPQ-YKKND--YDTKMATEY-
+>WP_228519739.1 N-acetylmuramidase domain-containing protein [Methylophilus sp. QUAN]
+KLLNMDDINNAAAQLK--V-DAASII--AVHKVEST-G------TG----FL--------
+-KD---G------RPKILYERHIMYKQLDRI-----------------GKDA------VS
+-L-------------M--------------KS--YPA-----IINKA-------------
+----------------------------------------------RGGY-I-GG-----
+--A---------SEYTRLGLASQ-I------DVSC-----AMESC--SW-GAYQIMGFNW
+GQAGFESVFE-FVESMKVC-EGKQLNAFIRFIE---ADT---------------KLHAAL
+KS-----KKWAEFAKIYNGPA-YKENF--YDQKLAYEY-
+>WP_019562281.1 N-acetylmuramidase domain-containing protein [Caldimonas manganoxidans]
+GDITAKDWKNVAGRLE--C-EPEVLQ--AIAKVESG-GR-----SA----FW--------
+-RL---ADGQGGHVPALLYERHYFSRLTG-----------------------------GQ
+-Y-------------D--------------KD--HPD-----ISWPTGYRLR--------
+----------------------KQLGKEDKKMHDGRV-------DDDDIY-A-SY-----
+--A---------TSYLRLLNAYR-L------DPDA-----ALQSC--SW-GKFQIMGANH
+GLCGELNLDE-FVNKMCTS-EVAQLGLLASFIQ---NKPAAWKDPKNKALGREISLWDAV
+KT-----KNWRVIAFYYNGRA-YETNQ--YHLKLERAYE
+>WP_063433495.1 MULTISPECIES: N-acetylmuramidase family protein [Pseudomonas]
+---SDQAWAASARNLG--V-EVACLQ--AVASVESA-G------TG----FL-------P
+PPS---N------EPKVLFEGHIFHRLTS-----------------------------GH
+-F-------------D--------------AT--APD-----LSYPHW------------
+---------------------------------------------DKSKYAG-SL-----
+--E---------GEWARLNAAMA-L------DHDA-----ALESA--SW-GTFQLMGFNY
+PACGFSTVRD-FAEAHRAG-ADEQLAAFVQFID---RP----------------PFRDAL
+RT-----KDWAVFAAAYNGPD-YAKNQ--YNIRLATAYS
+>GAJ73058.1 putative phage-encoded peptidoglycan binding protein [Vibrio sp. JCM 18904]
+-ALTDLDYSKVAETLG--C-EVAAIKAVAVAEVESR-G------EA----YF--------
+-SN---G------KPKILFEAHIFSRLTS-----------------------------RA
+-Y-------------D--------------NS--HPS-----ISSRHW------------
+---------------------------------------------NRSLY-V-GG-----
+--I---------SEYVRLNKAIE-L------NSNA-----AIRSA--SWGGRFQIMGFNF
+KLAGHVTAES-FVKAVFES-EKKQLEAFVTFIQ---KS----------------GLGEHI
+RD-----KNWAAFARGYNGSE-YQKNQ--YDVKLEKAY-
+>WP_064619038.1 N-acetylmuramidase family protein [Moraxella catarrhalis]
+QLLSSADYEAAAARLG--V-TIPVIQ--AFAAVESA-G------AG----FD--------
+-TH---G------KPKILFERHKMYAHLKAKYG---------------QVVA------DK
+-H-------------K--------------TL--RPN-----IVNTA-------------
+----------------------------------------------TGGY-K-GG-----
+--V---------AEHVRLNIAVT-I------DADC-----ANMSA--SW-GQFQIMGENW
+QSLGYASISE-FVMKMHES-EAAQLDAFVRFIE---HKK---------------GLLAAL
+QK-----GEWSKVFLYYNGRN-YKKLG--YDVKFTR---
+>YP_010078891.1 endolysin [Klebsiella phage LASTA]
+---TEKDYQAAASKLG--V-PVAAVK--AVSSVESS-G------NG----FL--------
+-AD---G------RPKILFERHIFKKRLIAK-----------------GIDT--------
+---------------S--------------KI--PSG-----ICSST-------------
+----------------------------------------------PGGY-L-GG-----
+--A---------DEHERLDTAAK-Y------DRDC-----ALESA--SW-GSFQVMGYHW
+KALGYPTLQA-FINDQYKA--AGQLDTFIRFIK---ADP---------------RLVKAL
+KA-----KDWTSFASIYNGPA-YSKNS--YHTKMASAY-
+>WP_135277065.1 N-acetylmuramidase family protein [Methylotenera oryzisoli]
+-----------AEALG--V-SVPSIM--AVNEVESN-G------AG----FF--------
+-ED---G------RAKILFERHIMYRRLKAA-----------------GYDA------DT
+-L-------------A--------------IK--YPK-----LVGQV-------------
+----------------------------------------------PGGY-R-GG-----
+--W---------PEYTRLKSAQA-I------DHDI-----ALESC--SW-GQFQIMGYHW
+KALGYNSIQH-FVESMQSG-EAAQLTAFVRFIQ---ADV---------------TLHKAL
+KA-----KKWADFARIYNGPA-YKNNM--YDTKLARAYD
+>WP_122124348.1 MULTISPECIES: N-acetylmuramidase family protein [unclassified Bacteroides]
+---TENDFQETANILN--I-EVAAIK--AIQKVETG-GR-----GG----FI--------
+-LP---G------KPAILFEGHIFWQHLK---------------------NP------EK
+-Y-------------C--------------AG--NED-----ILYKKW------------
+---------------------------------------------TKEYY-K-GG-----
+--L---------AEYERLERACR-I------DEKA-----ALMSA--SY-GMFQIMGFNY
+SACGFKDVFS-FVETMKQN-EGTQLKAFVSFIK---NNN---------------KMHTAL
+QN-----QEWADFARLYNGPG-YAKNK--YDKLLQDSY-
+>OGC76252.1 hypothetical protein A2619_02245 [candidate division WWE3 bacterium RIFOXYD1_FULL_39_9]
+-------YKQAAKILK--C-EVAAIQ--AVAKVEAP-N------GG----FS--------
+-ED---G------LPVILFEGHWFSRLTQ-----------------------------HK
+-Y-------------D--------------RE--YPT-----ISYPKW------------
+---------------------------------------------TKKFYGK-NQ-----
+--K---------EEWKRLNAAKL-C------NPAC-----AYMSA--SW-GKFQILGVNH
+AYCGFADVYD-FVNAMEDS-EREHLISFCNYIK---NV----------------GLAYEL
+QD-----RNWNDFAYKYNGPE-YKKNG--YAEKL-----
+>WP_129569930.1 MULTISPECIES: N-acetylmuramidase family protein [Mucilaginibacter]
+---TEHDYKDAAGIIG--C-SVAAIK--AVNAVESG-G------SG----FL--------
+-KS---G------KIKLKFEGHVFHKLTK-----------------------------GR
+-F-------------A--------------AQ--YPT-----LSYPAW------------
+----------------------------------------------TEKYSQ-FG-----
+--E---------DSYTRFNQAYI-L------DSNA-----AMKAT--SW-GAFQVMGFNY
+SSCGFKSVEE-LVDYLKRG-ESYQLKAFCMYIK---SQ----------------GLAVYL
+QK-----QQWASFAYRYNGAD-YKKHH--YDLQLQAEF-
+>RYZ30002.1 MAG: N-acetylmuramidase family protein [Chitinophagaceae bacterium]
+---SEQQFADSASSLR--V-EGAAIK--AVAEVESS-G------DG----FL--------
+-AD---G------KPKILFEPHIFWKQLRAK-----------------GIDP------NL
+-F-------------M--------------EE--NAD-----ILYPTW------------
+---------------------------------------------KAGAY-G-PV-----
+--S---------KQHSRLERASK-I------NREA-----ALMSA--SW-GKFQIMGFNW
+KLCGVASLQE-FINEMYKS-EDGHLRLFCTYIK---NT----------------FLDDEL
+RA-----HDWAGFARGYNGPL-YLKNR--YDTKLRTAY-
+>WP_205977036.1 peptidoglycan-binding protein, partial [Paraburkholderia sp. Se-20369]
+---ADADLQRAADQLQ--V-DLAAVR--AVNEVESH-G------AG----FL--------
+-PD---G------RPVILYERHIMYRQLAAA-----------------GMDA------DA
+-L-------------A--------------AK--YPA-----LVNPK-------------
+----------------------------------------------RGGY-A-GN-----
+--A---------AEYARLASARQ-I------SAAC-----ALEAS--SW-GAFQIMGFHW
+STLDYPDVFA-FVEAMKAS-EAEHLEAFVRFIL---ADK---------------AMLAAL
+RA-----RKWAKFAELYNGKA-YAENL--YDVKLERAFD
+>WP_078059475.1 N-acetylmuramidase domain-containing protein [Xanthomonas massiliensis]
+GEISEKEWAATAARIE--C-EPEVLR--AIAKVESG-GR-----SA----FW--------
+-RM---NKADGALVPAILYERHYFSRETG-----------------------------GK
+-F-------------D--------------SG--HPD-----ISWSVPYRKK--------
+----------------------SLIGKVDAKMSDGRV-------DADDAY-G-DY-----
+--A---------SSYLRLVNAYR-L------APDA-----ALKSC--SW-GKFQIMGSNF
+KLCGERDIDG-FIIKMCTS-EAAQIGLLAEFIR---RKPRAWKNPKNKKLGKEISLHEAV
+KA-----KNWAAIAFNYNGPG-YKAYR--YDEKMREAY-
+>ADW68367.1 Peptidoglycan-binding domain 1 protein [Granulicella tundricola MP5ACTX9]
+----------VAQKLG--V-GSAEIQ--TVVSVETH-G------AG----FL--------
+-QD---R------RPQILFERHFFSRLTQ-----------------------------GA
+-Y-------------D--------------AS--HPG-----ISSPT-------------
+----------------------------------------------PGGYGM-GG-----
+--A---------NQYVRLAEAVA-L------NRHA-----ALMSA--SW-GIGQVMGANF
+AVAGFPDVET-MVADMCDS-EDAQLAAVGGFIL---GN----------------KLNRFL
+AV-----HDWQSFARGYNGAN-YVINH--YDVQLNGFY-
+>WP_070048305.1 N-acetylmuramidase family protein [Rheinheimera salexigens]
+APPTAQDYNDIAQTLG--C-EVAAIK--AVAQVECS-G------EA----YF--------
+-SN---G------RPKILFEAHIFSRLTQ-----------------------------HR
+-Y-------------D--------------IS--QPT-----ISSRSW------------
+---------------------------------------------NPALY-T-GG-----
+--N---------AEYYRLEQALA-L------DPLA-----ALQSA--SW-GRFQIMGFNY
+QACGYRTVQA-FVQDMFCS-ETKQLEAFVGFIK---YN----------------SLDIYL
+QN-----KDWSRFARGYNGPG-YAENK--YDIKIRAAY-
+>MCC5811315.1 N-acetylmuramidase family protein [Ectothiorhodospiraceae bacterium]
+---TEADLEDAAATLQ--V-DLPSVH--AVAEVESR-G------AG----FL--------
+-TD---G------RPQLLFERHIFRRRLEHH-----------------GVDP------VP
+-H-------------A--------------TA--RPD-----LVNTR-------------
+----------------------------------------------TGAY-K-GG-----
+--V---------HEHARLAAASK-I------HPCA-----AIESA--SW-GRFQIMGFHW
+ESLGYAGAPD-YRGAMETS-EGHHLDAFVRFIK---ADQ---------------ALHAAL
+RE-----RDWTTFARGYNGPS-YAKNR--YDERL-----
+>WP_036234265.1 MULTISPECIES: N-acetylmuramidase family protein [unclassified Methylibium]
+--LATQDFERAAQRLH--C-PLAAVR--AVCEVEAP-R------GG----FN--------
+-PD---G------SVVTLFEGHWFYKLTK-----------------------------GA
+-Y-------------A--------------QS--HPT-----LCFPNW------------
+---------------------------------------------TRIHYGK-TW-----
+--Q---------EEQDRLKEAQS-L------AYDA-----ACKSA--SW-GRFQIMGFNH
+VIVGFAGVRE-FVKAMQES-EGAQLDAFIAFIE---HQ----------------GLADEL
+QR-----GDWKTFARIYNGPR-FYENR--YDEKLSAAYR
+>WP_239881888.1 N-acetylmuramidase domain-containing protein [Laribacter hongkongensis]
+------------------V-DLAAVK--AVIEVESR-G------SG----FE--------
+-AT---G------HPVILFERHVFYRQAKAA-----------------GLDA------EA
+-L-------------A--------------SR--YPN-----LCSTR-------------
+----------------------------------------------RGGY-A-GG-----
+--P---------AEWSRYRHAGC-L------HPDC-----AVEAA--SW-GLFQIMGFHW
+QAVGYPSAAG-FAGAMAES-SAQQLDAFVRFIR---LDP---------------ALLKAL
+KG-----HQWAAFARRYNGPA-YQDNL--YDVKLARAH-
+>MBK1691076.1 hypothetical protein [Ectothiorhodospira mobilis]
+--LGQGDIERVAARLG--V-EVAAVM--AVNEVESR-G------SG----FL--------
+-DD---G------RPVILFERHVMRRNLRGI-----------------GRDA------DL
+-L-------------A--------------RY--LPG-----VINRA-------------
+----------------------------------------------SGGY-D-GG-----
+--A---------AEHDRLHLARQ-I------DEGC-----AICAA--SW-GLFQIMGHHY
+ARLGFESPQA-MEAAAGES-EGAQLEMFAAFIE---SDP---------------RLHRAL
+RE-----RNWETFARIYNGP-------------------
+>NDB69895.1 DUF3380 domain-containing protein [Methylocystaceae bacterium]
+VKMQAADVPSVADELG--V-ETAALR--AVLSVETG-G------SG----FD--------
+-AA---G------RPKALFERHYFYKFLA-----------------------------SQ
+-P-------------D--------------KQ--SAA-VKAGLAYPKW------------
+---------------------------------------------GEKPYPK-GS-----
+--D---------AVYAEIEAACE-I------DLDA-----ALRSV--SW-GLGQIMGNNH
+KMVGFDSAED-MVKDAMES-EVNQLRQMSAFIK---AA----------------GLLDEL
+QA-----KNWAGFAKGYNGPS-YATNQ--YDAKLAAAYN
+>MBQ2154264.1 N-acetylmuramidase family protein [Oscillospiraceae bacterium]
+---SDEDIETRAKGMG--V-EAAALK--AVWKVDTG-GH-----GG----FL--------
+-AN---G------DPMILFQGHIFWQQLRTR-----------------GLNP------QN
+-Y-------------V--------------KG--NED-----ILHQKL------------
+---------------------------------------------DKSKF-V-GG-----
+--V---------GEWERLERAVA-I------HEDA-----ALSSA--SW-GMFQIMGFNY
+GKCGCKSVQE-FVSKMKES-EVAQLDLFVAFLK---SNS---------------KMVEAL
+KN-----RSWVEFARLYYGPT--EYNI--YAEKLSKAYA
+>WP_228124765.1 N-acetylmuramidase domain-containing protein [Glaciimonas soli]
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------D-----------------------
+-----------------------------------------------------LF-----
+--S---------WQYVKLVKAYA-L------DQDA-----ALTSC--SW-GKHQVMGENY
+ETCGFSNVKD-FVKAMSRS-EKEHLKALVGFCK---GN----------------NLQESL
+KS-----KNWSAIARAYNGPK-YKKNN--YDTELEAHY-
+>WP_126777629.1 N-acetylmuramidase family protein [Aliidiomarina sanyensis]
+KRLGKKDLQQAAEKLG--V-KLAVIA--AIAQVESS-G------SG----FF--------
+-SN---G------KAAILYERHIFYRQVASED----------------RAKA------DQ
+-L-------------A--------------RQ--YPN-----LCNTG-------------
+----------------------------------------------MGGY-T-GG-----
+--I---------GEYQRRGKAEQ-L------HKEA-----ALKAC--SY-GLFQIMGFHA
+ETLGYESVQH-FVDAMNQS-EGQQLDALVRFIQ---ANP---------------NLKKAL
+DE-----GDWRAFARGYNGPS-FHVNM--YDVKLERAY-
+>WP_200380391.1 N-acetylmuramidase domain-containing protein [Rubrivivax gelatinosus]
+GDITEEQWVDTADLIK--C-EPEVLK--AISVVESS-GR-----SA----FW--------
+-RL---NHGEGAHIPALLFERHIFSRRTK-----------------------------GR
+-F-------------D--------------NA--HPD-----LSWPVPYRKK--------
+----------------------SKIGEEDKRMHDGKV-------DADDAY-G-DY-----
+--S---------SAYLRLIRAYA-L------DATA-----ALEAA--SW-GKFQILGINY
+SLCGRPTPVA-FVDQMCIS-EAAQIGLLANFIQ---KKPSVWIDAKDKKKGKHPSLLESV
+RK-----KDWAMIAFNYNGPG-YKTYS--YDTKLKAAY-
+>MBV8632631.1 DUF3380 domain-containing protein [Silvibacterium sp.]
+---DTAAFDAVATALG--V-QPPGIW--AVLHVETS-G------CG----FL--------
+-SD---R------RPVIRFERHIFHRLTG-----------------------------GL
+-Y-------------D--------------RS--HPA-----ISNPL-------------
+----------------------------------------------PGNVAP-DG-----
+--A---------AQYNLLSQAVS-L------DPDA-----ALKSA--SW-GMVQVLGENH
+LLAGFADVNS-MVAAMIES-EGAQLDAFRAFLE---AT----------------DLAGHL
+QT-----QNWTAFARGYNGAD-FARNH--YDEQL-----
+>WP_153568920.1 N-acetylmuramidase family protein [Acinetobacter haemolyticus]
+------------KELG--I-EAAVLQ--AVIDVECR-G------SG----FN--------
+-TD---G------TPVILFERHVMRQRLIANKK---------------RSVA------DE
+-M-------------M--------------RK--RPD-----LCNTS-------------
+----------------------------------------------SGGY-G-LY-----
+--S---------QQHKKLDDAAK-F------DRTS-----ALESC--SW-GIGQVMGYHW
+YNLGYDTLQQ-FINAMYKD-EASQLEAMCRYIK---NN----------------GLVNAL
+KN-----KDWKAFARGYNGPA-YAKNS--YDIKLANAY-
+>QDQ89151.1 DUF3380 domain-containing protein [Alcaligenaceae bacterium SJ-26]
+HLLKQRDLVNAANRLG--V-DLPSVM--AVNEVEST-G------SG----FI--------
+-EP---G------VPKILFERHVFWQRLRAR-----------------GIDP------AP
+-L-------------A--------------QK--YPG-----TVNQK-------------
+----------------------------------------------RGGY-A-GG-----
+--R---------SEYTRLHVALQ-I------NRDA-----AWESA--SW-GAFQIMGYHW
+ETLGFDSVQA-FVEAMRSG-EAAQLDSFAAFIL---ADP---------------NLHRAL
+KG-----RKWSTFARIYNGPA-YAENL--YDVKLSRAYS
+>ESZ86313.1 MAG: hypothetical protein Q27BB25_14650 [Blastomonas sp. CACIA14H2]
+-------YAAAAAVLG--C-TVAQIR--AVDEVESK-G------GG----FL--------
+-PD---G------RPKILFEAHWFDEFTD-----------------------------GR
+-F-------------R--------------AS--HPN-----LSSVRW------------
+---------------------------------------------NRSLY-V-GG-----
+--A---------GEWDRLNRAIA-L------DATA-----ALKSA--SA-GRYQIMGFNH
+AAAGYATVEK-FWDAMRRS-ERDHLDAFVAFIQ---SK----------------KLVDEV
+RQISNRHADNIPFSEAYNGSG-FRKNG--HHIKIAKAH-
+>WP_054702309.1 N-acetylmuramidase domain-containing protein, partial [Desulfosarcina cetonica]
+GPPTLQEYRDIAARLG--V-DAPTLE--ALRQVESI-K------KA----FD--------
+-AD---G------HPSILFERHIFSRLTD-----------------------------HR
+-F-------------D--------------ES--YPH-----VSGTR-------------
+----------------------------------------------PGGY-G-TP-----
+--K---------EEWSRLKEAYA-L------DTEA-----AYKAT--SF-GMFQIMGFNY
+GVVGFETVAE-YARFASQS-EANQIEVFARLIE---KQ----------------GLLEPL
+RC-----LDWAGFARRWNGPA-FSRNN--YAKRLSAAY-
+>WP_183346802.1 N-acetylmuramidase family protein [Geomonas paludis]
+---SDLDFETTAKAYD--V-DAAAIF--AVSEVESG-GR-----TG----FD--------
+-SK---G------RPKVLFEARWFHHFTA-----------------------------GR
+-Y-------------D--------------HS--HPH-----LSQTTW------------
+---------------------------------------------AGARR-F-YG-----
+--K---------GQWRRLFEAFS-I------DPKS-----AVKSA--SW-GKFQIMGFNH
+S--GFKNVFD-FCDAMFLS-EKEHLKSFLAYCQ---DH----------------HLIPLL
+RD-----RKWALFPKGYNGTA-YKQNH--YDLKLETAYQ
+>QRE00659.1 putative peptidoglycan binding protein [Pseudomonas phage Itty13]
+--LTDPDIQKAADSLS--V-PVAAVK--AVCAVESR-G------DG----FL--------
+-PD---G------RPVVLFERHIMYRRTKAKYG---------------FTRA------DA
+-L-------------V--------------ER--YPD-----IINPK-------------
+----------------------------------------------PGAY-G-KE-----
+--S---------AQPDRMDRAAKLI------DREC-----ALESA--SW-GLFQIMGYHW
+ETLGYPTLQA-FINAMYYS-EGDQLDAFVRFVK---ANP---------------KLHEAL
+KR-----QDWKTFALLYNGPN-YAANQ--YDTKL-----
+>TGT78433.1 DUF3380 domain-containing protein [bacterium M00.F.Ca.ET.159.01.1.1]
+---------NACQKLG--V-KAAEIW--AVLFTETD-PP----YCG----FW--------
+-AN---G------SPQILYEQHIFHRLTL-----------------------------GK
+-F-------------D--------------AT--NPD-----ISSPN-------------
+----------------------------------------------SGNYGA-SG-----
+--A---------HQYARLKQALA-L------DESA-----ALQSA--SW-GISQTLGRNF
+QSVGFASPQE-MVKRMFYS-EDEQLLAGVREIL---AS----------------NLAGAL
+AA-----HDWKSFASGYNGSA-YWKNN--YDEHLRSWY-
+>MBE9102778.1 N-acetylmuramidase family protein [filamentous cyanobacterium LEGE 07170]
+---EPGDFERVANKLD--I-SVAAIR--AVVAIEAA-G------SG----FL--------
+-ND---G------RPKILFEAHHFSRQTG-----------------------------RR
+-Y-------------D--------------RS--HPR-----ISSRRW------------
+---------------------------------------------NRSLY-L-GG-----
+--V---------REWTRLHQAAS-L------DRDA-----AWKSA--SW-GLGQVMGFNY
+PICGFRDIEQ-FVKAQERS-EGDQLDTMFAFIR---AN----------------RLHHAL
+RR-----LDWRAFARGYNGAG-FAANR--YDQKLAAAY-
+>RMO67778.1 hypothetical protein ALQ35_00442 [Pseudomonas fluorescens]
+---TDSDFQRAATALGNAV-SVNIIK--AFATVESG-GR-----SG----FG--------
+-PA---K------MPVIAYEGHLFRKYTE-----------------------------RK
+-Y-------------D--------------RS--HPL-----LSYPYVEKAGP-------
+--------------------------------------------QWRANN-K-NQ-----
+--T---------TAWATLVAAYR-L------DPAA-----ALMST--SW-GMFQIMGFNF
+AACGYTTVFD-FVTAMKTN-AGRQLKAFVGFCS---KNP---------------ALVKAI
+KN-----KDYVGMAARYNGAD-YG--D--YDKRIQTAFE
+>WP_076481831.1 N-acetylmuramidase family protein [Burkholderia ubonensis]
+------DLERAARALG--V-PLACVR--AVNEVESR-G------VG----FL--------
+-PD---G------RPVILFERHIFWKRLQAR-----------------GIDP------AP
+-F-------------A--------------AK--QPD-----IVSQT-------------
+----------------------------------------------RGGY-R-GG-----
+--T---------AEYARLAAAEV-I------DARA-----AWESA--SW-GAFQVMGYHW
+QRLGYAGIDD-FVARMESD-EAEHLDAFVRFVA---ADA---------------GLLAAL
+RA-----RNWAAFARGYNGPD-YAANL--YDVKLARAYD
+>WP_119020539.1 N-acetylmuramidase family protein [Halomonas sp. JS92-SW72]
+-----------AGELE--V-PVAAII--AVNEVESR-G------SG----FF--------
+-SN---G------RPAILFERHIMARRLRHH-----------------GIDP------AP
+-H-------------V--------------AS--APD-----LVNTS-------------
+----------------------------------------------PGGY-A-GG-----
+--V---------REYERLERAQQ-I------HHDS-----ALESA--SW-GLFQIMGFHW
+QHLEYDSARH-YVECMHRG-ERDHLAAFVRFIQ---KDS---------------VLLSSL
+RH-----QQWDRFARRYNGPA-YARNR--YDVRM-----
+>WP_144106614.1 N-acetylmuramidase domain-containing protein [Paraburkholderia sp. BCC1886]
+---SASSYSEAAGLLG--T-DAATVQ--TVCQVETS-G------AG----FF--------
+-NN---G------QCTILFERSQFYKAMKAVTP---------------AAEL------SQ
+-L-------------V--------------AS--YPN-----IINPV-------------
+----------------------------------------------GGGY-L-GG-----
+--E---------AEWGRLQQAQT-L------NSDL-----ALRSA--SW-GLFQIMGYYY
+VQCGYQSAEA-FTTAMQTS-ETLQLDAFVEFVK---DENGG-------------SMLTAL
+TS-----HNWVSFAEQYNGSNEHAQND--YDDKLARAYS
+>WP_220084869.1 N-acetylmuramidase domain-containing protein [Halomonas sp. SL1]
+--LRQIDLVHAAERLG--V-ELAAVM--AVNEVESR-G------SG----LYI-----GG
+PRG---G------QPVILFERHIMRRRLIHH-----------------GVAP------MP
+-Y-------------Q--------------QR--RPD-----LVNDK-------------
+----------------------------------------------PGGY-V-GG-----
+--P---------REHARLEAAAT-L------DASAATDHGAIEAA--SW-GLFQIMGMHW
+QRLGYDSANA-WREAMATS-EGDQLEAFVRFIE---ADQ---------------GLLVAL
+RR-----HDWREFARRYNGPA-FERND--YDTKLAAAYR
+>WP_089895104.1 N-acetylmuramidase family protein [Chitinophaga arvensicola]
+---SETQFEKSAAVVG--C-EVAVIK--AVAKVESN-G------AG----FD--------
+-AA---G------KLKVLFEPHIFWKQLVES-----------------KYDP------RQ
+-F-------------V--------------KG--NED-----ILYPDY------------
+----------------------------------------------RQDH-G-AY-----
+--Q---------LQWQKLNRAMK-I------QETA-----ALKSA--SY-GMFQIMGFNH
+KATGFDNVYG-MINAFTIS-EDEQLKGFTHFIV---SN----------------NLVADL
+RN-----KNFAAFARKYNGPA-YAKNA--YDTKMEKYY-
+>WP_111409996.1 N-acetylmuramidase family protein [Flavobacterium aquariorum]
+ALIREDDYKEVSKRLG--V-EVEVMK--AIAKQESK-R------NS----FW--------
+-KK---G------QATILFERHKMWKYLKKT---------------------------GK
+-T-------------D-------DELEELKKK--YPR-----IVNNS-------------
+----------------------------------------------AGGY-G-QY-----
+--S---------EQYEKLKTAKK-I------NYTC-----ALKAC--SW-GKFQVMGFNY
+T-VAFSSPKE-MEKAVNMC-ELQQFKFFVGYLE---NTD---------------GLLNAM
+KN-----KDWESIAEKYNG--------------------
+>MBK7692188.1 N-acetylmuramidase family protein [Bacteroidetes bacterium]
+-----SDIESAAKALN--V-EVAAIK--AVNQVEAA-GR-----RG----FL--------
+-AN---G------KIMILFEGHVFWKELKKL-----------------GINP------RN
+-H-------------V--------------AG--NEN-----ILYESW------------
+---------------------------------------------TKKHY-K-GG-----
+--P---------LEHDRLNQAIK-I------NKSA-----ALASA--SY-GKFQIMGNNY
+KACGFTSVED-FVNAQNTG-EGAQLMTFVNFLK---AN----------------NLVSAL
+RN-----KNWAAFAKGYNGPG-YAKNK--YDIKLAEAYN
+>WP_051334818.1 N-acetylmuramidase domain-containing protein [Bradyrhizobium sp. Ai1a-2]
+EPLSQKGFDEVCASLG--V-TAADVW--AVIFTETD-AP----YGG----YF--------
+-RN---A------WPQILYEQHIFHRLTG-----------------------------GR
+-Y-------------D--------------QS--HLD-----ISSSK-------------
+----------------------------------------------SGNYGA-GG-----
+--S---------HQYDRLRIAMA-L------DEEA-----ALQSA--SW-GIGQTLGIHY
+KTLGYGSAKL-FVQDMFRS-EDLQLMAMAKEML---AT----------------EAAVPL
+KN-----HDWKNFARIYNG--------------------

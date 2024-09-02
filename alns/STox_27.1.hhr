@@ -1,0 +1,25 @@
+Query         FD01852929_04241 DUF4150 domain-containing protein
+Match_columns 60
+No_of_seqs    37 out of 40
+Neff          3.54142
+Searched_HMMs 86581
+Date          Tue Feb 27 19:08:28 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/4610965.hhr -oa3m ../results/4610965.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 7M0Q_B Network hallucinated pr  20.9      70 0.00081   22.5   0.3    7   54-60     27-33  (121)
+
+No 1
+>7M0Q_B Network hallucinated protein 0738_mod; alpha-beta fold, machine learning, DE NOVO PROTEIN; 2.4A {synthetic construct}
+Probab=20.86  E-value=70  Score=22.53  Aligned_cols=7  Identities=71%  Similarity=1.493  Sum_probs=0.0  Template_Neff=1.000
+
+Q ss_pred             ccCCCCC
+Q FD01852929_042   54 LQWDMPK   60 (60)
+Q Consensus        54 lQWdMPk   60 (60)
+                      |||+.|+
+T Consensus        27 lqwedpk   33 (121)
+T 7M0Q_B           27 LQWEDPK   33 (121)
+T ss_dssp             EEEEC--
+T ss_pred             EEEcCCC
+
+

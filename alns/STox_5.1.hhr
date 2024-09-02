@@ -1,0 +1,294 @@
+Query         FD01542955_04107 RHS repeat family protein
+Match_columns 80
+No_of_seqs    103 out of 127
+Neff          5.02731
+Searched_HMMs 86581
+Date          Mon Feb 26 22:38:50 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/4901326.hhr -oa3m ../results/4901326.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 5T86_A CdiA toxin; Contact-dep  99.2 5.9E-10 6.9E-15   63.6   8.6   77    2-79     16-101 (106)
+  2 PF11726.12 ; Inovirus_Gp2 ; In  50.9      33 0.00038   23.6   2.6   16   42-57     85-100 (192)
+  3 2IT9_C Hypothetical protein; Y  49.7      34 0.00039   24.6   2.5   30   41-72      9-38  (127)
+  4 PF08848.15 ; DUF1818 ; Domain   48.4      36 0.00041   24.0   2.4   30   41-72      5-34  (113)
+  5 PF17574.6 ; TA_inhibitor ; Inh  48.0      27 0.00031   24.0   1.8   17   52-69     21-37  (89)
+  6 2RH2_A Dihydrofolate reductase  47.3      79 0.00091   20.1   3.6   31   24-54     20-52  (62)
+  7 2NVN_A Hypothetical protein; Y  44.7      34 0.00039   24.4   1.9   30   41-72     11-40  (122)
+  8 7QOI_Ch Portal vertex capsid p  42.7 1.5E+02  0.0018   20.9   4.7   36   36-80     27-63  (104)
+  9 PF18380.5 ; GEN1_C ; Holliday   35.7      62 0.00072   21.4   2.0   20   29-48      4-26  (104)
+ 10 PF06442.15 ; DHFR_2 ; R67 dihy  34.1 2.3E+02  0.0027   19.1   4.6   36   19-54     29-68  (78)
+ 11 PF14061.10 ; Mtf2_C ; Polycomb  30.8 1.2E+02  0.0014   17.0   2.4   15   33-47     31-45  (48)
+ 12 7ZM7_Y NADH dehydrogenase [ubi  30.4 1.1E+02  0.0013   23.8   2.9   44   33-76    117-169 (210)
+ 13 PF08940.15 ; DUF1918 ; Domain   27.9 1.1E+02  0.0012   19.0   2.0   30   25-54     20-58  (58)
+ 14 2JYA_A Uncharacterized protein  27.8 1.5E+02  0.0018   19.7   2.8   44   33-76     16-66  (106)
+ 15 2LJU_A Putative oxidoreductase  25.9 1.2E+02  0.0014   20.1   2.2   44   33-76     24-74  (108)
+ 16 PF19400.3 ; DUF5975 ; Family o  22.3 2.4E+02  0.0028   20.7   3.1   32   45-80     58-89  (125)
+ 17 PF04800.16 ; NDUS4 ; NADH dehy  21.8 2.1E+02  0.0024   18.7   2.6   44   33-76     12-62  (96)
+ 18 PF20874.1 ; Relaxase_M ; Relax  20.8 3.6E+02  0.0041   18.1   3.5   29   42-70     10-38  (84)
+ 19 PF10053.13 ; DUF2290 ; Unchara  20.2 1.2E+02  0.0014   22.7   1.4   12   42-53    112-128 (197)
+
+No 1
+>5T86_A CdiA toxin; Contact-dependent growth inhibition, toxin, antitoxin, immunity protein, Structural Genomics, PSI-Biology, Midwest Center for Structural Genomics, MCSG; HET: ACT, MSE; 2.0A {Escherichia coli}
+Probab=99.19  E-value=5.9e-10  Score=63.62  Aligned_cols=77  Identities=34%  Similarity=0.673  Sum_probs=64.1  Template_Neff=12.800
+
+Q ss_pred             chHHHHHHHcCCCceeeeeeEe--cCCCCCcceEEeCCCCEEEEEEecCCCCeEEEEE---cCCCCc----ceEEecCCH
+Q FD01542955_041    2 NKALKWLEERGFKAERVNIGKF--GSTRGKPVGMTTADGKTGFRIEYDERSGAHINVF---SGKDKG----EHFLFDASE   72 (80)
+Q Consensus         2 n~Al~~~g~~g~~~~~~~~gk~--~~~~gk~vG~~s~dg~~~~RlDyDp~kG~HINv~---~GKg~~----~ai~F~G~e   72 (80)
+                      +.+++++...+.. ..+.++.+  +...++++|+++.++...+|++|||.+|.|+|++   .|++.+    ..|+|+++.
+T Consensus        16 ~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   94 (106)
+T 5T86_A           16 NKALDLVGNLGAD-SKPVIGRLEVSAGNGKVIGRQSSDGKVGWRVDYDPEKGTHINIWDYSQGKGPGKAVKQVIPFEGNE   94 (106)
+T ss_dssp             HHHHHHHCCCCTT-CEEEEBCCTTSTTBTSEEEEECTTSSEEEEEEEETTTEEEEEEEECTTCSSTTTCEEEEEEBCCCH
+T ss_pred             HHHHHHHhhcCCC-CcceeeeeeecCCCCceeeEEeCCCcEEEEEEecCCCCceEEEeeccCCCCCCCccceEeCCCCCH
+Confidence            4677777778877 78888887  4567799999999999999999999999999998   455532    688999999
+
+
+Q ss_pred             HHHHHHh
+Q FD01542955_041   73 SIVTKLQ   79 (80)
+Q Consensus        73 ~~v~~il   79 (80)
+                      ..+..++
+T Consensus        95 ~~~~~~~  101 (106)
+T 5T86_A           95 KSFETIL  101 (106)
+T ss_dssp             HHHHHHH
+T ss_pred             HHHHHHH
+Confidence            9888876
+
+
+No 2
+>PF11726.12 ; Inovirus_Gp2 ; Inovirus Gp2
+Probab=50.85  E-value=33  Score=23.65  Aligned_cols=16  Identities=19%  Similarity=0.351  Sum_probs=0.0  Template_Neff=10.100
+
+Q ss_pred             EEEEecCCCCeEEEEE
+Q FD01542955_041   42 FRIEYDERSGAHINVF   57 (80)
+Q Consensus        42 ~RlDyDp~kG~HINv~   57 (80)
+                      |.+++++.+|+|+.+.
+T Consensus        85 W~~E~~~~~g~H~H~~  100 (192)
+T C4LDJ4_TOLAT/2   85 WVKEQNNEHKDHYHTF  100 (192)
+T ss_pred             EEeeecCCCCceEEEE
+
+
+No 3
+>2IT9_C Hypothetical protein; YP_292156.1, hypothetical protein, Structural Genomics, PSI-2, Protein Structure Initiative, Joint Center for Structural Genomics, JCSG, Structural; HET: EDO, MSE, PGE; 1.8A {Prochlorococcus marinus} SCOP: d.18.1.3
+Probab=49.65  E-value=34  Score=24.56  Aligned_cols=30  Identities=27%  Similarity=0.450  Sum_probs=0.0  Template_Neff=5.200
+
+Q ss_pred             EEEEEecCCCCeEEEEEcCCCCcceEEecCCH
+Q FD01542955_041   41 GFRIEYDERSGAHINVFSGKDKGEHFLFDASE   72 (80)
+Q Consensus        41 ~~RlDyDp~kG~HINv~~GKg~~~ai~F~G~e   72 (80)
+                      +|||-|||...++--.-.|.+  ++|.....|
+T Consensus         9 GWRlg~dp~~~~f~~LVGg~~--WA~ELT~~E   38 (127)
+T 2IT9_C            9 GWRIIFDSSRDNFSTLIGGET--WAIELDKSE   38 (127)
+T ss_dssp             TEEEEECTTCSSCCEEEECSS--EEEEECHHH
+T ss_pred             cEEEEEeCCCCCceEEEecCc--eeeEecHHH
+
+
+No 4
+>PF08848.15 ; DUF1818 ; Domain of unknown function (DUF1818)
+Probab=48.37  E-value=36  Score=24.01  Aligned_cols=30  Identities=17%  Similarity=0.397  Sum_probs=0.0  Template_Neff=5.100
+
+Q ss_pred             EEEEEecCCCCeEEEEEcCCCCcceEEecCCH
+Q FD01542955_041   41 GFRIEYDERSGAHINVFSGKDKGEHFLFDASE   72 (80)
+Q Consensus        41 ~~RlDyDp~kG~HINv~~GKg~~~ai~F~G~e   72 (80)
+                      +|||-|||...+.--.-.|..  ++|.....|
+T Consensus         5 GWRlg~dp~~~~f~~LVGg~~--WA~ELT~~E   34 (113)
+T K9W9H6_9CYAN/6    5 GWRLGWNPQATGYQGLVGGED--WAIELTEAE   34 (113)
+T ss_pred             ceEEEEcCCCCCceEEEecCc--eeeeeCHHH
+
+
+No 5
+>PF17574.6 ; TA_inhibitor ; Inhibitor of toxin/antitoxin system (Gp4.5)
+Probab=48.00  E-value=27  Score=24.00  Aligned_cols=17  Identities=35%  Similarity=0.542  Sum_probs=0.0  Template_Neff=2.300
+
+Q ss_pred             eEEEEEcCCCCcceEEec
+Q FD01542955_041   52 AHINVFSGKDKGEHFLFD   69 (80)
+Q Consensus        52 ~HINv~~GKg~~~ai~F~   69 (80)
+                      .||||-+||-. ..++|.
+T Consensus        21 VHINVRngKvT-lVyRWK   37 (89)
+T ITAS_BPT7/1-89   21 VHINVRNGKAT-MVYRWK   37 (89)
+T ss_pred             EEEEEeCCeEE-EEEEEe
+
+
+No 6
+>2RH2_A Dihydrofolate reductase type 2; FOLATE METABOLISM, PLASMID-ENCODED R67 DHFR, TMP-RESISTANT DHFR, Antibiotic resistance, Methotrexate resistance, NADP, One-carbon metabolism, Oxidoreductase, Trimethoprim; HET: MRD; 0.96A {Escherichia coli} SCOP: b.34.4.1
+Probab=47.25  E-value=79  Score=20.14  Aligned_cols=31  Identities=23%  Similarity=0.411  Sum_probs=0.0  Template_Neff=4.800
+
+Q ss_pred             cCCCCCcceEEe-CCCCEEEEEEecCCCCe-EE
+Q FD01542955_041   24 GSTRGKPVGMTT-ADGKTGFRIEYDERSGA-HI   54 (80)
+Q Consensus        24 ~~~~gk~vG~~s-~dg~~~~RlDyDp~kG~-HI   54 (80)
+                      +...|.+||.-+ .++..++-++-+...|+ ||
+T Consensus        20 ~~w~G~VVg~f~T~~~~~gY~VE~~~~~G~lqI   52 (62)
+T 2RH2_A           20 AAWQGQIVGWYCTNLTPEGYAVESEAHPGSVQI   52 (62)
+T ss_dssp             SCCEEEEEEEECCSSCSSEEEEEESSSTTCEEE
+T ss_pred             CccCcEEEEEEeCCCCCcEEEEEeecCCCceee
+
+
+No 7
+>2NVN_A Hypothetical protein; YP_400729.1, hypothetical protein, Structural Genomics, PSI-2, Protein Structure Initiative, Joint Center for Structural Genomics, JCSG, Structural; HET: MSE; 2.5A {Synechococcus elongatus} SCOP: d.18.1.3
+Probab=44.72  E-value=34  Score=24.44  Aligned_cols=30  Identities=23%  Similarity=0.347  Sum_probs=0.0  Template_Neff=5.100
+
+Q ss_pred             EEEEEecCCCCeEEEEEcCCCCcceEEecCCH
+Q FD01542955_041   41 GFRIEYDERSGAHINVFSGKDKGEHFLFDASE   72 (80)
+Q Consensus        41 ~~RlDyDp~kG~HINv~~GKg~~~ai~F~G~e   72 (80)
+                      +|||-|||...+.--.-.|..  ++|.....|
+T Consensus        11 GWRlg~dp~~~~f~~LVGg~~--WA~ELT~~E   40 (122)
+T 2NVN_A           11 GWRLGWDETAHRYPGLVGTTD--WAVELTAAE   40 (122)
+T ss_dssp             TEEEEEETTCSSCCEEEECSS--CEEEECHHH
+T ss_pred             CeEEEEcCCCCCCCEEEecCc--eeeecCHHH
+
+
+No 8
+>7QOI_Ch Portal vertex capsid protein gp57; crAssphage, bacteriophage, virus, DNA virus, portal, vertex, capsid, connector; HET: MG; 3.62A {Bacteroides phage crAss001}
+Probab=42.70  E-value=1.5e+02  Score=20.91  Aligned_cols=36  Identities=28%  Similarity=0.313  Sum_probs=0.0  Template_Neff=1.700
+
+Q ss_pred             CCCC-EEEEEEecCCCCeEEEEEcCCCCcceEEecCCHHHHHHHhC
+Q FD01542955_041   36 ADGK-TGFRIEYDERSGAHINVFSGKDKGEHFLFDASESIVTKLQK   80 (80)
+Q Consensus        36 ~dg~-~~~RlDyDp~kG~HINv~~GKg~~~ai~F~G~e~~v~~ilk   80 (80)
+                      +||. +-|-++|        ||. |+++|-|+.=.+++++...|||
+T Consensus        27 ~~~~m~lWV~ef--------nv~-g~gKGcA~vKA~Np~~Ae~iLK   63 (104)
+T 7QOI_Ch          27 PDGAMQLWVMEY--------EVT-GIGKGCAMCKAINPQQAEMLLK   63 (104)
+T ss_pred             CCCcceEEEEEE--------EEE-ecccceEEEecCCHHHHHHHHH
+
+
+No 9
+>PF18380.5 ; GEN1_C ; Holliday junction resolvase Gen1 C-terminal domain
+Probab=35.72  E-value=62  Score=21.44  Aligned_cols=20  Identities=30%  Similarity=0.474  Sum_probs=0.0  Template_Neff=7.600
+
+Q ss_pred             CcceEEe---CCCCEEEEEEecC
+Q FD01542955_041   29 KPVGMTT---ADGKTGFRIEYDE   48 (80)
+Q Consensus        29 k~vG~~s---~dg~~~~RlDyDp   48 (80)
+                      ++.|.+.   .|+.-.|||.|+|
+T Consensus         4 ~I~~~R~H~StD~~~E~RV~~~P   26 (104)
+T A0A161TGI0_XYL    4 GLHGTRTHFSTDGTPELRVAYVP   26 (104)
+T ss_pred             ceeeeecccCCCCCceEEEEEeH
+
+
+No 10
+>PF06442.15 ; DHFR_2 ; R67 dihydrofolate reductase
+Probab=34.06  E-value=2.3e+02  Score=19.07  Aligned_cols=36  Identities=22%  Similarity=0.384  Sum_probs=0.0  Template_Neff=4.100
+
+Q ss_pred             eeeEe--cCCCCCcceEEe-CCCCEEEEEEecCCCCe-EE
+Q FD01542955_041   19 NIGKF--GSTRGKPVGMTT-ADGKTGFRIEYDERSGA-HI   54 (80)
+Q Consensus        19 ~~gk~--~~~~gk~vG~~s-~dg~~~~RlDyDp~kG~-HI   54 (80)
+                      .+-+.  +...|.+||.-+ .++..++-++-+...|+ ||
+T Consensus        29 ~V~K~~G~~w~G~VVg~f~T~~t~~gY~VE~~~~~GslqI   68 (78)
+T DYR22_ECOLX/1-   29 RVRKKSGAAWQGQVVGWYCTKLTPEGYAVESESHPGSVQI   68 (78)
+T ss_pred             eEEEeCCCccCcEEEEEEeCCCCCcEEEEEeecCCCceee
+
+
+No 11
+>PF14061.10 ; Mtf2_C ; Polycomb-like MTF2 factor 2
+Probab=30.80  E-value=1.2e+02  Score=16.96  Aligned_cols=15  Identities=20%  Similarity=0.530  Sum_probs=0.0  Template_Neff=8.100
+
+Q ss_pred             EEeCCCCEEEEEEec
+Q FD01542955_041   33 MTTADGKTGFRIEYD   47 (80)
+Q Consensus        33 ~~s~dg~~~~RlDyD   47 (80)
+                      +.++||+..+.++|+
+T Consensus        31 r~t~~g~~qyl~ew~   45 (48)
+T H3C9V5_TETNG/5   31 RVTPQGTVQYLLEWE   45 (48)
+T ss_pred             EEcCCCceEEEEeec
+
+
+No 12
+>7ZM7_Y NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial; Proton transporter, Mitochondrial membrane protein, Complex, OXIDOREDUCTASE; HET: PC1, ZMP, FMN, CDL, NDP, 3PE, SF4, 2MR, LMT; 2.77A {Chaetomium thermophilum var. thermophilum DSM 1495}
+Probab=30.44  E-value=1.1e+02  Score=23.79  Aligned_cols=44  Identities=16%  Similarity=0.352  Sum_probs=0.0  Template_Neff=5.200
+
+Q ss_pred             EEeCCCC-EEEEEEecC--CCCeEEEEEcCCCCc------ceEEecCCHHHHH
+Q FD01542955_041   33 MTTADGK-TGFRIEYDE--RSGAHINVFSGKDKG------EHFLFDASESIVT   76 (80)
+Q Consensus        33 ~~s~dg~-~~~RlDyDp--~kG~HINv~~GKg~~------~ai~F~G~e~~v~   76 (80)
+                      +|+...+ ..|+||||.  ..+...|---|=..+      ..+.|+.-|+.+.
+T Consensus       117 mQSG~~~~~~W~ldfd~l~~~~rweNPLMGWtSS~Dp~~~~~L~F~SkEdAI~  169 (210)
+T 7ZM7_Y          117 TQSGEKNTQLWRMDWDVLGKGHRWENPLMGWQSSADFMQGTHLTFKTKEDAIA  169 (210)
+T ss_pred             cccCCcccCceeEEEecCCCCCCcccccCCcccccCcccceEEEeCCHHHHHH
+
+
+No 13
+>PF08940.15 ; DUF1918 ; Domain of unknown function (DUF1918)
+Probab=27.86  E-value=1.1e+02  Score=19.01  Aligned_cols=30  Identities=17%  Similarity=0.340  Sum_probs=0.0  Template_Neff=5.700
+
+Q ss_pred             CCCCCcceEEeCCCCEEEEEEec---------CCCCeEE
+Q FD01542955_041   25 STRGKPVGMTTADGKTGFRIEYD---------ERSGAHI   54 (80)
+Q Consensus        25 ~~~gk~vG~~s~dg~~~~RlDyD---------p~kG~HI   54 (80)
+                      ...|.++....+||.-.|++.|+         |.-+++|
+T Consensus        20 ~R~G~I~eV~g~~G~ppy~Vrw~ddGhes~~~Pg~da~v   58 (58)
+T A1SDE4_NOCSJ/1   20 LRDGEIVEVRGPDGAPPYVVRWADNGHESLTYPGPDAEV   58 (58)
+T ss_pred             CceeEEEEEECCCCCCcEEEEeCCCCcEEEEEcCCCccC
+
+
+No 14
+>2JYA_A Uncharacterized protein Atu1810; protein with unknown function ATU1810, Ontario Centre for Structural Proteomics, OCSP, ATC1776, AtR23, STRUCTURAL GENOMICS, UNKNOWN; NMR {Agrobacterium tumefaciens str.}
+Probab=27.76  E-value=1.5e+02  Score=19.65  Aligned_cols=44  Identities=18%  Similarity=0.330  Sum_probs=0.0  Template_Neff=7.700
+
+Q ss_pred             EEeCCCC-EEEEEEecCCCCeEEEEEcCCCCc------ceEEecCCHHHHH
+Q FD01542955_041   33 MTTADGK-TGFRIEYDERSGAHINVFSGKDKG------EHFLFDASESIVT   76 (80)
+Q Consensus        33 ~~s~dg~-~~~RlDyDp~kG~HINv~~GKg~~------~ai~F~G~e~~v~   76 (80)
+                      +|+...+ ..|+|+|+......+|--.|-..+      ..+.|+..|+.+.
+T Consensus        16 ~QsG~~~~~~W~l~f~~~~~~~~~pLmGW~ss~d~~~~~~l~F~s~e~Ai~   66 (106)
+T 2JYA_A           16 MQSGTAKTNVWVLEFDAEVPRKIDPIMGYTSSSDMKQQVKLTFETQEQAEA   66 (106)
+T ss_dssp             CTTTTCCSCCEEEEEEEECCSCCCTTTCSCSCCCSEEEEEEEESSHHHHHH
+T ss_pred             CcCCCCcCCceEEEECCCCCCccCcccCccccccchhcceeEeCCHHHHHH
+
+
+No 15
+>2LJU_A Putative oxidoreductase; oxidoreductase, Structural Genomics, Seattle Structural Genomics Center for Infectious Disease, SSGCID; NMR {Ehrlichia chaffeensis}
+Probab=25.89  E-value=1.2e+02  Score=20.11  Aligned_cols=44  Identities=11%  Similarity=0.237  Sum_probs=0.0  Template_Neff=7.800
+
+Q ss_pred             EEeCCCC-EEEEEEecCCCCeEEEEEcCCCCc------ceEEecCCHHHHH
+Q FD01542955_041   33 MTTADGK-TGFRIEYDERSGAHINVFSGKDKG------EHFLFDASESIVT   76 (80)
+Q Consensus        33 ~~s~dg~-~~~RlDyDp~kG~HINv~~GKg~~------~ai~F~G~e~~v~   76 (80)
+                      +|+.-.. ..|+|+||+......|--.|--.+      ..+.|+..|+.+.
+T Consensus        24 ~qsg~~~~~~W~l~f~~~~~~~~~plmGW~ss~d~~~~~~l~F~s~e~Ai~   74 (108)
+T 2LJU_A           24 MQSGHSKLKAWKLEFEPSCTQYTEPLMNWTGSHDTKQQVCLSFTTRELAIA   74 (108)
+T ss_dssp             SSSSCCSCCCEEEEECCCSSCCCCCCCCCSSSCCCCCCSCEEESSHHHHHH
+T ss_pred             CcCCcccCCceEEEECCCCCCCCCCCCCcccccCcccCeEEEeCCHHHHHH
+
+
+No 16
+>PF19400.3 ; DUF5975 ; Family of unknown function (DUF5975)
+Probab=22.31  E-value=2.4e+02  Score=20.75  Aligned_cols=32  Identities=19%  Similarity=0.189  Sum_probs=0.0  Template_Neff=3.300
+
+Q ss_pred             EecCCCCeEEEEEcCCCCcceEEecCCHHHHHHHhC
+Q FD01542955_041   45 EYDERSGAHINVFSGKDKGEHFLFDASESIVTKLQK   80 (80)
+Q Consensus        45 DyDp~kG~HINv~~GKg~~~ai~F~G~e~~v~~ilk   80 (80)
+                      +-.....-|++||.-=.    ++|+|+-+.+.++|+
+T Consensus        58 e~~~~~~~~L~IdpAaR----vRfEg~~~e~eklLk   89 (125)
+T A0A1I7KD79_9FI   58 EQDSSESLSLRIDSAAR----IRFEGGLVEYEELLK   89 (125)
+T ss_pred             ccccccceeEEEeccce----eEeeccHHHHHHHHH
+
+
+No 17
+>PF04800.16 ; NDUS4 ; NADH dehydrogenase ubiquinone Fe-S protein 4
+Probab=21.82  E-value=2.1e+02  Score=18.66  Aligned_cols=44  Identities=20%  Similarity=0.370  Sum_probs=0.0  Template_Neff=7.700
+
+Q ss_pred             EEeCCCC-EEEEEEecCCCCeEEEEEcCCCCc------ceEEecCCHHHHH
+Q FD01542955_041   33 MTTADGK-TGFRIEYDERSGAHINVFSGKDKG------EHFLFDASESIVT   76 (80)
+Q Consensus        33 ~~s~dg~-~~~RlDyDp~kG~HINv~~GKg~~------~ai~F~G~e~~v~   76 (80)
+                      +|+.... ..|+|+||+..-.-+|--.|=..+      ..+.|+.-|+.+.
+T Consensus        12 ~QsG~~~~~~W~l~f~~~~~~~~~plmGW~ss~d~~~~~~l~F~s~e~Ai~   62 (96)
+T A7HXF0_PARL1/1   12 MQSGQAKTRKWVLEFEPGSARDVEPLMGWTSSRDTNAQVLLRFDSKEEAVA   62 (96)
+T ss_pred             CcCCcccCCCeEEEECCCCCCCCCcccCcccccCcccCeEEEeCCHHHHHH
+
+
+No 18
+>PF20874.1 ; Relaxase_M ; Relaxase central domain
+Probab=20.79  E-value=3.6e+02  Score=18.05  Aligned_cols=29  Identities=21%  Similarity=0.159  Sum_probs=0.0  Template_Neff=5.500
+
+Q ss_pred             EEEEecCCCCeEEEEEcCCCCcceEEecC
+Q FD01542955_041   42 FRIEYDERSGAHINVFSGKDKGEHFLFDA   70 (80)
+Q Consensus        42 ~RlDyDp~kG~HINv~~GKg~~~ai~F~G   70 (80)
+                      |.|+-.-.+|..|||+.|-..-..|..|+
+T Consensus        10 wQI~~~t~~Giyi~v~~G~~~~G~i~Ip~   38 (84)
+T A0A1G6BN91_9ST   10 WQISEITRQSIYIPVTFGLEQKGTVSIPA   38 (84)
+T ss_pred             eeEEEEecCeEEEEEEeccCCccEEEEec
+
+
+No 19
+>PF10053.13 ; DUF2290 ; Uncharacterized conserved protein (DUF2290)
+Probab=20.24  E-value=1.2e+02  Score=22.70  Aligned_cols=12  Identities=50%  Similarity=1.113  Sum_probs=0.0  Template_Neff=7.100
+
+Q ss_pred             EEEEecCCC-----CeE
+Q FD01542955_041   42 FRIEYDERS-----GAH   53 (80)
+Q Consensus        42 ~RlDyDp~k-----G~H   53 (80)
+                      +|+||||..     ..|
+T Consensus       112 iRfDyd~~~~~y~~~~H  128 (197)
+T Q9PA56_XYLFA/2  112 LRFDFDAREGIYVDGAH  128 (197)
+T ss_pred             EEEEecCCCCcccCCCc
+
+

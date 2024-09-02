@@ -1,0 +1,329 @@
+Query         FD01845424_03165 RHS repeat family protein
+Match_columns 114
+No_of_seqs    99 out of 103
+Neff          2.86046
+Searched_HMMs 86581
+Date          Mon Feb 26 20:46:32 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/3109297.hhr -oa3m ../results/3109297.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 1T2H_B Guanyl-specific ribonuc  99.9 1.8E-21   2E-26  123.7   8.8   92   15-112     2-95  (96)
+  2 1PYL_B ribonuclease; ALPHA-BET  99.8 2.1E-20 2.4E-25  119.0   8.9   92   14-112     3-96  (97)
+  3 PF00545.24 ; Ribonuclease ; ri  99.8 3.1E-20 3.6E-25  115.1   6.8   78   24-108     1-82  (82)
+  4 1ZGX_A Guanyl-specific ribonuc  99.8 1.3E-18 1.6E-23  114.0   4.6   61   14-80      1-63  (63)
+  5 6PQK_A Ribonuclease; disulfide  99.4 1.1E-12 1.3E-17   91.8   6.1   63   39-109    64-127 (128)
+  6 1A2P_B BARNASE; RIBONUCLEASE,   99.3   3E-11 3.5E-16   79.0   6.3   63   39-109    46-109 (110)
+  7 1ZGX_B Guanyl-specific ribonuc  99.2 2.2E-11 2.6E-16   70.7   3.9   33   81-113     1-33  (33)
+  8 2C4B_A BARNASE MCOEETI FUSION;  99.2 7.5E-11 8.7E-16   83.6   5.8   58   44-109    50-108 (143)
+  9 3DA7_E Barnase circular permut  98.9 2.2E-09 2.5E-14   74.8   4.1   43   69-113     5-47  (111)
+ 10 3Q3F_A Ribonuclease/Ubiquitin   98.6 1.8E-07 2.1E-12   62.6   5.4   57   45-109    53-110 (189)
+ 11 1RDS_A RIBONUCLEASE MS; HYDROL  55.6      98  0.0011   21.1   8.0   66   22-97     15-86  (105)
+ 12 1I0V_A GUANYL-SPECIFIC RIBONUC  52.3 1.1E+02  0.0013   20.6   8.5   69   22-97     14-87  (104)
+ 13 1FUS_A RIBONUCLEASE F1; HYDROL  49.3 1.3E+02  0.0015   20.6   8.0   69   22-97     14-86  (106)
+ 14 3AGN_A Ribonuclease U2; purine  38.4 2.2E+02  0.0025   20.0   7.1   59   22-89     17-88  (114)
+ 15 3WR2_E Guanyl-specific ribonuc  26.4 3.4E+02  0.0039   18.6   7.8   62   25-97     16-82  (101)
+ 16 3DA7_E Barnase circular permut  26.3      63 0.00073   23.1   0.9   12   46-63     98-109 (111)
+ 17 7W05_A Ribonuclease T1; cataly  25.3 3.6E+02  0.0042   18.5   7.8   63   25-97     14-81  (100)
+
+No 1
+>1T2H_B Guanyl-specific ribonuclease Sa; mutant, ribonuclease, HYDROLASE; 1.0A {Streptomyces aureofaciens} SCOP: d.1.1.2
+Probab=99.87  E-value=1.8e-21  Score=123.71  Aligned_cols=92  Identities=36%  Similarity=0.577  Sum_probs=82.3  Template_Neff=10.100
+
+Q ss_pred             ccccCCCHHHHHHHHHHHHHHHhcCC-CCCCCCcccccCCcCCccccccC-CCCCCceeeeeecCCCCCCCcceEEEcCC
+Q FD01845424_031   15 KWGHKMTPAEMREVQKTIDNIKLNRP-AYPRDGIPFENNFKISPDSQRLN-TGSGPYREWTVKTPGVGNRGARRIVVDTK   92 (114)
+Q Consensus        15 ~~~~~~~~~lp~E~~~Tl~~I~~ggP-pY~~DG~~F~Nr~~~~~~e~~LP-~~~GpY~EyTV~TPG~~~RGaRRIV~g~~   92 (114)
+                      .+..+....||.+++++++.|+.+++ ++..+|.+|.|.      +..|| ...|.|+||.|.+|+...||++|||++..
+T Consensus         2 ~~~~~~~~~lp~~~~~~~~~i~~~~~~~~~~~g~~~~n~------~~~lp~~~~g~y~e~~v~~~~~~~~g~~R~v~~~~   75 (96)
+T 1T2H_B            2 VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNR------ESVLPTQSYGYYHEYTVITPGARTRGTRRIITGEA   75 (96)
+T ss_dssp             CCCEEEGGGSCHHHHHHHHHHHHTCCCSSTTTTEECCCT------TCCSCCCCTTSCEEEECCCTTCSSSCSCEEEECSS
+T ss_pred             CCceechhhCCHHHHHHHHHHHhhCCCCCCCCCceecCc------cccCCCCCCCeEEEEEEeCCCCCCCCCeEEEECCC
+Confidence            34556677899999999999999999 899999999999      89999 66677999999999999999999999955
+
+
+Q ss_pred             CCcEEeccccccceEEeecC
+Q FD01845424_031   93 TGQAYYSHDHYDSFIEIDLG  112 (114)
+Q Consensus        93 ~ge~YYT~DHY~SF~~Id~g  112 (114)
+                      +|..|||.|||.+|..|..+
+T Consensus        76 ~~~~y~t~dhy~~f~~i~~~   95 (96)
+T 1T2H_B           76 TQEDYWTGDHYATFSLIDQT   95 (96)
+T ss_dssp             TTCEEEESSTTSCCEEEETT
+T ss_pred             CCceEEeCCcccccEEeccC
+Confidence            55999999999999999764
+
+
+No 2
+>1PYL_B ribonuclease; ALPHA-BETA STRUCTURE, HYDROLASE; HET: SO4; 1.507A {Streptomyces aureofaciens} SCOP: d.1.1.2
+Probab=99.84  E-value=2.1e-20  Score=119.02  Aligned_cols=92  Identities=40%  Similarity=0.645  Sum_probs=82.8  Template_Neff=10.100
+
+Q ss_pred             cccccCCCHHHHHHHHHHHHHHHhcCC-CCCCCCcccccCCcCCccccccC-CCCCCceeeeeecCCCCCCCcceEEEcC
+Q FD01845424_031   14 DKWGHKMTPAEMREVQKTIDNIKLNRP-AYPRDGIPFENNFKISPDSQRLN-TGSGPYREWTVKTPGVGNRGARRIVVDT   91 (114)
+Q Consensus        14 ~~~~~~~~~~lp~E~~~Tl~~I~~ggP-pY~~DG~~F~Nr~~~~~~e~~LP-~~~GpY~EyTV~TPG~~~RGaRRIV~g~   91 (114)
+                      ..||.++++.||+++++.+..+.+++. +....+..|.|.      ...|| ...|.|.||++..++...++.+|+|++.
+T Consensus         3 ~~~~~~~~~~lp~~~~~~~~~~~~~~~~~~~~~g~~~~n~------~~~lp~~~~g~y~e~~v~~~~~~~~g~~r~v~~~   76 (97)
+T 1PYL_B            3 PALADVCRTKLPSQAQDTLALIAKNGPYPYNRDGVVFENR------ESRLPKKGNGYYHEFTVVTPGSNDRGTRRVVTGG   76 (97)
+T ss_dssp             -CCEEEEGGGSCHHHHHHHHHHHTTCCCSSTTTTEECCCT------TCSSCCCCTTSCEEEECCCTTCSSCCSCEEEECT
+T ss_pred             CCccccchhhCCHHHHHHHHHHHHhCCCCCCCCCceeccc------cccCCCCCCCeeEEEEEcCCCCCCCCCceEEEcC
+Confidence            468899999999999999999999888 777889999998      88899 7778999999998877789999999999
+
+
+Q ss_pred             CCCcEEeccccccceEEeecC
+Q FD01845424_031   92 KTGQAYYSHDHYDSFIEIDLG  112 (114)
+Q Consensus        92 ~~ge~YYT~DHY~SF~~Id~g  112 (114)
+                      ++ .+|||.+||.+|++|.++
+T Consensus        77 ~g-~~~yt~~h~~~f~~i~~~   96 (97)
+T 1PYL_B           77 YG-EQYWSPDHYATFQEIDPR   96 (97)
+T ss_dssp             TS-CEEEESSTTSSCEEEETT
+T ss_pred             CC-CEEECCCcccccEEccCC
+Confidence            87 999999999999999875
+
+
+No 3
+>PF00545.24 ; Ribonuclease ; ribonuclease
+Probab=99.83  E-value=3.1e-20  Score=115.13  Aligned_cols=78  Identities=42%  Similarity=0.691  Sum_probs=65.3  Template_Neff=10.100
+
+Q ss_pred             HHHHHHHHHHHHHhcCC-CCCCCCcccccCCcCCccccccC-CCCCCceeeeeecCCCCCCCcceEEEc-CCCCc-EEec
+Q FD01845424_031   24 EMREVQKTIDNIKLNRP-AYPRDGIPFENNFKISPDSQRLN-TGSGPYREWTVKTPGVGNRGARRIVVD-TKTGQ-AYYS   99 (114)
+Q Consensus        24 lp~E~~~Tl~~I~~ggP-pY~~DG~~F~Nr~~~~~~e~~LP-~~~GpY~EyTV~TPG~~~RGaRRIV~g-~~~ge-~YYT   99 (114)
+                      ||+++...+..+..+++ +....+..|.|.      .+.|| ...|.|.||++..++...++.+|+|++ .++ . +|||
+T Consensus         1 lp~~~~~~~~~~~~g~~~~~~~~g~~~~n~------~~~lp~~~~g~y~e~~v~~~~~~~~g~~Riv~~~~~g-~~~~~t   73 (82)
+T Q5P281_AROAE/3    1 LPPEAIATLQLIERGGPFPYRRDGVVFQNR------ERLLPQRPRGYYREYTVPTPGSRDRGARRLVTGGDPP-AVFYYT   73 (82)
+T ss_pred             CCHHHHHHHHHHHccCCCCCcCCCceeccc------cccCCCCCCCeEEEEeCCCCCCCCCCCCEEEECCCCC-ceeEEc
+Confidence            57778888888888876 655688899998      77889 777899999998776667899999999 666 8 9999
+
+
+Q ss_pred             cccccceEE
+Q FD01845424_031  100 HDHYDSFIE  108 (114)
+Q Consensus       100 ~DHY~SF~~  108 (114)
+                      .+||.+|++
+T Consensus        74 ~dhy~~f~~   82 (82)
+T Q5P281_AROAE/3   74 DDHYRSFRR   82 (82)
+T ss_pred             CCccccccC
+Confidence            999999974
+
+
+No 4
+>1ZGX_A Guanyl-specific ribonuclease Sa; mutant, HYDROLASE; HET: SO4; 1.13A {Streptomyces aureofaciens}
+Probab=99.76  E-value=1.3e-18  Score=113.99  Aligned_cols=61  Identities=34%  Similarity=0.506  Sum_probs=0.0  Template_Neff=6.400
+
+Q ss_pred             cccccCCCHHHHHHHHHHHHHHHhcCC-CCCCCCcccccCCcCCccccccC-CCCCCceeeeeecCCCC
+Q FD01845424_031   14 DKWGHKMTPAEMREVQKTIDNIKLNRP-AYPRDGIPFENNFKISPDSQRLN-TGSGPYREWTVKTPGVG   80 (114)
+Q Consensus        14 ~~~~~~~~~~lp~E~~~Tl~~I~~ggP-pY~~DG~~F~Nr~~~~~~e~~LP-~~~GpY~EyTV~TPG~~   80 (114)
+                      +....+....||.|+++||++|++|+| +|.+||.+|+|+      |++|| +++|-||||||.|||..
+T Consensus         1 ~~~~~~~~~~lp~~a~~tl~~i~~gg~~p~~~dG~~F~N~------eg~LP~~~~gyYrEy~V~tpG~~   63 (63)
+T 1ZGX_A            1 DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNR------ESVLPTQSYGYYHEYTVITPGAR   63 (63)
+T ss_dssp             CCCCEEEGGGSCHHHHHHHHHHHHTCCCSSTTTTCBCCCT------TCCSCCCCTTSCEEEECCCTTCC
+T ss_pred             CCCccccHhhCCHHHHHHHHHHHhhCCCCCCCCCceecCC------CccCCCCCCCceEEccCCCCCCC
+
+
+No 5
+>6PQK_A Ribonuclease; disulfide, Toxin-Antitoxin, complex, nuclease, RNA BINDING PROTEIN; HET: PO4, EDO; 1.2A {Bacillus amyloliquefaciens} SCOP: d.1.1.2
+Probab=99.40  E-value=1.1e-12  Score=91.79  Aligned_cols=63  Identities=27%  Similarity=0.442  Sum_probs=0.0  Template_Neff=8.500
+
+Q ss_pred             CCCCCCCCcccccCCcCCccccccC-CCCCCceeeeeecCCCCCCCcceEEEcCCCCcEEeccccccceEEe
+Q FD01845424_031   39 RPAYPRDGIPFENNFKISPDSQRLN-TGSGPYREWTVKTPGVGNRGARRIVVDTKTGQAYYSHDHYDSFIEI  109 (114)
+Q Consensus        39 gPpY~~DG~~F~Nr~~~~~~e~~LP-~~~GpY~EyTV~TPG~~~RGaRRIV~g~~~ge~YYT~DHY~SF~~I  109 (114)
+                      .|....+|.+|.|+      ++.|| ...+.|+||.|.++ ...||++|||++ .+|..|||.|||.+|++|
+T Consensus        64 ~~~~~~~g~~f~n~------~~~LP~~~~~~y~e~dv~~~-~~~rg~~Riv~~-~~G~~y~T~dhy~tf~~i  127 (128)
+T 6PQK_A           64 APGKSIGGDIFSNR------EGKLPGKSGRTWREADINYT-CGFRNSDRILYS-SDWLIYKTTDHYQTFTKI  127 (128)
+T ss_dssp             STTCEEEEEEECCT------TCCSCCCTTCCEEEEECSCC-SSSCCSCEEEEE-TTCCEEEESSTTSCCEEC
+T ss_pred             CCCceecCceecCC------CCCCCCCCCceEEEeeeecC-CCCcCCeEEEEC-CCCcEEEeCCcccccEEc
+
+
+No 6
+>1A2P_B BARNASE; RIBONUCLEASE, MICROBIAL RIBONUCLEASE, ALPHA/BETA PROTEIN; 1.5A {Bacillus amyloliquefaciens} SCOP: d.1.1.2
+Probab=99.26  E-value=3e-11  Score=78.99  Aligned_cols=63  Identities=27%  Similarity=0.430  Sum_probs=0.0  Template_Neff=10.000
+
+Q ss_pred             CCCCCCCCcccccCCcCCccccccC-CCCCCceeeeeecCCCCCCCcceEEEcCCCCcEEeccccccceEEe
+Q FD01845424_031   39 RPAYPRDGIPFENNFKISPDSQRLN-TGSGPYREWTVKTPGVGNRGARRIVVDTKTGQAYYSHDHYDSFIEI  109 (114)
+Q Consensus        39 gPpY~~DG~~F~Nr~~~~~~e~~LP-~~~GpY~EyTV~TPG~~~RGaRRIV~g~~~ge~YYT~DHY~SF~~I  109 (114)
+                      .|.....|.+|.|.      +..|| ...+.|+||.|.+ ....||++|||.+ .+|..|||.|||.+|.+|
+T Consensus        46 ~~~~~~~g~~~~n~------~~~lp~~~~~~~~e~dv~~-~~~~rg~~riv~~-~~G~~~~t~dhy~~f~~~  109 (110)
+T 1A2P_B           46 APGKSIGGDIFSNR------EGKLPGKSGRTWREADINY-TSGFRNSDRILYS-SDWLIYKTTDHYQTFTKI  109 (110)
+T ss_dssp             STTCEEEEEEECCT------TCCSCCCTTCCEEEEECSC-CSSSCCSCEEEEE-TTCCEEEESSTTSCCEEC
+T ss_pred             cCCceeccccccCC------CCCCCCCCCCcEEEeeeeC-CCCCcCCceEEEC-CCCcEEEeCCccCccEEc
+
+
+No 7
+>1ZGX_B Guanyl-specific ribonuclease Sa; mutant, HYDROLASE; HET: SO4; 1.13A {Streptomyces aureofaciens}
+Probab=99.23  E-value=2.2e-11  Score=70.68  Aligned_cols=33  Identities=42%  Similarity=0.734  Sum_probs=0.0  Template_Neff=6.900
+
+Q ss_pred             CCCcceEEEcCCCCcEEeccccccceEEeecCC
+Q FD01845424_031   81 NRGARRIVVDTKTGQAYYSHDHYDSFIEIDLGG  113 (114)
+Q Consensus        81 ~RGaRRIV~g~~~ge~YYT~DHY~SF~~Id~gg  113 (114)
+                      +||++|||+|..+|..|||.|||.+|..|..++
+T Consensus         1 ~Rg~~Riv~~~~~~~~yyt~dHy~tf~~i~~~~   33 (33)
+T 1ZGX_B            1 TRGTRRIITGEATQEDYYTGDHYATFSLIDKTC   33 (33)
+T ss_dssp             CCCSCEEEECSSTTCEEEESSTTSCCEEEETTC
+T ss_pred             CCCCceEEECCCCCcEEecCCCccceEEeecCC
+
+
+No 8
+>2C4B_A BARNASE MCOEETI FUSION; SQUASH INHIBITOR, HYBRID MICROPROTEIN, FUSION PROTEIN, RIBONUCLEASE, ENDONUCLEASE, HYDROLASE, NUCLEASE, PROTEASE INHIBITOR, SERINE PROTEASE INHIBITOR; HET: SO4, MES, EDO, UNX, FMT, 2PE; 1.3A {BACILLUS AMYLOLIQUEFACIENS} SCOP: d.1.1.2, g.3.2.1
+Probab=99.19  E-value=7.5e-11  Score=83.57  Aligned_cols=58  Identities=26%  Similarity=0.410  Sum_probs=0.0  Template_Neff=8.700
+
+Q ss_pred             CCCcccccCCcCCccccccC-CCCCCceeeeeecCCCCCCCcceEEEcCCCCcEEeccccccceEEe
+Q FD01845424_031   44 RDGIPFENNFKISPDSQRLN-TGSGPYREWTVKTPGVGNRGARRIVVDTKTGQAYYSHDHYDSFIEI  109 (114)
+Q Consensus        44 ~DG~~F~Nr~~~~~~e~~LP-~~~GpY~EyTV~TPG~~~RGaRRIV~g~~~ge~YYT~DHY~SF~~I  109 (114)
+                      .+|.+|.|+      +..|| ...+.|+||.|..++ ..||++|||++ ..|..|||.|||++|.+|
+T Consensus        50 ~~g~~~~n~------~~~LP~~~~~~y~e~dv~~~~-~~rg~~Riv~~-~~g~~~~t~dhy~~f~~i  108 (143)
+T 2C4B_A           50 IGGDIFSNR------EGKLPGKSGRTWREADINYTS-GFRNSDRILYS-SDWLIYKTTDAYQTFTKI  108 (143)
+T ss_dssp             EEEEEECCT------TCCSCCCTTCCEEEEECSCCS-SSCCSCEEEEE-TTCCEEEESSTTSCCEEE
+T ss_pred             ecCceecCC------CCCCCCCCCceEEEeeeecCC-CCcCCeeEEEc-CCcceEEeCCccccceEe
+
+
+No 9
+>3DA7_E Barnase circular permutant; CIRCULAR PERMUTANT, PROTEIN-PROTEIN COMPLEX, ENDONUCLEASE, Cytoplasm, PROTEIN BINDING; 2.25A {Bacillus amyloliquefaciens}
+Probab=98.93  E-value=2.2e-09  Score=74.81  Aligned_cols=43  Identities=28%  Similarity=0.477  Sum_probs=0.0  Template_Neff=8.000
+
+Q ss_pred             ceeeeeecCCCCCCCcceEEEcCCCCcEEeccccccceEEeecCC
+Q FD01845424_031   69 YREWTVKTPGVGNRGARRIVVDTKTGQAYYSHDHYDSFIEIDLGG  113 (114)
+Q Consensus        69 Y~EyTV~TPG~~~RGaRRIV~g~~~ge~YYT~DHY~SF~~Id~gg  113 (114)
+                      |+||.|.+++ ..||++|||.+ .+|..|||.|||++|..|...+
+T Consensus         5 y~e~dv~~~~-~~rg~~Riv~~-~~g~~yyt~dhy~sf~~i~~~~   47 (111)
+T 3DA7_E            5 WREADINYTS-GFRNSDRILYS-SDWLIYKTTDHYQTFTKIRCAQ   47 (111)
+T ss_dssp             EEEEECSCCS-SSCCSCEEEEE-TTCCEEEESSTTSSCEECC---
+T ss_pred             EEEEEeecCC-CCcCceEEEeC-CCceEEecCccccccccccccc
+
+
+No 10
+>3Q3F_A Ribonuclease/Ubiquitin chimeric protein; domain swap, oligomerization, ubiquitin insertion, HYDROLASE, PROTEIN BINDING; HET: SO4; 2.169A {Bacillus amyloliquefaciens}
+Probab=98.61  E-value=1.8e-07  Score=62.65  Aligned_cols=57  Identities=26%  Similarity=0.395  Sum_probs=0.0  Template_Neff=11.700
+
+Q ss_pred             CCcccccCCcCCccccccC-CCCCCceeeeeecCCCCCCCcceEEEcCCCCcEEeccccccceEEe
+Q FD01845424_031   45 DGIPFENNFKISPDSQRLN-TGSGPYREWTVKTPGVGNRGARRIVVDTKTGQAYYSHDHYDSFIEI  109 (114)
+Q Consensus        45 DG~~F~Nr~~~~~~e~~LP-~~~GpY~EyTV~TPG~~~RGaRRIV~g~~~ge~YYT~DHY~SF~~I  109 (114)
+                      .|.+|.|.      ++.|| ...+.|+|+-|...+ ..|+++|||.. ..+..|||.|||.+|+.|
+T Consensus        53 ~g~~~~n~------~~~lp~~~~~~~~e~d~~~~~-~~~~~~r~~~~-~~~~~~~t~~~~~~~i~i  110 (189)
+T 3Q3F_A           53 GGDIFSNR------EGKLPGKSGRTWREADINYTS-GFRNSDRILYS-SDWLIYKTTDHYGGQIFV  110 (189)
+T ss_dssp             EEEEECCT------TCCSCCCTTCCEEEEECSCCS-SSCCSCEEEEE-TTCCEEEESCCCCEEEEE
+T ss_pred             cCEEEeCC------CCCCCCCCCCeeEEeecCCCC-CCcCCceEEec-CCeEEEEeCCCcCceEEE
+
+
+No 11
+>1RDS_A RIBONUCLEASE MS; HYDROLASE(ENDORIBONUCLEASE); HET: GPC; 1.8A {Aspergillus phoenicis} SCOP: d.1.1.4
+Probab=55.62  E-value=98  Score=21.05  Aligned_cols=66  Identities=17%  Similarity=0.217  Sum_probs=0.0  Template_Neff=9.200
+
+Q ss_pred             HHHHHHHHHHHHHHHhcCC--CCCCCCcccccCCcCCccccccCCCCCCceeeeeecCC----CCCCCcceEEEcCCCCc
+Q FD01845424_031   22 PAEMREVQKTIDNIKLNRP--AYPRDGIPFENNFKISPDSQRLNTGSGPYREWTVKTPG----VGNRGARRIVVDTKTGQ   95 (114)
+Q Consensus        22 ~~lp~E~~~Tl~~I~~ggP--pY~~DG~~F~Nr~~~~~~e~~LP~~~GpY~EyTV~TPG----~~~RGaRRIV~g~~~ge   95 (114)
+                      .++-..+....++++.+.+  .|+.   .|.|.      |...=...++|.||-+.-.+    -+..|..|||+. ...+
+T Consensus        15 ~~i~~a~~~a~~~~~~~~~~~~yP~---~f~~~------~~~~f~~~~~~~e~Pl~~~~~~~~~g~pg~~RvV~~-~~~~   84 (105)
+T 1RDS_A           15 SDVSAAKAKGYSLYESGDTIDDYPH---EYHDY------EGFDFPVSGTYYEYPIMSDYDVYTGGSPGADRVIFN-GDDE   84 (105)
+T ss_dssp             HHHHHHHHHHHHHHHHTCCBTTBSE---EECCT------TCCCCSSCSCEEEEEBCTTCCBCCSSCCCSEEEEEE-TTCC
+T ss_pred             HHHHHHHHHHHHHHHcCCCCCCCCc---ccCCC------CCCCCCCCCeeeEeceeCCCccccCCCCCCcEEEEc-CCCe
+
+
+Q ss_pred             EE
+Q FD01845424_031   96 AY   97 (114)
+Q Consensus        96 ~Y   97 (114)
+                      ..
+T Consensus        85 ~~   86 (105)
+T 1RDS_A           85 LA   86 (105)
+T ss_dssp             EE
+T ss_pred             EE
+
+
+No 12
+>1I0V_A GUANYL-SPECIFIC RIBONUCLEASE T1; ribonuclease, RNase, stability, metal binding, 2'GMP, HYDROLASE; HET: 2GP; 1.234A {Aspergillus oryzae} SCOP: d.1.1.4
+Probab=52.27  E-value=1.1e+02  Score=20.63  Aligned_cols=69  Identities=19%  Similarity=0.188  Sum_probs=0.0  Template_Neff=9.400
+
+Q ss_pred             HHHHHHHHHHHHHHHhcCC-CCCCCCcccccCCcCCccccccCCCCCCceeeeeecCC-CC---CCCcceEEEcCCCCcE
+Q FD01845424_031   22 PAEMREVQKTIDNIKLNRP-AYPRDGIPFENNFKISPDSQRLNTGSGPYREWTVKTPG-VG---NRGARRIVVDTKTGQA   96 (114)
+Q Consensus        22 ~~lp~E~~~Tl~~I~~ggP-pY~~DG~~F~Nr~~~~~~e~~LP~~~GpY~EyTV~TPG-~~---~RGaRRIV~g~~~ge~   96 (114)
+                      .++-..+....+++..+.+ ....-=..|.|.      +...-...|+|.||-+...+ .-   +.|..|||+. ..+..
+T Consensus        14 ~~i~~a~~~a~~~~~~~~~~~~~~yP~~f~~~------~~~~f~~~~~~~e~Pi~~~~~~~~~g~pg~~RVV~~-~~~~~   86 (104)
+T 1I0V_A           14 SDVSTAQAAGYKLHEDGETVGSNSYPHKYNNY------EGFDFSVSSPYYEWPILSSGDVYSGGSPGADRVVFN-ENNQL   86 (104)
+T ss_dssp             HHHHHHHHHHHHHHHHTCCBTTTTBSEEECCT------TCCCCSSCSCEEEEECCTTSSCCCSSCCCSEEEEEE-TTCCE
+T ss_pred             HHHHHHHHHHHHHHHcCCCCCccCCCccccCC------CCCCCCCCCCceEEeeecCCccccCCCCCCcEEEEC-CCCcE
+
+
+Q ss_pred             E
+Q FD01845424_031   97 Y   97 (114)
+Q Consensus        97 Y   97 (114)
+                      .
+T Consensus        87 ~   87 (104)
+T 1I0V_A           87 A   87 (104)
+T ss_dssp             E
+T ss_pred             E
+
+
+No 13
+>1FUS_A RIBONUCLEASE F1; HYDROLASE(ENDORIBONUCLEASE); 1.3A {Gibberella fujikuroi} SCOP: d.1.1.4
+Probab=49.26  E-value=1.3e+02  Score=20.59  Aligned_cols=69  Identities=17%  Similarity=0.244  Sum_probs=0.0  Template_Neff=9.100
+
+Q ss_pred             HHHHHHHHHHHHHHHhcCC-CCCCCCcccccCCcCCccccccCCCCCCceeeeeecCC---CCCCCcceEEEcCCCCcEE
+Q FD01845424_031   22 PAEMREVQKTIDNIKLNRP-AYPRDGIPFENNFKISPDSQRLNTGSGPYREWTVKTPG---VGNRGARRIVVDTKTGQAY   97 (114)
+Q Consensus        22 ~~lp~E~~~Tl~~I~~ggP-pY~~DG~~F~Nr~~~~~~e~~LP~~~GpY~EyTV~TPG---~~~RGaRRIV~g~~~ge~Y   97 (114)
+                      .++-.-+.+..+++..+.+ -...==..|.|.      +...-...|+|.||-+-..+   .++.|..|||+. ..++..
+T Consensus        14 ~~i~~a~~~a~~~~~~~~~~~~~~yP~~f~~~------~~~~f~~~~~l~e~Pi~~~~~~~~g~~g~~RVV~~-~~~~~~   86 (106)
+T 1FUS_A           14 SQVRAAANAACQYYQNDDTAGSSTYPHTYNNY------EGFDFPVDGPYQEFPIKSGGVYTGGSPGADRVVIN-TNCEYA   86 (106)
+T ss_dssp             HHHHHHHHHHHHHHHTTCCSTTSCCSEEECCT------TCCCCSSCSCEEEEECCTTSSCCSSCCCSEEEEEE-TTCCEE
+T ss_pred             HHHHHHHHHHHHHHhcCCCCCCCCCCcccCCC------CCCCCCCCCCCeeccccCCCccCCCCCCCcEEEEC-CCCcEE
+
+
+No 14
+>3AGN_A Ribonuclease U2; purine-specific endo-ribonuclease, HYDROLASE; HET: 3AM; 0.96A {Ustilago sphaerogena} SCOP: d.1.1.4
+Probab=38.35  E-value=2.2e+02  Score=20.01  Aligned_cols=59  Identities=19%  Similarity=0.338  Sum_probs=0.0  Template_Neff=8.800
+
+Q ss_pred             HHHHHHHHHHHHHHHhcCC--CCCCCCcccccCCcCCccccccCCC---CCCceeeeeec-----CCC---CCCCcceEE
+Q FD01845424_031   22 PAEMREVQKTIDNIKLNRP--AYPRDGIPFENNFKISPDSQRLNTG---SGPYREWTVKT-----PGV---GNRGARRIV   88 (114)
+Q Consensus        22 ~~lp~E~~~Tl~~I~~ggP--pY~~DG~~F~Nr~~~~~~e~~LP~~---~GpY~EyTV~T-----PG~---~~RGaRRIV   88 (114)
+                      .++...+.+...++..|..  .|+.   .|.|.      |...=..   .+++.||-+.-     .+.   ...|..|||
+T Consensus        17 ~~i~~a~~~a~~~~~~~~~~~~YP~---~f~n~------e~~~~~~~c~~~~l~efPl~~~~~~~~~~~~~~~pg~~RVV   87 (114)
+T 3AGN_A           17 DDINTAIQGALDDVANGDRPDNYPH---QYYDE------ASEDITLCCGSGPWSEFPLVYNGPYYSSRDNYVSPGPDRVI   87 (114)
+T ss_dssp             HHHHHHHHHHHHHHHTTCCGGGCCE---EECCC------GGGCCCCSSCSCCEEEEECCTTSCCCCBTTBCCCCCSEEEE
+T ss_pred             HHHHHHHHHHHHHHHcCCCCcCCCc---ccCCC------CCCcCccccCCCCeeeeeEEeCCCcCCCCCCCCCCCCeEEE
+
+
+Q ss_pred             E
+Q FD01845424_031   89 V   89 (114)
+Q Consensus        89 ~   89 (114)
+                      +
+T Consensus        88 ~   88 (114)
+T 3AGN_A           88 Y   88 (114)
+T ss_dssp             E
+T ss_pred             E
+
+
+No 15
+>3WR2_E Guanyl-specific ribonuclease Po1; RNase, Hydrolase; HET: 3GP; 1.75A {Pleurotus ostreatus} SCOP: d.1.1.0
+Probab=26.44  E-value=3.4e+02  Score=18.57  Aligned_cols=62  Identities=21%  Similarity=0.373  Sum_probs=0.0  Template_Neff=8.900
+
+Q ss_pred             HHHHHHHHHHHHhcCC-CCCCCCcccccCCcCCccccc-cCCCCCCceeeeeecC---CCCCCCcceEEEcCCCCcEE
+Q FD01845424_031   25 MREVQKTIDNIKLNRP-AYPRDGIPFENNFKISPDSQR-LNTGSGPYREWTVKTP---GVGNRGARRIVVDTKTGQAY   97 (114)
+Q Consensus        25 p~E~~~Tl~~I~~ggP-pY~~DG~~F~Nr~~~~~~e~~-LP~~~GpY~EyTV~TP---G~~~RGaRRIV~g~~~ge~Y   97 (114)
+                      ..+++++++...+-.. .|+.   .|.|.      |.. ++ ..|+|.||-+...   ..+..|.-|||+. ..+...
+T Consensus        16 ~~~i~~a~~~a~~~~~~~yP~---~f~~~------~~~~f~-~~~~l~e~Pi~~~g~~~gg~pg~~Rvv~~-~~~~~~   82 (101)
+T 3WR2_E           16 GTDVTNAIRSARAGGSGNYPH---VYNNF------EGFSFS-CTPTFFEFPVFRGSVYSGGSPGADRVIYD-QSGRFC   82 (101)
+T ss_dssp             HHHHHHHHHHHHTTCBTTBCE---EECCT------TCCCCS-SCSSEEEEEBCSSSBCCSSCCCSEEEEEE-TTSBEE
+T ss_pred             HHHHHHHHHHHHhcCCCCCCC---ccCCC------CCCCCC-CCCCeEEEeeecCCccCCCCCCCcEEEEc-CCCcEE
+
+
+No 16
+>3DA7_E Barnase circular permutant; CIRCULAR PERMUTANT, PROTEIN-PROTEIN COMPLEX, ENDONUCLEASE, Cytoplasm, PROTEIN BINDING; 2.25A {Bacillus amyloliquefaciens}
+Probab=26.32  E-value=63  Score=23.11  Aligned_cols=12  Identities=33%  Similarity=0.459  Sum_probs=0.0  Template_Neff=8.000
+
+Q ss_pred             CcccccCCcCCccccccC
+Q FD01845424_031   46 GIPFENNFKISPDSQRLN   63 (114)
+Q Consensus        46 G~~F~Nr~~~~~~e~~LP   63 (114)
+                      |-+|.|+      |+.||
+T Consensus        98 Gd~f~N~------~~~LP  109 (111)
+T 3DA7_E           98 GDIFSNR------EGKLP  109 (111)
+T ss_dssp             EEEECCT------TCCSS
+T ss_pred             CcccCCC------CCCCC
+
+
+No 17
+>7W05_A Ribonuclease T1; catalytic activity enzyme anti tumor activity nucleic acid binding RNA binding, DNA BINDING PROTEIN; HET: GMP; 1.29A {Hericium erinaceus}
+Probab=25.28  E-value=3.6e+02  Score=18.48  Aligned_cols=63  Identities=21%  Similarity=0.420  Sum_probs=0.0  Template_Neff=8.800
+
+Q ss_pred             HHHHHHHHHHHHhcCC-CCCCCCcccccCCcCCccccc-cCCCCCCceeeeeecCCCCC---CCcceEEEcCCCCcEE
+Q FD01845424_031   25 MREVQKTIDNIKLNRP-AYPRDGIPFENNFKISPDSQR-LNTGSGPYREWTVKTPGVGN---RGARRIVVDTKTGQAY   97 (114)
+Q Consensus        25 p~E~~~Tl~~I~~ggP-pY~~DG~~F~Nr~~~~~~e~~-LP~~~GpY~EyTV~TPG~~~---RGaRRIV~g~~~ge~Y   97 (114)
+                      ..++++++..-..... .|+.   .|.|.      +.+ ++.-.|+|.||-+...+.-.   .|.-|||+. ...+..
+T Consensus        14 ~~~i~~a~~~a~~~~~~~yP~---~f~n~------~~~~f~~~~~~~~efPi~~~~~y~gg~pg~~RvV~~-~~~~~~   81 (100)
+T 7W05_A           14 SSNIANAINQAQGRGGGNYPH---QYHNY------EGFSFPSCRGQFFEYPLQRSGVYTGGSPGADRVIYD-QNGNFC   81 (100)
+T ss_dssp             HHHHHHHHHHHHTTCBTTBCE---EECCT------TCCCCTTCCSCEEEEECCSSSCCCSSCCCSEEEEEE-TTSCEE
+T ss_pred             HHHHHHHHHHHHhcCCCCCCc---ccCCC------CCCCCCCCCCceeEEEeeeCCccCCCCCCCcEEEEC-CCCcEE
+
+

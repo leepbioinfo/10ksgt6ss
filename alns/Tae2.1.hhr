@@ -1,0 +1,398 @@
+Query         FD01542924_04489 hypothetical protein
+Match_columns 66
+No_of_seqs    114 out of 333
+Neff          5.25175
+Searched_HMMs 86581
+Date          Mon Feb 26 21:22:22 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/4140617.hhr -oa3m ../results/4140617.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6WIN_A Type 6 secretion amidas  99.9 7.9E-24 9.1E-29  140.5   7.7   63    2-65     18-80  (140)
+  2 3NPF_B putative dipeptidyl-pep  67.9      25 0.00029   24.8   4.3   60    6-66    182-251 (306)
+  3 PF04489.17 ; DUF570 ; Protein   64.0     5.9 6.8E-05   32.2   0.8   21   23-43    393-420 (424)
+  4 7PZT_B Urea amidohydrolase; As  61.9      29 0.00033   24.8   3.7   34   24-64     76-111 (160)
+  5 PF05708.16 ; Peptidase_C92 ; P  57.6      49 0.00056   21.5   4.0   26   34-66      1-43  (190)
+  6 6LNW_C Accessory secretory pro  50.5      17 0.00019   25.2   1.1   32   18-49     21-54  (154)
+  7 PF04970.17 ; LRAT ; Lecithin r  47.7      70 0.00081   19.1   3.4   24   33-64      1-24  (132)
+  8 PF15432.10 ; Sec-ASP3 ; Access  46.3      35  0.0004   22.8   2.1   20   32-51     20-40  (126)
+  9 4EYZ_B Cellulosome-related pro  39.8 1.5E+02  0.0017   22.3   4.7   38   27-66    157-201 (246)
+ 10 2IO8_A Bifunctional glutathion  38.2 1.7E+02  0.0019   23.4   4.9   54    6-66     58-139 (619)
+ 11 4CGK_A SECRETED 45 KDA PROTEIN  38.0      84 0.00097   22.8   3.1   55    5-66    290-351 (392)
+ 12 2VOB_A TRYPANOTHIONE SYNTHETAS  36.5 1.8E+02  0.0021   23.7   4.9   56    6-66     58-138 (652)
+ 13 2KYT_A Group XVI phospholipase  35.8 1.4E+02  0.0016   17.2   3.4   24   33-64      6-29  (125)
+ 14 7ZOT_B Phospholipase A and acy  34.5 1.5E+02  0.0018   17.1   3.8   30   27-64      3-32  (126)
+ 15 5VAE_F Accessory Sec system pr  32.8      84 0.00096   22.1   2.3   20   32-51     46-66  (159)
+ 16 4DPZ_X HRAS-like suppressor 2;  29.3   2E+02  0.0023   17.1   3.3   24   33-64      6-29  (137)
+ 17 PF12671.11 ; Amidase_6 ; Putat  29.1 2.3E+02  0.0026   19.4   3.9   26   34-66    124-151 (196)
+ 18 8AUC_A Cell wall-associated hy  26.9 1.3E+02  0.0015   24.3   2.7   52    6-66    512-570 (600)
+ 19 2IF6_A Hypothetical protein yi  25.8   3E+02  0.0035   17.8   4.3   27   33-66      3-41  (186)
+ 20 8H02_A DNA-directed RNA polyme  25.5      99  0.0011   16.7   1.4   20   29-48     64-84  (84)
+ 21 8I2E_D Probable peptidoglycan   25.0 3.4E+02  0.0039   18.1   5.4   55    6-66    223-281 (311)
+ 22 4X5P_A Protein FimH; Sugar Bin  24.7      90   0.001   21.0   1.4   10   35-44    120-129 (160)
+ 23 PF09160.14 ; FimH_man-bind ; F  24.7      85 0.00098   20.7   1.2   10   35-44    118-127 (144)
+ 24 3KW0_A Cysteine peptidase; Cys  23.3 3.2E+02  0.0037   18.5   3.8   25   35-66     40-76  (214)
+ 25 PF20590.2 ; DUF6791 ; Domain o  22.1 2.5E+02  0.0029   19.9   3.1   34   29-64     28-62  (152)
+
+No 1
+>6WIN_A Type 6 secretion amidase effector 2; amidase, toxin, peptidoglycan hydrolase, ANTIMICROBIAL PROTEIN; HET: MSE; 2.05A {Salmonella typhi}
+Probab=99.91  E-value=7.9e-24  Score=140.47  Aligned_cols=63  Identities=49%  Similarity=0.916  Sum_probs=59.3  Template_Neff=5.700
+
+Q ss_pred             CCCcccHHHHHHhcCCCCCCCcccCccccCCCCCCCCcEEEEEeCCcCCCCCCCCCeEEEEEee
+Q FD01542924_044    2 VGDGECVTLVKQYAHLGVTGTWKQGRKVFGDKSIPRGTAIATFVNGKYPAGDAVHKHAAFYLEQ   65 (66)
+Q Consensus         2 vg~geCV~lvk~~~~~~~T~~W~~G~~V~~~~~i~~GTaIATF~~G~Y~~~~~~g~HaaIfl~~   65 (66)
+                      +|++|||+|||.+++++.|+.|++|.+|+++..|++||+||||.+|+|++ ..+++|||||+++
+T Consensus        18 ~g~~eCvalVk~~~~~~~t~~Wr~G~~V~~~~~I~~GTaIATF~~G~Y~~-~~~g~HaaIfl~~   80 (140)
+T 6WIN_A           18 GNHHQCVELIQHYIRVGQASTWQQGAAVFGNKNIEVGTVIATFVNGRYPN-HNSGNHAAFFLGQ   80 (140)
+T ss_dssp             SSSCCHHHHHHHHSCCCCGGGCEEEEESTTCTTCCTTBEEEECBTTBCCT-TSTTCCEEEEEEE
+T ss_pred             CCCchHHHHHHHHcCCCCCCcCcccceecCCCCCCCCeEEEEEeCCCCCC-CCCCCeeEEEeee
+Confidence            46899999999999999999999999999988999999999999999998 7778999999997
+
+
+No 2
+>3NPF_B putative dipeptidyl-peptidase VI; Structural Genomics, Joint Center for Structural Genomics, JCSG, Protein Structure Initiative, PSI-2, HYDROLASE; HET: CSA, MSE, GOL; 1.72A {Bacteroides ovatus}
+Probab=67.91  E-value=25  Score=24.82  Aligned_cols=60  Identities=13%  Similarity=0.113  Sum_probs=0.0  Template_Neff=10.300
+
+Q ss_pred             ccHHHHHHh-----cCCCCCCC--cccCccccCC---CCCCCCcEEEEEeCCcCCCCCCCCCeEEEEEeeC
+Q FD01542924_044    6 ECVTLVKQY-----AHLGVTGT--WKQGRKVFGD---KSIPRGTAIATFVNGKYPAGDAVHKHAAFYLEQD   66 (66)
+Q Consensus         6 eCV~lvk~~-----~~~~~T~~--W~~G~~V~~~---~~i~~GTaIATF~~G~Y~~~~~~g~HaaIfl~~~   66 (66)
+                      .|-.||+.+     -.++....  ++.|..|...   ..+++|..|.--....... .....|++||++.+
+T Consensus       182 dcsg~~~~~~~~~G~~lpr~~~~q~~~g~~v~~~~~~~~~~~GDl~ff~~~~~~~~-~~~~~Hvgi~~g~~  251 (306)
+T 3NPF_B          182 DXSGLVRTVLFMHDIIIPRDASQQAYVGEHIDIAPDFSNVKRGDLVFFGRKATAER-KEGISHVGIYLGNK  251 (306)
+T ss_dssp             CHHHHHHHHHHTTTEECCSSHHHHTTSSEEECCCTTCTTCCTTCEEEEEECCCSSS-CCEEEEEEEEEETT
+T ss_pred             ChhHHHHHHHHHCCCcCCCCHHHHHHhcCccCCCCChHHCCCCCEEEeCCcccccc-ccCccEEEEEEcCC
+
+
+No 3
+>PF04489.17 ; DUF570 ; Protein of unknown function (DUF570)
+Probab=63.99  E-value=5.9  Score=32.19  Aligned_cols=21  Identities=43%  Similarity=0.735  Sum_probs=0.0  Template_Neff=3.900
+
+Q ss_pred             cccCccccC-------CCCCCCCcEEEE
+Q FD01542924_044   23 WKQGRKVFG-------DKSIPRGTAIAT   43 (66)
+Q Consensus        23 W~~G~~V~~-------~~~i~~GTaIAT   43 (66)
+                      ||+++.++-       +--|+.||+||+
+T Consensus       393 Wkp~~pLkiTL~S~s~~LiipQGTPIA~  420 (424)
+T UL31_HCMVM/127  393 WRGGEPLKVTLWTRTRSIVIPQGTPIAT  420 (424)
+T ss_pred             ecCCCCeEEEEEeCCCCeEecCCCceeE
+
+
+No 4
+>7PZT_B Urea amidohydrolase; Asparagine Deamidase, Bacterial Toxin, Effector Protein, Type VI Secretion System, Cys-His Pair, RhoA deamidation, TOXIN; HET: MES; 1.84A {Alcaligenes faecalis}
+Probab=61.92  E-value=29  Score=24.80  Aligned_cols=34  Identities=32%  Similarity=0.403  Sum_probs=0.0  Template_Neff=4.800
+
+Q ss_pred             ccCccccCCCCCCCCcEEEEEe--CCcCCCCCCCCCeEEEEEe
+Q FD01542924_044   24 KQGRKVFGDKSIPRGTAIATFV--NGKYPAGDAVHKHAAFYLE   64 (66)
+Q Consensus        24 ~~G~~V~~~~~i~~GTaIATF~--~G~Y~~~~~~g~HaaIfl~   64 (66)
+                      ..|..-.....||+|++|.=|+  ++++       -|+||-++
+T Consensus        76 ~~g~~W~G~s~iP~G~aIGF~r~~~~~~-------fHaAIsvG  111 (160)
+T 7PZT_B           76 AEGRMWDGRNSLPGGKAIGFCRVKGMEF-------FHAAVAVG  111 (160)
+T ss_dssp             GGSEECCSSSCCCTTCEEEEEETGGGEE-------EEEEEEEE
+T ss_pred             ccccccCCCCCCCCCcEEEEEEeeCCeE-------EEEEEEeC
+
+
+No 5
+>PF05708.16 ; Peptidase_C92 ; Permuted papain-like amidase enzyme, YaeF/YiiX, C92 family
+Probab=57.63  E-value=49  Score=21.49  Aligned_cols=26  Identities=12%  Similarity=0.349  Sum_probs=0.0  Template_Neff=10.500
+
+Q ss_pred             CCCCCcEEEEEeC-----------------CcCCCCCCCCCeEEEEEeeC
+Q FD01542924_044   34 SIPRGTAIATFVN-----------------GKYPAGDAVHKHAAFYLEQD   66 (66)
+Q Consensus        34 ~i~~GTaIATF~~-----------------G~Y~~~~~~g~HaaIfl~~~   66 (66)
+                      .+++|.+|+.-..                 ..|       .|++|++..+
+T Consensus         1 ~l~~GDii~~~~~~~~~~~~i~~~~~~~~~~~~-------~H~~i~~~~~   43 (190)
+T A2TZ73_9FLAO/1    1 QLNEGDLLFQNTGTDEIDNAIKDVTATAIAKNY-------SHVGIAMQEN   43 (190)
+T ss_pred             CCCCCCEEEEeCCCcHHHHHHHHHhcccccCCC-------cEEEEEEEeC
+
+
+No 6
+>6LNW_C Accessory secretory protein Asp3; Complex, TRANSPORT PROTEIN; 2.9A {Streptococcus pneumoniae TIGR4}
+Probab=50.51  E-value=17  Score=25.23  Aligned_cols=32  Identities=22%  Similarity=0.386  Sum_probs=0.0  Template_Neff=6.400
+
+Q ss_pred             CCCCCcccCccccC-CCCCCCCcEEEEE-eCCcC
+Q FD01542924_044   18 GVTGTWKQGRKVFG-DKSIPRGTAIATF-VNGKY   49 (66)
+Q Consensus        18 ~~T~~W~~G~~V~~-~~~i~~GTaIATF-~~G~Y   49 (66)
+                      +.+-.+.+...|.- |..+|+|++|.++ ....|
+T Consensus        21 GS~I~~~~~~~V~f~N~lmppG~~I~~W~S~~~y   54 (154)
+T 6LNW_C           21 GTTVSYYPDKSVRLYNPLLPSGEILKTWFSSVNY   54 (154)
+T ss_dssp             TCEEEECTTSCEEEECTTCCSSCEEEEEESCCCH
+T ss_pred             CEEEEEeCCCcEEEEcCCCCCCceeEEEECCCch
+
+
+No 7
+>PF04970.17 ; LRAT ; Lecithin retinol acyltransferase
+Probab=47.68  E-value=70  Score=19.10  Aligned_cols=24  Identities=21%  Similarity=0.339  Sum_probs=0.0  Template_Neff=11.000
+
+Q ss_pred             CCCCCCcEEEEEeCCcCCCCCCCCCeEEEEEe
+Q FD01542924_044   33 KSIPRGTAIATFVNGKYPAGDAVHKHAAFYLE   64 (66)
+Q Consensus        33 ~~i~~GTaIATF~~G~Y~~~~~~g~HaaIfl~   64 (66)
+                      ..+++|..|.... +.|       .|.+||++
+T Consensus         1 ~~l~~GD~i~~~~-~~~-------~H~~i~vg   24 (132)
+T Q5EAQ3_DANRE/4    1 TYFQRGDLLEVPR-TLF-------THFGIYLG   24 (132)
+T ss_pred             CCCCCCCEEEEec-ccc-------ceEEEEEC
+
+
+No 8
+>PF15432.10 ; Sec-ASP3 ; Accessory Sec secretory system ASP3
+Probab=46.32  E-value=35  Score=22.83  Aligned_cols=20  Identities=25%  Similarity=0.586  Sum_probs=0.0  Template_Neff=6.600
+
+Q ss_pred             CCCCCCCcEEEEE-eCCcCCC
+Q FD01542924_044   32 DKSIPRGTAIATF-VNGKYPA   51 (66)
+Q Consensus        32 ~~~i~~GTaIATF-~~G~Y~~   51 (66)
+                      |..+|+|++|.++ ....|..
+T Consensus        20 N~lmp~G~~I~~W~s~~~y~~   40 (126)
+T Q74L38_LACJO/1   20 NKLMPSGKTLISWSSIANYQA   40 (126)
+T ss_pred             eCCCCCCcEEEEEECCcchhc
+
+
+No 9
+>4EYZ_B Cellulosome-related protein module from Ruminococcus flavefaciens that resembles papain-like cysteine peptidases; Putative protease, hydrolase; HET: MSE, CCS, EDO; 1.383A {Ruminococcus flavefaciens}
+Probab=39.85  E-value=1.5e+02  Score=22.26  Aligned_cols=38  Identities=13%  Similarity=0.226  Sum_probs=0.0  Template_Neff=6.300
+
+Q ss_pred             ccccCCCCCCCCcEEEEEeC-------CcCCCCCCCCCeEEEEEeeC
+Q FD01542924_044   27 RKVFGDKSIPRGTAIATFVN-------GKYPAGDAVHKHAAFYLEQD   66 (66)
+Q Consensus        27 ~~V~~~~~i~~GTaIATF~~-------G~Y~~~~~~g~HaaIfl~~~   66 (66)
+                      ........++||.+|.-+..       +.+.. ... .|++||.+.+
+T Consensus       157 ~~~l~sg~l~kGDII~f~~~~~~~~~~~~~~~-~~d-~HvGiywG~~  201 (246)
+T 4EYZ_B          157 EEMLSSGVLQKGDIIWCVDGSVGLGMAGLRTI-ADN-HHIGIYTGNG  201 (246)
+T ss_dssp             HHHHHTCCCCTTCEEEEEETTTCSHHHHHTSC-CSC-CEEEEECSSS
+T ss_pred             ccccCccCCCCCCEEEEeCCCccccccccccC-CCC-cEEEEEEeCC
+
+
+No 10
+>2IO8_A Bifunctional glutathionylspermidine synthetase/amidase; Bifunctional glutathionylspermidine synthetase/amidase, LIGASE, HYDROLASE; HET: CYS, ADP; 2.1A {Escherichia coli} SCOP: c.30.1.7, d.142.1.8, d.3.1.15
+Probab=38.18  E-value=1.7e+02  Score=23.39  Aligned_cols=54  Identities=20%  Similarity=0.375  Sum_probs=0.0  Template_Neff=9.800
+
+Q ss_pred             ccHHHHHHh---------cCCCCCCCcccCc-------------cccCCCCC--CCCcEEEEEeCC----cCCCCCCCCC
+Q FD01542924_044    6 ECVTLVKQY---------AHLGVTGTWKQGR-------------KVFGDKSI--PRGTAIATFVNG----KYPAGDAVHK   57 (66)
+Q Consensus         6 eCV~lvk~~---------~~~~~T~~W~~G~-------------~V~~~~~i--~~GTaIATF~~G----~Y~~~~~~g~   57 (66)
+                      |||.|++.+         ...+....|-...             ....+..-  |+---|..|..+    .|       +
+T Consensus        58 QCve~~~r~~~~~~g~~~~~~~~a~~~~~~~~~~~~~~~~~~~~~~~~n~~~~~P~~Gdi~v~~~~~~~~~~-------G  130 (619)
+T 2IO8_A           58 QCVEFARRFLFLNYGVVFTDVGMAWEIFSLRFLREVVNDNILPLQAFPNGSPRAPVAGALLIWDKGGEFKDT-------G  130 (619)
+T ss_dssp             CHHHHHHHHHHHHHSEECCCCSSGGGGGGCCEEEEGGGTEEEECEEEETTCSSCCCTTCEEEECSBTTBTTT-------C
+T ss_pred             HHHHHHHHHHHHHhCCccCCCcchHHHhhcceeEeccCCceeccEEecCCCCCCCccCcEEEEeCCCCCCCC-------c
+
+
+Q ss_pred             eEEEEEeeC
+Q FD01542924_044   58 HAAFYLEQD   66 (66)
+Q Consensus        58 HaaIfl~~~   66 (66)
+                      |+||..+.+
+T Consensus       131 HvaiV~~v~  139 (619)
+T 2IO8_A          131 HVAIITQLH  139 (619)
+T ss_dssp             EEEEEEEEC
+T ss_pred             eEEEEEEee
+
+
+No 11
+>4CGK_A SECRETED 45 KDA PROTEIN; CELL CYCLE, PEPTIDOGLYCAN, CHAP, CELL DIVISION; HET: PG4; 2.55A {STREPTOCOCCUS PNEUMONIAE}
+Probab=38.04  E-value=84  Score=22.76  Aligned_cols=55  Identities=31%  Similarity=0.430  Sum_probs=0.0  Template_Neff=10.800
+
+Q ss_pred             cccHHHHHHh-----cCCCCCCCcccCccccCC--CCCCCCcEEEEEeCCcCCCCCCCCCeEEEEEeeC
+Q FD01542924_044    5 GECVTLVKQY-----AHLGVTGTWKQGRKVFGD--KSIPRGTAIATFVNGKYPAGDAVHKHAAFYLEQD   66 (66)
+Q Consensus         5 geCV~lvk~~-----~~~~~T~~W~~G~~V~~~--~~i~~GTaIATF~~G~Y~~~~~~g~HaaIfl~~~   66 (66)
+                      ++|..++...     ...+....|.......+.  ...|+.=.|+.|..+.|       +|.+|+.+.+
+T Consensus       290 ~~c~~~~~~~~~~~~~~~g~~~~~~~~~~~~g~~~~~~p~~G~i~~~~~~~~-------gHv~~v~~~~  351 (392)
+T 4CGK_A          290 GECTWGVKTLAPWAGDYWGNGAQWATSAAAAGFRTGSTPQVGAIACWNDGGY-------GHVAVVTAVE  351 (392)
+T ss_dssp             TSHHHHHHHHCTTSCSSCCSGGGHHHHHHHHTCCEESSCCTTCEEEEECSSS-------CEEEEEEEEE
+T ss_pred             cchHHHHHHHhccccccCccHHHHHHHHHHcCCCccCCCCCCCEEEecCCCC-------cEEEEEEEEC
+
+
+No 12
+>2VOB_A TRYPANOTHIONE SYNTHETASE; LIGASE; 2.3A {LEISHMANIA MAJOR}
+Probab=36.52  E-value=1.8e+02  Score=23.71  Aligned_cols=56  Identities=9%  Similarity=0.108  Sum_probs=0.0  Template_Neff=9.200
+
+Q ss_pred             ccHHHHHHh---cCCCCCCCcccCccccCC----------------------CCCCCCcEEEEEeCCcCCCCCCCCCeEE
+Q FD01542924_044    6 ECVTLVKQY---AHLGVTGTWKQGRKVFGD----------------------KSIPRGTAIATFVNGKYPAGDAVHKHAA   60 (66)
+Q Consensus         6 eCV~lvk~~---~~~~~T~~W~~G~~V~~~----------------------~~i~~GTaIATF~~G~Y~~~~~~g~Haa   60 (66)
+                      |||.|++.+   .....-..+.....+...                      ...++|.+|. |..+.+..    .+|+|
+T Consensus        58 QCve~~~r~~~~~~g~~~~~~~~A~~~~~~~~~~~~~~~~~~~~~~~~n~~~~~P~~GDiiv-~~~~~~~~----~GHVa  132 (652)
+T 2VOB_A           58 QCVEFARRWLLVRKGLLLPDVNWACHIFQLKEVRDAATTESFAVLQVRNGTTTKPEADALLV-YPSTDANP----VGHVG  132 (652)
+T ss_dssp             CHHHHHHHHHHHHHSEECCCCSSGGGGGGCCEEEETTTCCEEECEEEESSBSSCCCSSEEEE-ECCCSSCT----TCEEE
+T ss_pred             hHHHHHHHHHHHHcCCCCCCCccHHHHhhcceeeecCCCCeeecEEEeCCCCCCCCCCeEEE-ecCCCCCC----Cccee
+
+
+Q ss_pred             EEEeeC
+Q FD01542924_044   61 FYLEQD   66 (66)
+Q Consensus        61 Ifl~~~   66 (66)
+                      |..+.+
+T Consensus       133 iV~~v~  138 (652)
+T 2VOB_A          133 TITEVG  138 (652)
+T ss_dssp             EEEEEC
+T ss_pred             EEEEec
+
+
+No 13
+>2KYT_A Group XVI phospholipase A2; H-REV107, tumor suppressor, phospholipase, N-terminal domain, HYDROLASE; NMR {Homo sapiens}
+Probab=35.78  E-value=1.4e+02  Score=17.17  Aligned_cols=24  Identities=29%  Similarity=0.394  Sum_probs=0.0  Template_Neff=11.600
+
+Q ss_pred             CCCCCCcEEEEEeCCcCCCCCCCCCeEEEEEe
+Q FD01542924_044   33 KSIPRGTAIATFVNGKYPAGDAVHKHAAFYLE   64 (66)
+Q Consensus        33 ~~i~~GTaIATF~~G~Y~~~~~~g~HaaIfl~   64 (66)
+                      ..+++|..|...... |       .|.+||++
+T Consensus         6 ~~l~~Gd~i~~~~~~-~-------~H~gi~~g   29 (125)
+T 2KYT_A            6 PEPKPGDLIEIFRPF-Y-------RHWAIYVG   29 (125)
+T ss_dssp             CSCCTTCEEEEECSS-S-------EEEEEECS
+T ss_pred             CCCCCCCEEEEecCC-C-------CcEEEEec
+
+
+No 14
+>7ZOT_B Phospholipase A and acyltransferase 4; phospholipase A1/A2, acyltransferase, catalytic domain, soluble domain, cytosolic protein, HYDROLASE; 1.735A {Homo sapiens}
+Probab=34.48  E-value=1.5e+02  Score=17.08  Aligned_cols=30  Identities=27%  Similarity=0.382  Sum_probs=0.0  Template_Neff=11.600
+
+Q ss_pred             ccccCCCCCCCCcEEEEEeCCcCCCCCCCCCeEEEEEe
+Q FD01542924_044   27 RKVFGDKSIPRGTAIATFVNGKYPAGDAVHKHAAFYLE   64 (66)
+Q Consensus        27 ~~V~~~~~i~~GTaIATF~~G~Y~~~~~~g~HaaIfl~   64 (66)
+                      ........+++|..|...... |       .|.+||++
+T Consensus         3 ~~~~~~~~l~~Gd~i~~~~~~-~-------~h~gi~~g   32 (126)
+T 7ZOT_B            3 GMASPHQEPKPGDLIEIFRLG-Y-------EHWALYIG   32 (126)
+T ss_dssp             ------CCCCTTCEEEEECSS-S-------EEEEEEEE
+T ss_pred             CcCCCCCCCCCCCEEEEeccC-c-------CceEEEEc
+
+
+No 15
+>5VAE_F Accessory Sec system protein Asp3; O-glycosylation  bacterial adhesin  accessory secretion., CELL ADHESION; HET: MSE; 3.106A {Streptococcus gordonii}
+Probab=32.75  E-value=84  Score=22.14  Aligned_cols=20  Identities=25%  Similarity=0.436  Sum_probs=0.0  Template_Neff=6.000
+
+Q ss_pred             CCCCCCCcEEEEE-eCCcCCC
+Q FD01542924_044   32 DKSIPRGTAIATF-VNGKYPA   51 (66)
+Q Consensus        32 ~~~i~~GTaIATF-~~G~Y~~   51 (66)
+                      |..+|+|++|.++ ....|..
+T Consensus        46 N~lmp~G~~I~~W~S~~~yq~   66 (159)
+T 5VAE_F           46 NKLIASGQTIHEWSSSWNYQG   66 (159)
+T ss_dssp             C-CCCTTCEEEEEESSCSSTT
+T ss_pred             eCCCCCCceeEEEECCCcccc
+
+
+No 16
+>4DPZ_X HRAS-like suppressor 2; alpha/beta fold, enzyme phospholipid acyltransferase, HYDROLASE, TRANSFERASE; 1.25A {Homo sapiens}
+Probab=29.28  E-value=2e+02  Score=17.11  Aligned_cols=24  Identities=29%  Similarity=0.321  Sum_probs=0.0  Template_Neff=11.200
+
+Q ss_pred             CCCCCCcEEEEEeCCcCCCCCCCCCeEEEEEe
+Q FD01542924_044   33 KSIPRGTAIATFVNGKYPAGDAVHKHAAFYLE   64 (66)
+Q Consensus        33 ~~i~~GTaIATF~~G~Y~~~~~~g~HaaIfl~   64 (66)
+                      ..+++|..|.-.... |       .|.+||++
+T Consensus         6 ~~l~~Gd~i~~~~~~-~-------~H~~i~~g   29 (137)
+T 4DPZ_X            6 PRPRLGDLIEISRFG-Y-------AHWAIYVG   29 (137)
+T ss_dssp             CCCCTTCEEEEECSS-S-------EEEEEEEE
+T ss_pred             CCCCCCCEEEEcCCC-C-------CcEEEEEe
+
+
+No 17
+>PF12671.11 ; Amidase_6 ; Putative amidase domain
+Probab=29.06  E-value=2.3e+02  Score=19.38  Aligned_cols=26  Identities=15%  Similarity=0.390  Sum_probs=0.0  Template_Neff=9.000
+
+Q ss_pred             CCCCCcEEEEE--eCCcCCCCCCCCCeEEEEEeeC
+Q FD01542924_044   34 SIPRGTAIATF--VNGKYPAGDAVHKHAAFYLEQD   66 (66)
+Q Consensus        34 ~i~~GTaIATF--~~G~Y~~~~~~g~HaaIfl~~~   66 (66)
+                      .+++|.+|.--  .++.+       .|++|..+.+
+T Consensus       124 ~~~~GDvI~~~~~~~~~~-------~H~~iVt~~~  151 (196)
+T A9KQF0_LACP7/4  124 DLALGDVLQFYHSNLGRY-------GHTVMVTATT  151 (196)
+T ss_pred             CCCCCCEEEEEeCCCCcc-------CeEEEEEeeC
+
+
+No 18
+>8AUC_A Cell wall-associated hydrolases (Invasion-associated proteins); bacterial cell division  peptidoglycan hydrolysis, regulatory protein, CELL CYCLE; 3.5A {Corynebacterium glutamicum ATCC 13032}
+Probab=26.88  E-value=1.3e+02  Score=24.28  Aligned_cols=52  Identities=25%  Similarity=0.389  Sum_probs=0.0  Template_Neff=9.200
+
+Q ss_pred             ccHHHHHHh---cCC----CCCCCcccCccccCCCCCCCCcEEEEEeCCcCCCCCCCCCeEEEEEeeC
+Q FD01542924_044    6 ECVTLVKQY---AHL----GVTGTWKQGRKVFGDKSIPRGTAIATFVNGKYPAGDAVHKHAAFYLEQD   66 (66)
+Q Consensus         6 eCV~lvk~~---~~~----~~T~~W~~G~~V~~~~~i~~GTaIATF~~G~Y~~~~~~g~HaaIfl~~~   66 (66)
+                      .|-.|+...   .+.    .....|..|..|.. ..+.+|..|. |..+..       .|++||++.+
+T Consensus       512 dcsGl~~~~~~~~G~~~~~~~~~~~~~g~~v~~-~~~~pGDlvf-~~~~~~-------~Hvgiy~G~g  570 (600)
+T 8AUC_A          512 DCSGLTLYAFAGVGISLPHYTGYQYQHGTKVSP-SEMQRGDLIF-YGPGAS-------QHVAIYLGDG  570 (600)
+T ss_dssp             CHHHHHHHHHGGGTCCCCSCHHHHTTSSEEECG-GGCCTTEEEE-ESGGGC-------SEEEEEEETT
+T ss_pred             cHHHHHHHHHHhCCCCCCCChHHHHhhCeeeCH-HHCCCCeEEE-ECCCCC-------cEEEEEEcCC
+
+
+No 19
+>2IF6_A Hypothetical protein yiiX; structural genomics, metalloprotein, hypothetical, PSI-2, Protein Structure Initiative, New York SGX Research Center for Structural Genomics; 1.8A {Escherichia coli} SCOP: d.3.1.21
+Probab=25.78  E-value=3e+02  Score=17.78  Aligned_cols=27  Identities=15%  Similarity=0.279  Sum_probs=0.0  Template_Neff=10.500
+
+Q ss_pred             CCCCCCcEEEEEeC------------CcCCCCCCCCCeEEEEEeeC
+Q FD01542924_044   33 KSIPRGTAIATFVN------------GKYPAGDAVHKHAAFYLEQD   66 (66)
+Q Consensus        33 ~~i~~GTaIATF~~------------G~Y~~~~~~g~HaaIfl~~~   66 (66)
+                      ..+++|.+|.+=.+            +.|       .|+||++..+
+T Consensus         3 ~~l~~GDii~~~~~~~~s~~i~~~~~~~~-------~H~~i~~~~~   41 (186)
+T 2IF6_A            3 WQPQTGDIIFQISRSSQSKAIQLATHSDY-------SHTGMLVMRN   41 (186)
+T ss_dssp             CCCCTTCEEEECCCSTTHHHHHHHHTSSC-------CEEEEEEEET
+T ss_pred             CCCCCCCEEEEeCCChhHHHHHHHhCCCC-------cEEEEEEEEC
+
+
+No 20
+>8H02_A DNA-directed RNA polymerase subunit beta'; RNA polymerase, SI3, TRANSCRIPTION; 1.552A {Synechococcus elongatus (strain PCC 7942 / FACHB-805)}
+Probab=25.45  E-value=99  Score=16.74  Aligned_cols=20  Identities=20%  Similarity=0.371  Sum_probs=0.0  Template_Neff=11.100
+
+Q ss_pred             ccCCCCCCCCcEEEEE-eCCc
+Q FD01542924_044   29 VFGDKSIPRGTAIATF-VNGK   48 (66)
+Q Consensus        29 V~~~~~i~~GTaIATF-~~G~   48 (66)
+                      |.+...|.+|++|+.| ..|+
+T Consensus        64 v~~g~~v~~g~~i~~~~~~~~   84 (84)
+T 8H02_A           64 VQDGDKVAAEAILAEVPVSGR   84 (84)
+T ss_pred             EcCCCEEeCCcEEEEccCCCC
+
+
+No 21
+>8I2E_D Probable peptidoglycan endopeptidase LytE; DL-endopeptidase, ANTIMICROBIAL PROTEIN-INHIBITOR COMPLEX; 3.2A {Bacillus subtilis subsp. subtilis str. 168}
+Probab=24.97  E-value=3.4e+02  Score=18.09  Aligned_cols=55  Identities=16%  Similarity=0.193  Sum_probs=0.0  Template_Neff=12.300
+
+Q ss_pred             ccHHHHHHh----cCCCCCCCcccCccccCCCCCCCCcEEEEEeCCcCCCCCCCCCeEEEEEeeC
+Q FD01542924_044    6 ECVTLVKQY----AHLGVTGTWKQGRKVFGDKSIPRGTAIATFVNGKYPAGDAVHKHAAFYLEQD   66 (66)
+Q Consensus         6 eCV~lvk~~----~~~~~T~~W~~G~~V~~~~~i~~GTaIATF~~G~Y~~~~~~g~HaaIfl~~~   66 (66)
+                      .|..|+..+    ........-..-.........++|.+|.-   +.+   ....+|++||++.+
+T Consensus       223 dC~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Gd~~~~---~~~---~~~~~hv~i~~g~~  281 (311)
+T 8I2E_D          223 DCSGFIWYVLNKQTSVGRTSTAGYWSSMKSIASPSVGDFVFF---TTY---KSGPSHMGIYIGNN  281 (311)
+T ss_dssp             CHHHHHHHHHHTTSCCCCCCHHHHHHSSEEESSCCTTCEEEE---CCS---SSSCCEEEEEEETT
+T ss_pred             ChHHHHHHHHHhccCCCCccchHHHhcCcccCCCCCCcEEEe---cCC---CCCCceEEEEEcCC
+
+
+No 22
+>4X5P_A Protein FimH; Sugar Binding Protein, Bacterial Adhesin, Pilus, UPEC, Antagonist Complex, cell adhesion; HET: 3XJ; 0.997A {Escherichia coli K-12} SCOP: b.2.3.2
+Probab=24.74  E-value=90  Score=21.01  Aligned_cols=10  Identities=40%  Similarity=0.604  Sum_probs=0.0  Template_Neff=8.200
+
+Q ss_pred             CCCCcEEEEE
+Q FD01542924_044   35 IPRGTAIATF   44 (66)
+Q Consensus        35 i~~GTaIATF   44 (66)
+                      |++|+.||+|
+T Consensus       120 I~aG~~ia~l  129 (160)
+T 4X5P_A          120 IKAGSLIAVL  129 (160)
+T ss_dssp             ECTTCEEEEE
+T ss_pred             EcCCCEEEEE
+
+
+No 23
+>PF09160.14 ; FimH_man-bind ; FimH, mannose binding
+Probab=24.69  E-value=85  Score=20.70  Aligned_cols=10  Identities=40%  Similarity=0.554  Sum_probs=0.0  Template_Neff=8.300
+
+Q ss_pred             CCCCcEEEEE
+Q FD01542924_044   35 IPRGTAIATF   44 (66)
+Q Consensus        35 i~~GTaIATF   44 (66)
+                      |++|+.||+|
+T Consensus       118 I~~Gd~ia~l  127 (144)
+T A8AMS7_CITK8/2  118 INSGELIAQL  127 (144)
+T ss_pred             EeCCCEEEEE
+
+
+No 24
+>3KW0_A Cysteine peptidase; Cysteine peptidase, Structural Genomics, Joint Center for Structural Genomics, JCSG, Protein Structure Initiative, PSI-2, HYDROLASE; HET: MSE, LYS; 2.5A {Bacillus cereus}
+Probab=23.29  E-value=3.2e+02  Score=18.51  Aligned_cols=25  Identities=12%  Similarity=0.226  Sum_probs=0.0  Template_Neff=9.800
+
+Q ss_pred             CCCCcEEEEEeC------------CcCCCCCCCCCeEEEEEeeC
+Q FD01542924_044   35 IPRGTAIATFVN------------GKYPAGDAVHKHAAFYLEQD   66 (66)
+Q Consensus        35 i~~GTaIATF~~------------G~Y~~~~~~g~HaaIfl~~~   66 (66)
+                      +++|.+|+...+            +.|       .|+||++..+
+T Consensus        40 l~~GDIll~~~~~~~~~~i~~~t~s~~-------sHvaiv~~~~   76 (214)
+T 3KW0_A           40 LKTGDIFLCSGNYLVSKLIKKVSESMF-------SHTGIIVKWG   76 (214)
+T ss_dssp             CCTTCEEEEEECSHHHHHHHHHTTSSC-------CEEEEEEEET
+T ss_pred             ccCCCEEEEeCCcHHHHHHHHHHCCCC-------CEEEEEEEeC
+
+
+No 25
+>PF20590.2 ; DUF6791 ; Domain of unknown function (DUF6791)
+Probab=22.06  E-value=2.5e+02  Score=19.85  Aligned_cols=34  Identities=12%  Similarity=0.246  Sum_probs=0.0  Template_Neff=5.600
+
+Q ss_pred             ccCCCCCCCCcEEEEE-eCCcCCCCCCCCCeEEEEEe
+Q FD01542924_044   29 VFGDKSIPRGTAIATF-VNGKYPAGDAVHKHAAFYLE   64 (66)
+Q Consensus        29 V~~~~~i~~GTaIATF-~~G~Y~~~~~~g~HaaIfl~   64 (66)
+                      |..+..|..|+.|... ..|.--. ... .|.+.|.+
+T Consensus        28 vn~~~~V~~G~Lv~~L~l~gd~~~-~P~-~H~~~F~G   62 (152)
+T A0A1W2FV04_9PS   28 VTPEREVAYGALACAIGATGDDVL-PPT-DHTMRFVG   62 (152)
+T ss_pred             eCCCCceeEEEEEEEeeeCCCCcc-CCC-CcEEEEeC
+
+

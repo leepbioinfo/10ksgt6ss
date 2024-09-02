@@ -1,0 +1,2872 @@
+>FD01542884_00242 membrane-bound lytic murein transglycosylase MltC
+IGMVRQASRK-------YGVDESLILAIMQTESSFNPYAVSH-AD-------------AL
+GLMQVVQHSAG-KD---V--------------------F--R--SQ--GK--------S-
+------------GT-P---S-----------RN--------FLF-DPASNIDTGTAYLAM
+LNN--VYL---------SG-------IEN--PTSRRYAVITAYNGGAGSVLRVF------
+-S----N-DK-------------IQ---------------AANMINRM---SP------G
+----------------DVYQI------L-------TT-RHPS------AES---RRYLYK
+VNSAQRS---------------------------------YR
+>HDR04835.1/226-398 DUF3393 domain-containing protein [Candidatus Marinimicrobia bacterium]
+SPHVNQFASK-------YKLPQELVFAVIHTESAFNPKAKSH-IP-------------AF
+GLMQIVPKFAG-RD---V--------------------H--Q-FLF--KK--------D-
+------------GI-P---L-----------PN--------YLY-TEKNNIEMGSVYLHI
+LET--RYF---------KD-------ITD--PRSRQLCMIAAYNTGAGNVAKAF-TG---
+-T----T-SP-------------KK---------------ATPLINKM---SY------E
+----------------KVYDT------M-------KK-KLPY------KET---QDYIER
+VTTRMAL---------------------------------YK
+>WP_072327263.1/226-399 murein transglycosylase domain-containing protein [Marinospirillum alkaliphilum]
+LPSVRRYAVE-------ERIDPALVMAIMHSESSFNPMARSH-IP-------------AF
+GLMQIVPGSAG-LD---A--------------------T--E-KVY--GQ--------Q-
+------------RL-L---T-----------PS--------YLY-NADNNIRMGCAYIHI
+LYY--RYL---------AA-------IDN--QESRIYCTIAAYNTGSGNVARAF-SD---
+-G----R-NV-------------RT---------------AAVQINRM---TP------Q
+----------------QVYAR------L-------VS-HLPY------EET---RNYMTK
+VTPRYQA---------------------------------YQ
+>WP_025820338.1/258-430 transglycosylase SLT domain-containing protein [Shewanella marina]
+IPHIDTESIK-------QNLPSSLILAIMHTESHFNPNAKSH-VP-------------AY
+GLMQIVPNTAG-HD---V--------------------N--K-LYR--GK--------D-
+------------SP-M---T-----------AT--------ELY-DPKVNIETGTAYLKI
+LQS--RYL---------KG-------IND--PQSAMYSIISAYNTGSGNVAKAF--G---
+-S----K-SV-------------NA---------------AINKINKM---NS------D
+----------------QVYQQ------L-------IT-NLPY------EET---RNYLQK
+VNKRLQQ---------------------------------YN
+>WP_233706633.1/222-389 murein transglycosylase domain-containing protein [Helicobacter marmotae]
+EEIVRKYAHK-------YNISPALVLGIIQTESNFNPYAVSG-AP-------------AY
+GLMQLVPSTAG-AD---A--------------------Y--E-LIN--GK--------K-
+------------GM-P---T-----------KE--------MLF-DPETNIHYGVAYLSI
+LFN--RYL---------PD-------IKD--KQSQEYCVITAYNAGAGSVLRTF------
+-H----N-DK-------------AQ---------------AFMRINAL---SS------A
+----------------KVYDT------L-------RT-KLPS------DEG---RRYLLK
+VSTFKKN---------------------------------Y-
+>MBI5659629.1/223-398 DUF3393 domain-containing protein [Nitrosomonadales bacterium]
+SPLVRKHSET-------TEVSRSLIFAVMKVESGFNPFAVSG-AP-------------AF
+GLMQLVPTSGG-RD---A--------------------Y--R-KAR--GI--------D-
+------------EP-P---T-----------RE--------YLF-EPENNIELGSTYLGV
+LMN-DSPL---------RD-------IGN--PVSREYCAIAAYNTGAGNVFRAF-SPA-R
+GS----A-RQ-------------TE---------------ALGKINSL---SP------E
+----------------EVYEK------L-------KT-DLPY------AET---RDYIVK
+VVAAKKR---------------------------------Y-
+>MCD6233864.1/208-380 DUF3393 domain-containing protein [Candidatus Marinimicrobia bacterium]
+IPSVKKYALK-------YNIDPALILAVIHTESHFNPKARSH-IP-------------AY
+GLMQLVPWSGA-KD---A--------------------N--R-FLF--NK--------D-
+------------ED-V---S-----------AG--------DLY-NPDKNIQFGVAYIYI
+LQN--RYF---------KK-------IAD--PQVKNYCTIAAYNAGAGNVSRAF-IG---
+-N----T-NL-------------PK---------------AIPTINTY---TP------D
+----------------RVYHQ------L-------KN-KMST------KEA---RNYIQK
+VSKLHTQ---------------------------------YK
+>WP_119535318.1/197-365 murein transglycosylase domain-containing protein [Psittacicella gerlachiana]
+SHLVYKYAAQ-------YEIDPKLMFAIMEVESAFNPYAVSS-SR-------------AI
+GLMQIVPRTAG-LE---V--------------------N--R--FQ--GV--------D-
+------------RQ-P---T-----------EK--------FLF-NPDNNVHFGAAYIYI
+MQT--RYF---------QN-------VTN--PLSKRYLLIASYNGGPGGMLSTF------
+-S----K-DR-------------SQ---------------AIGVINKM---TP------Q
+----------------QVYNH------I-------VK-NHYS------AET---RRYLYK
+VTQAYGK---------------------------------Y-
+>WP_048662236.1/233-404 MULTISPECIES: murein transglycosylase domain-containing protein [Vibrio]
+FDTVEVYAEK-------YKLEPEFILSIIKTESAFDPTATSH-VP-------------AF
+GLMQIVPSSAG-LD---A--------------------T--N-FLF--GE--------Q-
+------------QL-L---N-----------KE--------YLF-DPEKNIEVGTAYLHL
+LRS--RYF---------KG-------VTN--EESLKYCITAAYNGGMGPIYHIF------
+-G----G-KR-------------SV---------------AIKNINQL---QP------Q
+----------------QVFQT------I-------QQ-KHSA------AET---RNYLKK
+VSKAEVN---------------------------------YE
+>MBS5049511.1/197-365 transglycosylase SLT domain-containing protein [Desulfovibrionaceae bacterium]
+RETAERYARK-------FGLDTSLVLAIMQVESGFNPSLISS-RD-------------AH
+GLMQVVPATAG-DE---V--------------------H--R-WL---GR--------S-
+------------GL-P---T-----------AS--------ELL-NPDNNIRYGTSYLHL
+LRT--RHL---------EG-------IRD--PQSLEYCVIAAYNGGSGAVLRHF------
+-G----R-TR-------------EE---------------AFAAINEL---SP------Q
+----------------EVLTR------L-------TE-SFPA------RET---RSFVNK
+VLNTRAM---------------------------------F-
+>WP_140959319.1/252-425 transglycosylase SLT domain-containing protein [Aestuariibacter sp. GS-14]
+HEIVEELAKE-------YGLAEALIFAVMETESSFNPSAMSP-IP-------------AF
+GLMQIVPTTAG-LD---V--------------------N--Q-RIL--NT--------S-
+------------KA-P---S-----------KE--------ELF-DAKTNVIFGSAYIHL
+VMN--RYF---------SK-------ITS--AESQLYCAIAAYNTGPGNVARTF------
+-N----Q-SQDM---------SLSK---------------MAATVNTM---DP------E
+----------------QVKAF------L-------IE-NLPA------DET---RRYIQK
+VLNAQQF---------------------------------Y-
+>NUN71067.1/220-391 DUF3393 domain-containing protein [Bacteroidetes bacterium]
+RRTVSQQSER-------FGIDAALLYAIMHTESYFNPKARSP-VP-------------AF
+GLMQLVPKSGA-RD---A--------------------F--F-FAH--RK--------D-
+------------SL-V---T-----------GE--------YLY-IPANNIELGAAYVTK
+LMT--VDF---------RG-------VKE--PKSRILCVIAAYNTGPGNVAKAF-TG---
+-K----R-NV-------------TQ---------------ALPRINAL---TP------E
+----------------QLLGH------L-------RQ-NLPY------EET---RSYVVK
+VSERIGL---------------------------------Y-
+>MCC8193662.1/185-355 transglycosylase SLT domain-containing protein [Deltaproteobacteria bacterium]
+MEHIEHAATR-------FGLSPRLIYAIMRTESAFNPFAVSN-AG-------------AL
+GLMQVVPDSAG-GE---V--------------------Q--A-YLT--GK--------T-
+------------GK-P---S-----------VS--------FLF-DPKSNIEYGSAYLHL
+LAT--RYF---------SG-------VTN--PTSRELCMIAGYNAGPRAVFRAF--G---
+-T----N-NQ-------------DA---------------AINAINEL---SP------D
+----------------ELYTK------L-------SR-HMPA------EET---RQYVGK
+VVAAFNS---------------------------------Y-
+>TNF36006.1/262-444 DUF3393 domain-containing protein [Gammaproteobacteria bacterium]
+QQDVNTHADK-------YKISAAVIFTVMETESYFNPLAKSP-VP-------------AF
+GLMQLVPTSGA-RE---A--------------------Y--R-FVY--NK--------D-
+------------KV-V---T-----------DT--------YLY-NPTNNIELGSAYLHR
+LYY--HYM---------AE-------VTD--PLSRQWTAVAAYNTGPGNVFRAF-AG---
+-K----Y-SS-------------SR-----FGNYDKWKRIAINEINRM---SP------D
+----------------QVYQH------L-------RN-QLPY------RET---REYVKK
+IRERLIK---------------------------------YQ
+>MBW1701139.1/195-366 DUF3393 domain-containing protein [Deltaproteobacteria bacterium]
+LDPVRKQAKR-------FGLSVPVALAVMHTESYFNPKATSP-VP-------------AY
+GLMQLVPRAGA-LD---A--------------------Y--R-YVY--KV--------E-
+------------KI-V---S-----------AD--------YLY-DPVNNIELGCAYLGL
+LKN--RYF---------QK-------IRL--SENALYCAVASYNTGPGNLSRTL-CG---
+-K----K-YL-------------KC---------------AVDRANAM---TP------E
+----------------ALFSH------L-------RK-HLPH------QET---RDYLKK
+VTERMRI---------------------------------Y-
+>MBT7616406.1/191-364 DUF3393 domain-containing protein [Calditrichaeota bacterium]
+LPMAQEHSVM-------YNIDVSLIMAMIETESTFNPMAKSS-AP-------------AY
+GLMQIVPRYAG-LE---V--------------------N--R-RLF--NS--------D-
+------------EK-P---K-----------PS--------FLY-QPDNNIHFGTAYLSS
+MRA--RQF---------RN-------IMD--EQSAMYMMIAAYNTGPSNVARAI-LG---
+-R----T-GI-------------ND---------------AVEAVNKM---TP------A
+----------------TLYDH------L-------IE-NLPA------QET---REYLVK
+VTTRMMH---------------------------------YE
+>OYY24283.1/216-385 MAG: hypothetical protein B7Y68_03805 [Thiotrichales bacterium 35-46-9]
+AHTIEAAARE-------FGLDANLLYAIMETESHFNPFAVSR-TG-------------AL
+GLMQIMPERAG-RD---A--------------------M--K-LLT--GV--------S-
+------------RA-P---T-----------QA--------ELI-DPKTNIRLGAAYVAL
+LQQ--HYL---------KA-------IEH--PRSREYAVIAAYNGGASRAIAVF------
+-S----D-NP-------------PQ---------------AMRSINAL---PP------Q
+----------------MVYDS------I-------KR-RHAS------AET---RGYLEK
+VTTAKRR---------------------------------Y-
+>WP_215961918.1/237-411 WP_215961918.1 MULTISPECIES: transglycosylase SLT domain-containing protein [unclassified Psychrosphaera]
+KTDVNKQAKY-------HGLPVSLIYAVMEVESSFNPRAQSP-IP-------------AF
+GLMQIVPTTAG-LD---V--------------------N--R-HLR--KS--------S-
+------------EA-P---S-----------AN--------ELY-QPPQNVLYGATYLAM
+LYQ--TYF---------KD-------IKN--PLSKHYCVIAAYNTGMGNVSALF-SRD--
+GT----K-DL-------------KK---------------AANVINKL---SA------Q
+----------------QVHDK------I-------KS-RAH-------PET---KRYITK
+VLDAQHY---------------------------------FE
+>NLG19352.1/153-326 DUF3393 domain-containing protein [Fibrobacter sp.]
+YSIIHKYCEK-------YDLSISHVMATVHAESFFNPLARSS-GN-------------AY
+GLMQLVPETGG-RD---A--------------------F--R-FVY--GR--------D-
+------------GL-P---T-----------PD--------LLY-NPEKNIELGCAYIYL
+LKS--RHF---------GG-------VTN--ELNNLYCSIAGFNTGPGNVAAAF-TG---
+-K----K-EL-------------SG---------------AVKIINGF--KNP------D
+----------------NVYAH------L-------LD-RLPF------YET---RVYLRN
+VVNLMRI---------------------------------YR
+>WP_014353878.1/185-353 membrane-bound lytic murein transglycosylase MltC [Wigglesworthia glossinidia]
+LNFIYKASKK-------YNIDKSLILAIIEAESNFNPYAISS-SK-------------AV
+GLMQIVQNTAG-RD---V--------------------F--K--MQ--GK--------L-
+------------GS-P---S-----------KK--------ILL-NPEKNIDIGTAYLSL
+LRD--TYL---------SA-------IIN--PISKKYATIASYHGGVTAMLEVF------
+-S----R-NQ-------------IK---------------AFQIINHL---HP------D
+----------------DVYQL------I-------CK-RHSS------LES---RRYLFK
+VYHLEKA---------------------------------Y-
+>MBT3428559.1/178-349 DUF3393 domain-containing protein [Gammaproteobacteria bacterium]
+QRYVQASSFI-------NDLSPALVMAIIETESAFNPLARSR-SN-------------AL
+GLMQIKPDTAG-RD---Y--------------------F--T-IVK--GY--------A-
+------------HT-P---T-----------SS--------YLY-NPKNNIEVGTAYLRI
+LAE--RYL---------IG-------IDS--AQKMEYAIISSYNGGSGNLWLSL-NS---
+-K----G-NK-------------KQ---------------AIARINTM---SV------S
+----------------EFYWF------L-------TN-RHRR------HET---RNYLKK
+VNKRIEK---------------------------------YR
+>NLD92560.1/218-389 DUF3393 domain-containing protein [Fibrobacter sp.]
+TPIVLKYCKQ-------FEIDPSHVLATIHTESFFNPAARSH-CG-------------AI
+GLMQLMPASGG-AE---A--------------------Y--E-YIK--NK--------K-
+------------LI-P---A-----------ES--------YLY-DPINNIELGCAYISK
+LSK--KYF---------GT-------VNN--ATANKYCTICAYNTGPGNVAFAF-TG---
+-K----K-KV-------------GP---------------AIIKINTM---DI------S
+----------------SVYNL------L-------FN-NLPY------AET---RDYLQK
+VNDRTKL---------------------------------Y-
+>MCB9087243.1/197-375 transglycosylase SLT domain-containing protein [Calditrichia bacterium]
+WPAVQRFAQK-------YEVDPKLIMAIIHTESAFNPKAIST-FRR-----AGGRMGHAY
+GLMQLVPYSGG-KE---A--------------------Y--E-FLG--GR--------G-
+------------E--P---S-----------PA--------ILF-DPEKNIELGIAYLHK
+LKH--YHF---------AG-------VLD--LQNRRYLITAGYNTGPNNVARAF-GG---
+-R----R-QV-------------NA---------------VIPQINAM---PP------D
+----------------RLYAH------L-------LY-NLPY------YET---RDYLRK
+VQERVGL---------------------------------Y-
+>WP_019556738.1/233-401 murein transglycosylase domain-containing protein [Thiomicrorhabdus arctica]
+KSWVEDYATR-------FKVSEDLVFAIIEVESAFNPSAVSK-SN-------------AL
+GLMQLKAETAG-RD---V--------------------Y--Q-YVD--GK--------K-
+------------GQ-P---G-----------QD--------ELF-DAQNNIRMGTAYMGL
+LTH--EYL---------QG-------VDN--LEAKEMLSISSYNGGISNTLKLF------
+-G----K-TP-------------EI---------------AIMRVNQL---HP------K
+----------------QVYRT------L-------RY-EHQS------IEA---RLYLDK
+VLKAKNR---------------------------------YR
+>WP_230403075.1/87-251 transglycosylase SLT domain-containing protein [Plesiomonas shigelloides]
+MPAIKKASRR-------YNVDEKLITALIQVESSFDPNAISR-SN-------------AI
+GLMQIKRDTAG-RE---V--------------------F--R-VYK--NS--------S-
+------------GM-P---S-----------KA--------YLL-NPYNNIDTGTAYLSI
+LRD--RQL---------AG-------IRH--PKSMRYAMMAAYSNGAGALLRSF------
+-H----P-DK-------------KK---------------AIQKINRM---SP------E
+----------------QVYSY------I-------NQ-QHND------AQA---RRYIYK
+LTT---------------------------------------
+>PMP70581.1/206-378 MAG: hypothetical protein C0187_05395 [Calditerrivibrio nitroreducens]
+KAFVDEYARR-------YNLEPSLIYAVIHTESYFNPMATSP-AP-------------AY
+GLMQIIPTQAG-KD---A--------------------A--R-ILF--GS--------P-
+------------LI-L---L-----------PS--------FLY-NPENNINVGATYINL
+IKE--NYI---------KE-------IKD--DKSRLYVAIVGYNVGLRNVYRVF-SP---
+-D----G-DP-------------KK---------------AFYEINRL---SS------E
+----------------EVYAK------I-------SK-NLPQ------RGG---VDYLIK
+ILSRMDY---------------------------------YK
+>NIS07797.1/223-366 DUF3393 domain-containing protein [Candidatus Dadabacteria bacterium]
+EDFVYKFSRE-------YDIDPALVFAIIHVESHFNPTAASH-AN-------------AY
+GLMQLVPTTGG-RD---A--------------------Y--R-RIF--NE--------D-
+------------GI-P---T-----------KE--------FLF-QPDNNIQMGTTFIDI
+MES--NYF---------DR-------AED--DLTREYLIICAYNTGAGNVAVAY-TG---
+-S----T-SL-------------SK---------------AFSKINTM---SP------E
+----------------E-------------------------------------------
+------------------------------------------
+>KAA3597003.1/204-377 DUF3393 domain-containing protein [Calditrichaeota bacterium]
+IPLVEKYSDK-------HNVDPHLVLAIMRNESAFNPVATST-CN---------QKPCAT
+GLMQLVPWSGG-KD---A--------------------F--Q-AL---GK--------E-
+------------GQ-P---T-----------RE--------YLK-NPENNIELGTKYLSI
+LIR--TFD---------G--------TNE--DEKVRYLITCAYNTGAGNVAKGL-VG---
+-K----R-KV-------------RP---------------AVEFANEI---SS------E
+----------------RLYRK------L-------RS-DLPY------EET---RTYLER
+VTNSYKK---------------------------------Y-
+>WP_233483363.1/268-437 transglycosylase SLT domain-containing protein [Desulfovibrio desulfuricans]
+QNLVENFSRR-------YNLSTELVYAIIHSESDFSPTLVSN-KS-------------AM
+GLMQVVPDTAN-DE---V--------------------H--K-YLY--GR--------M-
+------------GD-V---G-----------FD--------DLR-VPETNIRYGTTYLHI
+LFT--RYF---------SG-------VHN--PLAREYCAIAAYNMGPNRFLRLY------
+-G----K-TM-------------EE---------------AVDTINAM---TV------D
+----------------AFYRD------L-------AT-RLPA------RET---RFYVAR
+VQRMKAQ---------------------------------Y-
+>HFE37796.1/240-410 DUF3393 domain-containing protein [Gammaproteobacteria bacterium]
+EPVVLDKSSK-------YRVNFSALMALMHTESSFNPMALSE-S--------------AY
+GLLMINPETSG-RV---A--------------------H--K-KIY--GN--------E-
+------------KI-I---S-----------PT--------YLY-NNVNNIELGSAYFNL
+LYH--KYL---------KG-------VEN--PVSRLYCAIVSYNAGLGNVARTF-SG---
+-R----P-VL-------------RK---------------AIGKINEK---DP------D
+----------------AVFKT------F-------QD-RLPF------EES---KIYLTK
+VKERLSY---------------------------------Y-
+>MAE70466.1/223-413 hypothetical protein [Gemmatimonadetes bacterium]
+LPTVREQSSSVARRKDVAAMPIELVLAIMQTESFFNPKARSH-VP-------------AF
+GLMQLVPNSGA-KD---A--------------------L--Q-YLG--EE--------E-
+------------RV-L---S-----------GE--------ALY-VPPRNIELGIAYVSK
+LWH--QYY---------RG-------IKD--PVCRQYCVIAAYNTGPGNVNRTLNTG---
+-S----S-GV-------------SKSQRGRFGP-------AVARVNREFTGRG------D
+----------------ELKAH------L-------LE-HLPH------DET---KGYLTK
+VSERMGN---------------------------------Y-
+>SIN78476.1/223-391 Transglycosylase SLT domain-containing protein [Sulfurivirga caldicuralii]
+HDLIVRESRR-------NRLDVALVSAIVETESGYRPHVKSR-SG-------------AV
+GLMQVMPKQAA-QD---V--------------------M--K-QLG--KR----------
+---------------L---D-----------ER--------ALL-NPETNVAAGSAYLAL
+LKH--HYL---------AG-------VKN--PRSREYLMVASYNGGINAVLKQF------
+-G----K-TR-------------EQ---------------AIARINRL---KP------E
+----------------QVYRI------I-------RY-QFPR------RET---RLYLEK
+VVQRKAR---------------------------------YQ
+>MBT5224948.1/211-330 DUF3393 domain-containing protein [Candidatus Marinimicrobia bacterium]
+KNDVLSQAKR-------HNLPPSLVFAVIHTESNFNPKARSH-IP-------------AY
+GLMQLVPKSGA-RD---A--------------------Y--R-YIY--KK--------D-
+------------KL-L---R-----------GG--------YLY-NPENNIELGCAYLGK
+LKN--VYF---------KG-------IND--EESAYHCVISAYNTGPGNV----------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------
+>NQU41918.1/213-375 DUF3393 domain-containing protein [bacterium]
+RKEVIKNAEE-------MGVLPELVFAIIHTESAFNPKAHSG-AG-------------AY
+GLMQLIPRYGA-RD---A--------------------Y--R-FLH--DK--------D-
+------------AV-I---K-----------PD--------SLY-DPATNIRLGTAYVHL
+LAN--RYM---------KD-------IED--PTKKEYLVVCGYNWGPPAVRKAL-RD---
+-H-----------------------------------------PVDRM---SS------D
+----------------QLYQV------L-------QK-SVP-------KET---GNYLER
+VTARKPM---------------------------------Y-
+>MBC8432659.1/210-373 transglycosylase SLT domain-containing protein [Desulfobacterales bacterium]
+LPVVQKNAKR-------FGLKPQLILAVMHTESYFNPRAVSG-SK-------------AI
+GIMQIIPKYAG-RE---A--------------------Y--R-SIY--GQ--------D-
+------------KV-I---S-----------WD--------YLF-VPENNIELGSKYLSL
+LKY--NHF---------RD-------IHD--VTKNHYVAIGGYNWGPTAMRRKI-VD---
+-R----Y------------------------------------PIAQM---SN------D
+----------------QVYSL------L-------RQ-KTP-------QET---RDYIKR
+VTERMSI---------------------------------Y-
+>MCD4828493.1/183-356 transglycosylase SLT domain-containing protein [Candidatus Cloacimonetes bacterium]
+LPDILDLCRR-------FKVPAPLVMGVIHTESHFNPRAINRDAG-------------AY
+GLMQIIPRYAG-VT---M--------------------N--R-ILN--DD--------T-
+------------RQ-P---L-----------PE--------QLL-DPLVNLEMGIGYLHY
+LDI--HYF---------SN-------VGI--SRSRYYTMISAYNGGAANVFRTF-TGQ--
+-S----R-HS-------------EE---------------FDRIVNEM---DA------K
+----------------NVFIR------L-------TG-NHPY------GET---RRYLIK
+VTSRAED---------------------------------Y-
+>HGW31429.1/47-213 HGW31429.1 MAG TPA: hypothetical protein ENV72_07340 [Campylobacterales bacterium]
+KELIVRYAKQ-------NNLNAMLLAAIIKVESNFDKKAVSA-TN-------------AI
+GLMQIKLDQSV-SD---V--------------------Y--K-NIF--GR--------I-
+------------DL-P---P-----------IE--------QLL-DPQFNISIGSAYLNL
+IST--KYF---------KD-------IKN--PQTKEYCIIAAYNAGAGEVLRTF------
+-S----S-NK-------------IE---------------AQTIINNQ---MP------D
+----------------EVLAN------L-------KT-KLMN------EQG---RRYIQK
+VLDAKNE-----------------------------------
+>MBD3167502.1/269-433 transglycosylase SLT domain-containing protein [bacterium]
+LPMVERYARH-------YQVDPALVLAMIETESAFNPRAVSS-AH-------------AH
+GLMQLIPQYGG-RE---A--------------------Y--A-LVH--GS--------D-
+------------GI-P---A-----------PE--------LLF-DPDTNIRLGCAYLHL
+LGS--RHF---------AE-------LRQ--DRRKDYTVIAGYNWGPGNVRRKV-ID---
+-R----Y-G----------------------------------SPDGY---SE------Q
+----------------QWFSL------L-------RQ-HTP-------RET---SNYLDK
+VVERRAR---------------------------------W-
+>WP_102499604.1/156-328 transglycosylase SLT domain-containing protein [Vibrio breoganii]
+VEQIKASSKT-------WKVPASLVLAIIYQESRFNPKAQSK-AP-------------AY
+GLMQIMEKSAA-AD---V--------------------S--N-SYL--KK----------
+------------QK-I---T-----------VS--------TLF-NPGYNIEIGAAYLSI
+LTN--KYL---------KN-------IES--VHSRLLLSIAAYNAGVGSVAKHF-TG---
+-T----T-SL-------------NQ---------------LSKVANNM---EF------V
+----------------DIYKS------L-------TT-TFPF------KET---RDYVRV
+VVDKEHY---------------------------------YQ
+>MSQ77816.1/1-124 hypothetical protein [Nitrospiraceae bacterium]
+------------------------------------------------------------
+---QLVPTSGG-RE---A--------------------Y--R-RAK--GS--------D-
+------------TT-P---S-----------RE--------YLF-NADNNIELGTALLNV
+LNY--KQL---------ED-------VDN--TVSREYCVISAYNTGLRNVLRTF------
+-S----K-DL-------------VA---------------AVNQINSL---EP------P
+----------------AVYDK------L-------RQ-NLPY------QET---RDYLVK
+VTSFRKQ---------------------------------F-
+>WP_207687863.1/178-342 transglycosylase SLT domain-containing protein [Desulfonema limicola]
+YDIILKYSKK-------YKLAPQLMLALIHKESFFNPFAKSF-GG-------------AL
+GLMQLMPEYGA-RE---A--------------------Y--N-FLF--KK--------D-
+------------MI-L---P-----------EN--------YFY-DPENNIELGTAYFHI
+LKT--RYF---------NK-------IKS--RVKNEYLSICAYNWGPTRVNRLI------
+-S----Q-H----------------------------------NINEM---NN------L
+----------------QLYTM------L-------RN-NTP-------EET---RDYLEK
+IYILSEQ---------------------------------YK
+>WP_115552058.1/58-218 murein transglycosylase domain-containing protein [Helicobacter ganmani]
+GEYVR---------FD-YQLEEALVFAIVKTKS-FN----SY-TL-------------AY
+GLMQIVPTDVG-KD---V--------------------Y--K-TLN--NK--------D-
+------------RI-P---T-----------KE--------KLF-TPKTNIQYGTTYSNI
+LFT--RYL---------TG-------IAN--SLSHEYCVIAAYNAGSGNALNVF------
+-D----K-NC-------------TK---------------VVQKINST---TS------T
+----------------EVYRK------L-------RT-SLYP------KEV---RSCLHT
+VMNSKKK---------------------------------FQ
+>PMH37235.1/76-248 hypothetical protein BCU70_16490 [Vibrio sp. 10N.286.49.C2]
+FPIIQKASQA-------WDIDVSLILAVIHVESYFDPRARSL-AP-------------AF
+GLMQVMKDGAV-AE---I--------------------S--Q-RYY--SQ----------
+------------TT-F---T-----------IE--------QLY-NPSININIGTAYLSV
+LKS--HYL---------NG-------IHS--SVSKEWLAIAAYNCGPSNLFKYF------
+-K----R-NN-----------SVET---------------FSFTVNGM---TD------T
+----------------EIFNY------L-------IY-DFPI------SET---RDYVKK
+VINRQRS---------------------------------YQ
+>MBQ2477786.1/156-328 transglycosylase SLT domain-containing protein [Desulfovibrio sp.]
+SKIVKRYAAD-------YGLKTHLLLAIIQVESLGDVRCVSG-KC-------------AT
+GLMQIQPHTAG-QE---V--------------------A--A-FLK--DR------PAS-
+------------SG-Q---K-----------QQ--------DLF-SPEQNIRYGAAYLHI
+LAT--RYF---------GQ-------VTD--PLSREFCVITAYNSGPGRFYGYF------
+-G----K-SR-------------RE---------------AFARINAL---SP------E
+----------------ELFRD------I-------ST-RIPV------KET---RTYLGK
+VYALMNY---------------------------------YQ
+>MBI5787970.1/173-336 transglycosylase SLT domain-containing protein [Candidatus Schekmanbacteria bacterium]
+KPQVKEYADK-------YQLDPALILAVIHTESYFNPLAKSR-IP-------------AY
+GLMQLVPRSGA-LE---A--------------------Y--H-YLY--KE--------K-
+------------KI-L---P-----------AD--------YLY-QAENHILLGTVYLHL
+LYD--KYF---------GR-------IKN--TDNRRSLSIAAYNCGPTRLTKNI-VG---
+-K----H-N-----------------------------------VDNM---AN------G
+----------------DFVEL------I-------RQ-TVP-------AET---KDYILK
+VQQRIPL---------------------------------Y-
+>WP_132697908.1/99-270 transglycosylase SLT domain-containing protein [Vibrio owensii]
+LPMISEAATQ-------WKIETALLLAIIHTESAFNPNAVSH-KD-------------AI
+GLMQVMQNGGA-LE---V--------------------S--Q-KLY--FG----------
+------------RK-I---S-----------RD--------ELF-EPNFNIDTGAAYLHI
+LKT--DYL---------HS-------VRS--EQNKMLLAIAAYNCGLSNLMRYL-SY---
+-T----Q-SL-------------PQ---------------FSSEMNRL---TE------D
+----------------ELYFR------L-------TQ-TLPI------EET---RNYVEK
+VMRLYHH---------------------------------YQ
+>MBT3232999.1/67-241 transglycosylase SLT domain-containing protein [Calditrichaeota bacterium]
+IPIVRDVCKD-------LNIDIAITMAVIERESGFNPDNENK-SD------------PSY
+GLMQLVPESGG-RS---A--------------------N--R-YLF--SK--------D-
+------------EA-P---T-----------PS--------YLY-NPTNNIYLGVGYLSM
+MKN--YYY---------GN-------VKD--SQSRQMCMIGGYNAGPGGVARSF--G---
+-V----R-SV-------------DA---------------AVKEINKL---SS------V
+----------------DVYKE------L-------IN-NLPK------SDTYNAREYLQK
+IYDTVPK---------------------------------W-
+>MBC8272788.1/180-313 DUF3393 domain-containing protein [Gammaproteobacteria bacterium]
+LAFAKAASEK-------HRIPVPLIMAIIETESAFNPLARSR-SN-------------AL
+GLMQIKADTAG-RD---Y--------------------F--S-IIN--GD--------N-
+------------RT-P---S-----------ST--------YLY-NPENNIEVGTGYLSI
+LAD--HYL---------AG-------IYH--PQKLQYAIIASYNGGAGKLFSRL-GE---
+-S----G-RQ-------------RA---------------APA-----------------
+------------------------------------------------------------
+------------------------------------------
+>MBC8459063.1/173-337 DUF3393 domain-containing protein [Deltaproteobacteria bacterium]
+LHIVKKYTNK-------YDLDIPMVMAVIHTESYFNPLARSW-AN-------------AH
+GLMQIVPKYAG-RE---T--------------------H--Q-YLF--NE--------D-
+------------KI-P---T-----------AS--------YLY-KPDNNILLGTTYLYL
+LLK--KYF---------NL-------VSG--VNKRDYLVIASYNWGPHNVKLKI-VS---
+-K----Y-D----------------------------------HIDKL---SD------E
+----------------RLFAI------L-------QQ-RCP-------DET---KGYLRK
+VTSRMEN---------------------------------Y-
+>WP_208967073.1/180-349 murein transglycosylase domain-containing protein [Candidatus Nardonella dryophthoridicola]
+INILIKYSKI-------YNIDIILVLSIIKVESNFNKYAVSN-SG-------------AI
+GIMQIIYNKAG-LD---V--------------------Y--N-NIN--NF--------Y-
+------------KY-P---H-----------KN--------MLF-NVFYNIKMGICYLSI
+IQN--KYL---------SD-------IKN--KDSLRYLTIASYNGGVNNILRIF------
+-N----K-NF-------------KK---------------SITIINSM---DS------K
+----------------LVYKS------I-------VN-HHPS------KEI---RNYLKV
+VNNLYLK---------------------------------YY
+>GAL34249.1/80-252 membrane-bound lytic murein transglycosylase C precursor [Vibrio maritimus]
+QHLISEAALK-------WNIEQSLIYAVMHVESYFNPTAVSS-AQ-------------AL
+GLMQVTENGAV-LE---F--------------------S--K-RFL--GG----------
+------------KT-L---A-----------RE--------QVF-VPRTNIDIGTAYLYL
+LDA--TYL---------SQ-------IRS--PKTRLIATIAAYNCGLTNLMKYT-FD---
+-T----K-SL-------------DY---------------FVYRVNQT---TT------E
+----------------EWREM------L-------TQ-QFPI------AET---RAYVAK
+VLEKKAH---------------------------------YQ
+>HIP11416.1/200-373 DUF3393 domain-containing protein [Arcobacter sp.]
+KNIILEQSEK-------LEIEASLIYAIIDIKSGFNPLSRSR-QM-------------GV
+GLMHVTPYKIG-KI---A--------------------Y--K-YLT--GY--------S-
+------------KV-L---S-----------SD--------YLL-NTKNNITLGSTYLKI
+LFK--EDF---------VE-------INN--FKSRWYCTIVAYDIGTKNLSKAF-VK---
+-S----E-NM-------------KD---------------AIKVINNM---SS------D
+----------------QVYKR------L-------MK-KLPR------GDT---KRYFYK
+VNQQIKE---------------------------------YV
+>NBX76118.1/191-337 DUF3393 domain-containing protein [Proteobacteria bacterium]
+YPVVKFWADK-------YKLEPALILAIIRQESAFNPRARSW-VP-------------AF
+GLMQIVPKYAG-KE---V--------------------M--L-AVT--KK--------E-
+------------IV-P---D-----------SD--------FLF-DPERNIMLGTTYLQI
+LRD--QYF---------AN-------INE--EAKRTFLLVASYNWGPTRVQNLI------
+-G----K-GR-------------LP---------------ATS--------GA------D
+----------------ETYKN------L-------RE-MTP-------------------
+------------------------------------------
+>MBW1673919.1/102-218 transglycosylase SLT domain-containing protein [Deltaproteobacteria bacterium]
+RNTVQANANR-------FSLEPQLIMAVIHTESYFNPFARSH-AG-------------AY
+GLMQVIPRYAG-RE---A--------------------Y--Q-FIY--KQ--------D-
+------------RI-I---T-----------PP--------YLY-QSVNNINLGSAYLYL
+LYN--KHF---------AD-------IQG--RDKRLYLTICGYNWGP-------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------
+>MBN1968719.1/191-363 transglycosylase SLT domain-containing protein [Candidatus Delongbacteria bacterium]
+LPIVKKYSET-------YKLDPALVMAFIHTESAFNPKAYSR-RP-------D-GTPMAC
+GLMQLIPTQAA-RD---A--------------------H--N-ALY--GK--------D-
+------------VI-V---K-----------PE--------FLF-DPDENIKMGTWYINN
+LKK--WWN---------KK-------VDNLSEVKNEYLTVSSYNQGMGTIYKRF------
+-K----A-NDLG-----------SK--------------------------SE------D
+----------------STYKI------L--------N-TDPQI----SKEG---RDYIER
+VIDRRKL---------------------------------YR
+>MBI9031728.1/190-367 DUF3393 domain-containing protein [bacterium]
+EKLISKYCKE-------AGIEPALALAIIKTESCFNPRAYNR-TG------------NAY
+GMMQIVPKYAG-RT---M--------------------N--R-ILY--KK--------D-
+------------KE-P---A-----------SK--------VLF-DPETNLRMGINFLGH
+LKS--TSW---------KK-------ITN--EINQRYCVISSYNGGSGAIYIAL-AG---
+-R----T-SKIPQ----------EKWD------------EMMALLNSN---NN------K
+----------------KVYD-------L-------IH-AKSW------EET---RHYIKV
+VEERYAQ---------------------------------Y-
+>WP_115956157.1/39-198 transglycosylase SLT domain-containing protein [Candidatus Purcelliella pentastirinorum]
+NKLILDASKK-------YKINIKLIISLIKIESNGNPCAISK-SN-------------AI
+GLMQIKPSTAG-KE---V--------------------Y--K--YR--KI--------E-
+------------GQ-P---S-----------KK--------KLK-NPKINIDIGTNYIYL
+LQY--KML---------NK-------IKN--KKILRYAIIVSYVGGIGALLKIF------
+-S----K-KQ-------------EI---------------SMKIINKI---SP------N
+----------------KFLWY------I-------KT-KHPY------KQI---YKYLIK
+V-----------------------------------------
+>OPX35557.1/1-128 hypothetical protein B1H11_08945 [Desulfobacteraceae bacterium 4484_190.1]
+------------------------------------------------------------
+---QLVPRGGA-RD---A--------------------H--R-MIH--GK--------D-
+------------RV-L---T-----------PK--------YLY-KPKNNIELGTAYLHI
+LAN--RYM---------KA-------VHD--PTSRMYCAIAAYNAGAANVGYAL-IG---
+-S----K-SM-------------QK---------------AIPTINRM---EP------E
+----------------AVYVK------L-------TQ-SLPF------KES---RSYVKK
+IRDRIPL---------------------------------YT
+>MBU3831776.1/192-366 transglycosylase SLT domain-containing protein [Candidatus Desulfovibrio faecigallinarum]
+LPEIRRFAAR-------YDIPVPLLLAVMHVESGGRHETTSS-RN-------------AI
+GLMQVQPETAG-ID---V--------------------H--K-YLV--KK--------S-
+------------GG-S---L-----------KNIEVSNVYVHVK-DFEQNIRYGATYLHL
+LER--RYF---------CK-------VNN--RESRMLCMIAAYNMGPGRFTRLF------
+-A----N-TT-------------EK---------------AVEIINLY---SS------I
+----------------GLYEE------I-------LI-R-YN------FNK---YNYIDR
+VISLMFQ---------------------------------YR
+>OGR81753.1/187-351 hypothetical protein A2X32_09730 [Elusimicrobia bacterium GWC2_64_44]
+KAKVEECAKR-------FDLKPSMLYAVIHSESNFNPMCVSR-TG-------------AR
+GLMQLMPEAAS--E---A--------------------D--R-FLRQAKT--------E-
+------------RP-I---P-----------PD--------QLF-DSDYNILLGSAYLHM
+LKV--RYF---------GE-------LKN--ADNRRMLSIAAYNCGPYYVKRRI------
+---------------------------------------LPRGDFEAL---ST------A
+----------------EALKL------I-------RA-RAP-------VET---RYYLPR
+VLGRMEL---------------------------------Y-
+>WP_190614936.1/178-342 transglycosylase SLT domain-containing protein [Tepiditoga spiralis]
+IPIIKKYAKE-------AKIPAELVMAIVHTESSFNPKAYSK-IG-------------AY
+GMMQLMPKYGA-AD---G--------------------Y--Y-YYY--GK--------R-
+------------KF-V---R-----------ID--------DLY-KAELNIKYGAGYLNI
+LTN--QYM---------KV-------VTD--NTKRHYLAIASYNHGPTNVLNLM------
+-K----K-----------------------------------YNVNKM---SV------K
+----------------DVYNL------I-------KT-KTH-------PET---ANYIDR
+ILSREKE---------------------------------YK
+>MBT4522715.1/217-378 transglycosylase SLT domain-containing protein [Halieaceae bacterium]
+TATAIKSARR-------FELTAELVMAMIHTESAFHHDARSN-RA-------------AV
+GLMQVVPSTGG-VE---A--------------------V--R-HVK--GP--------T-
+------------QV-P---S-----------TD--------ALL-DPHFNIEVGTAYLAF
+LNS--HHL---------EF-------VKH--PEVRMLASVAAYNWGPTRLRQMF------
+-R----THGE-------------PQ--------------------------SV------E
+----------------AFKQQ------I-------AL-HAP-------AET---RNYIDR
+VEQRRSL---------------------------------Y-
+>MBE9535956.1/171-358 C40 family peptidase [Proteobacteria bacterium]
+AESVRDMTFK-------YNVSYDLVMAIIKTESNFNIGAGSK-KETLDIRNPDVYENNPW
+GLMQIVPLRSG-RE---G--------------------W--K-KAR--GK--------D-
+------------KV-P---T-----------AD--------ELL-DPRTNLELGVAYLSL
+LQY--HYF---------DG-------VKN--GVSRELVMISAYRQGPEKVYGIF------
+-S----D-KG-------------KKKE-------------AVEQINRL---KP------G
+----------------EVTGW------LSGK---IREKTAPK------APL---NQYVKK
+VEKERAN---------------------------------YR
+>MAA75563.1/214-376 hypothetical protein [Salinisphaeraceae bacterium]
+LPAVRRASAE-------FDVPVERILAIIHTESSFRDNATTN-WK-------------AV
+GLMQVVAKSGG-AE---A--------------------I--R-LIK--GR--------R-
+------------GF-P---S-----------HS--------ALL-KPAINIRIGTAYLRS
+LED--RHF---------AF-------ITN--DDVREAAVIAAYNQGPTKIRNIL------
+-R----KHGV-------------PR--------------------------DR-------
+----------------AGFRA------L-------LA-RYSV------PQT---SDYLVK
+VTRREAL---------------------------------YR
+>WP_087459851.1/86-243 transglycosylase SLT domain-containing protein [Oleiphilus messinensis]
+AQEIREISER-------FELSHSLIFAVAKTESGFRTQVESG-AG-------------AV
+GVMQVIAHAAG-QD---A--------------------W--Q-RVL--KK--------K-
+------------GQ-P---S-----------LR--------DLK-DPYTNMLLGSAYLKL
+LQD--RYF---------ND-------IED--PQLRLGVVLAAYNWGPTNVRSML------
+-D----K-GR-------------PD--------------------------NL------K
+----------------ELYWM------L-------WT-YAP-------RET---YGYVRK
+VVRTKAQ---------------------------------F-
+>WP_224424227.1/29-185 transglycosylase SLT domain-containing protein [Modicisalibacter sp. MOD 31.J]
+AALVDRAGEA-------LGVSPTVVHAVIAAESSYDPSARSH-AG-------------AL
+GLMQLIPETGA-LE---A--------------------Y--R-YLY--GR--------N-
+------------EI-P---T-----------DA--------SLL-RPEVNVWLGTAYLRV
+LGE--RYF---------GW-------VGN--PDVRVRAILAAYNWGPTRVLSRL-LP---
+-E----R--------------------------------------NPI---GL------D
+----------------EFMDR------L-------YA-EAP-------KET---QEYLRR
+VLTR--------------------------------------
+>AZZ90782.1/93-252 hypothetical protein ENC22_06105 [Hahella sp. KA22]
+AKEVRKVAVE-------LDMEERLLYAVARTESSLRPDVRSE-KG-------------AM
+GLMQVVAGAGG-RE---A--------------------Y--K-RLY--KK--------S-
+------------RN-P---T-----------EK--------ELA-DPYTNLKLGGAYLKI
+LRH--RYF---------GQ-------VED--RTAQTMLVLAAYNWGPSNVRRKI-VG---
+-K------SP-------------VQ--------------------------TR------E
+----------------QVLKA------L-------QQ-DAP-------TET---YQYVRK
+VMRYMDE---------------------------------FA
+>OGT90102.1/35-195 hypothetical protein A2514_11270 [Gammaproteobacteria bacterium RIFOXYD12_FULL_61_37]
+QQSVQTNASL-------WRLPEELIRGVIHVESRGNPGAVSP-KG-------------AL
+GLMQVVPGSGG-RE---T--------------------W--K-LLY--SK--------D-
+------------YT-P---S-----------RE--------LLK-DPHANITIGSAYLAY
+LYH--RHF---------AS-------IPD--PDVRVMAALAAYNWGPGRVEKML------
+-G----RHGM-------------PK--------------------------SM------T
+----------------EMGSL------L-------AN-YAP-------RET---ARYVID
+VITKTIE---------------------------------YA
+>VEA73291.1/78-164 Endo-type membrane-bound lytic murein transglycosylase A precursor [Serratia rubidaea]
+SDYIRQAASN-------YGVDENLIKAIIQVESGFNPLAVSK-SN-------------AV
+GLMQLKASTAG-RD---A--------------------Y--R--MK--GR--------R-
+------------GQ-P---S-----------SR--------ELK-DPAVNIDLGAAYINI
+LQ----------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------
+>RKY65024.1/1-91 transglycosylase, partial [Candidatus Latescibacteria bacterium]
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------LGCGYLHY
+LRN--RMF---------GR-------VSD--DRKALYCAVAAYNTGPSNVARAF-VG---
+-R----R-SL-------------RR---------------AIPIINRM---AP------D
+----------------EVFER------L-------RR-KLPY------RET---RDYVKK
+VFGRMPL---------------------------------Y-
+>MBU0478165.1/31-167 lytic transglycosylase domain-containing protein [bacterium]
+APIVYKSAQK-------YNIDPALIMAVIEIESKFNAKAVSK-AG-------------AT
+GLMQIMPKTAK-SL---S--------------------R--E--L---NI--------K-
+-------------K-Y---N-----------KD--------FLY-NPEINIKIGTYYLKK
+LLQ--EFN---------N----------------DIDLSLGAYNGGIGNIKKWQ------
+-R----Q-K---------------------------------------------------
+------------------------------------K-EIPF------EET---RTFIKK
+VKSARIK---------------------------------YK
+>MBP5427446.1/31-176 lytic transglycosylase domain-containing protein [Clostridiales bacterium]
+LDSIERYSRE-------YHVDPLLVLSVIKVESDFDPKAVSS-KG-------------AM
+GLMQIMDSTAN-WI---S--------------------K--R--M---GI--------S-
+-------------N-Y---T-----------QE--------MLL-IPDNNIKLGVWYLSW
+LYD--KYQ--------------------------DIDLVIVAYNGGTGNLDKWL------
+-K----E-ST-------------LS--------------------------SD------G
+--------------------Q------K-------LD-RIPF------EET---DNYLLK
+VKFTHKI---------------------------------YK
+>WP_204618429.1/44-186 lytic transglycosylase domain-containing protein [Collinsella tanakaei]
+EEDILSSATE-------FGLDPYLVAAVIETESGFDPSAHSD-SG-------------AC
+GLMQLMPDTAW-DM---V--------------------H--KGYV---SS--------D-
+-------------E-V---D-----------PD--------NLY-DPSTNIRIGCAYLSY
+LIS--YFN---------G----------------ATDHAIAAYNAGMGNVDSWT------
+-D----G-GQ--------------------------------------------------
+--------------------D------L-------AD-SITF------PET---QSYLVR
+VKTAHER---------------------------------YR
+>WP_076721528.1/177-329 transglycosylase SLT domain-containing protein [Motiliproteus sp. MSK22-1]
+EYYISYYASI-------RGLQPELISAVVYAESYFDSTAISP-GG-------------AL
+GLMQLIPESGG-RD---A--------------------M--R-LSG--RG--------D-
+------------RI-P---T-----------DT--------ELL-DPKLNIDLGTAYFKH
+LIK--RY----------EF-------VEN--QKAKEYLALAAYNWGMGNVKNKL------
+------------------------------------------SLTADM---SA------K
+----------------NVLLQ------L-------QM-VAP-------KQT---QDYINR
+IRLR--------------------------------------
+>WP_165144811.1/207-373 transglycosylase SLT domain-containing protein [Marinitoga sp. 38H-ov]
+IPIIDNIKNK-------YGIPRSFILSIIQKESSFLPNVRSK-SG-------------AL
+GLMQLIPRYAA-TE---A--------------------Y--I-YLY--NK--------K-
+------------PN-P---RS---------LVN--------ELY-NPEKNILYGATYIYL
+LHN--KYF---------EF-------EKD--YSKRKYLVIAGYNMGPIAISKMV-RGL--
+-------------------------------------------NLENF---DL------S
+----------------SLYHY------L-------IN-N-TR------KET---SNYLNK
+VLIYEKE---------------------------------WN
+>WP_226392240.1/61-207 lytic transglycosylase domain-containing protein [Ructibacterium gallinarum]
+QTEVEKYAEE-------FQLEPALVYAVIRTESGFDPYAVSS-AG-------------AK
+GLMQLKEETAF-DC---V--------------------R--A--L---KI--------N-
+-------------H-F---T-----------VD--------DLF-DPAVNIRLGCYYFSK
+LLK--TYD---------G----------------CIETAAAAYNGGPGNVEKWL------
+-Q----D-EA-------------LV--------------------------DE------K
+--------------------G------K-------LT-KVPF------AET---RNYVEN
+IVESYQM---------------------------------YQ
+>WP_185592243.1/42-184 WP_185592243.1 lytic transglycosylase domain-containing protein [Peptostreptococcus russellii]
+SEYVEKYSKE-------YKVDKYLIYSIIKTESKFNPDAVSS-KG-------------AA
+GLMQITDVTAS-WA---A--------------------K--E--L---KL----------
+-------------------K-----------NA--------DIH-DPETNIRMGTWYLHR
+LNK--EFK---------G----------------DLSLMISAYNGGSGNVRKWL------
+-R----S-SK-------------YS--------------------------DD------G
+--------------------K------S-------LT-QIPF------KET---SQYTEK
+VLKNYRK---------------------------------YR
+>WP_161569648.1/231-400 transglycosylase SLT domain-containing protein [Veronia nyctiphanis]
+LDHFRFHADL-------TNVELGFLLAISQVETGFNPVSKYA-GA-------------AY
+GIMQVSPHSAG-LI---V--------------------S--E-LVF--RR--------A-
+------------TL-P---T-----------AD--------ALY-VAAVNIFYGTNYLSA
+LVN--TTF---------SD-------IKD--RDSRLLCAVTAYKIGLDQLLKVF------
+-E----H-PQ-------------GDIE------------GFNRKINML---SR------K
+----------------QVFRQ------L-------VR-DLPY------KEA---QQFVIR
+VMAATKA---------------------------------MR
+>OUS33642.1/190-343 hypothetical protein A9R00_12980, partial [Oleispira antarctica]
+QPVVEGLAEE-------FDVSPALAMAIIHQESAFNLLASTQ-EA-------------RL
+GLMLISPQQVD-EI----------------------------------------------
+-------------------D-----------AK--------VFY-QPELNIESGIRYLAK
+LED--QLS---------G--------IED--PQARQLCVIAAYRVGINEVAKVF-TG---
+-R----S-SL-------------SQ---------------ALPLINQL---SA------R
+----------------QVQGQ------L-------RS-QLGV------NDS---GQYVHQ
+VSS---------------------------------------
+>WP_098496610.1/96-231 lytic transglycosylase domain-containing protein [Collimonas sp. PA-H2]
+EPLVNQAAQE-------FALDPALLKAVMAAESGFNPGAVSP-KG-------------AI
+GLMQIMPATAE-RY---G--------------------L--T--G---DK--------K-
+-------------K-P---I-----------EQ--------KLT-DPRTNIRLGARYLRD
+LLK--LYP---------A----------------QQELVIASYNAGEGAVQKYK------
+-N----Q-VP--------------------------------------------------
+----------------------------------------PY------PET---RNYVQL
+VRQFYQL---------------------------------YQ
+>MBQ9993931.1/42-188 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+RQYIEQSCTE-------FGVDESLVYAVIHTESGFDPMARSE-VG-------------AM
+GLMQIMPETFS-WL---Q--------------------S--K--L---PP--------E-
+------------SE-L---S-----------PD--------ALY-DPQTNIRYGVYFLSL
+LEQ--QFG--------------------------ADVLTVAAYHAGQGKVASWL------
+-S----S-EQ-------------VS--------------------------QG-------
+--------------------S------A-------AA-DIPS------SAT---GHYVSK
+VQRAREI---------------------------------YR
+>HDU66165.1/191-337 HDU66165.1 MAG TPA: hypothetical protein ENR06_03270 [Bryobacteraceae bacterium]
+RDEVESYAEK-------RNIDPAFVYAVMRQESAFGVQARSH-VG-------------AL
+GLMQLMPATAK-RT---A--------------------R--S--I---KE--------R-
+-------------A-P---S-----------RA--------ELL-TAEKNIRIGTAYLSE
+LLE--KYR---------G----------------NRFFALAAYNAGPQRVTRWQ------
+-P----H-AE-------------PI--------------------------PA------D
+--------------------I------W-------VA-NVTF------GET---REYIER
+ILAYTAV---------------------------------YE
+>MBQ5398771.1/55-199 lytic transglycosylase domain-containing protein [Ruminococcus sp.]
+SEFVDRAADK-------YNLDKPFIYAIIHTESHFNPDCESY-VG-------------AQ
+GLMQIMPETFQ-WL---A--------------------K-----L---KK--------E-
+-------------T-V---S-----------PS--------DYK-DPETNIDYGCYFLKY
+LTK--RYQ--------------------------SKTLAAAAYNAGFNAVDNWL------
+-K----D-PS-------------IS--------------------------PD------G
+--------------------K------T-------LE-SIPY------PET---DNYVKK
+VKKASKM---------------------------------YR
+>MBR5227306.1/30-179 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+QDIVEHVTKQ-------YNVDPNLVYAIIKQESDFKEDAKSR-SG-------------AI
+GLMQIMTTTAD-EV---V--------------------Q--T--I---SS--------I-
+-------------D-K---N-----------YY--------NLY-DPETNISVGVKYISE
+LIR--KFE---------G----------------NIYLTIAAYNGGMGNVQKWF------
+-E----K-DY-----------SKYD--------------------------SL------D
+--------------------K------V-------VE-EIKF------VET---RKYVTN
+VIGYYNF---------------------------------YT
+>WP_195560702.1/38-182 lytic transglycosylase domain-containing protein [Anaeromassilibacillus sp. D41t1_190614_C2]
+REIVEEEART-------QGVDPALVYAVMKAESNFDPDATSH-AG-------------AR
+GLMQITPDTFD-WL---Q--------------------T--K--L---RE--------G-
+------------VS-Y---T-----------AD--------DLY-TPRVNIRYGCKFLQI
+LQD--EYT--------------------------EQVTALSAYNAGMGTVNRWL------
+-R----D-PS-------------IS--------------------------ED------G
+--------------------V------E-------LN-RIPY------PET---ERYVSA
+VLRNYQT---------------------------------YR
+>MBR3289438.1/45-188 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+EDAVRQAANT-------YDIPASLIYAVIRVESGFDPNAVSH-AD-------------AR
+GLMQITSDTLT-WS---R--------------------Y--R--L---NL--------P-
+-------------D-D---G-----------SV--------DLF-DPDANIQTGTHVLSL
+LCE--QYE--------------------------SIETVLAAYNAGIGTVGKWL------
+-R----D-PA-------------CS--------------------------TD------G
+--------------------M------T-------LE-HIPY------PET---DAYVRR
+VLETKKR---------------------------------Y-
+>NPV69275.1/37-188 lytic transglycosylase domain-containing protein [Firmicutes bacterium]
+SGAVEKYSAE-------FSIERSLLYAVIKAESGFMPRARSS-SG-------------AL
+GLMQVMPRTGS-WV---A--------------------S--Q--L---GI--------P-
+---------------F---S-----------EE--------ALF-DPEKNIRIGSYYMRH
+LLD--LFG---------E----------------DVTAALAAYNCGLGNVLEWT------
+-Q----P-GR-------------SN--------------------------GG------S
+-----------PTP-GPRRFL------W-------PE-DIQF------PET---RRFIER
+VRLYRRI---------------------------------YR
+>HDY62238.1/575-741 HDY62238.1 MAG TPA: tetratricopeptide repeat protein [Firmicutes bacterium]
+WDQVREAARR-------FGLDPRLLLAVIREESRFNPHAVSP-AG-------------AV
+GLMQVMPSTGK-RM---A--------------------G--A--L---GF--------A-
+-------------------G-----------EP--------SLL-DPGTNLLLGAAYLRH
+LLE--LFG---------G----------------NVMLAIAGYNAGPGTVSRWW------
+-E----R-FQ-------------NS--------------------------DKGFGI-SD
+F-------EYLKSAFRNPQSETRDFVWF-------IE-TIPY------TET---REYVKR
+VLQSYGI---------------------------------YR
+>MBQ7307794.1/29-170 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+REAVSESSTK-------YEIEESLIYAVIKAESGFSSKSVSK-SG-------------AY
+GLMQILPSTMC-YI---M--------------------N--E----------------E-
+---------------I---E-----------KE--------RLF-EPEFNIEVGTKYLRY
+LLN--KFN--------------------------DIRVVLSAYNAGEGNVFVWL------
+-K----D-KN-------------YS--------------------------LD------G
+--------------------K------T-------LK-TTPF------KET---NNYVEK
+VLKYEKI---------------------------------YK
+>MBT4289126.1/60-226 lytic transglycosylase domain-containing protein [Deltaproteobacteria bacterium]
+FPYVIVKSKE-------NQVSLPFVLAVMKSESNFNPKAISR-AG-------------AL
+GLMQLMPTTAK-AE---Y--------------------Q--K-IIS--GV--------K-
+-----------VAS-L---N-----------KR--------LIM-HPEVNIILGIKYLQY
+LEE--TVQ---------E--------ITD--PIKRRKIVLAGYNAGLRRVKASF------
+-N---CK-TN-------------AS---------------LIWRINNY---SD-------
+----------------RYFNR------K-------LK-ALP-------GET---RQYLIN
+VNQTFHE---------------------------------Y-
+>MBL6752317.1/264-367 GNAT family N-acetyltransferase [Nevskia sp.]
+--------KA-------YGMEPAWIVAVIETESSCRPDAVSV-AG-------------AQ
+GLMQLVPATGA-RD---A--------------------Y--R-LAY--GK--------D-
+------------EP-P---S-----------AA--------LLR-DPQANIRLGVAYLHG
+LH---RHF---------LN-------IGS--AQARLLLAVASYNCGA-------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------
+>ARP49959.1/61-210 hypothetical protein B6259_03090 [Ruminococcaceae bacterium CPB6]
+AEYVEKEASN-------YHLESALIYAVIKQESNFDPKAVSS-TG-------------AI
+GLMQLMPDTFS-WL---S--------------------E--D--D---GT--------AS
+SG---------GKI-Y---T-----------QE--------DLY-NPQINIHFGCKYLSI
+LLK--KYP--------------------------NRTTALAAYNAGMGNVSGWL------
+-K----N-ES-------------LS--------------------------SN------G
+--------------------K------T-------LD-SIPF------AET---SKYTQK
+VTDYYFQ---------------------------------YK
+>WP_089399851.1/134-257 lytic transglycosylase domain-containing protein [Noviherbaspirillum humi]
+HQHVASASQT-------YGVPPALIHAVIQIESSYNPRATSH-RQ-------------AR
+GLMQITPAAGR-AV---G--------------------V--S------------------
+-------------------E-----------GR--------RLY-DPKTNIDAGTAYLQY
+LMR--QHA--------------------------TVDEVLAAYNAGIGNVRRYG------
+-G----------------------------------------------------------
+--------------------------------------VPPF------QET---RKYVRN
+VKSAMK------------------------------------
+>MBQ2864514.1/33-176 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+KNVIQKYCNV-------FNLEPSLVCAVINTESGFNKNAVSA-VG-------------AK
+GLMQLMPSTAT-EI---A--------------------T--K--L---NV--------A-
+-------------N-Y---T-----------EE--------MLF-TPDTNIRFGCYYLNY
+LLN--MYN---------G----------------NVTCAVAAYNAGFNNVNSWL------
+-E----N-SQ-------------YS--------------------------TN------N
+---------------------------Q-------LT-NIPV------AET---KNYVKK
+VYSAIKI---------------------------------Y-
+>NLE19705.1/53-196 lytic transglycosylase domain-containing protein [Clostridiales bacterium]
+LETIRKYARE-------YGIDPSFVSAVIKCESSFNPLAVSR-VG-------------AR
+GLMQIMPDTGV-WL---A--------------------E--K--L---GI--------A-
+-------------E-Y---R-----------PE--------MLF-EPDFNIRMGAYYLAH
+LSN--LFS---------G----------------SPAMVAAAYHAGDGSVKDWA------
+-L----R-LA-------------ED--------------------------QK------T
+--------------------I------A-------VD-QIPA------DDT---RSYVRK
+VLDAYAI---------------------------------Y-
+>MBI4743928.1/34-178 lytic transglycosylase domain-containing protein [Actinomycetia bacterium]
+RDYIVKSSRE-------FKIDPYLLAAIIYEESRFRPRAKSS-AG-------------AL
+GLMQIMPDTAK-RI---A--------------------S--K--M---RL--------K-
+-------------D-F---K-----------ED--------DLF-DPELNIRMGSWYFHL
+LLE--KYK---------E----------------DEIPALAAYNAGYRYVDGWF------
+-I----K-DG-------------KQ--------------------------IK------I
+---------------------------E-------TD-DIPF------PET---RKFVKR
+VKNSARR---------------------------------YR
+>WP_066304329.1/49-194 lytic transglycosylase domain-containing protein [Atopobium deltae]
+NDAVVASAAR-------HNVDPYLACAVIRCESNWNPQAQSS-VG-------------AK
+GLMQLMPKTAQ-EL---A--------------------D--L--R---LV--------D-
+-----------GKA-Y---D-----------PK--------NLF-DPKTNIEYGCAYLSY
+LQK--RLK--------------------------KTDKVIAAYNAGIGRVKRWS------
+-A----N----------------LI--------------------------DD------E
+--------------------R------F-------KE-TISY------PET---ALYVKR
+VELSYAE---------------------------------YK
+>PYE77889.1/76-207 soluble lytic murein transglycosylase-like protein [Xylophilus ampelinus]
+SDLVHTASRR-------YRLDARLLHAIIRVESNGNPRARSK-AG-------------AL
+GLMQVMPGTGA-RY---G--------------------I--R------------------
+-------------------N-----------PA--------ALM-QPDVNIDVGARYLSD
+LSR--MFG---------D----------------RLDLVVAAYNAGEGAVIRYG------
+-R----A-VP--------------------------------------------------
+----------------------------------------PY------AET---QDYVQR
+VLGRLES---------------------------------VG
+>MBI2608585.1/555-699 transglycosylase SLT domain-containing protein [Deltaproteobacteria bacterium]
+KEDVFKAAKE-------FNVDPFLILALMKAESNFRPRVVSH-AA-------------AY
+GLMQIIPETAR-EI---A--------------------S--G--L---HQ--------K-
+---------------Y---E-----------LE--------KLY-EPKINIRYGAWYIHH
+LLN--KFN---------N----------------NKYLAIPSYNAGPHRVENWK------
+-E----I-FD-------------TR--------------------------EI------D
+--------------------Q------F-------VE-QIPF------KET---RHYVKK
+VLRNYFI---------------------------------YK
+>MBR0135619.1/43-184 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+TDEIISAADR-------YGLDRFLVAAVVNTESSFRPDAVSQ-DG-------------AV
+GLMQLLPSTAE-WI---A--------------------F--R--R---GE--------T-
+---------------F---S-----------EE--------MLY-DPETNLDYGCWFLNY
+LID--RYD---------G----------------SVRHALIAYNAGFGRLDEWL------
+-K----T-GA-----------------------------------------DE------N
+--------------------G------E-------LK-EIPY------AET---RNYVDR
+VFKYQKI---------------------------------Y-
+>MCB0351702.1/120-265 lytic transglycosylase domain-containing protein [Bdellovibrionales bacterium]
+EKNVSNYASR-------FNVSESLVLAIMRAESHFNSEAYSP-VG-------------AR
+GLMQIMPYTAS-QI---A--------------------R--L--L---GE--------G-
+-------------G-V---T-----------EL--------DLL-VPETNIRLGSRYLSR
+LQK--KFQ---------D----------------QIPLVAAGYNAGPHRVYSWL------
+-N----T-FG-------------TL--------------------------DM------D
+--------------------E------F-------IE-HVPF------VET---RNYMKK
+VVRNYAI---------------------------------Y-
+>MBT3234452.1/529-675 transglycosylase SLT domain-containing protein [Bdellovibrionales bacterium]
+KDLVKVAAGK-------FNLSFELIYSIMRQESAFNPLARSP-AD-------------AF
+GLLQLTPESAA-EV---Y--------------------R--A--G---RK--------S-
+-------------T-I---D-----------PD--------LLY-QPKLNIFLGGMMLAQ
+RLK--KYN---------N----------------NLILTVASYNAGATAVRRWQ------
+-K----D-RF-------------KG--------------------------DY------L
+--------------------E------F-------IE-TIPY------QET---RKYVKL
+VIRNALN---------------------------------YR
+>MBE7713677.1/507-653 tetratricopeptide repeat protein [Cyanobacteria bacterium SIG26]
+YKQVKKYANE-------YNNAEALIMAIVREESSFNPRAQSP-VG-------------AM
+GLMQLMPSTAH-EV---G--------------------N--Q--S---GI--------D-
+---------------F---N-----------TN--------YLF-NPELNIRLGNIYYAT
+LRS--MLD---------N----------------KDVSSVAAYNGGIGSVIRWR------
+-A----T-LL-------------YN--------------------------DT------D
+--------------------D------F-------VE-QIPY------DET---KNYVKK
+VFRSYWN---------------------------------YI
+>MBP3437450.1/22-158 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+QEEVLAASHE-------FDVPASLLYAVIKTESGFRKNAVSK-KG-------------AV
+GLMQILPSTYE-EL---A--------------------P--K--L---SL--------D-
+-------------------E-----------NS--------HLF-SPAVNIRVGAYYLSW
+LYQ--RYL--------------------------SWDIALAAYNAGPSNVAKWL------
+-E----E----------------------------------------------------D
+--------------------K------T-------LS-RIPY------PET---EQYVWR
+VQRARGE---------------------------------YE
+>HHS65560.1/634-777 HHS65560.1 MAG TPA: tetratricopeptide repeat protein [Deltaproteobacteria bacterium]
+QDEVQRAAKE-------SHIDPYLIYAVMREESAFNPDALSP-AG-------------AV
+GLLQLMPATAE-MV---A--------------------K--K--F---KL--------K-
+---------------V---S-----------RQ--------SLY-QPSINIRLGARFLSE
+LEK--SLK--------------------------HPFFVIAAYNAGAGAITRWQ------
+-K----E-NP-------------SV--------------------------PF------D
+--------------------L------F-------VE-LIGA------EET---RNYVKK
+VFSSYCA---------------------------------Y-
+>OON41486.1/92-221 hypothetical protein BTJ39_03565 [Izhakiella australiensis]
+---INNYANR-------YKVNPALIKAVISVESGFDPKAKSS-VG-------------AM
+GLMQIMPETAK-WL---I--------------------T--K--L---GE--------A-
+-------------D-----G-----------RY--------DLH-DPEKNIQLGVYFIAL
+LAE--RYN---------N----------------DLELVLAAYNAGPGAVDRYN------
+-N----R-VP--------------------------------------------------
+----------------------------------------PY------RET---QQYVEK
+IISYYQK---------------------------------YK
+>MBI4976004.1/179-343 transglycosylase SLT domain-containing protein [Spirochaetes bacterium]
+LPIVLQYSQK-------HGIPADLTLAIIETESAFNPYSDNG-I--------------AY
+GLMQLVPDSAS-DA---S-----------------------K-TAY--GT--------K-
+------------RA-Y---S-----------IP--------QLK-HPETSIALGTALLNQ
+FYTWKAYF---------AP-------FEQ-YSYKHQMMGVAGYNCGPNRVRRWI------
+-D----A-NK-------------GMLN------------------------AS------D
+---------------AVFLKS------L-------TA-AVP-------YET---QRYLVK
+IPDRRPK---------------------------------Y-
+>MBO4951059.1/36-178 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+LEIVEKQADA-------RSVPKELILAVIKTESKYKSDAVSS-AG-------------AV
+GLMQITPETFK-WL---C--------------------E--K--N---ED--------K-
+-------------A-N---D-----------PN--------LLY-TPEINITYGVYYLDM
+LYS--EFG--------------------------SWESALAAYNAGPTRVREWI------
+-K----N-PD-------------YS--------------------------SD------G
+---------------------------V-------LT-YIPY------KET---REYLEK
+VMKAKDK---------------------------------Y-
+>MBS4795571.1/58-203 transglycosylase SLT domain-containing protein [Clostridiales bacterium]
+SNYVMQYSME-------FDVPPALVYAVIKAESGFNPNAVSS-VG-------------AK
+GLMQMLPSTFE-SM---K--------------------N--N--F---FP--------E-
+------------DT-Y---T-----------SN--------DLF-TPEVSIKYGTKYLSE
+TLK--KYG--------------------------VKETAIASYNAGQGAVDSWL------
+-K----N-ST-------------YS--------------------------DD------G
+--------------------K------T-------LK-YIPY------SET---RAYVET
+VMKYYNE---------------------------------Y-
+>PIS46871.1/94-241 hypothetical protein COT17_06365 [Elusimicrobia bacterium CG08_land_8_20_14_0_20_51_18]
+LDIVLKEARE-------QNFDPEMILAVIKKESSFNPKAKSK-AG-------------AR
+GLMQLMPGTAK-WL---G--------------------L--K------------------
+-------------K-D---P-----------FN--------KLY-EPSINIKYGVKYLRY
+LFD--KFCESDYTSLEAGD-----------LEDQSVKKSIAAYNAGPGNVMKYS------
+-A----E-----------------------------------------------------
+--------------------P------Y-------NG-IPPF------KET---QSYLKL
+VSRYFQE---------------------------------F-
+>MBS4025639.1/42-184 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+-ELVVANSQR-------FQVDPYLILAVMKTESKFRNEAVSP-KG-------------AR
+GLMQIMPETGQ-WI---A--------------------E--Q--L---KI--------E-
+-------------D-F---H-----------PD--------RLF-EPEINIMFGTWYLSY
+LSR--EFN---------H----------------NLTVVLSAYNAGPGKTKEWL------
+-T----G-GI-------------WD--------------------------GT------I
+--------------------N------S-------LE-DVPF------TET---RNYISR
+VIRHFRI---------------------------------Y-
+>STQ44180.1/1-90 Endo-type membrane-bound lytic murein transglycosylase A precursor [Ewingella americana]
+------------------------------------------------------------
+---------------------------------------------K--GR--------Y-
+------------GQ-P---S-----------TH--------ELK-DPAVNIDLGTAYLSM
+LQ---QQL---------AG-------ISD--PQTRRYATTVAYVNGAGALLRTF------
+-S----S-DR-------------TY---------------AVAKINQM---TP------Q
+----------------QFYEH------V-------QQ-KTP-------------------
+------------------------------------------
+>MBI1850828.1/32-174 lytic transglycosylase domain-containing protein [Planctomycetota bacterium]
+RSSVRRYAVE-------YGLDPRLVTAMISAESSGRTFSRSK-KG-------------AM
+GLMQLMPATAA-EV---A--------------------R--S--F---GV--------T-
+-------------R-V---T-----------DD--------LLH-DPDFNIHLGTAYMAQ
+LMK--RFS--------------------------SLELALAAYNAGPSRVDEWI------
+-A----K-NP-------------GL--------------------------SP------P
+--------------------E------I-------VE-CAAF------EET---RNYVHR
+VLDRM-------------------------------------
+>MBI3014286.1/329-469 transglycosylase SLT domain-containing protein [Candidatus Tectomicrobia bacterium]
+RKLVMRQASS-------QRLPVPLLYAIIRQESAFQPKAVSR-AG-------------AR
+GLMQLLPGTAQ-EL---L--------------------G--K--S---RH--------I-
+-------------------Q-----------PQ--------DLF-DPGTNIALGSKYLAK
+LIQ--SYS---------G----------------KIPFVLASYNAGEQALKRWI------
+-P------PD-------------QT--------------------------EM------D
+--------------------T------F-------IE-SIPY------SET---RNYVKN
+VVRNLLN---------------------------------Y-
+>MCC6932854.1/572-712 transglycosylase SLT domain-containing protein [Deltaproteobacteria bacterium]
+IKIAQTESDK-------VGLSPALALAVIHTESHFDPTARSA-VG-------------AL
+GLMQLLPATAR-DL---G--------------------L--K------------------
+-------------------S-----------ED--------ELF-DEQKNISYGVLYLKS
+LLE--QFN--------------------------NETLAVAAYNAGPSAVNKWL------
+-T----R-FS-------------LD--------------------------DN------K
+--------------------R------F-------IE-MIPF------GET---RNYVKK
+VIAAKKA---------------------------------Y-
+>WP_008907571.1/30-169 lytic transglycosylase domain-containing protein [Caloramator australicus]
+SEYVVKYSEK-------YSVDPYLIYALIKAESNFDEFALSH-KG-------------AV
+GLMQITPNTGR-YI---S--------------------T--L--L---KE--------K-
+-------------N-Y---K-----------AT--------DLF-DPEKNIKYGVFYFKK
+LYS--EFG---------N----------------DLNLALAAYNAGEGNVRKWM------
+-I----N-NK-------------LK-----------------------------------
+------------------------------------E-EMLF------KET---KLYIKK
+VKKYYMI---------------------------------YK
+>MBI4777479.1/41-191 lytic transglycosylase domain-containing protein [Candidatus Desantisbacteria bacterium]
+KELIYKYSEL-------HGLDPLLSSAVIKVESNFQPYAQSP-RG-------------AI
+GLMQIMPETGK-EM---A--------------------K--K--L---KI--------K-
+-------------S-F---V-----------AS--------DLN-NPEINLRIGLYYLAR
+LKK--QFN---------G----------------DMYLVLAAYNGGSANVQKWI------
+-L----E-KKIDNAPCLDSAMNGQR--------------------------DG------D
+--------------------E------F-------IA-QIPF------EET---RGFIKK
+VM----------------------------------------
+>MBR1969582.1/36-176 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+GTLIKKHSKE-------YGIDVYTAFALIKAESNFNPDVVSH-AN-------------AK
+GLMQLTNETFL-FC---K--------------------S--N--T---SL----------
+-------------------------------GN--------DIF-NPENNIKAGMWYLSF
+LNN--KFN---------H----------------NTENVLAAYNAGASNVIKWL------
+-K----N-EN-------------YS--------------------------AD------G
+--------------------I------S-------LE-TVPY------EET---RNYIKR
+VRSYRKI---------------------------------Y-
+>MBV9453454.1/27-162 lytic transglycosylase domain-containing protein [Rubrobacter sp.]
+EETIRTAAAK-------YGVEPSLVAAVIRTESRFNPEVESS-QG-------------AY
+GLMQIRPETAR-FV---S--------------------E--R--S---GI--------G-
+-------------G---------------------------DYR-DPKTNIRTGTWYLSY
+LQQ--RYA--------------------------DERLVLAAYNSGESQVDAWI------
+-S----D-EG-------------FD-----------------------------------
+---------------------------I-------AH-DIPF------KET---RNYVED
+VLKARDT---------------------------------Y-
+>MBR2784563.1/32-179 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+TDQVVSYAKK-------HHIDPYLALAVINTESRFNKNATSS-QE-------------AK
+GLMQITDSTAK-EV---N--------------------D--I-TN---ST--------E-
+-------------Q-I---D-----------EN--------SLY-NVDVNVEIGCNYLQS
+LIL--KYN---------G----------------NYYLAVVAYNAGMGNVDNWL------
+-A----Q-GI-------------LN--------------------------DN------L
+--------------------D------T-------TDVSLPF------SET---TNYLKK
+VIHNYKT---------------------------------YK
+>NMA55582.1/37-182 lytic transglycosylase domain-containing protein [Firmicutes bacterium]
+KPWLEECGHR-------YNVDPLLLAAVIRAESKFFPRAVSE-QG-------------AL
+GLMQIVPQTAI-WA---A--------------------S--E--M---GL--------V-
+-------------D-F---N-----------PD--------KLY-DPNVNINIGSWYLGQ
+LLL--EFD---------N----------------NEVLALAAYNCGRGCIQQWL------
+-S----S-RN-------------SL--------------------------AE------E
+--------------------V------N-------FE-NLPY------AET---RSYVQK
+VLKNYHW---------------------------------YR
+>MBL7689749.1/552-699 lytic transglycosylase domain-containing protein [Bdellovibrionaceae bacterium]
+ADIVQREAKR-------QGISPALTYSIMRQESQFNPFARSS-AD-------------AF
+GLMQLIPEMAE-KA---G--------------------A--R--A---AT--------K-
+-------------I-E---S-----------PQ--------DLF-HPVTNIALGSAFLAQ
+LGE--RYN---------S----------------RFILYVAAYNANDRALQGWL------
+-K----T-RL-------------RN--------------------------DP------I
+--------------------E------F-------IE-EIPY------DET---RLYIKL
+VMRNYIG---------------------------------YS
+>WP_209465998.1/8-148 lytic transglycosylase domain-containing protein [Symbiobacterium terraclitae]
+RPQIARCGGE-------HGLDPYLVAAVIRAESRFRPKATSP-QG-------------AR
+GLMQIMPETGR-WV---A--------------------E--Q--M---GL--------P-
+---------------Y---Q-----------DD--------FLY-EPEYNIRVGCWYLAA
+LLR--EFA---------G----------------DPVLALAAYNGGLTNVNTWL------
+-S----E-RR-------------WT--------------------------GE-------
+-----------------------------------VA-QIPF------PET---RHYVAA
+VLRDQKR---------------------------------YR
+>MCD6422383.1/34-135 lytic transglycosylase domain-containing protein [bacterium]
+KDLIKKYALK-------FGIDPNLVAATIWTESRFDPYAVSP-AG-------------AR
+GLMQLLPSTAR-SI---A--------------------Q--K--L---GE--------G-
+-------------GLF---S-----------PD--------KLF-DPETNIRYGTWYLAF
+YLR--KYG--------------------------EPSLALIAYNGG--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------
+>MBC6404181.1/437-574 lytic transglycosylase domain-containing protein [Rhodospirillales bacterium]
+------------------AVDRALLYAVMRQESAFDPSAVSH-AG-------------AR
+GLMQLMPKTAS-DI---A--------------------D--D--P---RL--------R-
+-------------G-S---R-----------RD--------SLH-DPGLNLRLGQGYLVH
+LMSLESIG---------D----------------HLFRLLAAYNAGPGNLARWR------
+-S----D-AV-------------PEC-------------------------DP------L
+--------------------L------F-------IE-SLPY------GET---RSYIEK
+VLANFWI---------------------------------YR
+>MBI4528044.1/528-673 DUF3808 domain-containing protein [Deltaproteobacteria bacterium]
+WEKVDKLAVE-------LGLDPFLVVALIRQESLFDPYALSP-AS-------------AY
+GLMQLLPTTAA-RE---A--------------------K--Q--M---GL--------P-
+-------------V-P---N-----------PE--------TLF-DPDVNLKIGIHHLKG
+LLD--RYE---------N----------------NLPRAIAAYNAGENAVARWQ------
+-R----Q-IP-------------AE--------------------------DD------E
+--------------------E------F-------IE-RIPY------AET---RLYVKL
+VLRNQLS---------------------------------YR
+>CDC29431.1/34-179 CDC29431.1 lytic transglycosylase catalytic [Firmicutes bacterium CAG:466]
+EEYVDKYASQ-------YQVEPSLVYAVIFCESGYDPQAVSH-AG-------------SK
+GLMQISDDTAV-WA---A--------------------Q--Q--I---EG--------M-
+-------------D-A---E-----------NL--------NVM-DPDENIQIGCWYLHW
+LHD--KFN---------G----------------NTQTCLAAYNAGHNKVAQWL------
+-A----D-EE-------------KS--------------------------AD------G
+--------------------L------T-------LE-EIPY------AET---DQYVKK
+VTLMQKV---------------------------------YQ
+>MBU2514611.1/56-224 transglycosylase SLT domain-containing protein [bacterium]
+IPYILKYTEN-------KDISIPLVLAVIKAESNFRSQAISH-KG-------------AL
+GLMQLMPTTAL-DE---Y--------------------R--D--Y---GM--------DA
+----------PLHQ-L---E-----------KN--------LIK-QPELNIALGIKHIQR
+LQS--RLE---------G--------IEN--PDKFRQLVIVSYNAGIHRVKRAF------
+-K---CK-GF-------------EC---------------YKYKANRY---SN-------
+----------------RYFNN------S-------IR-SLP-------AET---RMYLQN
+VEIYYKQ---------------------------------YK
+>WP_229704000.1/129-256 lytic transglycosylase domain-containing protein [Caldalkalibacillus thermarum]
+ASIIERAADR-------YQVDPLLIAAVIHRESNFNPRAKSR-AG-------------AM
+GLMQLMPGTAR-EL---G------------------------------------------
+-------------------------------VQ--------DAY-NPTQNIDGGVRYLRR
+LLD--RYN---------G----------------DLRLALAAYNAGPGNVDKYG------
+-G----------------------------------------------------------
+--------------------------------------IPPF------KET---ENYVHN
+VLQTYQQ---------------------------------LK
+>MBQ1449044.1/77-217 lytic transglycosylase domain-containing protein [Coriobacteriales bacterium]
+TDYIASSSAR-------YDINPYLVCAVIKGESNWEPDAVSH-AG-------------AI
+GLMQLMPTTAQ-TL---S--------------------D--R--G---IV--------D-
+-----------GDR-Y---P-----------PD--------DLT-NPQVNIEYGTAFLRY
+LVD--EYH--------------------------ELEPVIAAYNAGMGNVNKWL------
+-E----E-EG--------------------------------------------------
+--------------------E------L-------KD-NITF------DET---RAYLVK
+IMRNKEE---------------------------------Y-
+>HEK54674.1/654-797 HEK54674.1 MAG TPA: tetratricopeptide repeat protein [Chloroflexi bacterium]
+LEQVLAEAQR-------YNLDPLLLYALMRQESLFDPYAVSS-AQ-------------AR
+GLMQIIPPTAQ-AI---A--------------------G--A--L---DQ--------P-
+---------------Y---R-----------ET--------WLY-RPRVNIAFGVYYLAR
+QRD--RFG---------G----------------NLWVALAAYNGGPGNAARWW------
+-E----A-AR-------------G---------------------------DV------D
+--------------------L------F-------YE-RITL------EET---RRYLER
+ILEHLSV---------------------------------YR
+>HBS59708.1/77-216 hypothetical protein [Firmicutes bacterium]
+AALINQYGKE-------YGVDPALIAAVIRCESSFNPRAVSK-AG-------------AV
+GLMQICLPTWR-EI---K--------------------K--N--Q---PQWANIAG--Q-
+-------------D-N---D-----------LQ--------VLY-RPEINIAAGTLYLRS
+MLT--RYG---------G----------------DPVRAVAAYNAGPGSVDRCE------
+-G----------------------------------------------------------
+--------------------------------------IPPY------RET---IRYVHH
+VAATWQE---------------------------------YR
+>MBI4175103.1/37-175 lytic transglycosylase domain-containing protein [Candidatus Berkelbacteria bacterium]
+ETYILQAAAE-------FDLPPTLIAGVIYTESRFNEKATSH-VG-------------AR
+GLMQIMPGTGA-GI---A--------------------Q--N--L---GE--------G-
+-------------DLY---T-----------AD--------KLY-DPAINIRYGSYYLRN
+LHD--RYN---------N----------------NLEAVLAAYNGGPGAAGNYL------
+-E----T-GT--------------------------------------------------
+------------------------------------A-YLP-------RET---IGFIGK
+VKAARDT---------------------------------YE
+>HEB72625.1/103-251 lytic transglycosylase domain-containing protein [Nitrospirae bacterium]
+--EISRQSKE-------RGVDPFLVLAVIRQESAFDPKALSP-AN-------------AR
+GLMQLIPRTAK-RI---Y--------------------E--K--L---EM--------NK
+KS---------GAP-F---H-----------PD--------VLF-DPKVNIALGVSHLAE
+LIS--FYN---------G----------------SPAPALAAYNAGRKAVDRWL------
+-K----I-NS-------------DK--------------------------PE------D
+--------------------E------F-------IE-NIPY------SET---GEYVKR
+VMRNWIL---------------------------------YK
+>HBM81769.1/66-193 transglycosylase [Clostridiaceae bacterium]
+--AVEASSRK-------YGVDADLIKSVIKQESGFNPKAVSK-AG-------------AL
+GLMQLMPKTAS-AL---G------------------------------------------
+-------------------------------VD--------NPL-DAMENIDAGTRYLKS
+LID--SYG---------G----------------DIKLALAAYNGGIGRMRRLN------
+-V----N-SP-------------DK-----------------------------------
+-----------------------------------ID-AMP-------SET---QNYVSK
+VYKNYET---------------------------------YK
+>MBA3841912.1/38-173 lytic transglycosylase domain-containing protein [Actinomycetia bacterium]
+AQFVRVHARE-------HNLDPALMAAVIYQESKFDRRAESS-SG-------------AI
+GLMQLTPSTAH-GI---A--------------------I--R--T---GG--------S-
+-------------A-F---H-----------TQ--------DLY-DADINIRYGAWYLHN
+LFD--KYG--------------------------SERLVLAAYNAGQGNVDRWR------
+-A----N-GQ--------------------------------------------------
+--------------------------------------PIQF------AET---RAYVEK
+VEDLKQI---------------------------------YR
+>OQB49204.1/48-188 Soluble lytic murein transglycosylase precursor [Firmicutes bacterium ADurb.Bin153]
+--KVEQYADA-------FGIDPYLVMALIKVESNFRPSAVSK-SG-------------AI
+GLMQIMPDTGA-WA---A--------------------Q--M--L---GA--------G-
+-------------S-Y---Y-----------DD--------RLK-EPDFNIMIGSWYMAH
+MLS--LYN--------------------------DPTVAVAAYNAGRGNVDRWL------
+-A----D-GT-------------WS--------------------------GA------A
+--------------------E------A-------AS-DVPY------KET---REFIKK
+VMRAWEM---------------------------------Y-
+>OGQ91686.1/579-725 hypothetical protein A2289_17915 [Deltaproteobacteria bacterium RIFOXYA12_FULL_58_15]
+REIVDEMATT-------YNVPAPLLYAVMRQESSFNPNAISP-RK-------------AR
+GLMQMIPTTAI-RI---A--------------------D--N--T---KQ--------K-
+-------------R-F---R-----------VQ--------QLF-DPKVSIRLGAAYLKG
+LLD--QFD---------G----------------NLVCTIASYHAGEQRVARWL------
+-Q----N-FP-------------EL--------------------------NE------D
+--------------------E------F-------VE-EIPF------TTT---RDYIKK
+VLAAYGA---------------------------------YR
+>HIM42397.1/78-204 lytic transglycosylase domain-containing protein [Rhodospirillales bacterium]
+SRMISRASRV-------YGIPEPLIAAVIKCESNWNYRARSK-AN-------------AW
+GLMQVLPQTAR-GT---F------------------------------GI----------
+-------------------P-----------PS--------YLW-DPDINIKVGTAYLRL
+LAN--RYN---------G----------------KTSTVIAAYNAGPTRIDRGQ------
+------------------------------------------------------------
+--------------------------------------TLP-------RET---RGYIRC
+VKRWHPV---------------------------------YE
+>HHW45762.1/36-182 lytic transglycosylase domain-containing protein [Clostridiales bacterium]
+SDWVEQYSEE-------YNLDKTLVYAVIKCESNFNPNAVSP-KN-------------AK
+GLMQLTDETFE-WV---Q--------------------L--K--D---GT--------D-
+------------EK-L---G-----------AE--------ALF-DPQTNIKYGTLLLSL
+HIN--EFS--------------------------DLCTALAAYNAGRGQVQKWL------
+-K----D-GK-------------IV--------------------------EK------S
+--------------------D------G-------NC-SVPF------KET---EAYINR
+VLKVKEI---------------------------------YQ
+>HAZ97460.1/100-242 hypothetical protein [Treponema sp.]
+RDAIGISSAE-------FQVPWQIIYAVIHTESHFDPMAVSA-QG-------------AM
+GLMQLMPQTYT-EL---C--------------------Q--Q--F---HL----------
+---------------L---D-----------AT--------DLWKDPATNIHLGTAYLAK
+LYR--LFG--------------------------DWDTAFAAYNAGPGTVKRWL------
+-G----N-PA-------------YT--------------------------TA------G
+---------------------------V-------LS-EIPY------PET---ARYVEK
+VRHAWMM---------------------------------Y-
+>NLF83109.1/464-609 transglycosylase SLT domain-containing protein [Candidatus Gastranaerophilales bacterium]
+SEEINRHAEL-------NRLDPVIVLSLMKEESHFNPYARSS-SN-------------AL
+GLMQLLPHTAK-DI---A--------------------R--W--R---KL--------G-
+-------------P-I---N-----------HN--------DLF-VPTVNIRLGTAYLRY
+AKD--TFN---------G----------------NMLFSVAAYNAGPGAVQKWI------
+-K----T-LP-------------QT--------------------------DM------D
+--------------------R------F-------VE-NIPY------SQT---KTYVKK
+VFGTYWN---------------------------------YK
+>MBE5821833.1/32-177 lytic transglycosylase domain-containing protein [Clostridiales bacterium]
+HNIVSTMSDR-------YEIDENLIYAIIKTESNFDERATSK-AN-------------AK
+GLMQIVDDTAI-EI---S--------------------N--K--I---GI--------D-
+-------------N-F---N-----------TN--------MIY-EPEINIEIGTYYIKE
+LYN--KYQ--------------------------NKTIAIIAYNAGQGNVDKWI------
+-E----E-GI-------------ITL---------------------------------D
+--------------------N------N-------LE-EIPY------KET---STYWKK
+VLREYNV---------------------------------YN
+>MBR4999235.1/32-177 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+QDEITYYAKK-------HELSPALISSVINVESSFNENAKSH-KN-------------AL
+GLMQIKLNTAN-YM---Q--------------------E--L--N---KK--------Q-
+-------------Y-L---T-----------EQ--------DLF-NPKTNIDLGCTYLKY
+LLK--KFN--------------------------DINTSLAAYNAGETIVRSWL------
+-N----S-GI-------------YS--------------------------TD------G
+--------------------I------I-------LN-YIPF------KET---RNYVEK
+INKNIKF---------------------------------YA
+>MBN8218844.1/182-348 DUF3393 domain-containing protein [Spirochaetes bacterium]
+VPLARKCGER-------YGVPVDLILAVMECESTFNPYADNG-I--------------AY
+GLMQLTPKVGA-HD---A--------------------A--L-SVF--GE--------K-
+------------QD-V---P-----------SH--------KLK-NAELNANLGTALLMQ
+YMTWDGWL---------GK-------YKA-KTYKWEMLAIAGYNAGCGRSVAFA------
+-S----K-NP-------------AAMA------------------------DT------D
+---------------ANFFKA------L-------HA-YMP-------DET---KHYLIN
+VPKARLQ---------------------------------YK
+>MBT6178241.1/291-435 transglycosylase SLT domain-containing protein [Deltaproteobacteria bacterium]
+VQIISRAARM-------TQLDSSLVIALARQESAFNPSAISH-AG-------------AM
+GLMQVMPQTAN-EV---L--------------------G--F--T---SD--------S-
+-------------V-E---S-----------AEF-------DIL-NPKNNAEVGSVYLAR
+MLR--RHG---------G----------------QVEYALASYNAGPAAVARWR------
+-N----R-FG-------------DV--------------------------PV------D
+--------------------V------F-------VE-EIPY------AET---RDYVQR
+VLSWKQK---------------------------------Y-
+>MBX3144943.1/244-382 transglycosylase SLT domain-containing protein [Trueperaceae bacterium]
+----MSASAA-------EGVEPALVWAIMRQESAFFPDAVSV-AN-------------AQ
+GLMQVIPSTWN-WI---A--------------------E--L--M---RE----------
+-------------------Q-----------PR--------EPF-EPEANIAYGTHYLAW
+LTR--YFS---------G----------------DIELVIASYNGGQGYVRRLF------
+-E----A-DHV------------GQ--------------------------VK------D
+--------------------E------F-------YR-EIDR------SET---REYLQR
+VSENLAV---------------------------------YR
+>WP_157069006.1/696-846 transglycosylase SLT domain-containing protein [Sandaracinus amylolyticus]
+EQIVNEVARE-------RGLDPNLLLAVMRVESVYNPRIVSY-AG-------------AV
+GLLQIMPRTGR-LI---A--------------------R--S--M---GR--------E-
+------------AE-F---G-----------VD--------DLL-DPRTNIEFAAWYLSS
+LIR--RFE---------G----------------RVPLAIASYNGGPHNVRRWL------
+-R----D-HS-------------EDM-------------------------PI------D
+--------------------A------F-------CE-RIPF------DQT---HRYVRR
+VLGHWAA---------------------------------YR
+>MCD6283102.1/630-735 lytic transglycosylase domain-containing protein [bacterium]
+VHEVQAAADR-------YNVDSALIYAVMKKESNFDPDATSS-AG-------------AA
+GLMQLMPATAS-SF---N--------------------R--F--L---PE--------E-
+---------------L---R-----------GR--------ALT-DPERNIHLGAAYLSS
+LQT--AYW--------------------------RDHLVLSAYNGGPGNLNR--------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------
+>MBN2695097.1/570-717 lytic transglycosylase domain-containing protein [bacterium]
+NNDVTNASKK-------YNVPTSFIWGIMREESAYNPFAKSV-SD-------------AY
+GLMQLLYSTAQ-ET---A--------------------D--R--I---NM--------R-
+-------------L-G---S-----------YN--------DLY-KPEINIPLGTKYLSV
+LLN--MFS---------N----------------NFYYTAASYNGGATNVKRWI------
+-S----S-AP-------------EN-------------------------QDI------Y
+--------------------D------F-------SE-DIPF------EET---NRYIYK
+VIGSYHT---------------------------------YQ
+>MBZ0269780.1/625-783 transglycosylase SLT domain-containing protein [bacterium]
+-DSVLRWSEE-------YGLDPLFVYAVMREESWFDPAAESW-VG-------------AR
+GLLQIMPSTGR-DL---A--------------------R--R--V---GM--------P-
+-------------G-F---D-----------RA--------DLF-DPDVNIRLGTFYLSA
+LLR--ELD---------S----------------EPALALSAYNAGKGNALRWR------
+-R----S-AE-------------TDESE-----------AGAGTPEAVRAFDV------D
+--------------------R------Y-------VA-GITY------RET---YNYVQK
+VTRSWAI---------------------------------YR
+>OGG96935.1/33-199 hypothetical protein A2527_00205 [Candidatus Lambdaproteobacteria bacterium RIFOXYD2_FULL_50_16]
+-DWIQVLSEA-------HQVPVELILGIMQVESGFDPNAVSP-AR-------------AL
+GLMQLMPATAL-GG---Y-------------------GQ--M--F---AS--------EP
+----------ELDF-F---K-----------RQ--------LLD-QPDLNILLGVRHLSV
+LQR--VFA---------D--------VPN--RQRREALIIVSYNAGFERVKAAF------
+-G---CQ-GL-------------DC---------------LRRNANLL---GQ-------
+----------------VAFHE------R-------LN-TLP-------KET---RNYLVS
+VQAARKQ---------------------------------HT
+>NLA76926.1/43-188 lytic transglycosylase domain-containing protein [Clostridiales bacterium]
+DTLVEKYAKE-------YELPVALVYAVIRTESSFNPEAVSS-AN-------------AR
+GLMQITPDTFD-WL---Q--------------------T--K--T---GD--------K-
+-------------G-L---E-----------QS--------ELY-KPETAIRYGTFFLRY
+LLN--EFE--------------------------VTETALAAYHAGRGRVNGWL------
+-D----D-SE-------------YS--------------------------DD------G
+--------------------K------T-------LK-KIPY------ADT---ASYVAT
+VTAAMEK---------------------------------YE
+>NLH14510.1/47-198 lytic transglycosylase domain-containing protein [Firmicutes bacterium]
+-SHVAEAAAL-------FDADPFLILSVMKVESGFDSEARSR-VG-------------AI
+GLMQIMPETAD-WI---V--------------------N--D--V---KP--------AG
+LE-------WIREG-W---S-----------ES--------ELY-DPRKNILIGAWYLSY
+LLR--RFG--------------------------RLEVALAAYNGGQGRVSTWL------
+-E----A-EQ-------------VR--------------------------PG------D
+--------------------E------FS------ID-DIPL------AET---RSFVRR
+VLAVKAW---------------------------------YD
+>WP_213513666.1/37-183 lytic transglycosylase domain-containing protein [Paenibacillus montaniterrae]
+QEIIAEKSNK-------YEVDPHLIAAVIRVESNFTTGRESP-KG-------------AI
+GLMQLMPTTAE-WI---V--------------------E--R--T---EM--------R-
+-------------A-I---S-----------SE--------ELKFNPELNIELGTWYLKH
+LME--QFE---------G----------------DMIISIAAYNAGPGNVNKWL------
+-S----E-KT-------------WD--------------------------GQ------Y
+--------------------D------T-------AD-QIPF------GET---RNYVHK
+VIYYYNK---------------------------------YK
+>MBI4858952.1/306-453 lytic transglycosylase domain-containing protein [Candidatus Riflebacteria bacterium]
+-SDVTRAAAR-------FRLDPLLILALAREESHFNPHAVSQ-VG-------------AR
+GLMQIMPKTGS-WI---A--------------------G--Q--L---KW--------G-
+-------------G-F---S-----------DD--------VLV-NPSDNIEFGAYYLSH
+LIG--QVG---------SG--------AD-----ALPWVLAAYNGGIGNARRWM------
+-A----S-AP-------------TG--------------------------SA-------
+--------------------A------P-------GE-AIEF------KET---RDYIDK
+VLNSYRW---------------------------------YQ
+>EKD57005.1/41-173 hypothetical protein ACD_58C00028G0002 [uncultured bacterium]
+REMIVKYAQQ-------NQLEPSLVAGIIYTESHYNPKATSR-VG-------------AK
+GLMQLMPATAK-SV---S--------------------Q--Q--L---GE--------E-
+-------------------K-----------MG--------DLY-DPDTNIRYGTFYIAQ
+KII--EFG---------G----------------NINAALAAYNGGSAVGNRYV------
+-V----S-R---------------------------------------------------
+------------------------------------EAAIP-------NET---KNFIKR
+VNSAKNQ---------------------------------Y-
+>MBI1909554.1/456-599 transglycosylase SLT domain-containing protein [Deltaproteobacteria bacterium]
+RSFIEREAKR-------VGIDPFLVYSLMRQESHFNPGASSP-AG-------------AI
+GLMQLMPQTAR-RL---S--------------------R--E--A---GW--------L-
+-------------Q-F---------------DG--------SLE-DPETNILLALAYLQR
+LSK--EFG---------K----------------NQVSIIASYNAGEGAISRWR------
+-G----Q-RK-------------DL--------------------------DE------E
+--------------------E------F-------IE-EIPY------TET---KDYVKK
+VLSNYRT---------------------------------YQ
+>MBI2974264.1/381-519 transglycosylase SLT domain-containing protein [Deltaproteobacteria bacterium]
+---VLRFARK-------YKVDPNFIWAVMREESTFRQNAVSI-SG-------------AV
+GLMQLMPKTAG-SM---M--------------------K--R------------------
+-------------K-F---K-----------PE--------ELL-NPQQNIEAGVRYLSF
+LLK--RYK---------N----------------NTFVALAAYNAGEDAVDKWL------
+-S----F-YP-----------RGPI--------------------------NG------E
+--------------------E------F-------AE-AIPY------KET---QNYVKK
+VMRVYWI---------------------------------Y-
+>OGR60324.1/256-398 hypothetical protein A2X36_08015 [Elusimicrobia bacterium GWA2_69_24]
+------EAKK-------QGVDYRMVLAVINCESAFNPGVRSH-VG-------------AT
+GLMQLMPATAR-GL---G--------------------V--K--A---ST--------Q-
+-------------E-G---L-----------IQ--------LLK-DPATNIKAGVTFLKQ
+LWR--KFSDISFSQL--GS-------IDP-FTRHDVKSAIAAYNAGPGAVAKYN------
+-G----------------------------------------------------------
+--------------------------------------VPPY------QET---RGYVVK
+VLQAYLN---------------------------------YR
+>MBF0274911.1/601-748 DUF3808 domain-containing protein [Nitrospinae bacterium]
+LPIVNQIANK-------YDLDPMYVWALMRTESAFRPKVVSS-AG-------------AV
+GLMQLMPTTAN-RM---I--------------------A--G--S---IN--------E-
+-------------K-V---D-----------KR--------ELY-NPVVNINFGAAYLNK
+LKS--YFP---------E----------------NIVAVTASYNAGEEAVARWI------
+-K----N-GK-------------KL--------------------------DI------E
+--------------------E------W-------VE-EIPY------KET---NLYVKK
+VMAAYWN---------------------------------YQ
+>HIS92726.1/40-184 lytic transglycosylase domain-containing protein [Candidatus Alectryocaccomicrobium excrementavium]
+EPLVRETAAE-------YGLNPPLIAAVIYTESKYDPSAVSS-AG-------------AI
+GLMQIMPETGE-WI---A--------------------S--K--L---NR--------P-
+---------------F---T-----------PE--------TLL-DPYANAQLGAWYLRF
+LLD--RYG---------G----------------RVENAIAAYHAGQGSVDAWL------
+-K----D-AR-------------YS--------------------------PD------G
+--------------------L------T-------LS-RAGS------TAT---QHYINK
+VLSAYEN---------------------------------YQ
+>MBO5746693.1/36-180 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+SEQITQYSKE-------FEVDPSLVAAVIKCESSFNKDAVSS-AN-------------AR
+GLMQLTEETFC-DV---S--------------------K--M--L---GE--------S-
+------------DA-F---S----------FEA--------HWD-DADVNIRYGTRYLKF
+LLD--MFD---------G----------------NETSAVAAYNAGLGNVKGWM------
+-G----D--------------------------------------------DG------K
+--------------------L------T-------TD-EIKF------PET---YDYVDK
+VQSAKKY---------------------------------YS
+>MBS1348299.1/40-190 lytic transglycosylase domain-containing protein [Firmicutes bacterium]
+ENIISAYCDE-------YGVDKWLVFALIKAESGFDQDAVSS-AG-------------AH
+GLMQLMPETAQ-WL---I--------------------D--K--G---EF--------T-
+-------------M-D---V-----------DT--------ALN-DPEENIHLGVYYLSV
+LFT--NYQ---------NS-----------QGYTDPAIVIAAYNAGMGSVSEWL------
+-N----D-GT-------------WD--------------------------GS------L
+--------------------A------N-------VA-DIPY------RET---ERHVKS
+VLRNYNT---------------------------------Y-
+>MBE6574073.1/63-208 lytic transglycosylase domain-containing protein [Oscillospiraceae bacterium]
+EEYVDRYSKE-------YGVPISIVYAVIKTESGFDEKSLSA-AG-------------AK
+GLMQLTDDTVE-YV---K--------------------N--K--L---AI--------E-
+-------------------E-----------EI--------DAF-DPETNIKFGVFYLSN
+LYE--RYK---------NG------------GFESWNTVLAAYNAGPSNVWSWL------
+-A----D-EE-------------IT--------------------------KE------G
+--------------------E--------------LA-NIPF------PET---DNYIDK
+VNDARKM---------------------------------Y-
+>AGB40428.1/37-181 AGB40428.1 soluble lytic murein transglycosylase-like protein [Halobacteroides halobius DSM 5150]
+KDLIFREAAN-------KGLDPYLVAAVIYAESKFDPHATSN-TG-------------AK
+GLMQIMPKTGK-WI---A--------------------K--M--K---SD--------N-
+-------------D-F---S-----------VS--------DLY-TVKKNIEYGCWYLAW
+LYK--RFD---------R----------------KLAVTLAAYNGGLGNVDKWL------
+-E----N-DR-------------WD--------------------------GK------H
+--------------------K------N-------AD-QIPF------TQT---KNYVNR
+VMKFYDR---------------------------------YK
+>MBR4874469.1/31-176 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+EIYVLKYSKE-------FNVSEDLIYAIIKTESNFNSGAKSA-KD-------------AF
+GLMQIIEPTGE-WI---A--------------------E--T--L---GF--------D-
+-------------D-F---Y-----------KE--------MLF-DPETNIKMGTYYISY
+LLK--MYE---------N----------------DEKCALCAYNAGYKKVDSWL------
+-L----N-EK-------------YS--------------------------KD------E
+--------------------K------K-------LN-VVPY------PET---EKYVNQ
+VLNNKKI---------------------------------Y-
+>NLO87274.1/34-183 lytic transglycosylase domain-containing protein [Firmicutes bacterium]
+EEFIARQARA-------NNLDPALVAAVIKVESNFRHDAVSR-AD-------------AR
+GLMQIRPDTAR-EV---A--------------------R--E--L---GH--------V-
+----------IDED-V---F-----------EE--------LLF-DPEYNITLGTRYLAK
+MLQ--EFG---------G----------------NEAMALAAYNAGPARLRSWL------
+-E----K-GI-------------WD--------------------------GT------W
+--------------------K------N-------RT-QIPY------PET---RNYLRK
+VELARER---------------------------------YA
+>MBA3298267.1/44-162 lytic transglycosylase domain-containing protein [Acidobacteria bacterium]
+EDLILEHSLA-------NGVSPDLVRGVIQAESAFNPMARSP-KG-------------AM
+GLMQLMPATAA-VY----------------------------------------------
+-------------------N-----------VV--------NAY-DPGQNIRAGVKYLGT
+LLS--KYS---------Q----------------NVELALAAYNAGPGAVKKYG------
+-A----------------------------------------------------------
+--------------------------------------VPPY------RET---RNYIAR
+------------------------------------------
+>WP_168897276.1/25-165 WP_168897276.1 lytic transglycosylase domain-containing protein [Olsenella sp. KGMB02461]
+AQQITAQAER-------YGIDPTLVASVIKAESNWVPNAESS-VG-------------AQ
+GLMQVMPETAR-DL---A--------------------R--R--G---YV--------D-
+-----------GSR-Y---D-----------PT--------DLM-DPETNIAYGTAYLAS
+LMK--ATG--------------------------SEERAIASYNAGPNAVSDWE------
+-G----E-GD--------------------------------------------------
+--------------------S------F-------SD-AIQY------PET---RIYLEK
+VQSALDH---------------------------------YR
+>MBE5755715.1/31-169 lytic transglycosylase domain-containing protein [Clostridiales bacterium]
+KKQVTEISSE-------YGLEPALVYAIIKAESSFKPDAVSQ-AG-------------AV
+GLMQLLPSTAK-WI---A--------------------E--E--V---GD--------E-
+---------------F---D-----------YN--------QLF-VVEKNIEYGCFYLDY
+LFD--KFG--------------------------DINIVVCAYNAGETKVRDWI------
+-L----D-GV--------------------------------------------------
+--------------------L------F-------KE-KIDY------EET---REYLRK
+VKRFYEI---------------------------------YK
+>MCA9806507.1/693-841 transglycosylase SLT domain-containing protein [Cyanobacteria bacterium HKST-UBA06]
+QEEVSTYAKR-------YGLDPLLVMALMRQESFFNPTAVSV-SD-------------AR
+GLMQLLPSTAR-EV---A--------------------G--W--E---AL--------S-
+-------------D-F---T-----------TS--------ELF-EPGVNIRLGTRYLAH
+LFQ--RFE---------Q----------------VAPLAVGSYNGGPGAMSGWV------
+-S----T-VK-------------PSFDE-----------------------DP------D
+--------------------M------F-------VE-AIPY------AQS---REYIQQ
+VFNHYWV---------------------------------YQ
+>MBA4371211.1/83-221 hypothetical protein [Coriobacteriaceae bacterium]
+EHEIAAASER-------HRVSPYLVAAVIESESGFDASVVSE-AG-------------AV
+GLMQVLPSTAE-EL---E--------------------R--R--G---LA--------A-
+-------------P-S---K-----------GA--------TLS-DPAVNIEYGTAYLRY
+LVE--RYH--------------------------EIETAVAAYNAGPGRVDVWA------
+-E----Q-GG--------------------------------------------------
+--------------------D------I-------RE-AIDY------PET---RHYVVK
+VVRARER---------------------------------Y-
+>HAT72489.1/107-252 hypothetical protein [Elusimicrobia bacterium]
+LNLVLKTSKA-------KGVDPALVLAVIQQESRFNPKARSG-AG-------------AL
+GLMQMMPATAR-IM---G--------------------L--K------------------
+-------------------D-----------PQ--------KLF-IPKVSVKYGTQFIKD
+LWA--EFG---------RKKDLANLSAED-INSAEVINTIAAYNAGPGNVKKYH------
+-G----------------------------------------------------------
+--------------------------------------VPPF------KET---QEYVVR
+VRANFKK---------------------------------YK
+>MCB9229392.1/617-765 lytic transglycosylase domain-containing protein [Deltaproteobacteria bacterium]
+DKSFLKYSKQ-------HAVSASLLYAITHQESNFRSDARSY-AN-------------AI
+GLMQLIPVTAS-RV---A--------------------TWGR---Q--AF--------P-
+------------EQ-H---V-----------EE--------RLL-EAETNINLGSLYLKF
+LAE--RYK---------S----------------NLPAIIASYNAGEYAVDIWM------
+-R----R-RF-------------HP--------------------------DP------L
+--------------------L------W-------IE-MIPF------GET---KSYVQK
+VLRNKLV---------------------------------Y-
+>RKY20600.1/42-176 MAG: lytic transglycosylase domain-containing protein [Planctomycetota bacterium]
+-PIAEKYADR-------FGLEPALVVAVIRAESGGDASAVSP-AG-------------AV
+GLMQLMPDTAR-AV---A--------------------V--R--L---KE--------P-
+-------------P-P---A-----------PS--------MLL-DPDTNIRYGCCYLAR
+LAE--QFG---------A----------------VPEVLFAAYNAGPTRVYRWL------
+-A----A-NQ-------------DR--------------------------DA------V
+--------------------S------V-------VT-SCPY------PET---RLFIRR
+------------------------------------------
+>MBQ8162862.1/37-170 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+SEYVEKYSDE-------YGIDEHIIYSVIKVESDFDKNAVSS-SG-------------AI
+GLMQLMPETYI-WL---C--------------------E--K--N---GE--------E-
+-------------------------------PK--------NAF-DAEENIKYGTFYLSM
+LYK--RYG--------------------------DWNLTFCAYNAGMGNVDKWL------
+-S----S-ND--------------------------------------------------
+---------------------------F----------KIEF------EET---ERYVYK
+LKVAQDK---------------------------------Y-
+>RJQ32196.1/39-181 lytic transglycosylase domain-containing protein [Actinobacteria bacterium]
+EKQIINETKK-------NKLNPYLICAIIREESRFNPHSVSS-KG-------------AV
+GLMQIMPQTAF-WI---S--------------------K--K--T---SY--------P-
+-------------I-K---S-----------AA--------DLM-DSSLNIKMGTWYFAY
+LYN--RYQ--------------------------SEDAALIAYNGGTANVERWH------
+-K----S-TD-----------------------------------------DI------N
+--------------------V------L-------FR-LFAY------KES---KQYLAK
+VKKSVST---------------------------------YK
+>WP_173575730.1/510-649 transglycosylase SLT domain-containing protein [Acetobacter fallax]
+-------------------LPPGLALALMRQESNFNPDAVSV-SG-------------AV
+GLMQLLPGTAR-DM---A--------------------R--G--T---RT--------G-
+-------------P-V---T-----------VS--------TLY-TPAENIQLGTAYLDQ
+VYR--KFD---------G----------------IVPYTAAAYNAGPHRVSQWL------
+-Q----T-GG-------DPA---RTGA------------------------DQ------D
+-----------------ALID------W-------IE-QIPY------AET---RNYVKR
+VWESMAV---------------------------------Y-
+>WP_120189023.1/36-180 lytic transglycosylase domain-containing protein [Ammoniphilus oxalaticus]
+KNEVAEASSQ-------YNVDPYLVFSIIQIESNFKHMRTSN-KG-------------AK
+GLMQIMPETAE-WV---I--------------------E--Q--A---QL--------P-
+-------------S-E---L-----------LT--------KID-DPEVNIAIGSWYISF
+LER--KFH---------Q----------------NHFAVIAAYNAGPGNVERWL------
+-K----E-DQ-------------WD--------------------------GT------Y
+--------------------R------N-------MA-DIPF------GET---RHYLQR
+VLYFYGK---------------------------------FR
+>MBF1051623.1/4-147 lytic transglycosylase domain-containing protein [Peptostreptococcaceae bacterium]
+TDFVYNYSKQ-------YKVDENLVYAIIKTESNFFPYAKSK-AN-------------SK
+GLMQVSDDTFE-YA---K--------------------T--K--I---DI----------
+-------------------S-----------SN--------DIY-NKQANIQAGIWYLSN
+LLE--RFN---------N----------------NEYYAILAYNAGPENVSKWI------
+-D----S-GF-------------LK--------------------------DN------L
+--------------------D------Y-------KSWNIPY------AET---RIYIDK
+VENSKKY---------------------------------Y-
+>MBQ6808817.1/43-185 lytic transglycosylase domain-containing protein [Firmicutes bacterium]
+-EIVEEECRQ-------YDLDPWLVMAMIREESSFDSTAVSH-AG-------------AH
+GLMQLLPATAA-WA---I--------------------S--K--N---GM--------E-
+-------------I-S---T-----------EA--------ALN-EAEANIQVGVWYISW
+LRD--RYD---------G----------------DLYAAVAAYNAGQTVVDEWL------
+-S----E-KI-------------WD--------------------------GT------L
+--------------------E------N-------AA-QIPY------EET---AKYLRS
+VWRSYEI---------------------------------Y-
+>HCJ09897.1/88-236 hypothetical protein [Clostridiales bacterium]
+LEVIKVYAAR-------NGLDPALVAAIISQESAFDPHAVSP-MG-------------AR
+GLMQILPDTWR-LL---C--------------------P--D--S---SC--------SG
+RH--------APPA-C---G-----------PD--------CIF-DPEANIRAGTAYFAD
+ILD--EFD---------R----------------NIVLAFAAYNAGTGAVHRHA------
+-R----L-DG-------------GR-----------------------------------
+----------------G----------L-------ED-LPPF------AET---RAYVRQ
+VLSFWVR---------------------------------LR
+>MBV8519527.1/518-664 transglycosylase SLT domain-containing protein [Acidobacteria bacterium]
+FDAIRAEAEK-------RGVDPYLVASIIRQESGFEPSTVSN-AG-------------AV
+GLMQIMPEEAT-QI---A--------------------S--A--A---GV--------A-
+------------ET-V---S-----------RE--------QLF-DPATNIAVGAAEYAQ
+KLA--RMR---------S----------------NPILAIAAYNAGEQAVGTWL------
+-E----M-TP-------------AD--------------------------DI------D
+--------------------R------F-------IE-TIPY------AET---RLYVKT
+VTRNRFE---------------------------------YR
+>HGU12466.1/481-617 HGU12466.1 MAG TPA: tetratricopeptide repeat protein [Synergistetes bacterium]
+--YIVEMAKR-------EKVDPLLVLAVIHQESRFDPDIVSW-AG-------------AI
+GLMQLMPFTGE-SY---G--------------------I--R------------------
+-------------------D-----------RN--------LLF-SPEINIRLGIKHLKE
+FLD--RYN---------G----------------NLYLALAAYNAGSGNVDRWI------
+-K----N-IK-------------AR--------------------------NW------E
+--------------------E------W-------SE-GIPF------EET---RNYVKK
+VLGAYRA---------------------------------YK
+>MBI2874606.1/496-641 lytic transglycosylase domain-containing protein [Firmicutes bacterium]
+RDIVEKAAAE-------FSVDPWLIYAVAREESHFRAFAVSR-SG-------------AI
+GLMQIMPSTGK-WL---A--------------------G--K--V---NA--------S-
+---------------P---D-----------VL--------SFF-NVESNIRMGSWYLAY
+LLK--LFN---------G----------------DVDHALAAYNGGNGSVARWL------
+-K----D-PL-------------YR--------------------------EP------I
+--------------------D------F-------SR-TITF------LET---REYVDK
+VRQSYLV---------------------------------YR
+>MBO5570934.1/290-437 dephospho-CoA kinase [Clostridia bacterium]
+RELIEEYATE-------FDLDPALVSSVILCESSFDPHATSR-LG-------------AR
+GLMQLMEETAR-WV---A--------------------H--K--L---NE--------D-
+-----------DQQ-Y---T-----------FD--------QLW-DPETNIRYGSWYLSF
+LSK--RFD---------R----------------GIVKVICAYHAGQGNVDAWL------
+-K----N-PS-------------CS--------------------------SD------G
+--------------------I------T-------LE-HIPT------VDT---ALYCKR
+VLAACDI---------------------------------YK
+>HAJ77438.1/33-177 lytic transglycosylase [Clostridiales bacterium]
+KDIVLNVSST-------FNIEPSLIFSIIKAESKFNKNAKSS-AG-------------AI
+GLMQIKLSTAN-YM---L--------------------T--L--D---GE--------D-
+-------------V-I---S-----------EN--------ELF-MTENNIKLGTQYFAY
+LLN--KFE--------------------------NLDVSICAYNAGETVVRQWL------
+-Q----D-ET-------------LS--------------------------KD------G
+--------------------K------T-------LI-KIPY------TET---ENYLKK
+VQFNQKI---------------------------------YK
+>HIW55876.1/39-171 lytic transglycosylase domain-containing protein [Firmicutes bacterium]
+-ETVSAAGDR-------YGVDESLIFAVIKAESNFNERAVSP-KG-------------AR
+GLMQIMPSTAL-FA---A--------------------E--N--M---GI--------E-
+-------------E-I---M-----------PD------------DAGQNISMGAWYLAY
+LAE--KFG--------------------------DERAVIAAYNAGENTVSGWL------
+-A----R-GA-------------MP--------------------------D--------
+--------------------------------------DIPY------AET---KNYVGR
+VEFFKKV---------------------------------Y-
+>MBI2686943.1/552-698 transglycosylase SLT domain-containing protein [Acidobacteria bacterium]
+QEDLEKYARE-------HDIDPYLVAGLIRQESEFNPKVISR-SN-------------AY
+GLTQILPSTGR-EL---S--------------------R--R--V---GM--------R-
+-------------A-F---S-----------TS--------MLF-DPAINLRLGTFYLKT
+LQR--AFG---------G----------------RWEDVLAAYNGGGSRVNKWR------
+-R----F-AT-------------FN--------------------------EQ------A
+--------------------E------F-------IE-TIPF------DET---RDYVQS
+VLRNASV---------------------------------YR
+>MBR0424520.1/41-184 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+RDWIDAYSRE-------NDLDPYLVSAVIFCESKFDPSAVSG-AG-------------AR
+GLMQVMPATGE-EI---A--------------------E--I--L---KE--------E-
+---------------F---A-----------PD--------RLF-DPETSIRYGTKYLRM
+QLD--RFD---------N----------------NEAIVLAAYNAGPHRAEQWL------
+-N----D-YG-------------LD--------------------------SQ-------
+--------------------G------H-------IA-YIPF------EET---DRYVDK
+VLSMREV---------------------------------YR
+>NCO65415.1/37-181 lytic transglycosylase domain-containing protein [Solirubrobacter sp.]
+QDLISEASAK-------YSIDPYLVCGIIYVESKFDPFSESK-VG-------------AI
+GLMQVMPNTGT-WI---A--------------------K--K--Q---GR--------K-
+---------------F---D-----------PD--------NLT-SPEINIDMGCWYFNY
+LRS--KYG--------------------------DEKLALAAYNSGYKNVDRWL------
+-K----Q-AG-------------SG--------------------------TV------E
+--------------------D------L-------VA-KIPF------KET---RMFIRR
+VEAARDM---------------------------------YE
+>MBM4319641.1/718-862 tetratricopeptide repeat protein [Deltaproteobacteria bacterium]
+AELVERYAAA-------ERIDPMLVWAVMRQESAFNPRARSP-AG-------------AL
+GLMQLMPATAR-FA---G--------------------R--R--L---GV--------R-
+---------------V---R-----------EA--------ELY-QPEPNIKLACHVLRN
+LLD--LYD---------G----------------NVVLAVTAYNAGPGNVRRWR------
+-E----R-WG-------------ML--------------------------EN------D
+--------------------R------W-------AE-EIPF------REA---HGYVKK
+VIEALGA---------------------------------Y-
+>HAN44846.1/41-187 transglycosylase [Oscillospiraceae bacterium]
+KDIIIRESER-------NSLPPELVFAVARTESGFNPNARSN-VD-------------AR
+GIMQITQVAFD-WA---K--------------------M--R--G---KT--------E-
+------------LD-V---S-----------FD--------RLY-EPELNIEYGTYILAL
+LYG--EYG--------------------------DITTTLSAYHAGRNTVQKWL------
+-K----D-GR-------------YS--------------------------AD------G
+--------------------K------I-------IT-SLPE------NQT---SNYVKK
+VISAMRM---------------------------------YE
+>HHV79336.1/30-169 lytic transglycosylase domain-containing protein [Firmicutes bacterium]
+HGTIENTVQK-------LQLDWYLVVALIRVESKFKPTAVSE-VG-------------AC
+GLMQLMPETAK-EV---A--------------------S--R--N---GL--------D-
+---------------F---S-----------HQ--------MLF-DPSYNIVVGCTYLKE
+LMQ--RYQ---------G----------------DEMATLAAYNAGPKWVDKWL------
+-N----G-SA-------------EL--------------------------SG------D
+--------------------------------------KIAF------QET---RQFVRK
+VLFYRRL---------------------------------YR
+>NLC66269.1/38-179 lytic transglycosylase domain-containing protein [Clostridium sp.]
+KDIVEKYSAE-------YNIDTSLIYAVISTESGFREKVESD-AG-------------AA
+GLMQITEDTGI-FI---A--------------------R--R--L---NI--------E-
+-------------D-Y---E-----------RD--------YLF-DPNLNIMMGTYYLMY
+LDG--LFQ--------------------------NKDKMLAAYNAGPNRVKIWI------
+-D----E-GV-------------FD--------------------------DK-------
+---------------------------I----------SIPY------GET---RRYVKK
+VKIREKI---------------------------------YK
+>MBN22045.1/58-196 hypothetical protein [Bdellovibrionaceae bacterium]
+ASHLVDEAER-------HNISTALVLSVIQTESAFSPKVVSH-KG-------------AV
+GLMQVMPTTAA-YI---A--------------------K--R--E---SK--------I-
+------------RF-R---K-----------KR--------ELQ-NPFVNLRFGIYYLAY
+LKD--RYK---------G----------------RIEHILSAYNAGPGKVDRIL------
+-K----R-NGV-------------------------------------------------
+--------------------------------------YHP-------QAT---KGYVEK
+VTTLTQK---------------------------------FQ
+>MBM4033896.1/96-242 lytic transglycosylase domain-containing protein [Planctomycetota bacterium]
+RILAARHAAA-------NGLEPALVIAVIRAESAGNRWAVSR-AG-------------AR
+GLMQLMPATAR-EV---A--------------------Q--N--N---RI--------S-
+-------------Y-S---G-----------PD--------DLF-DADLNIQLGTLYLAW
+LRK--FFR---------D----------------DRWLYVAAYNAGPGAVGRLR------
+-K----A-NP-------------EL--------------------------SS------E
+--------------------Q------L-------IR-QRAP------AET---RAYVPT
+VFRYWRQ-----------------------------------
+>MBN2374595.1/596-741 transglycosylase SLT domain-containing protein [bacterium]
+WPIVLEKAKQ-------NQLDPVLVLSLIRQESLFDPFAISS-SS-------------AY
+GLMQIIPSTAR-LI---A--------------------K--D--L---EM--------D-
+------------AP-A---D-----------MR--------SLY-DPDLNLTMGCYYLRK
+VLD--EFD---------Q----------------NMVYALAAYNAGPGAVKRWK------
+-K----N-FA-------------DL--------------------------DI------D
+--------------------E------F-------IE-SIPY------NET---REYVRR
+VMKNYWI---------------------------------YK
+>MBO4936965.1/27-153 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+QDKIVYCADK-------YSISPSLVYAIIRAESNFDTTAVSS-VG-------------AC
+GLMKIMPSTAE-YM---I--------------------E--Y--F---DL--------N-
+---------------L---D-----------IN--------ELF-SPAVNIELGCAYLRY
+LSD--KFD--------------------------NLDDVICAYNAGETIVKKWK------
+-K----E-NA--------------------------------------------------
+--------------------------------------GIVY------KET---KNYLIK
+V-----------------------------------------
+>MCB9526182.1/587-734 lytic transglycosylase domain-containing protein [Myxococcales bacterium]
+EKAVRHQAQA-------HGVDPLLIWAVMRQESGFRPRVGSP-AG-------------AL
+GLMQVLPATAA-GM---A--------------------R--R--L---KE--------R-
+-------------RVP---G-----------PT--------ALR-RVWPNVHYGAAFLAR
+LQR--RYR---------G----------------HLALTLAAYNAGPGHVDDWL------
+-E----R-IG-------------HL--------------------------EA------D
+--------------------A------F-------VE-AIPF------DEA---RGYVRK
+VLRSHAA---------------------------------YR
+>MBQ8749765.1/33-170 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+ISIIKNYCNE-------FNVEEDLVLSMIKAESNFDVNAISY-VG-------------AV
+GLMQLMPATAS-FI---A--------------------E--K--I---GL--------L-
+-------------N-----D-----------KI--------DLY-DAETNILLGVAYISY
+LQN--KFE--------------------------NQDALICAYNAGEGEVATWL------
+-N----E-QG--------------------------------------------------
+---------------------------E-------LK-EIKF------EET---QNYLNK
+VKQAKIV---------------------------------YK
+>WP_075573710.1/33-175 lytic transglycosylase domain-containing protein [Ezakiella massiliensis]
+EKVADQVCAE-------VGVDKSLVLAIIKTESGFDPNAVSK-KN-------------AL
+GLMQVIPETIE-YT---S--------------------Q--K--Y---RI--------E-
+---------------V---G-----------IN--------DIF-TPEKNMEIGAYYLKN
+LIE--RFG--------------------------STDRAILAYNAGPSVVKRWI------
+-D----E-GL-------------ED--------------------------VN------D
+--------------------D------T-------YS-WVPY------DET---RNYIKR
+VKKARKG---------------------------------Y-
+>MBM3266464.1/96-212 lytic transglycosylase domain-containing protein [Candidatus Sericytochromatia bacterium]
+---------------------PLLVVAVMRVESGFSPEATSR-AG-------------AV
+GLMQVMPETAG-WM---A--------------------K--R----------------G-
+-------------R-F---A-----------RG--------DLR-DPDYNIRVGAAYLGY
+LQR--RFG---------G----------------DLPRVLAAYNGGEGNVARWK------
+-D----L-AQ--------------------------------------------------
+----------------------------------------AF------PET---RRYVKR
+SLTTYAR---------------------------------YR
+>MBO5273506.1/8-151 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+SDIISAASDD-------YGVPEDVIYAVIRTESSFKPEAVSH-AG-------------AI
+GLMQIMPETYE-WL---L--------------------K--L--M---EE--------E-
+---------------L---P-----------DD--------AVY-YPEVNIRCGVYYLSY
+LKR--ELD--------------------------DWDTVFAAYNAGIGRVKGWL------
+-E----N-DS-------------IT--------------------------EN------G
+---------------------------M-------LV-NIPI------EET---ASYVIK
+IAKAREI---------------------------------YQ
+>HGH06997.1/618-763 HGH06997.1 MAG TPA: tetratricopeptide repeat protein [bacterium]
+WKEIQKYSEK-------NGLDPFLVAGLIRQESAYNIKALST-SN-------------AI
+GLMQIIPPTGK-YI---A--------------------E--R--I---AF--------K-
+-------------S-F---T-----------PG--------LLY-EPEINISFGTWYLAY
+LMD--RFG---------G----------------NVFKAVASYNAGPGAIERWW------
+-K----E-FD-------------AL--------------------------DP------D
+--------------------E------V-------VE-NIPF------RET---RNYVKL
+VLRNRAV---------------------------------YR
+>MBR6523499.1/14-153 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+REYVTASAEK-------FGVDEHLIYSVIKAESKFDEDARSH-KD-------------AQ
+GLMQITPETAG-WA---M--------------------E--K--M---GI----------
+-------------------------------EG--------DIF-TPEINIAVGSWYLAK
+LIL--DHD---------G----------------NLTAALAAYNAGSTNVNQWK------
+-N----D-AG-------------------------------------------------G
+--------------------L------V-------LD-DILF------EET---RDYVYK
+TLKYYEN---------------------------------YK
+>MBO4569760.1/31-168 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+SEYVEASSIE-------FNVNKEIIYSIMKAESGFDKDCVSK-AG-------------AV
+GLMQVMPETAD-WV---K--------------------Q--K--L---GD--------D-
+-------------------------------SF--------DLT-DPKTNIRYGTYYFSY
+LFN--KFN--------------------------DLVTALAAYNAGEGNVINWM------
+-G----E-NL-------------KL--------------------------DK------S
+--------------------------------------QIRF------SET---KTYVDK
+VLFFIKA---------------------------------YK
+>HIY96660.1/38-178 lytic transglycosylase domain-containing protein [Candidatus Borkfalkia excrementigallinarum]
+EQFVSKYAQE-------NKIEENLIYAIIRAESSFNENAVSS-SG-------------AV
+GLMQLMPSTAQ-FI---C--------------------K--C--L---GE----------
+-------------------------------DL--------DIY-SANDNIRMGVWYLGY
+LGK--KFS--------------------------GQDEQLAAYNAGEGNVRRWL------
+-Q----D-AS-------------FS--------------------------SD------G
+--------------------I------A-------LQ-KIPF------PET---EKYVRR
+VKKFYKY---------------------------------Y-
+>MBU1187903.1/21-164 lytic transglycosylase domain-containing protein [Gammaproteobacteria bacterium]
+VPLVREHAQQ-------HAIDPALVYGLMRAESAMNPQAVST-AN-------------AR
+GLMQVTPGTAR-SL---A--------------------R--R--H---GL--------S-
+-------------Y-R---G-----------SA--------SLL-QADTNIAFGTTYLAE
+MLQ--RYA---------G----------------DPVKVLGAYNAGPQVIERWQ------
+-Q----E-PR-------------PQ--------------------------RP------D
+--------------------I------W-------IE-TLPY------FET---RDYIPR
+VLAFSVI---------------------------------Y-
+>NTW05988.1/40-186 lytic transglycosylase domain-containing protein [Peptococcaceae bacterium]
+RDIIINESKE-------AGIDPFLIVAVMRTESGFDSKAVSV-EG-------------AR
+GLMQIMPDTGE-WI---A--------------------G--K--I---QI--------D-
+-------------R-Y---N-----------RE--------LLF-YPEINIKIGVNYLAN
+LDQ--EYK---------G----------------DQVLMLAAYNAGRGNVNKWL------
+-E----E-KK-------------WN--------------------------GE------R
+--------------------E------S-------IG-DIPF------PET---RQFILK
+VLLFQQL---------------------------------YE
+>WP_044250743.1/729-873 transglycosylase SLT domain-containing protein [Chondromyces apiculatus]
+AAMVTAEAGR-------AGIPEALAYAIMREESAFDPRATSV-AA-------------AY
+GLMQLIVPTAK-SM---A--------------------K--K--M---GL--------P-
+---------------Y---D-----------AE--------ALK-RPEVNIALGCKYLSV
+LRG--EFP---------G----------------NPLLAIPGYNAGGGAPKRWV------
+-K----E-RP-------------EQ--------------------------SF------D
+--------------------L------W-------VE-RIPY------EET---RNYTKR
+VITSMAA---------------------------------Y-
+>WP_051271801.1/50-194 lytic transglycosylase domain-containing protein [Shimazuella kribbensis]
+EDNILKSAKQ-------TGTDPFLIMAIIRVETKFDPEKQSH-VG-------------AE
+GLMQLMPPTVD-DA---I--------------------K--K--G---NF--------S-
+-------------P-S---M-----------KQ--------YIK-VPAVNIQVGSWYLSE
+LTK--RFK---------G----------------NKVAVIASYNAGPNRVQKWL------
+-N----A-GT-------------WD--------------------------GT------R
+--------------------Q------N-------VQ-KIPY------GET---RHYVQR
+VTFFYEK---------------------------------YK
+>NCA67775.1/36-175 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+IDTVDKICED-------YAIEPELALAVCKAESNFNTNVVSR-AG-------------AI
+GIMQILPSTAL-WI---C--------------------E--L--R---NM--------E-
+---------------Y---K-----------EE--------YLY-RAEFNIELGVWYLSY
+L----SYF---------E----------------DRNWQLAAYNAGEGTVKNWQ------
+-K----Q-GI--------------------------------------------------
+---------------------------N-------LE-NIPY------SET---RSYIDK
+VNKYYDI---------------------------------FK
+>MBM4388198.1/134-278 lytic transglycosylase domain-containing protein [Deltaproteobacteria bacterium]
+REIVEKQAKK-------HKVDPALVYGIMREESGFNSQISSW-AG-------------AI
+GLLQLMPATAN-RM---A--------------------K--G--I---YK--------N-
+---------------S---V-----------SD--------KLT-DPDVNIALGVKYLGF
+LSR--LLK--------------------------HPAKVIAAYNAGEGSVISWE------
+-K----K-NK-------------NI--------------------------EI------D
+--------------------E------F-------VE-EISA------RET---RYYVKR
+VLQSYYR---------------------------------YK
+>MBM3213363.1/597-743 tetratricopeptide repeat protein [Candidatus Poribacteria bacterium]
+PEAIEKEGRE-------FDIDPHYIAATIREESRFNPTVKSW-AG-------------AY
+GLMQVMPDTGK-VV---A--------------------Q--R--L---GI--------E-
+-------------S-F---T-----------TS--------MLL-DPEVNIRIGSWYLRS
+LMD--QFG---------D----------------DPYLVAGAYNGGPGRMSRWQ------
+-T----E-FG-------------VT--------------------------DR------D
+--------------------E------F-------IE-QIPI------DET---RNHIFK
+VMHAYNT---------------------------------YT
+>MCD6508724.1/59-174 lytic transglycosylase domain-containing protein [Candidatus Poribacteria bacterium]
+KSKFEEMVER-------YDLDPLLVMALIKMESNFNPRAVSP-AG-------------AA
+GLMQLMPSTAR-SL---G--------------------L--K--V---PRYRNPRHPVR-
+-------------N-P---R-----------ID--------ERF-DPRKNLEAGMRYLKQ
+MVD--RYS---------G----------------NYVLAICAYNSGPGNVKK--------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------
+>MCD8328557.1/47-193 lytic transglycosylase domain-containing protein [Ruminococcus sp.]
+AEYVEKYSQE-------YDLDPLYVYSVIKVESDFNPDATSS-AG-------------AT
+GLMQIMPISFE-EV---A--------------------E--K--L---GE--------A-
+------------DE-V---S-----------YS--------DMK-DPETNIRYGCYILRQ
+LLD--EFG--------------------------DYRIASAAYNGGIGNVEGWV------
+-E----E-GI-------------IS--------------------------LD------D
+--------------------F------D-------VE-AIPL------SET---RHYVRK
+IVSTYEN---------------------------------YK
+>RIH99632.1/611-752 outer membrane protein assembly factor BamD [candidate division NPL-UPA2 bacterium Unc8]
+HEYVKRYAQE-------FEVDPFLIWAIIHAESRFNPQAVSI-SD-------------AR
+GLMQFIPSTGR-WI---A--------------------E--K--L---NI--------E-
+---------------F-------------------------SPF-NPAANIRMGAWYINH
+LLE--VFD---------G----------------NVAFAIAAYNGGQGNVRRWT------
+-G----R-GG-------------FS--------------------------DM------D
+--------------------E------F-------IE-MIPR------DET---RTFVKR
+VLRNYNM---------------------------------Y-
+>WP_010881168.1/213-351 transglycosylase SLT domain-containing protein [Aquifex aeolicus]
+ENLVFEAAQK-------FEVPVPLIYAVMRQESLFDPYAVSS-SG-------------AK
+GLMQLIDSTAR-WK---A--------------------K--R--L---GL--------K-
+-------------------------------IR--------SVF-DPETNITLGTAYLAF
+LMD--YWN---------G----------------DLIRVIASYNAGHGAVSRWK------
+-R---------------------YE--------------------------DD------F
+--------------------L------F-------IE-LIPY------NET---RNYVKR
+VLYNYYV---------------------------------Y-
+>WP_112011045.1/480-626 murein transglycosylase [Enterobacter sp. RIT 418]
+KDLFDRYTRG-------KDIPQSYAMAIARQESAWNPKVRSP-VG-------------AS
+GLMQIMPGTAT-HT---V--------------------K--M--F---NI--------P-
+------------GY-S---S-----------PS--------QLL-DPDTNINIGTSYLQY
+VYQ--QFG---------N----------------NRIFSSAAYNAGPGRVRTWL------
+-G----N-SA-------------GRI-------------------------DA------V
+--------------------A------F-------VE-SIPF------SET---RGYVKN
+VLAYDAY---------------------------------YR
+>PYT05997.1/610-750 hypothetical protein DMF49_12535 [Acidobacteria bacterium]
+--EIRRAALG-------RSLDPYLVCSLILQESAFNPLAVSR-AG-------------AL
+GLMQLVPETAQ-AL---A--------------------H--Q--V---GA--------G-
+-------------P-I---E-----------RE--------KLF-DPQVNILLGTAFLSD
+LLR--QYG---------G----------------RLEVALAAYNAGASRAARWW------
+-A----G-SH-------------G---------------------------DA------E
+--------------------R------F-------VE-EIPF------TET---RLYVKR
+IISNRRM---------------------------------Y-
+>WP_022263950.1/40-187 lytic transglycosylase domain-containing protein [Pseudoruminococcus massiliensis]
+EDEVYSASAE-------YNIPKELIYGVIKTESNFNPDAVSA-AD-------------AR
+GLMQLTQPTFE-WL---H--------------------T--Y--Y---SD--------D-
+-------------D-YDSSN-----------AD--------LLF-DPKINIKYGTLCLSV
+LLE--RYN---------N----------------DLDTAICAYNAGLGNVDEWL------
+-T----M-SQ-------------YS--------------------------AD------G
+--------------------K------T-------LD-STPF------GET---NEYLKR
+VKNNRDK---------------------------------Y-
+>MBD3226014.1/582-726 transglycosylase SLT domain-containing protein [Caldithrix sp.]
+EGQVSKYARR-------YNLESELIFGIIKQESVFDNRARSW-AN-------------AF
+GLMQLIPATAN-DM---A--------------------R--L--A---SI--------R-
+-------------L-R---S-----------ND--------QLY-QPDLNVHLGSLYLKQ
+LHN--IFD---------G----------------NKYKMLAAYNGGPHRVKRWQ------
+-K----L-PD-------------SS--------------------------QM------D
+--------------------V------F-------IE-NIEF------RET---RNYVKR
+VMKNYWA---------------------------------YK
+>MBO5851371.1/33-167 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+LKCVEYYSNK-------YGIEKELVLSIIKTESNFNPKAVSQ-KG-------------AV
+GIMQIMPKTAE-FI---A--------------------S--E--L---KV----------
+-------------------S-----------NY--------DLF-DYNTSINFGVYYLSY
+LTK--KYS--------------------------NEHIVICSYNAGETRVNSWV------
+-K----L-GL-------------LK--------------------------DN-------
+--------------------------------------ETPY------KET---TNYLKR
+VKLRKKL---------------------------------Y-
+>WP_169740721.1/36-197 WP_169740721.1 transglycosylase SLT domain-containing protein [Nevskia soli]
+YQLAWEAAEL-------LHVAPPMVAAVIEAESGCRGEAVSS-AG-------------AR
+GLMQLIPEYGG-RE---A--------------------Y--R-YLH--GR--------D-
+------------RQ-P---T-----------QA--------DLH-DPRINIQLGVSYIGA
+LQG--HYY-----------------FVNS--QLARGVLAVAAYNCGPDAVDRRL------
+----------------------------------------PFKRAQTW---DA------S
+----------------EAMEW------V-------LG-NTP-------AET---RNYVGT
+VLRKASI---------------------------------YD
+>MBM3381814.1/523-660 lytic transglycosylase domain-containing protein [Betaproteobacteria bacterium]
+HNEIAQQA---------SYIDPALVFSLIRQESSFNPRATSP-VG-------------AR
+GLMQVMPATAR-KV---E--------------------R--K--R---NI----------
+-----------------------------------------ELY-DPNTNIRIGSKYLSI
+LRK--QHK---------G----------------DYSRLIASYNAGPNNTKKWD------
+-L----R-YR-------------GE--------------------------VP------L
+--------------------L------F-------AD-IIPF------PET---RHYVSG
+LMRHMYW---------------------------------YR
+>MCB0365369.1/581-740 transglycosylase SLT domain-containing protein [Bdellovibrionales bacterium]
+VGLIKKNADK-------EKLDANLVLALIKQESSFRPKALSP-AQ-------------AA
+GLMQIVPITAR-DS---A--------------------Q--Y--L---KW--------K-
+-----------KRM-K---L-----------PE--------DLF-SPELNIYFGTSYLKR
+MVR--AFD---------K----------------HVPLALAAYNLGIGRLRKWL------
+-S----N-RE-------------DL--------------------------NKLSETGSD
+---------------DPFDGL------W-------ID-ELPW------VET---SYYVKA
+VMRNYLI---------------------------------YQ
+>MBE6664846.1/46-191 lytic transglycosylase domain-containing protein [Oscillospiraceae bacterium]
+RAHVEQYANL-------YGMEPNLVYAIIKAESKFSHKAVSS-AG-------------AV
+GLMQIMPKTFSEDI---C--------------------H--K--I---GL--------S-
+-------------D-----D-----------PD--------LLL-EPEINIQAGVWYFTR
+WYA--YYG--------------------------TSEEALAAYNAGIGNVNQWI------
+-E----D-GL-------------LD--------------------------EY------G
+---------------F----L------D-------VE-QIPF------EET---KNYVKE
+VLGYKER---------------------------------Y-
+>MBQ4102114.1/44-190 lytic transglycosylase domain-containing protein [Oscillospiraceae bacterium]
+EDLILRYSDA-------YDLDPAFVAAVINTESSFQPDARSS-AN-------------AI
+GLMQLQPETFD-WV---K--------------------Y--K--I---GE--------E-
+------------RS-L---T-----------EE--------DLL-DPEINVQYGCALYRL
+LLD--EFG--------------------------SLETAVAAYHAGWGNVKSWL------
+-S----D-TG-------------YS--------------------------SD------G
+--------------------I------H-------LD-QIPF------VDT---AHYLDR
+IISDQEV---------------------------------YA
+>HEG68915.1/30-203 HEG68915.1 MAG TPA: lytic transglycosylase domain-containing protein [Blastocatellia bacterium]
+DKLIQEQARK-------RGLDPALVKAIIYEESFFNPYAASQ-AG-------------AL
+GLMQVTPIALK-EWL-EAGGYKSETEAFAREFDRVSWKN--R--T---GI----------
+---------------E---A-----------RD--------LLY-QPEINLSIGCWYLKH
+LLK--RYE---------DE--------KE-----PLPIALAGYNAGPTHASRWN------
+-RP-GAD-GK-------------PL--------------------------TT------E
+--------------------E------F-------IK-QIDF------PQT---REYVQK
+ILNRYQQ---------------------------------YR
+>MBR6768698.1/37-189 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+ECYVDSSCEE-------FDFPKAMVFAVIKAESNFDRYAKSS-KN-------------AR
+GLMQITAAALE-DI---N--------------------R--M--L---SE--------D-
+---------------Y---T-----------LK--------QMY-DPEINIRCGVAFLSV
+LYR--KYE--------------------------NYDTAFAAYNAGQGNVDKWL------
+-S----D-TR-------------YS--------------------------YD------Q
+--------------------Q------Q-------LY-YIPF------KET---KNYVKK
+VNHYYQE---------------------------------YQ
+>WP_107282366.1/63-185 lytic transglycosylase domain-containing protein [Photobacterium lipolyticum]
+YDLVSRYTRQ-------YNVPAALIFGIIKAESNFNPNAVSH-KG-------------AK
+GLMQLMDSNSR-HW---Q--------------------------I---------------
+-----------------------------------------NPF-LPEQNIKVGTAMMAR
+LLK--MYQ---------G----------------NIDMALAAYNAGEGTVRKYR------
+-G----------------------------------------------------------
+--------------------------------------IPPY------KET---QQYIKR
+VKHNMKQ---------------------------------Y-
+>MBR2735264.1/5-151 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+ESVVERTSKE-------YGVEKELIYAIIKCESGFDENAKSH-AG-------------AC
+GLMQITPETFD-WV---G--------------------K--Y--H---AK--------N-
+------------ED-L---K-----------GA--------DIH-TPETNVKIGTLFIST
+LIK--KYK--------------------------NEVLALCAYNAGMNAVNRWL------
+-K----E-NA-------------EF--------------------------KK------S
+--------------------A------D-------TE-HIPY------PET---KEYVRR
+VQRAKKM---------------------------------YK
+>MBR3295377.1/33-173 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+EELIGKYSDK-------YAIPEDFVCGVIWTESRFNEKAKSG-AG-------------AR
+GLMQIMPETGK-WI---S--------------------K--K--L---EM--------S-
+-------------D-F---S-----------ED--------MLF-DPEIIIEMGCWYLSY
+LSR--KFE---------G----------------DELKIMAGYNAGPGNVEKWQ------
+-K----E-GK-------------FE--------------------------H--------
+------------------------------------S-DIVF------PET---QKYVKR
+VDHAKKI---------------------------------YR
+>WP_059916469.1/113-239 lytic transglycosylase domain-containing protein [Burkholderia diffusa]
+-ALIDEVAHE-------YGIDPYLIMAFASVESAFDPAAISS-KG-------------AV
+GLMQVMPKTAS-RF---G--------------------F--R------------------
+---------------G---S-----------AA--------DLF-DPANNLRIGARYLAH
+LAV--RFR---------G----------------DLDLIIAAYNAGEQAVERCG------
+-K----R-VP--------------------------------------------------
+----------------------------------------PF------QET---RAYLSA
+VRHAYAR---------------------------------Y-
+>PIU01217.1/650-795 hypothetical protein COT74_01550 [Bdellovibrionales bacterium CG10_big_fil_rev_8_21_14_0_10_45_34]
+HDDVHDAAAR-------FKVDPALIYSIIRQESAFDPNAKSG-AH-------------AY
+GLMQILPTEAK-KI---S--------------------R--A--Y---TL--------G-
+-------------L-K---S-----------DN--------QLF-EPSKNLLIGTAFLKT
+LLR--RHK---------F----------------DPIATICSYNASQDAYRGWI------
+-K----S-RF-------------KG--------------------------DW------L
+--------------------E------F-------IE-DIPY------DET---RLYLQL
+VLRNHMI---------------------------------Y-
+>MBQ9374945.1/54-199 lytic transglycosylase domain-containing protein [Ruminococcus sp.]
+QKYVIKYSTE-------YDIDPRFVYAVINTESHFNPKATSD-VG-------------AR
+GLMQLMEDAYD-WV---K--------------------Y--S--L---ND--------T-
+------------RN-H---T-----------YD--------DMY-KPELNIQYGTYMLKY
+LYD--KYG--------------------------SYELTAAAYHGGMGSVDSWI------
+-S----E-GT-------------IN--------------------------PD------N
+--------------------F------K-------LS-DVPS------DVT---ANYIHK
+VMKAYNK---------------------------------YK
+>RME27536.1/725-873 hypothetical protein D6798_04325 [Deltaproteobacteria bacterium]
+-PELWEQAAR-------YDVDPLLVMAIMRQESTYQPTVVSH-AG-------------AI
+GLVQIMPATGA-RV---A--------------------A--L--L---GE--------G-
+-------------R-Y---S-----------PR--------DLE-DPATNLRYGVYYLSL
+LIQ--RFG---------G----------------AFPLAVASYNGGPHNVSRWL------
+-RPWLAE-GS-------------PV--------------------------DL------A
+--------------------S------F-------VE-QIEY------RES---RDYVKR
+VTGFYDT---------------------------------YV
+>NLY93318.1/498-643 transglycosylase SLT domain-containing protein [Myxococcales bacterium]
+EREIAMAAKD-------GGISEALLRAVAREESSFQPSAVSH-AG-------------AR
+GLVQLMPATAQ-SL---A--------------------G--K--L---GV--------P-
+-------------L-P---G-----------PR--------AVF-EPEVNLKLGAHYLAF
+LES--RFD---------K----------------QIGLVPAAYNAGQGNVDRWL------
+-A----R-AE-------------TN--------------------------RL------D
+--------------------D------F-------VE-AIPF------AET---RRYTRR
+VLQSYGV---------------------------------Y-
+>HFF95739.1/430-574 HFF95739.1 MAG TPA: lytic transglycosylase domain-containing protein, partial [Candidatus Hydrogenedentes bacterium]
+WPLVSRMARE-------YGLDPFLILAVSRQESTFRPSLISR-AG-------------AV
+GVMQVMPATAR-WM---V--------------------S--K--D---AEL-------P-
+-------------R-D---A-----------AL--------RLM-EPEVSIRLGAAYLRQ
+MLD--RFN---------G----------------NLVYAVAAYNGGPGNCSKWI------
+-K----S-FG-------------QV--------------------------AP------E
+--------------------S------F-------IE-AIPL------EET---RDYVKK
+VLGNLAA---------------------------------Y-
+>MBQ7524503.1/468-599 lytic transglycosylase domain-containing protein [Alphaproteobacteria bacterium]
+-----------------------LVHAIIHRESNFNERARSY-AG-------------AV
+GIMQIMPATAA-FE---A--------------------K--R--L---KF--------H-
+---------------V---G-----------KE--------QLF-DRQKNITIGASILNR
+LLK--KYA---------G----------------NVIYTIAAYNCGEGNVSKYR------
+-K----N-IK-------------KL--------------------------KKLMPL--D
+---------------------------V-------IE-LIPI------KET---RIYVKH
+VIRSMFK---------------------------------YQ
+>MBN2724421.1/506-652 lytic transglycosylase domain-containing protein [Deltaproteobacteria bacterium]
+KNNLLNASAK-------FNIPMGLLLAVMYSESAFDPFIISH-AQ-------------AM
+GLFQIIPQTGF-EI---S--------------------I--N--L---GD--------S-
+-------------G-F---T-----------PS--------ELL-VPEKSINYGAAYLAI
+LAR--KFN---------R----------------NWPLVVAAYNAGPHQVYRWT------
+-K----N-RG-------------DV--------------------------NT------D
+--------------------R------W-------VE-EIPF------NET---RIYVKR
+VIGRWVL---------------------------------YS
+>MAR07907.1/570-709 lytic transglycosylase [Cyanobium sp. NAT70]
+TTAFQQAALA-------KSLRPELLLAITKQESRFSPGVRSI-AG-------------AL
+GLMQLMPATAA-DM---A--------------------G--R------------------
+-------------D-L---N-----------DD--------ELT-EPSFNIELGAAYLSY
+LLN--RWD---------G----------------DPILTIASYNAGPGAVASWP------
+-S----Q-DI-------------NQ--------------------------AP------E
+--------------------L------W-------IE-RIPY------PET---RYYTKK
+VLDNLIQ---------------------------------Y-
+>WP_089655861.1/38-180 lytic transglycosylase domain-containing protein [Halanaerobium congolense]
+QAEIQKYAEK-------FAIEEELLAALIYVESRFNNYSQSP-KG-------------AV
+GLMQLMPSTAI-WI---A--------------------E--E--L---GY--------D-
+-------------D-F---Q-----------LT--------DLN-EPEINIKFGCWYFSY
+LYE--KFD---------R----------------DLIKTIAAYNAGENNVRIWV------
+-N----N-GW-------------QG--------------------------NI------N
+------------------------------------E-KLPF------AET---DNFVRR
+VISTKKY---------------------------------YK
+>WP_095985310.1/636-782 transglycosylase SLT domain-containing protein [Cystobacter fuscus]
+RELVVRHCRS-------ARVNPDLMQALMREESAFNPKARSS-TG-------------AL
+GLAQLMPATAS-VV---A--------------------R--E--L---RL--------T-
+-------------L-A---T-----------PD--------ALL-EPHHNIRLGSAYLGG
+LQR--RFS---------G----------------NLAYAVASYNAGPGAVDRWI------
+-S----R-FP-------------DA--------------------------EL------D
+--------------------E------W-------VE-QIPV------EET---RLYVKR
+VLGSAAA---------------------------------YQ
+>NMC75428.1/551-691 transglycosylase SLT domain-containing protein [Geobacteraceae bacterium]
+RESVSRHASA-------AGISEHLTYALIRAESTFSPDALSP-AG-------------AV
+GLMQLMPATAR-GM---S--------------------E--A--L---------------
+-------------------T-----------PA--------LLH-QTDVNVKFGTRYLKQ
+LLD--RFN---------G----------------NTVSAVAAYNAGAVPVQRWR------
+-T----K-FP-------------SL--------------------------GE------D
+--------------------E------F-------IE-SIPY------PET---REYVKK
+VMAAAEV---------------------------------YR
+>MBL6975440.1/582-728 tetratricopeptide repeat protein [Deltaproteobacteria bacterium]
+TNHVIETSGL-------SGVDPAFIYGVMRTESRFNPRARSG-AG-------------AI
+GMMQLMPRTAR-EL---A--------------------D--K--L---LG--------D-
+-------------R-G---L-----------AR--------RLR-SPGPNIRLGTTFLAE
+LRR--HFR---------G----------------HLALVLAGYNAGPGAARSFH------
+-R----H-MK-------------HL--------------------------PT------D
+--------------------V------F-------VE-AVPY------AQT---MAFIKR
+VVGYAAG---------------------------------YR
+>HHM23813.1/61-208 lytic transglycosylase domain-containing protein [Bacteroidetes bacterium]
+DPIIKKYSRR-------YGFDWRLIAAQIFVESRFNPRALSH-RG-------------AV
+GLMQILPSTAR-HL---G--------------------K---------------------
+-------------------D-----------PS--------LLL-KPEINIALGTLYDRR
+LYN--LWE---------D---------ES--GIHRIAFMLASYNAGHRKVLRAQ------
+-K----R-AS-------------QP--------------------------NT-------
+------------------WPG------I-------RP-HLP-------RQT---QHYVKK
+IFAQYEY---------------------------------YK
+>MBC8016435.1/56-190 lytic transglycosylase domain-containing protein [Sporomusaceae bacterium]
+AELINRYARE-------LEINPQVVASVIQAESSFQPRAVST-AG-------------AY
+GLMQVMPGTWR-QV---N--------------------K--E--L---ALCAGRHS--G-
+-------------E-C---S-----------SE--------CYY-NADLNIHIGTAYLSQ
+LLK--KYQ---------G----------------NMMLALAAYNAGPGAVDRYK------
+-G----------------------------------------------------------
+--------------------------------------IPPY------TET---INYTES
+VAAH--------------------------------------
+>MBQ7579165.1/34-171 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+KEEIVKYANE-------YNLETSLVFGLVKTESGFKEKVVSR-SG-------------AL
+GLMQIMPKTGE-WV---A--------------------E--K--L---NI--------K-
+-------------N-Y---S-----------ES--------MLY-DAQTNIKIGCYYLSY
+LIG--KYT--------------------------HLNTALACYNAGEGMMASFI------
+-D----E----------------------------------------------------D
+--------------------K------N-------VV-KYPF------EET---AKYVQK
+VKNYAKI---------------------------------YK
+>MBQ9964150.1/37-181 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+EDIVTECAAE-------YELPPSLIYAVIHTESHFKEDAVSR-VG-------------AK
+GLMQLMDATFE-WI---Q--------------------E--Q--H---FD--------E-
+-------------P-I---S-----------VD--------RIL-EPSVNIHSGSKLLAV
+LRT--LFT--------------------------HTETALAAYNAGSGTVKKWL------
+-A----D-TQ-------------YS--------------------------AD------G
+--------------------E------T-------LT-VIPY------PET---EHYVER
+VLQAQKR---------------------------------YQ
+>MBQ1205828.1/32-120 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+TEYVTKYSTE-------FDVPEALIYAIIRTESSFDPNARSG-VG-------------AI
+GLMQLMPDTLD-WL---S--------------------R--L--L---DE--------D-
+---------------A---P-----------TG--------EIT-DPETNIKYGTYYLRH
+LYD--RF-----------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------
+>MCD6135187.1/40-169 lytic transglycosylase domain-containing protein [Candidatus Bipolaricaulota bacterium]
+----DRWASK-------YSLDPYLIAGLIRAESHFRSDAVSP-AG-------------AI
+GLMQIMPETGA-WI---A--------------------Q--A--I---GI--------E-
+-------------G-Y---S-----------RQ--------ELY-DSEVNIRLGIWYLSY
+LVD--RF----------G----------------DIDTALMAYNAGPGNAERWR------
+-S----S-----------------------------------------------------
+------------------------------------E-DEVF------AET---KQYLQR
+VRKGERV---------------------------------YR
+>MBW2735644.1/608-756 transglycosylase SLT domain-containing protein [Deltaproteobacteria bacterium]
+APLINEISKR-------KDLDPNLVWAIMRTESVYRPDVISR-VN-------------AA
+GLMQLMPQTAR-RL---A--------------------E--E--S---KR--------G-
+-------------S-F---K-----------PD--------DVF-DPRANLELAGHYLQA
+VSR--KLS---------G----------------QVPLIAAGYNGGPHNVARWL------
+-D----A-RG-------------KKC-------------------------TM------D
+--------------------E------F-------IE-EIPY------DES---RRYAKK
+IVRLKAL---------------------------------YE
+>HBJ98443.1/28-133 lytic transglycosylase [Clostridiales bacterium]
+KKTIKKYAEA-------YNVERSLVYAVIYCESSFNKKAVSS-AG-------------AK
+GLMQLMPSTAN-FV---A--------------------D--M--L---GE----------
+-------------------D-----------DY--------DLF-NPSDNIRFGVKYLSY
+LFE--KFK--------------------------NEQHVLYAYNAGEGVVKK--------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------
+>MCB9538407.1/701-848 transglycosylase SLT domain-containing protein [Myxococcales bacterium]
+EQTVRDRAAH-------YGLDPYFIWALMTVESSYNPKAISR-VG-------------AR
+GLMQVMPHTGG-LV---A--------------------D--R--M---TW--------R-
+-------------N-W---G-----------PA--------LLF-EPEVAIEMAAWYFHQ
+LLE--KFR---------G----------------QLPLAIASYNAGPHRVASWL------
+-T----S-KG-------------HL--------------------------PL------D
+--------------------E------F-------VE-EIPY------TEA---REYTKK
+VLRYLAL---------------------------------YR
+>HGH00877.1/498-646 HGH00877.1 MAG TPA: tetratricopeptide repeat protein, partial [Proteobacteria bacterium]
+WDYIAEYSSR-------YGLDPLLVCALMRQESMFDPLSLSC-AN-------------AY
+GLMQIVPSTAR-MI---A--------------------S--R--I---NAFGG-----Q-
+-------------R-I---E-----------PE--------QLY-DPQINIALGCWYLAD
+LLR--RFD---------G----------------NLIYTLISYNAGEETLKRWR------
+-N----Q-YR-------------TA--------------------------EA------D
+--------------------E------F-------VE-MLSY------KET---RNYVKK
+VLRNYGC---------------------------------YL
+>WP_193499817.1/57-203 lytic transglycosylase domain-containing protein [Gemmiger gallinarum]
+SDLVEYYAGK-------YDLDERMLYSIIRTESNFDPQAQSN-VD-------------AR
+GLMQITEITFD-WI---K--------------------S--K--I---AP--------S-
+------------EE-L---T-----------FD--------DLY-DPETNIRFGTYYFSY
+CLQ--RYG---------N----------------DLATAAAAYHSGWGTVDSLL------
+-S----D-SQ-------------YS--------------------------QD------G
+--------------------V------T-------LD-SFPY------TQM---QRYVYK
+VTSAYER---------------------------------Y-
+>MBI5781372.1/501-643 lytic transglycosylase domain-containing protein [Rhodocyclales bacterium]
+RELVERYAAE-------QNIDPAWVWGLMRQESRFRADARSS-SG-------------AL
+GLMQIMPATGK-WL---A--------------------G--K--L---GI--------P-
+-------------R-F---D-----------VA--------RLR-DPDTNVMLGVTYMRM
+VTE--QLD---------G----------------HPVLATGAYNAGPGRMGRLR------
+-P----Q-QAL----------------------------------------ET------E
+--------------------I------Y-------IE-NLPI------DET---RDYIKK
+VLANTVV---------------------------------Y-
+>TLY37796.1/610-741 tetratricopeptide repeat protein [Nitrospirae bacterium]
+-------------------IDPHLVTAVIREESAYNPLAIST-AG-------------AL
+GLMQVMPHTGQ-KI---A--------------------A--Q--V---GS--------D-
+-------------G-F---S-----------RE--------RLF-DPCYNIRFGSWYLGH
+LAE--KFN---------H----------------NLVYAIAAYNAGPDIVTKWI------
+-Q----Q-FG-------------YR--------------------------EQ------D
+--------------------E------F-------IE-SIPY------TET---RQYVKK
+VLRSYRQ---------------------------------Y-
+>MBQ3683034.1/510-656 transglycosylase SLT domain-containing protein [Succinimonas sp.]
+RKIYEQESRR-------SGTDLSYMYAITRQESMMNPLAKSP-VG-------------AR
+GLMQFMPDTAA-MV---S--------------------K--K--Y---GY--------P-
+-------------Y-G---G-----------KD--------ELF-NPSVNIRLGGAYLHD
+LQE--KFG---------G----------------NRIFATAGYNAGPGRAYKWQ------
+-S----G-DGV------------RR--------------------------DA------I
+--------------------T------Y-------IE-SIPF------NET---RNYVQK
+VLMYNVI---------------------------------YQ
+>MBO8127004.1/37-181 lytic transglycosylase domain-containing protein [Firmicutes bacterium]
+IPEIDAIACQ-------HGIDPYLALAVMRVESNFDPRAQSK-PG-------------AR
+GLMQILPETAD-WI---A--------------------Q--M--R---SE--------S-
+-------------D-F---S-----------PE--------HLY-LPEVNIDYGCWYLNY
+LLE--MFD---------N----------------DIHLTLAAYNAGLGRVKQWL------
+-A----D-EE-------------WD--------------------------GR------P
+--------------------E------T-------IN-AIPF------GET---RFFVRK
+VLMIKSM---------------------------------YQ
+>NDC82786.1/553-700 hypothetical protein [bacterium]
+WGVIQRYSAE-------FNVDPYLILALMREESLFNPKARSR-TG-------------AL
+GLMQIMPSTGA-GI---A--------------------K--G--L---KM--------E-
+-------------W-S---G-----------PD--------VLL-IPEKNIRLGISYVAS
+LKQ--RFN---------N----------------NPVLMLSGYNAGPNATRRWL------
+-E----R-SN-------------GSD-------------------------DI------D
+--------------------V------F-------VA-NIPY------SET---HFYVTR
+VLKSYWV---------------------------------YR
+>PCI44695.1/506-649 lytic murein transglycosylase [Proteobacteria bacterium]
+LDDVQQVAKQ-------TGVDSSLIWSVIRQESVFNSHAISH-RG-------------AR
+GLMQLMSTTAD-YI---S--------------------K--K--S---GL--------G-
+-------------K-V---N-----------KQ--------KLF-LPPLNIQLGSLYLAD
+LLK--RFD---------H----------------QPALAIAAYNAGPTRVKRWQ------
+-K----Q-TA-------------IN--------------------------DI------N
+--------------------I------W-------VE-LIPF------NET---RRYVQQ
+VMAFVAV---------------------------------Y-
+>WP_039763978.1/33-176 lytic transglycosylase domain-containing protein [Caldicellulosiruptor sp. F32]
+TSSIKKHSKE-------INVDPYLICAIIKSESNFNQFAVSK-KG-------------AV
+GLMQLSPLTAK-WV---A--------------------H--K--L---KL--------D-
+---------------Y---S-----------EE--------KLY-DPDYNILIGTWYIKY
+LID--YYR---------N----------------DTRLAVAAYNAGMTNVNKWL------
+-Y----Q-KD-------------RS----------------------------------T
+--------------------F------E-------VD-EIPF------KET---NHFVRR
+VFKSYEI---------------------------------YK
+>MBP9708197.1/607-767 transglycosylase SLT domain-containing protein [Oligoflexales bacterium]
+QDYVQKFANQ-------SSVDPYLIFALIRQESIFNPEATSS-AG-------------AR
+GVMQLMHKTAI-QV---S--------------------R--S--L---QK--------SA
+APELEFKKKLHSVK-R---D-----------AR--------LLY-NPEVNISLGAEYLRY
+LID--RYE--------------------------KPIFVLASYNAGEGRLMKWI------
+-K----D-SP-------------PA--------------------------DM------L
+--------------------L------F-------IE-RIPF------QET---RNYVKL
+ILRNYFY---------------------------------YQ
+>EFE28687.2/24-167 transglycosylase SLT domain protein [Filifactor alocis ATCC 35896]
+HEYVLKYAEA-------YGVEENLIYAVMKAESRFYPYATSS-KG-------------AM
+GLMQVTEGTLD-WI---S--------------------E--K--I---DL----------
+-------------------R-----------IQ--------DPY-DIEKNIQAGTWYLST
+LQN--TFD--------------------------DIDLIIIAYNAGPGKTKEWM------
+-Q----E-GI-------------LV--------------------------PG------Q
+--------------------S------N-------SS-NLPY------RET---QQYIEK
+VKKYYTE---------------------------------YN
+>MBA2650156.1/420-564 transglycosylase SLT domain-containing protein [Legionella sp.]
+NDAIGYFSKQ-------YGLPPEFVYAIIRQESGFRDDVVST-VG-------------AR
+GLMQVMPRTAA-VV---S--------------------K--T--S---KI--------P-
+-------------Y-T---N-----------PN--------QLF-LPQKNINIGTAYLQQ
+LAK--QFK---------N----------------HPVLMAAAYNAGPRQVVYWL------
+-K----N-HP-------------PK--------------------------EI------D
+--------------------I------W-------IE-TLPW------QET---RNYLKN
+VLAFYVV---------------------------------YQ
+>MBN1521593.1/51-191 lytic transglycosylase domain-containing protein [Candidatus Aureabacteria bacterium]
+RGIVKKYSSQ-------YDLDPLLVSAVIYVESHYDPSVVSN-KG-------------AV
+GLMQVLPSTAE-TV---A--------------------R--R--E---GS--------Q-
+-------------N-A---A-----------VD--------DLK-NPEFNIKIGCSYLRY
+LLD--RHD---------N----------------SVPAALAAYNAGGANVNKWV------
+-S----A-GE-------------GE--------------------------NF------Q
+--------------------K------V-------LE-DYGF------KET---KNYVEN
+VQK---------------------------------------
+>WP_051177401.1/35-173 lytic transglycosylase domain-containing protein [Helcococcus sueciensis]
+MEYIEKYSQE-------YGVEKELVAAVIKTESGFNKEAHSS-AG-------------AK
+GLMQITNDTGD-WI---A--------------------N--R--L---DE--------E-
+---------------F---I-----------ED--------NLY-DPETNIKYGIYYLKY
+LIN--YYK--------------------------SVDYAIMAYNAGFGNVDLWI------
+-R----E-GI-------------LT--------------------------GN------V
+--------------------E------D-------YE-NIPF------AET---RNYINR
+VKK---------------------------------------
+>MCA9664062.1/45-143 lytic transglycosylase domain-containing protein [Myxococcales bacterium]
+-QLAVRAAAQ-------RGLAPSLVLGVIEVESSFNPRARSH-AG-------------AR
+GLMQLMPRTAA-SI---A--------------------R--R--L---GW--------R-
+-------------------------------DH--------DPY-DPEFNIAAGTYYLAW
+LVK--HFR---------G----------------DVDAALAAYNAGP-------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------
+>OIO31422.1/621-760 hypothetical protein AUJ18_06125 [Candidatus Hydrogenedentes bacterium CG1_02_42_14]
+SQYIEEASSK-------YKLDPNFVLAVIREESRFNSDAVSP-VG-------------AR
+GLMQIMPATGN-HI---S--------------------N--S--L---GR--------D-
+-------------N-F---T-----------PD--------DLR-SPSTNVLFGAYYLNS
+LLT--TYD---------G----------------KKYLALAGYNAGPGNANRWL------
+-R----Q-YP-------------DT--------------------------EE------D
+--------------------I------F-------IE-RISF------RET---RNYVKR
+VL----------------------------------------
+>OQY35632.1/558-696 hypothetical protein B6241_00115 [Spirochaetaceae bacterium 4572_59]
+----SSISRE-------YGQPEELVLGIIRRESAFHRTIESH-AG-------------AV
+GLMQLMPSTAS-DL---A--------------------K--R--Y---RV----------
+-------------------D-----------TW--------DLM-NPEDNIRFGNLYLEW
+LIER-PWT---------N----------------DYVDVLAAYNGGGGNLRKWK------
+-R----Q-FG-------------DL--------------------------DT------L
+--------------------L------F-------VQ-SIPY------SET---RNYIRK
+VIVAAGT---------------------------------YR
+>MBX6351051.1/36-176 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+RETVEAAATR-------HGLDPFLLAAVIRTESRFRAEARSP-RG-------------AV
+GLMQLLPETAR-EV---A--------------------G-------------------P-
+-------------G-L---E-----------AE--------DLL-RPDVNVELGARYLAR
+LTA--AFG---------G----------------RTAAALAAYNGGPANVRAWL------
+-A----G-GL-------------WD--------------------------GT------F
+--------------------E------D-------AA-RIPF------SET---RRFVQR
+VALARRM---------------------------------Y-
+>HAE88850.1/2-133 lytic transglycosylase [Clostridiales bacterium]
+--------TE-------YGVKSSVVFAVAEVESHFNPKAKSK-VG-------------AI
+GIMQLMPKTAS-WI---A--------------------Q--N--L---SI--------E-
+-------------E-F---K-----------EE--------DLY-DAQTNIRFGVWYLSY
+LYI--VFE--------------------------EDWQVFAAYNAGEGAVKDWI------
+-E----D-KN-------------FK-----------------------------------
+-----------------------------------KE-DIPY------SET---AFYVKK
+VERAVKR---------------------------------YA
+>MBC8235922.1/91-247 transglycosylase SLT domain-containing protein [bacterium]
+DKIVRKYARR-------YLFDWRLISAQIYAESTFRHTAKSS-FG-------------AL
+GLMQIMPSTAQ-WL---E--------------------E--K--A---AK--------DT
+----------QELK-----D----------VSQ--------TLL-EPEANIHLGCYYNAM
+LLG--KIE---------N--------AEN--SEEQYKMMFAAYNAGFGNLSKAR------
+-R----R-SS-------------AP--------------------------GN-------
+------------------WEG------I-------KP-YLP-------RET---RYYIPK
+IYKKYEE---------------------------------YK
+>MBP3619864.1/32-174 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+LQEVEVASER-------FDIDKSKILSVINVESHFNEKAISA-KG-------------AV
+GLMQVLPSTAQ-EV---A--------------------Q--K--L---NM----------
+-------------------K-----------SF--------DLK-NPKDNIVIGTSYLVT
+LIE--KFK--------------------------DFDVALCAYNAGPANVAKWL------
+-K----D-ED-------------LS--------------------------VD------G
+--------------------E------T-------LK-KIPF------YET---REYLEK
+IQKNLRY---------------------------------YN
+>NRA63503.1/597-756 lytic transglycosylase domain-containing protein [Pseudobacteriovorax sp.]
+SEIISRYAKR-------LGVDPAYVYAIIRQESVFNPKARSP-VG-------------AS
+GLMQLMPATAR-LE---G--------------------K--R--L---ER--------SY
+VAGQD-RKNLQAGS-R---Q-----------RR--------RLF-DAEINLALGIHHVHT
+LYS--KYQ--------------------------NPIYVLTSYNANPRATEKWL------
+-E----N-ID-------------TT--------------------------DA------L
+--------------------A------F-------IE-RIPY------RET---RAYVKL
+VMRNYFY---------------------------------YK
+>MCB0873092.1/36-182 lytic transglycosylase domain-containing protein [Thermoleophilia bacterium]
+EDTINREAKR-------HALDPALIAAVINVESKWVPDTVSS-AG-------------AV
+GLMQLLPNTAA-FI---A--------------------R--Q--P---KR--------P-
+-------------S-P---P-----------PD--------ELT-DPEINITYGSWYLRY
+LVT--NHR--------------------------DLPAALAAYNAGDQNVRIWE------
+-Q----H-AK-------------AE--------------------------GR------G
+-------------------FD------A-------GR-DIPF------PET---REFVRR
+VLRDASV---------------------------------YR
+>MBC7712352.1/532-678 lytic transglycosylase domain-containing protein [Rhizobacter sp.]
+QDIFSRYSKK-------YNVPEAYPLAITRQESAFNTNIRSW-AD-------------AF
+GLMQMIPEKAS-EL---S--------------------K--K--Y---KI--------P-
+-------------Y-K---D-----------YN--------DLY-QPEINVQMGTVLLSE
+LRS--KYK---------G----------------KFAQSTAAYNASSSVITVWE------
+-K----E-RF-------------NG--------------------------DY------L
+--------------------E------F-------IE-SIPY------EET---RNYIKL
+VFRNYVT---------------------------------YR
+>WP_199624494.1/37-188 lytic transglycosylase domain-containing protein [Paenibacillus sp. YIM B00362]
+QHVITKHASN-------HEVDPYLLTAIIRVESNFKPDKESR-KG-------------AV
+GLMQLMPATAE-WI---V--------------------Q--E--A---GY--------G-
+-------------R-S---A-----------LD--------RLR-EPETNIQIGAWLVHS
+LHD--EFI---------GE-------NHA-DKDREIALIAAAYNAGSGNVAKWL------
+-K----A-NQ-------------WD--------------------------GN------L
+--------------------N------S-------AD-QIPF------GET---RHYIYR
+VHYYYEK---------------------------------Y-
+>MBL8023246.1/44-182 lytic transglycosylase domain-containing protein [Elusimicrobia bacterium]
+-DLIETYATA-------ENFDPFFVLALVRVESGFSKTAKSH-RG-------------AV
+GLMQLMPETGK-EM---A--------------------M--R--L---GM--------D-
+---------------P---A-----------QT--------NLA-DPETNIRLGVHYLGV
+LRQ--EFG---------E----------------DPVALLAAYNGGPRNVRKWI------
+-K----N-GP--------------------------------------------------
+--------------------L------T-------IQ-DIPF------SET---RTFVTR
+VLATEKS---------------------------------IR
+>HIJ60077.1/484-626 DUF3808 domain-containing protein [Nitrospirae bacterium]
+MDEVQDAANK-------NDLDPYLILSIIREESRYDTDAKSI-AG-------------AL
+GLMQLMPSTAK-RY---E--------------------K--H--A---KV--------H-
+-------------Y-T---N-----------NS--------ELF-NPRINISIGSAYLKI
+LIN--YFG--------------------------SLPPAIASYNAGEDAVKEWL------
+-K----K-GN-------------YK--------------------------SI------D
+--------------------E------F-------IE-DIPY------DET---NNYVKK
+VLTSYFE---------------------------------Y-
+>PSR35337.1/34-179 lytic transglycosylase [Sulfobacillus benefaciens]
+RGTIIQASQH-------NGVNPYFVTAVIRVESGFRPSVVSS-RG-------------AV
+GLMQIMPETAQ-WI---A--------------------E--K--T---HQ--------G-
+-------------P-V---T-----------AK--------LLT-KVDVNVELGSWYLHH
+LLN--VYH---------G----------------NEVLALAAYNSGPNTVAHWV------
+-S----K-GV-------------LN--------------------------PK------Q
+--------------------P------N-------YQ-DIPY------LET---RNFVYR
+VLTYEHI---------------------------------YR
+>MBP5230690.1/41-184 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+SDLVTLYAGA-------YGVPESLVYAVMLCESGFRADAQSP-VG-------------AK
+GLMQMMDVSFR-EM---R--------------------S--R--L---NL--------P-
+-------------------E-----------DG--------DIF-DPEQNIQCGVYCLSY
+LHR--YFG--------------------------NWRTALAAYNAGIGNVGNWL------
+-Q----N-RD-------------YS--------------------------SD------G
+--------------------K------T-------LD-AVPF------DET---AVYLKK
+VEKAQNA---------------------------------YR
+>MBR4126245.1/498-633 lytic transglycosylase domain-containing protein [Alphaproteobacteria bacterium]
+---------------------TALILSIIRQESSFSPYAVSS-AG-------------AR
+GLMQIMPATAK-QV---A--------------------R--K--K---RK--------A-
+---------------F--SV-----------HE--------LNS-NPDFNVELGSTYFAD
+LLK--RFN---------G----------------SYILAIAAYNAGPTNVNKWL------
+-K----S-IG-------------NP--------------------------QE------N
+--------------------M--DPIDW-------IE-RIPF------NET---RNYVQR
+VLENLHI---------------------------------YR
+>MBK5259791.1/623-768 transglycosylase SLT domain-containing protein [Thermoanaerobaculia bacterium]
+DEPIRKYSER-------HGVDPNLVRGLILQESYFDPRAKSR-VG-------------AT
+GLMQIMPPTGK-EL---A--------------------R--K--L---RV--------P-
+---------------F---G-----------ES--------RLD-NPEVNVQLGTRHLRG
+LID--MFG---------G----------------SAYLAVASYNAGQGNVLKWR------
+-R----A-AK-------------TK--------------------------PL------D
+--------------------E------F-------LE-SIPF------PET---RNYVKR
+VTMLRSA---------------------------------YS
+>MBC8373925.1/18-158 lytic transglycosylase domain-containing protein [Planctomycetota bacterium]
+RILVVRYANR-------VNLPPAFVHKVVLAESSGNPLAVSR-VK-------------AK
+GLMQILPDAET-DV---L--------------------K--K--L---KR--------Q-
+-------------------D-----------RG--------DLF-DPEYNLLIGTTYLRM
+LTD--RFD---------G----------------DAYLVLAAYNMGPTRVTRFL------
+-A----A-NP-------------GI--------------------------SG------K
+--------------------D------L-------VN-RFAY------RET---RDYCAK
+ILQGKEL-----------------------------------
+>WP_225362529.1/16-157 WP_225362529.1 lytic transglycosylase domain-containing protein [Atopobium massiliense]
+-ELIQSAAHR-------YHVDPYLICAVIHTESGWDAGAHSK-AG-------------AV
+GLMQIMPATAQ-FL---A--------------------DGGQ--V---SA--------R-
+-------------E-Y---P-----------LT--------RLQ-QARENIEYGTAYLAY
+LQS--QFS--------------------------SRDEVIAAYNAGPTTVGSWK------
+-K----K-Q------------------------------------------DR------G
+--------------------V------F-------AD-VVEY------VET---KNYIIR
+VNQAYDA---------------------------------YK
+>MBX5489868.1/620-766 transglycosylase SLT domain-containing protein [Chloroflexi bacterium]
+AELVARYAER-------HGIDPLLLLALIRQESAFDPRAESA-AR-------------AR
+GLTQVVPSTGR-EI---A--------------------R--A--L---GR--------S-
+-------------A-F---D-----------ES--------DLF-KPAVSIEFGAYYLAT
+ALR--QFR---------G----------------DVYAALAGYNAGPGAAANWR------
+-R----Q-AG-------------GQ--------------------------DP------D
+--------------------L------Y-------VE-QIPY------TET---STYVRR
+VYENYAI---------------------------------YR
+>OGG93670.1/545-691 hypothetical protein A2527_11140 [Candidatus Lambdaproteobacteria bacterium RIFOXYD2_FULL_50_16]
+QSQVTRYAEE-------ARVSEMLVYAVMREESRFRPYVKSF-AG-------------AI
+GLLQLMPKTAR-FV---G--------------------R--S--K---RI--------R-
+---------------V---S-----------TS--------QLI-DPDLNLRLGTIYLND
+LSK--RFE---------G----------------NLYYTLAAYNGGASNVNRWK------
+-L----KLEG-------------PE--------------------------DM------D
+--------------------L------F-------VE-MISF------NET---KNYVKR
+VLKSYYL---------------------------------YQ
+>RLB80964.1/51-151 hypothetical protein DRH24_09775 [Deltaproteobacteria bacterium]
+QDLLTTAADR-------YGLSLAYVLAVVRGESFFDPKAKSH-KG-------------AL
+GLMQVMPSTAS-EY---G------------------------------------------
+---------------M---T-----------SQ--------DLL-DPSKNIDVGVHYLSD
+LYT--QFK--------------------------DPYLALAAYYCGPGGV----------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------
+>MCD6048235.1/505-643 transglycosylase [Gammaproteobacteria bacterium]
+----LAAARQ-------RQMDPAWSYAVIRQESAFAPKAQSG-AG-------------AL
+GLMQLLPTTAK-SL---A--------------------A--R--G---QK--------I-
+-------------------T-----------PK--------TLT-EPTTNIQLGTAYLNK
+ILQ--AYK---------G----------------NVFLATAAYNVGFGRLRTYI------
+-P------SQ-------------PM--------------------------PA------D
+--------------------I------W-------VD-TLPW------HET---RDYVKN
+VIAYMVI---------------------------------YQ
+>MBW1897746.1/78-179 lytic transglycosylase domain-containing protein [Deltaproteobacteria bacterium]
+QPIINQVADR-------YEVDPDLVRAVIMVESSYNPLALSN-KG-------------AM
+GLMQLMPRTAR-AM---G------------------------------------------
+-------------------------------VQ--------DCF-NPEHNINGGVRYLKK
+LLT--RYN---------G----------------DIELALAAYNAGIRKVM---------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------
+>MBQ1547388.1/72-228 lytic transglycosylase domain-containing protein [Lachnospiraceae bacterium]
+KEIFENAANK-------YGLDVKLLYAVAKTESNFDPTVTSS-SG-------------AM
+GLMQLMPETAK-EM---G------------------------------------------
+-------------------------------VE--------DAY-DPVQNVDGGAKLLSI
+LIN--KYK---------D-------------TDDPVGTALAAYNMGPGNVAKYG------
+-K----E-VG--------------------------------------------------
+------------------------------------------------------RKYIDK
+VLTYYGEGVTAPNKSYDILNSYTDDELLDALDQMLKDFPNHE
+>WP_151862298.1/439-583 lytic transglycosylase domain-containing protein [Alkaliphilus pronyensis]
+EEEVLAVAEK-------YHIDPYLIWAVMREESHYNKDAMSR-AG-------------AL
+GLMQIMPTTGQ-DI---A--------------------N--R--L---KV--------N-
+---------------Y---S-----------DT--------DML-IPEKNIEFGGFYISL
+MLK--MFD---------G----------------DLDKALAAYNGGLGNVRKWS------
+-R----T-SI-------------GG--------------------------TP------E
+--------------------G------F-------PT-SINF------RET---RKYITK
+VKNSYYT---------------------------------Y-
+>YP_006383355.1/1960-2103 putative murein lytic transglycosylase [Halocynthia phage JM-2012]
+NDYIYEASAK-------TGIDENLIRSVIRQESSGNPRAKSH-AG-------------AA
+GLMQLMPATAK-EL---G--------------------V--K------------------
+-----------------------------------------NRL-DPRQSIMGGTEYIRR
+QLK--RFD---------G----------------VPELALAAYNAGGGNVNKAI------
+-R----K-AG-------------SK--------------------------DP------E
+--------------------A------V-------LN-TLPQVTGRHSKET---QEYVVK
+ITNDYRK-----------------------------------
+>PKL18828.1/606-746 hypothetical protein CVV49_03965 [Spirochaetae bacterium HGW-Spirochaetae-5]
+NECITQGSTE-------YPVKPELMLSMMKVESNFNHKALSP-AG-------------AA
+GLMQLMPNTAK-EI---S--------------------K--K--L---GI----------
+-------------------S-----------KF--------ELF-DPCTSIKFGTDYIAW
+LDR--YYK---------G----------------HIEYMIAAYNGGAGNVNRWI------
+-K----R-PL-------------NR--------------------------DI------D
+--------------------Y------F-------SE-YTPF------DET---RDYIFR
+TKKYLIQ---------------------------------Y-
+>MBK36512.1/557-705 hypothetical protein [Gemmatimonadetes bacterium]
+WGLVNRTADE-------VEVDPNLILAIMRQESAFNERARSS-AG-------------AR
+GLMQVMPETGR-KM---A--------------------R--K--L---RD--------R-
+-------------D-F---T-----------VE--------DLW-KPTTSIRLGGEHLSD
+HLR--YFR---------KQ-----------DDFRKLGLALSAYNAGLGRARRWS------
+-K----R-LP-------------SD--------------------------DV------D
+--------------------S------F-------VE-SIPF------RET---RNYVKL
+VYRNYQV---------------------------------Y-
+>MBQ7977537.1/33-177 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+RDLIEKYSTT-------YTLEPELVASVINAESGFDKNSVSN-AG-------------AI
+GLMQLLPSTAE-YI---A--------------------N--I--N---SI--------T-
+---------------Y---S-----------QE--------KLF-DPEYNICLGCAYLNY
+LIK--KFD--------------------------DINTALCAYNAGPGNVAHWL------
+-E----N-PK-------------FT--------------------------QN------G
+--------------------L------T-------LT-STPF------PAT---NFYLAK
+IRQNQQI---------------------------------YT
+>MBP3431920.1/32-171 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+QEEISAASEA-------YGVEEAVIYSIINVESGFDKNAVSS-RG-------------AV
+GLMQLMPSTAQ-SL---A--------------------G--T--E---GV----------
+-----------------------------------------DLL-SPQENIMLGAKYIAQ
+LAN--RFD--------------------------DFECVLAAYNAGPTNVRNWL------
+-A----D-ER-------------YS--------------------------ED------G
+--------------------K------T-------LK-KIPF------AET---KGYLEK
+YARNFKY---------------------------------YS
+>NSW88341.1/507-647 transglycosylase SLT domain-containing protein [bacterium]
+KNIVDKYSEK-------YGVDSNLVFALIREESLFDPNAKSW-VG-------------AK
+GLMQLMDYTAD-ML---D--------------------K--E--L---KI----------
+-------------------------------KS--------SLF-NPEDNINLGTYYIMK
+LMK--RFD---------N----------------NIPNVLAAYNGGPKNVELWR------
+-Q----R-FN-------------NL--------------------------ED------D
+--------------------A------F-------IE-SIPF------KET---NGYVKR
+VLRSYHY---------------------------------YK
+>MCC6221073.1/406-538 transglycosylase SLT domain-containing protein [Deltaproteobacteria bacterium]
+-----EAAST-------FSVSESTLLAIARTESHFDPKAISS-VG-------------AM
+GLMQLMRETAK-TE----------------------------------GL--------L-
+-------------------A-----------EN--------DLF-DPKTNISLGTKHISR
+LLS--TYD---------G----------------NKIFAIAAYNAGQSAVNRWR------
+-A----R-MP-------------NI--------------------------EP------Y
+--------------------L------W-------LE-LIGY------PET---RNYVKS
+VLLAEEI---------------------------------Y-
+>MBS2039324.1/67-208 lytic transglycosylase domain-containing protein [bacterium]
+REVVLRESKR-------AQLPPSLVAAVILQESEFHPAACSS-VG-------------AR
+GLMQLMPETAE-WI---H--------------------Q--S--L---ES--------R-
+-------------E-----G-----------KP--------DLL-EPTTNVRLGSTYLNY
+LRD--RFG---------S----------------DPVAILAAYNAGPQQTEDWM------
+-A----H-VQ-------------GD----------------------------------D
+--------------------F------R-------VS-DIPF------AET---RCYVEA
+VLNSERM---------------------------------YR
+>PZP39789.1/532-668 hypothetical protein DI585_03070 [Pseudomonas fluorescens]
+------------------SFDRALMLGIMRQESAFNPQIGSR-VG-------------AQ
+GLMQIMPATGK-YI---A--------------------R--L--T---GQ--------S-
+-------------L-P---D-----------RA--------DLH-DPGINLKLAQDYLKY
+LSN--KLD---------G----------------NMMLVVASYNGGIGNVQRWL------
+-S----R-GT-------------TPGH------------------------DP------V
+--------------------L------W-------LE-SIPF------DET---RDYVEK
+VFGNYWL---------------------------------YQ
+>MBW2262906.1/556-699 transglycosylase SLT domain-containing protein [Deltaproteobacteria bacterium]
+LETAKEQAEK-------HGVPPWLAMSIIRQESMFDPDAVSR-TR-------------AC
+GLMQLMPATAV-QV---A--------------------G--E--M---GA--------P-
+---------------Y---D-----------EE--------ALF-DAGTNIAFGTYYLGQ
+LIK--RFP---------G----------------NLAAAVGAYNGGPHNMARWL------
+-R----A-HA-------------PV--------------------------DG------D
+--------------------V------L-------VE-LVSY------AQT---RNYIRR
+VLTTYAR---------------------------------Y-
+>MCB9732138.1/625-769 transglycosylase SLT domain-containing protein [Deltaproteobacteria bacterium]
+ADLVEKNATS-------RGIDPYWVWSIMREESNFNPHAESW-AN-------------AI
+GLMQIILPTAE-YL---A--------------------K--G--T---DI--------E-
+---------------P---T-----------RE--------NLQ-RPEVAIELGAKYLAK
+LIA--QHP--------------------------VVPLASAGYNAGGGAVNKWR------
+-R----Q-FG-------------DK--------------------------DL------D
+--------------------E------F-------VE-RIPY------DEA---RGYAKR
+VTRSVAR---------------------------------Y-
+>HIW01004.1/310-408 transglycosylase SLT domain-containing protein [Candidatus Desulfovibrio intestinipullorum]
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------S-------------------------EPERNIFYGASYLHL
+LDK--TYF---------GK-------VRD--RETRLLCVVTAYNTGPGRLQRLF------
+-A----Q-DP-------------KK---------------SLEIINSY---TA------N
+----------------GLYEE------I-------RT-RLFQ------EKT---YSYIDK
+VITLMHQ---------------------------------YE
+>RJO63740.1/795-939 hypothetical protein C4523_19555 [Myxococcales bacterium]
+HTPIVENADR-------FGVPDDLIVAVMHKESWFDPDAIST-VN-------------AI
+GLTQVMPATGD-RI---A--------------------A--G--M---GD--------D-
+-------------A-F---N-----------RS--------QLF-DPAVNIRYGTWYLAE
+LLK--KFH---------G----------------QWPLAIASYNGGPHNVAVWM------
+-K----R-NP-------------DL--------------------------EW------D
+--------------------E------F-------LE-CLEF------AQT---RDYVKL
+VLKNVAA---------------------------------YR
+>WP_145200225.1/38-133 lytic transglycosylase domain-containing protein [Sphingobium sp. B2]
+---VSEAAQR-------FGIPEAWIWAVMRVESRGNPRAVSP-VG-------------AM
+GLMQIMPATWT-ML---S--------------------A--R--F---GL----------
+-------------------------------GG--------DPF-EPRRNIHAGAAYLRL
+MWD--RY----------G----------------DISAMLAAYNAGPG------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------
+>MBQ3572495.1/32-176 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+TNLTLKYANE-------YAIEPSLLMALIYAESSFDASVVSS-KG-------------AV
+GLMQILPSTAV-YI---A--------------------T--R--A---NY--------T-
+-------------------G-----------NI--------DLY-NPECNLTLGCEYISY
+LKE--KFI--------------------------NEKTLLCAYNAGEGAVLKWL------
+-N----D-KN-------------CS--------------------------QD------G
+--------------------K------T-------LV-YVPY------PET---RNYLIK
+IEKYKQK---------------------------------YQ
+>MBQ8725745.1/30-172 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+RDEILKTCNN-------TPIDRHLVYAVIRCESSFNKDKVSN-KG-------------AI
+GLMQIMPKTGD-YI---S--------------------N--L--YF-GGV----------
+-------------------------------KL--------DLF-LPSDNILLGVTYLNY
+LFE--KFE--------------------------DEKTALASYNAGEGRVSIWL------
+-E----N-KE-------------FS--------------------------TD------G
+--------------------K------T-------LT-KIPF------EET---ENYVRK
+VLLYTKF---------------------------------YK
+>EEF59238.1/27-168 Lytic transglycosylase catalytic [Pedosphaera parvula Ellin514]
+-------AAH-------YGVDPALVKAVVWRESCFNPGLTGR-AG-------------EI
+GLMQIIPKAAG-KDWTDA--------------------E--H--L---GN----------
+---------------L---N-----------PE--------HLF-DPVTNTLAGTWYLQK
+LLK--RYA---------R-------------TDNPLPYALADYNAGRSNVLKWG------
+-H----G-AA-------------AT--------------------------NS------Q
+--------------------A------F-------IE-QIGF------PST---KNYVKS
+VTQRYEH---------------------------------YR
+>WP_023276010.1/104-211 lytic transglycosylase domain-containing protein [Mucispirillum schaedleri]
+-SIITEQAKL-------HNLDPLLIIALIQVESTFNPYAQSH-KG-------------AK
+GLMQLLPDTAR-YI---N--------------------K--K--T---GQ--------G-
+-------------M-P---E-----------NS--------NLF-DTETNITLGTAYMEY
+LLN--KTK---------G----------------NLEYALAAYNMGPANMFRA-------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------
+>WP_072514399.1/40-182 lytic transglycosylase domain-containing protein [Ndongobacter massiliensis]
+GDVITQQAEK-------FGLEPTLVAALVDTESAFDPNAESH-LG-------------TR
+GLMQLLPKTAK-WV---A--------------------S--Q--L---SI--------D-
+---------------Y---D-----------DE--------KLW-DPAYNVELGTYYLSY
+LVG--HFQ--------------------------NVEFAIAAYNAGLNAVDDWI------
+-A----D-GL-------------IS--------------------------RD------T
+--------------------D------S-------LS-EIPF------EET---RDYVKN
+ILHKKSI---------------------------------Y-
+>MBC7294555.1/50-215 lytic transglycosylase domain-containing protein [Thermoleophilia bacterium]
+ASDIARAADR-------YGVDPYLVAAVARAESNFDPQAVSR-AG-------------AV
+GLMQIMPETAR-WI---T--------------------G--L--D---SW--------Q-
+-------------G-R---R-----------AP--------NLK-DPGDNVELGACYLAF
+LLR--EFD---------Q----------------DTRMALAAYNAGQGVVAAWK------
+-D----G-LQ-------------TD--------------------------GS------D
+GGSGQDGQDGAPGQ-DAGSRL------S-------LA-DIRF------AET---REFVKR
+VERFRDL---------------------------------YT
+>MBI5875200.1/496-654 tetratricopeptide repeat protein [Deltaproteobacteria bacterium]
+KDMVERAAGE-------FSLDPLLIYAVMMQESEFDAKSVSS-AG-------------AI
+GLLQIMPGTGE-MI---A--------------------K--K--M---SY--------Q-
+------------PP-L---SPPLIKGGQGGLRD--------NLF-EPDININFGSWYLKT
+LIT--RFN---------G----------------KLPLAIAAYNAGPNAVDEWL------
+-K----K-WG-------------ES--------------------------DM------D
+--------------------E------F-------VE-NIPY------QET---RKYVEK
+VLGYYAA---------------------------------YK
+>MCA9595077.1/583-727 transglycosylase SLT domain-containing protein [Myxococcales bacterium]
+ESLVKEAGNE-------YKLPSELVYAIMRQESAFRPEVVSP-AK-------------AV
+GLMQLIPPTAR-RV---A--------------------E--E--L---NM--------S-
+---------------Y---D-----------PL--------SLY-SPPVNIRMGSYYLSK
+VLG--SFG---------G----------------SVPLAAAAYNAGPTTVARWL------
+-D----S-GK-------------KL--------------------------PV------D
+--------------------V------W-------VA-RIPY------GET---RGYVNR
+VVGNVAR---------------------------------Y-
+>WP_200258124.1/89-246 lytic transglycosylase domain-containing protein [Halorhodospira neutriphila]
+RRLVAEAAER-------SGLEPALIRAVARTESDYRPGVVSS-AG-------------AV
+GLMQIRPVAAA-EV-RDA---------VPE------WAE--R--V---SR--------D-
+------------QG-I---S-----------PA--------ALA-EPRLNLLVGSHYLAR
+LRE--RYA---------AY-----------GDPLGLWLALAAYNWGPGNVHRHL------
+-T----S-NP-------------RL--------------------------QSL-----K
+----------------DLRWL------L-------YR-HAP-------HET---RAFVQR
+VLQR--------------------------------------
+>MBI5967446.1/594-737 tetratricopeptide repeat protein [Deltaproteobacteria bacterium]
+-AWINHYAKS-------NNLDPALLSAVILEESRFNPQAVSP-AG-------------AR
+GLMQVLPSTAT-QI---V--------------------Q--R--M---RV--------R-
+-------------P-Y---S-----------NG--------LLF-DPEINLRLGSWYLSS
+LME--EFG---------G----------------KETLALAGYNAGPHMVRHWM------
+-A----K-TP-------------AA--------------------------RE------D
+--------------------E------F-------VE-SIPY------AET---RNYVIR
+VITSAQV---------------------------------YR
+>MBR4467118.1/41-146 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+SGFVEQYASE-------YGVPENLVYAVILSESGFRPDAVSG-AG-------------AK
+GLMQMMDASFL-EM---R--------------------G--R--I---GL--------E-
+-------------------G-----------EG--------NIF-DPEQNIRCGVYCLAY
+LNR--YFG--------------------------DWDTAVAAYNAGIGNVM---------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------
+>MBQ8043006.1/33-139 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+KDIVEQACSI-------YNVDPNLIYAVIKQESKFNPNAVSH-SG-------------AK
+GLMQLIDTTAQ-DM---A--------------------E--N--T---NS--------I-
+-------------D-K---N-----------NL--------DIY-DPYTNIFLGTKYISY
+LIN--HFD---------G----------------NYYLAITAYNAGMGN-----------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------
+>NLP43759.1/38-179 lytic transglycosylase domain-containing protein [Peptococcaceae bacterium]
+KQTVEKYSYS-------YGVDPLLVMAVIREESHFYPKSTSP-KG-------------AL
+GLMQVMPNTAE-EI---A--------------------A--W--L---KE--------D-
+---------------Y---N-----------SV--------NLL-SVEDNIRYGTWYLAA
+LIK--EYN---------G----------------NTMLALAAYNAGSGRVASWL------
+-E----E-VL-------------TL--------------------------ES-------
+--------------------Y------T-------IE-DIPF------KET---RDYVKK
+VLKSYNA---------------------------------Y-
+>MCD7904383.1/37-178 lytic transglycosylase domain-containing protein [Clostridiales bacterium]
+PSLVYEYAEK-------YDLEPEIVCAVINTESHFDENAVSS-AG-------------AA
+GLMQLMKPTAD-WA---A--------------------E--Q--I---GL--------E-
+-------------D-Y---S-----------YE--------NIN-DPKLNIELGCWLLNS
+LIY--KYG--------------------------DLETALCAYNAGSGNMDRWL------
+-D----E-GT-----------------------------------------ED------G
+---------------------------S-------LT-DIPY------FET---RNYISK
+VKTHTAA---------------------------------YR
+>MBK7707155.1/304-449 transglycosylase SLT domain-containing protein [Acidobacteria bacterium]
+RAELLRNAKL-------RKVDPRFMLAIMKQESSFKPNAKSP-AA-------------AR
+GLLQLVFDTAI-KY---S--------------------K--G--S---GY--------P-
+-------------N-L---K-----------PD--------ELY-DPATNIAIGSAYLGA
+LKD--EFG---------G----------------LYEAIAASYNGGEDNALRWL------
+-A----R-TK-------------PK--------------------------EA------A
+--------------------I------F-------AS-EVGF------AET---KNYVFK
+VMSNYRV---------------------------------YR
+>MBQ7122987.1/40-184 lytic transglycosylase domain-containing protein [Oscillospiraceae bacterium]
+SEIVEEKSTE-------YGVPLSVIYAVIRTESNFEPDAESW-VG-------------AR
+GLMQITKDAYE-WI---D--------------------Y--Y--R---GP--------I-
+-------------G-A---E-----------WN--------DMY-DPKYNIDYGVWLLNY
+HYN--KFG--------------------------EWETAFAAYNAGPNAVAKWL------
+-D----N-PE-------------YS--------------------------SD------G
+--------------------R------T-------LN-TIPY------EET---SKYVEK
+VSAYRKG---------------------------------YQ
+>MBQ8495010.1/42-149 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+WDTVSAEAEK-------YELDPVLVLAVIHTESRFDSNAVSH-AD-------------AH
+GLMQITPVALE-WA---Q--------------------Y--R--S---DEF-------D-
+-------------D-V---T-----------TA--------DLY-DPQTNIRLGVYILSL
+LRE--SYP--------------------------ETDTMLAAYNAGYGQVA---------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------
+>MBO5099249.1/30-171 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+SEFVDKYSAE-------YGVDRSLVYAVIKAESGFDANAESE-KG-------------AM
+GLMQLTEETAL-WC---G--------------------E--K--M---GL--------E-
+---------------L---S-----------TE--------EIR-NPETNIKIGIWYFNY
+LLN--ATG--------------------------SEELAIISYNAGVNKVREWI------
+-N----E-GT-------------IN--------------------------KD------N
+--------------------P------D-------FN-DIPY------EET---KNYIKK
+VLLYEQI---------------------------------Y-
+>WP_084053766.1/38-184 lytic transglycosylase domain-containing protein [Desulfonispora thiosulfatigenes]
+EDIVSAESIK-------HDVDENLIYAIVKAESKFNKTVVSP-RG-------------AR
+GLMQIMPETGA-WI---A--------------------E--E--L---TL--------E-
+-------------G-Y---S-----------QD--------KLF-EPYSNLKMGIWYYSY
+LVQ--QFK---------G----------------NNITAIAAYNGGETNVNKWI------
+-K----Q-NI-------------WS--------------------------GQ------E
+--------------------S------D-------VQ-NIPF------KET---REYVIK
+VLMNYKM---------------------------------YQ
+>MBS5137074.1/48-195 lytic transglycosylase domain-containing protein [Clostridium sp.]
+REYVERYSRE-------YQVDRDLVYAVAKVESNFDPNAVSH-AD-------------AR
+GVMQMTEDAFE-WV---Q--------------------Y--R--M---GD--------E-
+------------SG-V---S-----------YE--------DIF-DPEVSIQYGTYMLHL
+LLE--ETG--------------------------DEKLAICSYHAGMGNVNSWL------
+-S----Q-EE-------------YS--------------------------KD------G
+--------------------K------T-------LD-KIPY------SDT---EWYYNK
+VSETKKI---------------------------------YR
+>OHD14702.1/30-170 hypothetical protein A2Z98_01960 [Spirochaetes bacterium GWB1_27_13]
+KDFFIKYSAE-------YNIDPSLSYAVMREESRYNKNIVSF-AN-------------AV
+GLMQIMPSTAK-FI---S--------------------G--K--T---GI--------K-
+-------------------------------NY--------DLT-NPEDNIRMGTYYLQF
+LTR--YFT--------------------------ESELILSCYNAGPGRTIRWH------
+-N----I-YR-------------NY--------------------------PN------K
+--------------------I------M-------YE-LIPI------EET---RHYIRK
+VTRSYYI---------------------------------YK
+>UCH93552.1/580-714 MAG: lytic transglycosylase domain-containing protein [Candidatus Aminicenantes bacterium]
+TDLIDQYSQM-------YKLDRTLIFAIIREESFFRPEAVSP-AN-------------AY
+GLMQLLLETAR-QV---A--------------------Y--P--H---RI--------K-
+-------------V-F---------------RR--------DLF-DPEKNIRFGTEYLKQ
+LLE--KYK---------G----------------KLHLALAAYNAGWERVDQWL------
+-D----S-FG-------------TV--------------------------KD------D
+--------------------E------F-------IE-MIPF------TAT---RNYVK-
+------------------------------------------
+>HAI20552.1/391-536 hypothetical protein [Clostridiales bacterium UBA8153]
+DELVREWAER-------YQVDPFLVWAVMREESHFQPEVMSW-AD-------------AR
+GLMQVIPSTGA-WI---A--------------------Q--R--L---GE--------A-
+---------------F---V-----------LE--------ELF-DPATSIRYGTWYLSN
+LLQ--VFQ---------G----------------NATLAIAAYNGGRGSVQRWM------
+-E----S-PL-------------YL--------------------------DT------V
+--------------------D------L-------PG-VAAF------RET---REYIGK
+VLASWLA---------------------------------YR
+>MBI5789832.1/586-729 tetratricopeptide repeat protein [Candidatus Schekmanbacteria bacterium]
+WDKLVRQAER-------YNLDPYLLAALIKQESAFNRQARSR-SG-------------AL
+GLMQLMPKTAA-HI---A--------------------E--Q--L---SQ--------K-
+-------------K-P---D-----------EE--------QLF-NPAINIQYGSYYFLQ
+LLK--RYE---------G----------------ELHLALAAYNAGEDATRKWQ------
+-T----K-NK-------------DR--------------------------DW------E
+--------------------E------F-------ME-DISY------TET---RGYVRQ
+VISNYNN---------------------------------Y-
+>MBV9790492.1/634-777 transglycosylase SLT domain-containing protein [Chloroflexi bacterium]
+LRVIQREAKN-------FGVDPRLIYALMRQESMFNPDATSW-VG-------------AR
+GLAQVMPGTGQ-GI---A--------------------Q--N--L---QV--------A-
+-------------D-F---S-----------PD--------QLY-NPAVSIRFGAFYLSH
+QLG--SFD---------N----------------NILAAASAYNGGPGNAARWL------
+-E----S-FP-----------------------------------------DR------D
+--------------------L------F-------AE-LIDY------HET---RHYVKV
+VYGNWGM---------------------------------YR
+>MCE2931108.1/608-754 transglycosylase SLT domain-containing protein [Vampirovibrionales bacterium]
+PDLVQNYSEK-------AGVSPFLVLGLIRQESSFNPNSLSG-SS-------------AV
+GLMQLLVPTAQ-DM---V--------------------L--A--S---EN--------L-
+-------------R-V---S-----------KL--------ALM-DPDTNIQLGTRYLAY
+LNK--RLA---------N----------------DPLLVVASYNAGPNAVARWA------
+-N----K-RM-------------PTLRN-----------------------QP------D
+--------------------V------F-------VE-QIPY------DQT---RHYVHH
+VFEGMWN---------------------------------Y-
+>MCA9503815.1/91-197 lytic transglycosylase domain-containing protein [Myxococcales bacterium]
+-QTIVREARR-------HDLEPDLVLAVIEVESAGYHLAVSH-VG-------------AM
+GLMQLLPATGE-EV---A--------------------A--R--L---GI--------D-
+-------------W-N---G-----------PD--------TLF-DPTKNVQLGTAYLKQ
+LSD--RYD---------G----------------DVGIALAAYNWGPGRIDR--------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------
+>MBF0492415.1/310-452 transglycosylase SLT domain-containing protein [Deltaproteobacteria bacterium]
+NEWVEALARI-------RKIPPALIYAILYEESHFNPKATSP-AG-------------AL
+GLMQMIPETGF-EI---A--------------------E--A--L---DL--------S-
+-------------T-F---D-----------FN--------DLL-DPWLNSKFGITYLSM
+LME--RFS---------G----------------NLVYTIAAYNAGPEAVERWI------
+-G----L-RK-------------SK--------------------------NC------E
+--------------------E------W-------MD-QIPY------KET---YNYVQK
+VLK---------------------------------------
+>MBD3344003.1/581-725 transglycosylase SLT domain-containing protein [Chitinivibrionales bacterium]
+RNAVMKYAHE-------HDIDPYLVVSVMRQESIFNPVIESP-VG-------------AI
+GLMQIMPYTGE-EI---G--------------------K--D--L---KE--------N-
+---------------F---V-----------LD--------SLY-VPAKNIQYGAYYLKK
+VMN--QFD---------G----------------NIVLALASYNGGPHNAKKWL------
+-N----R-NK-------------HQ--------------------------TF------D
+--------------------M------F-------IE-NIGF------SET---RKYVKR
+VLANYWT---------------------------------YK
+>NMA49487.1/28-132 lytic transglycosylase domain-containing protein [Tissierellia bacterium]
+KEYVNKYSEE-------YGLDPFLVLSVIKTESSFDENATSN-KD-------------AR
+GLMQISDRTGK-WA---A--------------------E--S--L---NL--------K-
+-------------N-Y---S-----------VD--------SLY-NPEINIKIGTWYLNK
+LIG--QFG--------------------------DIDLALAAYNAGSGNV----------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------
+>MCB1141191.1/291-464 transporter substrate-binding domain-containing protein [Leptospiraceae bacterium]
+DEIIKSEAEK-------LGWDWRLLAALIYQESRFKPTAKSW-AG-------------AS
+GLMQIMPSTGK-SL---G------------------------------------------
+---------------L---K-----------KN--------DFF-DPQKNIEAGVKYLSW
+QNK--FWS---------K--------IQN--PEERIKFVMASYNAGQGHVIDARALGITY
+GK--YIN--------------IWPR--------------------------NV------D
+----------------EMILL------LSNPKFYNRP-EIKYGYC-RGKEP---YEYVKH
+IFKKYEE---------------------------------YK
+>NLM18333.1/529-676 transglycosylase SLT domain-containing protein [Candidatus Riflebacteria bacterium]
+NDSVEKYSKE-------FGVDKYWILSIMREESHYNPAVLSS-SN-------------AM
+GLMQILPSTGK-WI---A--------------------E--Q--L---NV--------K-
+-------------K-F---K-----------TS--------DIW-DTDLNIRFGTWYLDY
+LTK--YFD---------G----------------EIFLATAAYNGGQGAIKRRL------
+-L----N-TP-------------NS--------------------------KL------P
+------------------LLE------M-------MD-KVPM------SET---RDYYKK
+VMGTYWN---------------------------------YK
+>WP_187449794.1/376-512 lytic transglycosylase domain-containing protein [Caulobacter sp. 17J80-11]
+------------------TVDKALLYALMRRESRFDPSAQSN-VG-------------AY
+GLMQVMPSTAA-WL---T--------------------G--D--D---KL--------A-
+---------------K---K-----------PE--------LLL-DPATNLRVGQAYIAY
+LASQGPVG---------N----------------DMLRVIAAYNGGPLRVMDPA------
+-K----Q-LG-------------PDA-------------------------DV------L
+--------------------T------F-------IE-SIQV------PQT---RVYVEE
+VMAAYWA---------------------------------YR
+>WP_232309798.1/139-236 lytic transglycosylase domain-containing protein [Roseateles depolymerans]
+----QSASQR-------HQLDPTLVAALMYVESRYRPDARSP-KG-------------AL
+GLMQLMPATAA-RY---G--------------------V--R------------------
+-------------------S-----------AA--------DLL-DPRTNIDTGVRHLRM
+LHD--RYD---------G----------------RLALMLAAYNAGEGAVDR--------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------
+>MBI4482765.1/579-722 transglycosylase SLT domain-containing protein [Acidobacteria bacterium]
+WDRIQQESNK-------YGLDPWLVSALIRQESTFNARARSR-SN-------------AI
+GLMQILPSTGR-TI---A--------------------R--Q--L---RL--------R-
+---------------Y---R-----------PS--------KLY-DPQFNIALGTYYLQT
+LLA--EFQ---------G----------------KIELALAAYNGGPHRVSRWL------
+-E----H-YG-------------AP--------------------------ET------D
+--------------------V------F-------VE-CIPL------TET---REYVKR
+ILEHYSL---------------------------------YQ
+>MBS1455663.1/76-180 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+KKEVIAASDR-------FGTDKVLIFSVINAESGFDKNAVSK-KG-------------AA
+GLMQIMPETAV-FI---A--------------------G--K--L---GI----------
+-------------------K-----------TY--------DLF-DPGTNILFGAYYLNY
+LLS--RFG--------------------------DKITAVAAYNAGEGNVEK--------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------
+>MBQ3234839.1/32-166 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+RFYIEKVCLE-------RGVEPELVLAVARTESSFDERALSK-KG-------------AV
+GLMQLMPSTAK-FI---A--------------------K--R--E---GI----------
+---------------Y---D-----------EF--------DLY-DSQTNLYLGICYLDY
+LFE--KYE--------------------------DETLVLCCYNAGEGTVSKWT------
+-E----S-----------------------------------------------------
+---------------------------E-------VL-NPPY------KET---KEYIKK
+VKRRKFI---------------------------------Y-
+>NLF44578.1/37-182 lytic transglycosylase domain-containing protein [Syntrophomonadaceae bacterium]
+RDLIIDTALE-------NNVDPYLVFAIIRAESKYQTTAVSP-LG-------------AK
+GLMQIMPTTGA-WI---A--------------------E--Q--K---GM--------E-
+-------------G-F---S-----------PE--------MLH-EPDINIQFGCWYLNS
+LGK--QFE---------G----------------QLPVVIAAYNAGRGQVGQWI------
+-I----D-GA-------------WD--------------------------GS------Y
+--------------------E------Q-------ID-QIPY------QET---KNYTKN
+VIKNYEA---------------------------------Y-
+>KEI36010.1/479-629 soluble lytic murein transglycosylase precursor [Francisella sp. W12-1067]
+ISKVKENADK-------YAIDKGLILSIMRKESLFDIEAKSP-AG-------------AK
+GLMQVTIPTAE-FI---V--------------------K--K--Y---KL--------SL
+VG--------AKLD-K---I-----------DT--------QIF-IPENNIKIGTANLYF
+LDS--LFN---------K----------------NIILGIAAYNAGPGNVAKWL------
+-N----S-KE-------------VP--------------------------AP-------
+--------------------I------W-------IE-NIPF------GET---RHYVRK
+VLVYMIV---------------------------------Y-
+>MBO5714918.1/40-182 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+YELVVKYSRE-------NSIPPALTFAVIKVESNFDKNAESS-VG-------------AL
+GLMQMMPSTYK-WL---A--------------------E--T--K---FD--------E-
+-------------I-P---V-----------TA--------LLY-VPETSIKYGTYYLQY
+LYE--KFG--------------------------TWEKVLIAYNWGEGNFKKFL------
+-D----E-HG-------------YT--------------------------EG------D
+-----------------------------------YD-SIPV------KET---RNYVKK
+VLHHWQK---------------------------------Y-
+>MCC2678029.1/436-583 soluble lytic murein transglycosylase [Pseudobdellovibrio sp.]
+KDQVNEMAEK-------TKLPPSLIYSIMKQESGFNERARSA-AD-------------AM
+GLMQVIPGLAK-QL---S--------------------R--K--F---EV--------P-
+-------------Y-K---K-----------SE--------DLY-DPEINIQIGSYELME
+QVR--KQN---------G----------------KLAYVAAAYNAGPNALSRWL------
+-T----N-RN-------------RE--------------------------DI------L
+--------------------E------F-------IE-EIPY------DET---RTYIKL
+IARNKAF---------------------------------YE
+>MBR2988654.1/31-141 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+ESEIETACKT-------YDVDKSLVTAIIKCESSFNEQAKSN-KG-------------AI
+GLMQLMPSSAK-WC---A--------------------Q--K--L---GI----------
+-------------E-Y---S-----------DE--------MLY-NPRYNINMGVYYLSY
+LLD--KF---------------------------DLNYAICAYNAGEGNVSKWL------
+-N----G-D---------------------------------------------------
+------------------------------------------------------------
+------------------------------------------
+>MSO44849.1/85-232 lytic transglycosylase domain-containing protein [Thermoleophilia bacterium]
+DALIQRHAER-------NALDPALLAAVIWRESGYDPAARSA-TG-------------AV
+GLTQVLPSTAR-FI---E--------------------S--Q--T---DP--------P-
+-------------P-G---R-----------AV--------DLG-DPEVNIAFGAWYLHY
+LMD--TQN---------G----------------SVPEALAAYNGGPENLRRWK------
+-A----A-AL-------------AR--------------------------EE------E
+-------------------FR------I-------PE-DIPF------AET---RAYVED
+VTEARGI---------------------------------YR
+>WP_108850035.1/54-190 MULTISPECIES: lytic transglycosylase domain-containing protein [Dialister]
+---IEKSAEE-------QHVSPSLLQAVILTESKFDAKAVSH-VG-------------AV
+GMMQLMPETAE-WI---S--------------------E--E--S---GL--------P-
+-------------------------------AD--------DLN-RPDENIPLGAWYLNF
+LLK--KYH---------N----------------NEVLALAAYNAGRGNVDEWV------
+-E----K-YN-------------WG--------------------------EG------F
+--------------------S------K-------VD-EIPF------PET---REFVKT
+VVSARDR-----------------------------------
+>RDV36617.1/636-774 hypothetical protein DV096_17890 [Bradymonadaceae bacterium TMQ3]
+KDTLTRYAEQ-------RGLSPAIIYAIMREESGFNPRIESW-AN-------------AR
+GLLQLIEPTAR-RI---A--------------------Q--R--D---GL--------E-
+-------------D-F---S-----------FD--------LLF-DPTLNIRLGSAYMRE
+LAS--QTS---------A----------------HPALIIAGYNGGFGNVSTWL------
+-K----D-FG-------------NE--------------------------DL------D
+--------------------L------F-------VE-NIPY------GQT---RDYTKR
+VL----------------------------------------
+>GBD26914.1/536-679 Soluble lytic murein transglycosylase [bacterium HR30]
+YALVQKAAMS-------YGLDPLLLLAVMRQESLFDPEVCSP-AG-------------AC
+GLMQLMPNTAQ-RL---G--------------------A--G--A---GL--------D-
+---------------P---N-----------RI--------DLF-DPEQNIDLAARHLRE
+LLD--RFS---------Y----------------DPVLALAAYNAGEEAVRRWL------
+-A----R-TN-------------RQ--------------------------PP------D
+--------------------E------F-------VE-DIAY------RET---RDYVKR
+VWTHYLR---------------------------------YQ
+>PWL99001.1/214-356 hypothetical protein DBY04_02560 [Clostridiales bacterium]
+--WAAKYGET-------YQIDPRFVMAIVKAESSFIPSSVSV-SG-------------AV
+GMMQIMRPTYETDI---K--------------------A--N--L---GL--------E-
+---------------E---E-----------FE--------DLF-DAEFNVKCGTYYLHW
+LDE--RLD--------------------------GYEQLAAAYNGGIGYVREWL------
+-A----D-PA-------------YSAD------------------------GK------T
+--------------------L------I-------IE-NIPL------DQT---KRYVRK
+VMTFYEE---------------------------------Y-
+>MBQ9511350.1/211-316 lytic transglycosylase domain-containing protein [Clostridia bacterium]
+LRYAIEYGRK-------YKVDYNFVMAVIETESSFRPYATA--PG-------------TI
+GLMQMKPSTYEVDV---A--------------------A--N--L---GL--------T-
+---------------E---G-----------PE--------ALY-DAKFSVMCGTYYLHW
+LDW--RLD--------------------------GIATIAAAYNGGIGTV----------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------

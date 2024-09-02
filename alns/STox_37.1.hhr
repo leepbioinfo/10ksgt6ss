@@ -1,0 +1,212 @@
+Query         FD01845409_04161 Protein RhsD
+Match_columns 154
+No_of_seqs    9 out of 15
+Neff          2.78915
+Searched_HMMs 86581
+Date          Tue Feb 27 21:59:35 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/7515534.hhr -oa3m ../results/7515534.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 PF15534.10 ; Ntox35 ; Bacteria  32.8 1.4E+02  0.0017   21.7   3.6   45  104-152    31-75  (76)
+  2 PF18534.5 ; HBD ; Helical bund  29.8      20 0.00024   27.7  -1.1   16  105-120    58-73  (85)
+  3 PF04369.17 ; Lactococcin ; Lac  29.4      70 0.00081   22.8   1.6   19  105-123    12-30  (60)
+  4 5H23_B Capsid Protein; Chikung  28.6 1.6E+02  0.0018   24.7   3.7   24  124-147   113-138 (156)
+  5 2M2K_A HasB protein; HasB CTD,  27.7 1.4E+02  0.0016   22.0   2.9   44  103-148    35-80  (131)
+  6 PF16446.9 ; DUF5043 ; Domain o  26.9 2.4E+02  0.0027   23.5   4.3   27  102-146    81-108 (155)
+  7 1VCC_A DNA TOPOISOMERASE I; DN  26.9 1.1E+02  0.0013   23.3   2.3   48   83-130     6-68  (77)
+  8 PF09318.14 ; Glyco_trans_A_1 ;  26.0   2E+02  0.0023   22.5   3.6   30  115-144   121-150 (185)
+  9 PF00944.23 ; Peptidase_S3 ; Al  24.6 2.1E+02  0.0024   24.2   3.6   24  124-147   113-138 (157)
+ 10 5NZP_B D-3-phosphoglycerate de  22.9 1.3E+02  0.0015   21.7   2.0   33  102-134    24-56  (204)
+ 11 PF21082.1 ; MS_channel_3rd ; M  22.6   3E+02  0.0034   16.5   3.3   35  102-136    24-58  (89)
+ 12 PF07872.15 ; DUF1659 ; Protein  22.5   1E+02  0.0012   19.9   1.2   13  119-131     8-20  (43)
+ 13 4MP0_B Serine/threonine-protei  21.5   2E+02  0.0023   19.9   2.5   25  126-150    14-39  (44)
+ 14 4BY2_A ANASTRAL SPINDLE 2, SAS  20.4      72 0.00083   26.4   0.3   55   83-137   176-250 (252)
+
+No 1
+>PF15534.10 ; Ntox35 ; Bacterial toxin 35
+Probab=32.77  E-value=1.4e+02  Score=21.67  Aligned_cols=45  Identities=16%  Similarity=0.092  Sum_probs=0.0  Template_Neff=6.900
+
+Q ss_pred             HHHHHhcccCCCeeEEecCccccCCCeEEEEEEEcCCCceEEEEecCCc
+Q FD01845409_041  104 VLESLRKVESGKWSKVYKDGYDASGRRVSIHYFESQSGRVFNVKVKPEW  152 (154)
+Q Consensus       104 ~Le~LRkve~GkW~KVYkDGfda~G~rVSiHYfqsqsg~VfnVKvk~~W  152 (154)
+                      ....+|.=.......+|+--+...|+.|.|.|.. ..|++   |+...|
+T Consensus        31 i~~vm~~G~~~~y~~~~~k~~~~~G~~v~Vt~~~-~~G~i---~is~aW   75 (76)
+T M1MGK3_9CLOT/7   31 FVNIINENKSKLIQGNNQLRTVINGYEVEIKAFV-KDGKV---ASIDGQ   75 (76)
+T ss_pred             HHHHHhcCCceeeCceeEEEEEECCEEEEEEEEe-eCCEE---EEEecc
+
+
+No 2
+>PF18534.5 ; HBD ; Helical bundle domain
+Probab=29.79  E-value=20  Score=27.70  Aligned_cols=16  Identities=13%  Similarity=0.663  Sum_probs=0.0  Template_Neff=4.800
+
+Q ss_pred             HHHHhcccCCCeeEEe
+Q FD01845409_041  105 LESLRKVESGKWSKVY  120 (154)
+Q Consensus       105 Le~LRkve~GkW~KVY  120 (154)
+                      ++.||+.+|.+|.++|
+T Consensus        58 v~~irem~P~~wE~~y   73 (85)
+T A0A0W0VPR2_9GA   58 VNKIQEMDPKDWEKLL   73 (85)
+T ss_pred             HHHHHHhCChHHHHHH
+
+
+No 3
+>PF04369.17 ; Lactococcin ; Lactococcin-like family
+Probab=29.42  E-value=70  Score=22.77  Aligned_cols=19  Identities=21%  Similarity=0.274  Sum_probs=0.0  Template_Neff=6.000
+
+Q ss_pred             HHHHhcccCCCeeEEecCc
+Q FD01845409_041  105 LESLRKVESGKWSKVYKDG  123 (154)
+Q Consensus       105 Le~LRkve~GkW~KVYkDG  123 (154)
+                      .|+|.++..|+|...+..|
+T Consensus        12 ~eeL~~i~GG~~~~~~~~g   30 (60)
+T A0A1V0NWM2_LAC   12 DEELSEANGGKLTFIQSTA   30 (60)
+T ss_pred             HHHHHHhcCCccceEEeeC
+
+
+No 4
+>5H23_B Capsid Protein; Chikungunya virus, capsid protein, VIRAL PROTEIN; HET: EDO, BOG, GOL; 2.2A {Chikungunya virus} SCOP: b.47.1.3
+Probab=28.61  E-value=1.6e+02  Score=24.70  Aligned_cols=24  Identities=25%  Similarity=0.324  Sum_probs=0.0  Template_Neff=6.200
+
+Q ss_pred             cccCCCeEEEEEEE--cCCCceEEEE
+Q FD01845409_041  124 YDASGRRVSIHYFE--SQSGRVFNVK  147 (154)
+Q Consensus       124 fda~G~rVSiHYfq--sqsg~VfnVK  147 (154)
+                      ||+.|+.|-|+|-.  ...|..|.||
+T Consensus       113 ~d~~G~VVGIv~a~~~~~~g~~~a~~  138 (156)
+T 5H23_B          113 FDNKGRVVAIVLGGANEGARTALSVV  138 (156)
+T ss_dssp             ECTTSCEEEEEEEEEECSSEEEEEEE
+T ss_pred             ECCCCCEEEEEEeeeCCCCceeEEEE
+
+
+No 5
+>2M2K_A HasB protein; HasB CTD, tonb-like protein, hemophore, HEME acquisition system, transport protein; NMR {Serratia marcescens}
+Probab=27.73  E-value=1.4e+02  Score=21.98  Aligned_cols=44  Identities=11%  Similarity=0.053  Sum_probs=0.0  Template_Neff=9.600
+
+Q ss_pred             HHHHHHhcccCCCeeEEecCccccCCC--eEEEEEEEcCCCceEEEEe
+Q FD01845409_041  103 EVLESLRKVESGKWSKVYKDGYDASGR--RVSIHYFESQSGRVFNVKV  148 (154)
+Q Consensus       103 ~~Le~LRkve~GkW~KVYkDGfda~G~--rVSiHYfqsqsg~VfnVKv  148 (154)
+                      ..+..|++.....|.  |+.+.-..|.  +|.|++.=..+|+|.++++
+T Consensus        35 ~~~~~i~~~i~~~~~--~p~~~~~~~~~g~v~v~~~v~~~G~v~~~~i   80 (131)
+T 2M2K_A           35 NWRSRISGRLNRFKR--YPKDALRLKRQGVGQVRFTLDRQGHVLAVTL   80 (131)
+T ss_dssp             CHHHHHHHHHHHTCC--CCHHHHHTSCCEEEEEEEEECTTSCEEEEEE
+T ss_pred             HHHHHHHHHHHHhcc--CcHHHHHcCCCeEEEEEEEECCCCcEEEEEE
+
+
+No 6
+>PF16446.9 ; DUF5043 ; Domain of unknown function (DUF5043)
+Probab=26.93  E-value=2.4e+02  Score=23.45  Aligned_cols=27  Identities=22%  Similarity=0.479  Sum_probs=0.0  Template_Neff=6.700
+
+Q ss_pred             HHHHHHHhcccCCCeeEEecCccccCCCeEEEEEEE-cCCCceEEE
+Q FD01845409_041  102 REVLESLRKVESGKWSKVYKDGYDASGRRVSIHYFE-SQSGRVFNV  146 (154)
+Q Consensus       102 ~~~Le~LRkve~GkW~KVYkDGfda~G~rVSiHYfq-sqsg~VfnV  146 (154)
+                      ++++++|+                  |..+.|.++- ++||+|..|
+T Consensus        81 ~~e~~~lk------------------~~~l~I~~~i~~~tGki~EV  108 (155)
+T R7EI70_9BACE/3   81 KAMADELG------------------KREFTITMLLSPDTGKVMEV  108 (155)
+T ss_pred             HHHHHHhC------------------CCcEEEEEEEcCCCCcEEEE
+
+
+No 7
+>1VCC_A DNA TOPOISOMERASE I; DNA BINDING; 1.6A {Vaccinia virus} SCOP: d.121.1.1
+Probab=26.85  E-value=1.1e+02  Score=23.30  Aligned_cols=48  Identities=27%  Similarity=0.367  Sum_probs=0.0  Template_Neff=5.100
+
+Q ss_pred             CCCchhhcCCCceEeeecCHHHHHHHhcc-cCCCeeEEecC--------------ccccCCCe
+Q FD01845409_041   83 YPKGFRTSQNGTVKNVVKNREVLESLRKV-ESGKWSKVYKD--------------GYDASGRR  130 (154)
+Q Consensus        83 yP~Gfr~~qNGt~k~~i~N~~~Le~LRkv-e~GkW~KVYkD--------------Gfda~G~r  130 (154)
+                      |-.+|.-......+..|.+.++++.|+.+ .|-+|+.|.--              |+|+.|++
+T Consensus         6 ~~~gf~y~d~~g~~~~i~d~~~~~ri~~L~IPPaw~dV~i~~~~~~~~~~~iqa~G~D~kGRk   68 (77)
+T 1VCC_A            6 YKDGKLFTDNNFLNPVSDDNPAYEVLQHVKIPTHLTDVVVYEQTWEEALTRLIFVGSDSKGRR   68 (77)
+T ss_dssp             EETTEEESSTTSCSBCCTTCTHHHHHHHCCCCTTCEEEEEECCCHHHHTTSEEEEEECTTSCE
+T ss_pred             ccCceEEECCCCCCCCCCChHHHHHHhcCCCCCcCCCeEEecCChHHhhcCeeEEEEcCCCCc
+
+
+No 8
+>PF09318.14 ; Glyco_trans_A_1 ; Glycosyl transferase 1 domain A
+Probab=26.04  E-value=2e+02  Score=22.45  Aligned_cols=30  Identities=20%  Similarity=0.569  Sum_probs=0.0  Template_Neff=9.700
+
+Q ss_pred             CeeEEecCccccCCCeEEEEEEEcCCCceE
+Q FD01845409_041  115 KWSKVYKDGYDASGRRVSIHYFESQSGRVF  144 (154)
+Q Consensus       115 kW~KVYkDGfda~G~rVSiHYfqsqsg~Vf  144 (154)
+                      .+..+..|=||..|.+.++.||...+|++.
+T Consensus       121 ~~~~~~~~~yd~~G~~~~~~~~~~~~~~~~  150 (185)
+T A8FI15_BACP2/4  121 NQQLEKREEYNSQGQLHKVSYFSQETGKVY  150 (185)
+T ss_pred             CCcEEEEEEECCCCCEEEEEEEeCCCCcEE
+
+
+No 9
+>PF00944.23 ; Peptidase_S3 ; Alphavirus core protein
+Probab=24.56  E-value=2.1e+02  Score=24.21  Aligned_cols=24  Identities=29%  Similarity=0.339  Sum_probs=0.0  Template_Neff=6.000
+
+Q ss_pred             cccCCCeEEEEEEE--cCCCceEEEE
+Q FD01845409_041  124 YDASGRRVSIHYFE--SQSGRVFNVK  147 (154)
+Q Consensus       124 fda~G~rVSiHYfq--sqsg~VfnVK  147 (154)
+                      ||..|+.|-|++=.  ...|..|.||
+T Consensus       113 ~d~~G~vvGIv~~~~~~~~g~~~a~~  138 (157)
+T POLS_SFV/112-2  113 FDNKGRVVAIVLGGANEGSRTALSVV  138 (157)
+T ss_pred             ECCCCCEEEEEEeeeCCCCceeEEEE
+
+
+No 10
+>5NZP_B D-3-phosphoglycerate dehydrogenase; dehydrogenase, serine metabolism, FBDD, oxidoreductase; HET: 9EW; 1.3A {Homo sapiens}
+Probab=22.89  E-value=1.3e+02  Score=21.72  Aligned_cols=33  Identities=21%  Similarity=0.494  Sum_probs=0.0  Template_Neff=12.000
+
+Q ss_pred             HHHHHHHhcccCCCeeEEecCccccCCCeEEEE
+Q FD01845409_041  102 REVLESLRKVESGKWSKVYKDGYDASGRRVSIH  134 (154)
+Q Consensus       102 ~~~Le~LRkve~GkW~KVYkDGfda~G~rVSiH  134 (154)
+                      +...+..+.+..|.|.+.+.-|++..+.+|.|.
+T Consensus        24 r~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~ii   56 (204)
+T 5NZP_B           24 RQIPQATASMKDGKWERKKFMGTELNGKTLGIL   56 (204)
+T ss_dssp             HTHHHHHHHHHTTCCCTTTTCBCCCTTCEEEEE
+T ss_pred             ccHHHHHHHHHcCCCcchhccCcccCCCEEEEE
+
+
+No 11
+>PF21082.1 ; MS_channel_3rd ; Mechanosensitive ion channel MscS, C-terminal
+Probab=22.61  E-value=3e+02  Score=16.54  Aligned_cols=35  Identities=29%  Similarity=0.443  Sum_probs=0.0  Template_Neff=12.400
+
+Q ss_pred             HHHHHHHhcccCCCeeEEecCccccCCCeEEEEEE
+Q FD01845409_041  102 REVLESLRKVESGKWSKVYKDGYDASGRRVSIHYF  136 (154)
+Q Consensus       102 ~~~Le~LRkve~GkW~KVYkDGfda~G~rVSiHYf  136 (154)
+                      .+.+.+...+.+..+..++-.+++..+-.+.|+++
+T Consensus        24 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   58 (89)
+T Y812_AQUAE/265   24 RELLKEHPGVAKDEKFYVYFENYGDSSLNILIQYY   58 (89)
+T ss_pred             HHHHHhCCCcCCCCCeEEEEEeeCCccEEEEEEEE
+
+
+No 12
+>PF07872.15 ; DUF1659 ; Protein of unknown function (DUF1659)
+Probab=22.52  E-value=1e+02  Score=19.95  Aligned_cols=13  Identities=23%  Similarity=0.590  Sum_probs=0.0  Template_Neff=7.100
+
+Q ss_pred             EecCccccCCCeE
+Q FD01845409_041  119 VYKDGYDASGRRV  131 (154)
+Q Consensus       119 VYkDGfda~G~rV  131 (154)
+                      +|.+|.|+.|+.|
+T Consensus         8 ~~~~G~d~~Gk~i   20 (43)
+T A8MJS8_ALKOO/8    8 RFVEGVDGEGKEK   20 (43)
+T ss_pred             EEEEccCCCCCEE
+
+
+No 13
+>4MP0_B Serine/threonine-protein phosphatase 1 regulatory subunit 10; Serine/threonine phosphatase, Nucleus, HYDROLASE; HET: PO4, GOL; 2.1003A {Homo sapiens}
+Probab=21.52  E-value=2e+02  Score=19.93  Aligned_cols=25  Identities=32%  Similarity=0.473  Sum_probs=0.0  Template_Neff=4.800
+
+Q ss_pred             cCCCeEEEEEEE-cCCCceEEEEecC
+Q FD01845409_041  126 ASGRRVSIHYFE-SQSGRVFNVKVKP  150 (154)
+Q Consensus       126 a~G~rVSiHYfq-sqsg~VfnVKvk~  150 (154)
+                      ..++.+.||||+ ..+-||---|++.
+T Consensus        14 ~e~~L~~~~yFelde~ERvNVnk~k~   39 (44)
+T 4MP0_B           14 EEGKLREYFYFELDETERVNVNKIKD   39 (44)
+T ss_dssp             CGGGSEEEEEECCCTTSCCCTTC---
+T ss_pred             CcCCeEEEEEEeCCCCCcccccccCc
+
+
+No 14
+>4BY2_A ANASTRAL SPINDLE 2, SAS 4; STRUCTURAL PROTEIN, CPAP, STIL, MICROCEPHALY, MCPH, CENTRIOLE, TCP DOMAIN, EXTENDED BETA SHEET; 2.57A {DROSOPHILA MELANOGASTER}
+Probab=20.37  E-value=72  Score=26.41  Aligned_cols=55  Identities=24%  Similarity=0.308  Sum_probs=0.0  Template_Neff=9.300
+
+Q ss_pred             CCCc--hhhcCCCceEeeecCHHHHHH-----HhcccCCCeeEEecCc-------------cccCCCeEEEEEEE
+Q FD01845409_041   83 YPKG--FRTSQNGTVKNVVKNREVLES-----LRKVESGKWSKVYKDG-------------YDASGRRVSIHYFE  137 (154)
+Q Consensus        83 yP~G--fr~~qNGt~k~~i~N~~~Le~-----LRkve~GkW~KVYkDG-------------fda~G~rVSiHYfq  137 (154)
+                      ||.|  .....+|.....-.|......     .+....|.|.-+|.||             +|+.|+++.+-..+
+T Consensus       176 ~~dG~~~~~~~~G~~~~~~p~G~~~~~~~g~~~~~~~dG~~~~~~~~G~~~~~y~~G~~~~~~~~G~~~~~~~~~  250 (252)
+T 4BY2_A          176 YADGTHLVQLRNGDKILNLPNGQKEIHTKLNKRREYPDGTVKLVYPDGSQETRYSNGRVRLKDKDGKLIMDTDYA  250 (252)
+T ss_dssp             CTTSCEEEEETTSCEEEECTTSCEEEECC----------------------------------------------
+T ss_pred             cCCCCEEEEeeCCcEEEECCCCCEEEEeCCceEEecCCCeEEEEeCCCCEEEEeCCCcEEEECCCCCEEEeeccc
+
+

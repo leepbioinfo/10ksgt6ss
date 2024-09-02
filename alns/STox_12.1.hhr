@@ -1,0 +1,379 @@
+Query         FD01847913_04013 type IV secretion protein Rhs
+Match_columns 111
+No_of_seqs    10 out of 13
+Neff          2.23316
+Searched_HMMs 86581
+Date          Tue Feb 27 20:09:00 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/2289228.hhr -oa3m ../results/2289228.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 7ZHL_A RHS repeat protein; bac  74.3      24 0.00028   23.6   5.2   53   15-75      7-59  (116)
+  2 5ZDH_Q Type II secretion syste  70.2     5.8 6.7E-05   28.0   1.6   42   12-54     63-106 (112)
+  3 PF16549.9 ; T2SSS_2 ; Type II   69.7     7.5 8.7E-05   26.6   2.0   42   12-54     60-103 (104)
+  4 3BJN_A Transcriptional regulat  36.9      97  0.0011   20.7   3.0   30   21-50     99-128 (165)
+  5 PF13652.10 ; QSregVF ; Putativ  34.0      45 0.00052   22.3   1.1   43   12-54     65-109 (110)
+  6 4HZ9_B Putative periplasmic pr  33.7 1.4E+02  0.0016   21.5   3.6   83    7-97     50-142 (150)
+  7 4FTF_A Alternate secretin path  32.0      45 0.00052   23.6   1.0   23   12-34     65-87  (112)
+  8 1ONL_A glycine cleavage system  30.2      92  0.0011   19.6   2.0   22    9-30    105-126 (128)
+  9 PF13986.10 ; DUF4224 ; Domain   29.6      96  0.0011   18.9   2.0   29   21-50     17-45  (45)
+ 10 3EYE_A PTS system N-acetylgala  27.8 1.7E+02   0.002   22.5   3.4   64   18-83     88-159 (168)
+ 11 1YSP_A Transcriptional regulat  27.8   2E+02  0.0023   19.5   3.4   30   21-50    100-129 (181)
+ 12 PF07862.15 ; Nif11 ; Nif11 dom  26.5 1.8E+02  0.0021   16.6   2.7   24   15-38     23-51  (51)
+ 13 PF16824.9 ; CBM_26 ; C-termina  26.2      90   0.001   23.4   1.7   17   65-81     34-50  (130)
+ 14 5HPF_C p-hydroxybenzoate hydro  25.9 2.1E+02  0.0024   19.4   3.2   30   21-50    105-134 (178)
+ 15 3KZT_B uncharacterized protein  25.9 3.7E+02  0.0043   18.8   5.0   77   10-97     52-138 (143)
+ 16 PF15633.10 ; Tox-ART-HYD1 ; HY  25.5   3E+02  0.0035   17.6   6.1   67   15-81      1-80  (101)
+ 17 3NPD_A putative secreted prote  25.0      99  0.0011   21.1   1.6   43   12-54     67-111 (118)
+ 18 3WDN_A Glycine cleavage system  24.6 1.2E+02  0.0014   19.1   1.9   22    9-30    101-122 (125)
+ 19 PF18096.5 ; Thump_like ; THUMP  24.1   2E+02  0.0023   18.6   2.8   20   52-71     37-57  (73)
+ 20 PF07879.15 ; PHB_acc_N ; PHB/P  22.8      94  0.0011   21.2   1.2   31   16-46     16-46  (61)
+ 21 PF14066.10 ; DUF4256 ; Protein  22.7 1.5E+02  0.0018   24.3   2.5   42   17-69    105-146 (173)
+ 22 PF14056.10 ; DUF4250 ; Domain   21.0 1.3E+02  0.0015   18.8   1.5   16   25-40     39-54  (55)
+ 23 6I2V_A Uncharacterized protein  20.5 1.1E+02  0.0013   22.7   1.3   22   13-34     68-89  (114)
+ 24 PF04365.17 ; BrnT_toxin ; Ribo  20.5 1.2E+02  0.0014   18.5   1.2   18   18-35      1-18  (79)
+
+No 1
+>7ZHL_A RHS repeat protein; bacterial toxin, secreted toxin, T6SS, ADP-ribosyltransferase, translation inhibitor, TOXIN; 2.2A {Salmonella enterica subsp. enterica serovar Typhimurium}
+Probab=74.33  E-value=24  Score=23.56  Aligned_cols=53  Identities=28%  Similarity=0.480  Sum_probs=0.0  Template_Neff=9.600
+
+Q ss_pred             HhhcCCHHHHHHHHHcCcccCCCCCCCccceeEEeeCCCChHHHHHHHccCCCcEEEEeec
+Q FD01847913_040   15 VRRFMSKAEYKDFIKNGFEFNPADSRGGISVTSVKVDPKNPDAIKRSTGALGADYYVDIDT   75 (111)
+Q Consensus        15 VRRf~Sk~eyk~f~K~GftfDP~d~r~GISaTst~i~p~nPD~I~~~TgAlgADyYVDId~   75 (111)
+                      |.|.|+++||..+...|.--....+      ++....|.++++....  +....+||..++
+T Consensus         7 vgr~ms~~e~~~m~~tg~v~~~~~g------~t~v~~~~~~~~~~~~--~~~g~~~vefdv   59 (116)
+T 7ZHL_A            7 VGRWMGPAEYQQMLDTGTVVQSSTG------TTHVAYPADIDAFGKQ--AKNGAMYVEFDV   59 (116)
+T ss_dssp             EEEEECHHHHHHHHHHTBCCCCTTS------EEEEBSSCCTTSSTTT--SCTTCEEEEEEE
+T ss_pred             eccccCHHHHHHHHhhCCeeecCCC------ceeeecCcChhhhhhh--ccCCceEEEeec
+
+
+No 2
+>5ZDH_Q Type II secretion system lipoprotein; Pilotin, Secretin, PROTEIN TRANSPORT; 3.2A {Escherichia coli O78:H11 (strain H10407 / ETEC)}
+Probab=70.24  E-value=5.8  Score=28.02  Aligned_cols=42  Identities=14%  Similarity=0.215  Sum_probs=0.0  Template_Neff=7.800
+
+Q ss_pred             CchHhhcCCHHHHHHHHHcCcccCC--CCCCCccceeEEeeCCCC
+Q FD01847913_040   12 PGIVRRFMSKAEYKDFIKNGFEFNP--ADSRGGISVTSVKVDPKN   54 (111)
+Q Consensus        12 p~vVRRf~Sk~eyk~f~K~GftfDP--~d~r~GISaTst~i~p~n   54 (111)
+                      |.++.+||+..|.+.|.+.|++|.-  .+. .|-..++..|.+.+
+T Consensus        63 ~~~~~~~C~~~e~r~ll~~Gv~y~~~y~d~-~g~~i~~~~Is~~~  106 (112)
+T 5ZDH_Q           63 TSYQRQMCADPTVKLMLTEGINYSITINDT-RTGNQYQRKLDRTT  106 (112)
+T ss_dssp             HHHHHHHHHCTTHHHHTTTTCCCEEEEC------CCEEEECCTTT
+T ss_pred             HHHHHhhcCCHHHHHHHhcCCEEEEEEECC-CCCEEEEEEecHhh
+
+
+No 3
+>PF16549.9 ; T2SSS_2 ; Type II secretion system (T2SS) pilotin, S protein
+Probab=69.68  E-value=7.5  Score=26.60  Aligned_cols=42  Identities=17%  Similarity=0.245  Sum_probs=0.0  Template_Neff=8.400
+
+Q ss_pred             CchHhhcCCHHHHHHHHHcCcccCC--CCCCCccceeEEeeCCCC
+Q FD01847913_040   12 PGIVRRFMSKAEYKDFIKNGFEFNP--ADSRGGISVTSVKVDPKN   54 (111)
+Q Consensus        12 p~vVRRf~Sk~eyk~f~K~GftfDP--~d~r~GISaTst~i~p~n   54 (111)
+                      |.++.++|+..|.+.|.+.|+.|.=  .+. .|-..++..|.+.+
+T Consensus        60 ~~i~~~~C~~~~~~~~l~~Gv~y~y~y~d~-~g~~i~~~~It~~d  103 (104)
+T E3BNJ5_9VIBR/2   60 AQSVNTYCSNKDTKANLDLGIHYRIKIRNS-RGQLMSDELVTSQK  103 (104)
+T ss_pred             HHHHHHhcCCHhHHHHHhcCceEEEEEECC-CCCEEEEEEecccc
+
+
+No 4
+>3BJN_A Transcriptional regulator, putative; putative transcriptional regulator IclR, Vibrio cholerae, Structural Genomics, PSI-2, Protein Structure Initiative, Midwest Center for Structural; HET: MSE; 1.65A {Vibrio cholerae O1 biovar eltor str. N16961}
+Probab=36.93  E-value=97  Score=20.69  Aligned_cols=30  Identities=20%  Similarity=0.462  Sum_probs=0.0  Template_Neff=11.200
+
+Q ss_pred             HHHHHHHHHcCcccCCCCCCCccceeEEee
+Q FD01847913_040   21 KAEYKDFIKNGFEFNPADSRGGISVTSVKV   50 (111)
+Q Consensus        21 k~eyk~f~K~GftfDP~d~r~GISaTst~i   50 (111)
+                      .++++++++.||.+++...+.|+++-++-|
+T Consensus        99 ~~~~~~~r~~g~~~~~~~~~~~~~~ia~pv  128 (165)
+T 3BJN_A           99 QSEFEKIRRHGYAVSTSEIDPGVSGISAPV  128 (165)
+T ss_dssp             HHHHHHHHHHTSEEEESSSSTTEEEEEEEE
+T ss_pred             HHHHHHHHHhCcEEEcccccCCeEEEEeeE
+
+
+No 5
+>PF13652.10 ; QSregVF ; Putative quorum-sensing-regulated virulence factor
+Probab=34.01  E-value=45  Score=22.29  Aligned_cols=43  Identities=12%  Similarity=0.173  Sum_probs=0.0  Template_Neff=9.400
+
+Q ss_pred             CchHhhcCCHHHHHHHHHcCcccCCCCCCC--ccceeEEeeCCCC
+Q FD01847913_040   12 PGIVRRFMSKAEYKDFIKNGFEFNPADSRG--GISVTSVKVDPKN   54 (111)
+Q Consensus        12 p~vVRRf~Sk~eyk~f~K~GftfDP~d~r~--GISaTst~i~p~n   54 (111)
+                      +.++..+|+..+++.|.++|+++.=.-...  |-...+.+|.|.+
+T Consensus        65 ~~~~~~~C~~~~~~~~~~~G~~i~y~Y~~~~~g~~l~~~~i~~~d  109 (110)
+T S6AHZ0_PSERE/2   65 AQLGASVCRNTGYRQLLARGAGLRYEFSEYKTNRPVSSERFTARD  109 (110)
+T ss_pred             HHHHHhhccCHHHHHHHHCCCEEEEEEEeCCCCcEEEEEEEehhh
+
+
+No 6
+>4HZ9_B Putative periplasmic protein; protein-protein complex, endopeptidase, periplasmic space, HYDROLASE; 2.4A {Ralstonia pickettii}
+Probab=33.73  E-value=1.4e+02  Score=21.52  Aligned_cols=83  Identities=12%  Similarity=0.013  Sum_probs=0.0  Template_Neff=8.900
+
+Q ss_pred             CCCCCCchHhhcCCHHHHHHHHHc------CcccCCCCCCCccce----eEEeeCCCChHHHHHHHccCCCcEEEEeecC
+Q FD01847913_040    7 GVPQNPGIVRRFMSKAEYKDFIKN------GFEFNPADSRGGISV----TSVKVDPKNPDAIKRSTGALGADYYVDIDTT   76 (111)
+Q Consensus         7 g~p~np~vVRRf~Sk~eyk~f~K~------GftfDP~d~r~GISa----Tst~i~p~nPD~I~~~TgAlgADyYVDId~~   76 (111)
+                      +.|.+....++|.|++=++.+++.      ++.+||--..+-...    .+.++.+...+       ...|-++|.+. .
+T Consensus        50 ~~p~~~~~~~~y~S~~l~~~l~~~~~~~~~~~d~D~f~~~QD~~~~~~~~~~~v~~~~~~-------~~~a~V~v~~~-~  121 (150)
+T 4HZ9_B           50 TYPLSEPDIERYVATDTVGRLRNDYAHAGPPNGVDYFLKVQDYDSRDWLAHIQVQRALML-------GDVAVVPVSFG-S  121 (150)
+T ss_dssp             CCGGGSGGGGGTBCHHHHHHHHHHHHTTCSGGGSCTTTCCSCCCHHHHHHCEEECCCEEE-------TTEEEEEEEEC-S
+T ss_pred             CCCCChHHHHHhcCHHHHHHHHHHHhcCCCCCCccceecccCCCcchHHhceEEEEEEEe-------CCEEEEEEEeC-C
+
+
+Q ss_pred             CCeeeeecccCCCccccEecc
+Q FD01847913_040   77 NKNVELKGKTKGGVMDWKIKD   97 (111)
+Q Consensus        77 ~kkv~~k~~TKgG~~d~KI~~   97 (111)
+                      ....+++=..+..-..|||.+
+T Consensus       122 ~~~~~~~~~l~ke~g~WkIdd  142 (150)
+T 4HZ9_B          122 QDPVHVLVFLKRVDATWKIIK  142 (150)
+T ss_dssp             SSCEEEEEEEEEETTEEEEEE
+T ss_pred             CCCEEEEEEEEEECCEEEEEE
+
+
+No 7
+>4FTF_A Alternate secretin pathway subunit S (VC395_1821, VC1703); pilotin, lipoprotein, secretin, protein secretion, PfamB PB000779, secretin binding, outer membrane, PROTEIN TRANSPORT; HET: ACT; 1.48A {Vibrio cholerae}
+Probab=31.99  E-value=45  Score=23.60  Aligned_cols=23  Identities=13%  Similarity=0.379  Sum_probs=0.0  Template_Neff=7.900
+
+Q ss_pred             CchHhhcCCHHHHHHHHHcCccc
+Q FD01847913_040   12 PGIVRRFMSKAEYKDFIKNGFEF   34 (111)
+Q Consensus        12 p~vVRRf~Sk~eyk~f~K~Gftf   34 (111)
+                      |.++-++|+..|.+.|...|+.|
+T Consensus        65 ~~~~~~~C~~~~~~~~l~~Gv~y   87 (112)
+T 4FTF_A           65 QSAVSSFCANKDIRSNLDVGISY   87 (112)
+T ss_dssp             HHHHHHHHHSHHHHHHHHHTCEE
+T ss_pred             HHHHHhhcCCHHHHHHHhcCCEE
+
+
+No 8
+>1ONL_A glycine cleavage system H protein; hybrid barrel-sandwich structure, structural genomics, RIKEN Structural Genomics/Proteomics Initiative, RSGI, oxidoreductase; 2.5A {Thermus thermophilus} SCOP: b.84.1.1
+Probab=30.19  E-value=92  Score=19.57  Aligned_cols=22  Identities=14%  Similarity=0.534  Sum_probs=0.0  Template_Neff=11.500
+
+Q ss_pred             CCCCchHhhcCCHHHHHHHHHc
+Q FD01847913_040    9 PQNPGIVRRFMSKAEYKDFIKN   30 (111)
+Q Consensus         9 p~np~vVRRf~Sk~eyk~f~K~   30 (111)
+                      |.++..+..|++.++|+.+.++
+T Consensus       105 ~~~~~~~~~l~~~~~~~~~~~~  126 (128)
+T 1ONL_A          105 PRDMGDLDELLDAGGYQEVLES  126 (128)
+T ss_dssp             ESCGGGGGGSBCHHHHHHHHHH
+T ss_pred             eCChhHHHhhcCHHHHHHHHhh
+
+
+No 9
+>PF13986.10 ; DUF4224 ; Domain of unknown function (DUF4224)
+Probab=29.58  E-value=96  Score=18.91  Aligned_cols=29  Identities=14%  Similarity=0.219  Sum_probs=0.0  Template_Neff=7.300
+
+Q ss_pred             HHHHHHHHHcCcccCCCCCCCccceeEEee
+Q FD01847913_040   21 KAEYKDFIKNGFEFNPADSRGGISVTSVKV   50 (111)
+Q Consensus        21 k~eyk~f~K~GftfDP~d~r~GISaTst~i   50 (111)
+                      .+..+.|+++||+|-++.. +-+-+|-..+
+T Consensus        17 ~~q~~wL~~~gi~~~~~~~-G~p~v~r~~~   45 (45)
+T C5A9Q5_BURGB/2   17 SKQIEALRRMGVPFLVNAC-GRAVVARSAI   45 (45)
+T ss_pred             HHHHHHHHHCCCCEeECCC-CCEEEehhcC
+
+
+No 10
+>3EYE_A PTS system N-acetylgalactosamine-specific IIB component 1; STRUCTURAL GENOMICS, PHOSPHOTRANSFERASE, PSI-2, Protein Structure Initiative, New York SGX Research Center for Structural Genomics, NYSGXRC; 1.45A {Escherichia coli O157:H7} SCOP: c.38.1.0
+Probab=27.84  E-value=1.7e+02  Score=22.53  Aligned_cols=64  Identities=9%  Similarity=0.294  Sum_probs=0.0  Template_Neff=7.500
+
+Q ss_pred             cCCHHHHHHHHHcCcccCCCCCCCcccee--------EEeeCCCChHHHHHHHccCCCcEEEEeecCCCeeeee
+Q FD01847913_040   18 FMSKAEYKDFIKNGFEFNPADSRGGISVT--------SVKVDPKNPDAIKRSTGALGADYYVDIDTTNKNVELK   83 (111)
+Q Consensus        18 f~Sk~eyk~f~K~GftfDP~d~r~GISaT--------st~i~p~nPD~I~~~TgAlgADyYVDId~~~kkv~~k   83 (111)
+                      |.|.+++..+.+.|+.++--.- +|++..        ++.+.+.+-++++++... |...|+-.--..+.+.+.
+T Consensus        88 ~~~~~~~~~l~~~G~~i~~ini-G~~~~~~g~~~v~~~v~l~~~d~~~l~~l~~~-Gv~v~~q~~P~d~~~~~~  159 (168)
+T 3EYE_A           88 CRTPQTVRKLVEGGIDLKDVNV-GNMHFSEGKKQISSKVYVDDQDLTDLRFIKQR-GVNVFIQDVPGDQKEQIP  159 (168)
+T ss_dssp             ESSHHHHHHHHHTTCCCCEEEE-CCBCCCTTCEEEETTEEECHHHHHHHHHHHHT-TCEEEECSSTTSCCBCCC
+T ss_pred             ECCHHHHHHHHHCCCCCCEEEE-CCCCCCCCCEEeCCceEECHHHHHHHHHHHHc-CCEEEEEeCCCCCcccCC
+
+
+No 11
+>1YSP_A Transcriptional regulator kdgR; transcriptional regulator, KdgR, IclR, Structural Genomics, PSI, Protein Structure Initiative, Midwest Center for Structural Genomics, MCSG; 1.8A {Escherichia coli} SCOP: d.110.2.0, l.1.1.1
+Probab=27.80  E-value=2e+02  Score=19.46  Aligned_cols=30  Identities=13%  Similarity=0.268  Sum_probs=0.0  Template_Neff=11.300
+
+Q ss_pred             HHHHHHHHHcCcccCCCCCCCccceeEEee
+Q FD01847913_040   21 KAEYKDFIKNGFEFNPADSRGGISVTSVKV   50 (111)
+Q Consensus        21 k~eyk~f~K~GftfDP~d~r~GISaTst~i   50 (111)
+                      .+++..+++.||-+++.....|++.-++-|
+T Consensus       100 ~~~l~~~r~~g~~~~~~~~~~~~~~ia~pv  129 (181)
+T 1YSP_A          100 LPVLDQVREQGYGEDNEEQEEGLRCIAVPV  129 (181)
+T ss_dssp             HHHHHHHHHHTCEEEESSSSTTBEEEEEEE
+T ss_pred             HHHHHHHHHhCCccccccccCCeeEEEEEE
+
+
+No 12
+>PF07862.15 ; Nif11 ; Nif11 domain
+Probab=26.52  E-value=1.8e+02  Score=16.58  Aligned_cols=24  Identities=13%  Similarity=0.165  Sum_probs=0.0  Template_Neff=9.500
+
+Q ss_pred             HhhcCCHHH-----HHHHHHcCcccCCCC
+Q FD01847913_040   15 VRRFMSKAE-----YKDFIKNGFEFNPAD   38 (111)
+Q Consensus        15 VRRf~Sk~e-----yk~f~K~GftfDP~d   38 (111)
+                      +....+.++     ....+++||.|.+.+
+T Consensus        23 l~~~~~~~~~~~~~~~~a~~~G~~ft~~e   51 (51)
+T B2JAK5_NOSP7/1   23 LGATENTDSFNELAVRLGQDNGYNFTIQE   51 (51)
+T ss_pred             HHcCCCHHHHHHHHHHHHHHhCCCcccCC
+
+
+No 13
+>PF16824.9 ; CBM_26 ; C-terminal carbohydrate-binding module
+Probab=26.17  E-value=90  Score=23.44  Aligned_cols=17  Identities=18%  Similarity=0.260  Sum_probs=0.0  Template_Neff=6.900
+
+Q ss_pred             CCCcEEEEeecCCCeee
+Q FD01847913_040   65 LGADYYVDIDTTNKNVE   81 (111)
+Q Consensus        65 lgADyYVDId~~~kkv~   81 (111)
+                      .+.+||+||..++..++
+T Consensus        34 ~~~~~~ldl~fsdp~vk   50 (130)
+T ALGX_PSESM/346   34 RNGSNQIDIRFDDTSVK   50 (130)
+T ss_pred             cCCceEEEEEeCCCCCC
+
+
+No 14
+>5HPF_C p-hydroxybenzoate hydroxylase transcriptional activator; Transcription factor, ligand binding domain, TRANSCRIPTION; HET: PO4, MSE, GOL; 2.309A {Acinetobacter baylyi str. ADP1}
+Probab=25.91  E-value=2.1e+02  Score=19.41  Aligned_cols=30  Identities=10%  Similarity=0.185  Sum_probs=0.0  Template_Neff=11.200
+
+Q ss_pred             HHHHHHHHHcCcccCCCCCCCccceeEEee
+Q FD01847913_040   21 KAEYKDFIKNGFEFNPADSRGGISVTSVKV   50 (111)
+Q Consensus        21 k~eyk~f~K~GftfDP~d~r~GISaTst~i   50 (111)
+                      .+++.++++.||-++......|++.-++-|
+T Consensus       105 ~~~~~~~r~~g~~~~~~~~~~g~~~ia~pv  134 (178)
+T 5HPF_C          105 LETLDAVRQSDYCLSTEEHELGVIAIAVPV  134 (178)
+T ss_dssp             HHHHHHHHHHTCEEEESSSSTTEEEEEEEE
+T ss_pred             HHHHHHHHhhCcEEecccccCCeEEEEEEE
+
+
+No 15
+>3KZT_B uncharacterized protein; Protein of unknown function, Structural Genomics, Joint Center for Structural Genomics, JCSG, Protein Structure Initiative, PSI-2; HET: SO4, EDO, MSE; 2.1A {Bacteroides thetaiotaomicron}
+Probab=25.88  E-value=3.7e+02  Score=18.84  Aligned_cols=77  Identities=13%  Similarity=0.157  Sum_probs=0.0  Template_Neff=9.500
+
+Q ss_pred             CCCchHhhcCCHHHHHHHHHc--CcccCCCCCCCcccee---EEeeCCCChHHHHHHHccCCCcEEEEeecCC-----Ce
+Q FD01847913_040   10 QNPGIVRRFMSKAEYKDFIKN--GFEFNPADSRGGISVT---SVKVDPKNPDAIKRSTGALGADYYVDIDTTN-----KN   79 (111)
+Q Consensus        10 ~np~vVRRf~Sk~eyk~f~K~--GftfDP~d~r~GISaT---st~i~p~nPD~I~~~TgAlgADyYVDId~~~-----kk   79 (111)
+                      ..+...+.|+|++-++.|++.  ++.|||--..+.....   +..+.+           ..++-+.|.+....     ..
+T Consensus        52 ~~~~~~~~~~S~~l~~~l~~~~~~~d~D~~~~~qd~~~~~~~~~~i~~-----------~~~~~~~V~~~~~~~~~~~~~  120 (143)
+T 3KZT_B           52 LGDSIKQKFLTKELIEKVDRLIEATDADPIIRAQDLGENDMKTLSVKH-----------LNDNWYEVNYTSAKGSQYERA  120 (143)
+T ss_dssp             HHHHHHHHHBCHHHHHHHHHHHHHSSSBTTTTBSSCCTTSGGGCEEEE-----------EETTEEEEEEEETTTSTTCEE
+T ss_pred             hhHHHHHhhCCHHHHHHHHHHHHhcCCCceeccccCCccccceeEEEE-----------cCCCEEEEEEEcCCCCCCCcc
+
+
+Q ss_pred             eeeecccCCCccccEecc
+Q FD01847913_040   80 VELKGKTKGGVMDWKIKD   97 (111)
+Q Consensus        80 v~~k~~TKgG~~d~KI~~   97 (111)
+                      ..+.=.-+--...|+|.+
+T Consensus       121 ~~~~~~lv~~~g~w~Idd  138 (143)
+T 3KZT_B          121 VSIPVRVVNVDGQYLIDD  138 (143)
+T ss_dssp             EEEEEEEEEETTEEEEEE
+T ss_pred             eEEEEEEEeeCCEEEEEE
+
+
+No 16
+>PF15633.10 ; Tox-ART-HYD1 ; HYD1 signature containing ADP-ribosyltransferase
+Probab=25.46  E-value=3e+02  Score=17.62  Aligned_cols=67  Identities=19%  Similarity=0.313  Sum_probs=0.0  Template_Neff=10.100
+
+Q ss_pred             HhhcCCHHHHHHHHHcCccc------CCCCCCCccceeEEeeCCCC--hHHHHHHHc-----cCCCcEEEEeecCCCeee
+Q FD01847913_040   15 VRRFMSKAEYKDFIKNGFEF------NPADSRGGISVTSVKVDPKN--PDAIKRSTG-----ALGADYYVDIDTTNKNVE   81 (111)
+Q Consensus        15 VRRf~Sk~eyk~f~K~Gftf------DP~d~r~GISaTst~i~p~n--PD~I~~~Tg-----AlgADyYVDId~~~kkv~   81 (111)
+                      +..|.+++.+..+.+.|.-.      ++.+.+.|-..=-+.+.|..  +..+....+     ..-+++||.|++...++.
+T Consensus         1 ~yHyt~~~g~~~I~~~~~i~~s~~~~~~~~~~~g~g~y~t~~~p~~~~~~~~~~~~~~~~~~~~k~~~~i~id~~~~~~~   80 (101)
+T G8M247_ACECE/5    1 LYHYTDEVGLNGILNSKKLKPSLKAVNPKDARYGNGQYLSDIIPGTKTPGQLSKQFINNPFQGKRFTYYIEIDVTDLNII   80 (101)
+T ss_pred             CcccCCHHHHHHHHccCCCCCCcccCCccccccCCCeeccCCCCCCCChHHHHhhhhCCcccccceEEEEEEEcCCCeeE
+
+
+No 17
+>3NPD_A putative secreted protein; Structural Genomics, Joint Center for Structural Genomics, JCSG, Protein Structure Initiative, PSI-2, UNKNOWN FUNCTION; HET: MSE, SO4, CXS; 1.6A {Pseudomonas aeruginosa}
+Probab=25.01  E-value=99  Score=21.12  Aligned_cols=43  Identities=12%  Similarity=0.261  Sum_probs=0.0  Template_Neff=9.200
+
+Q ss_pred             CchHhhcCCHHHHHHHHHcCcc--cCCCCCCCccceeEEeeCCCC
+Q FD01847913_040   12 PGIVRRFMSKAEYKDFIKNGFE--FNPADSRGGISVTSVKVDPKN   54 (111)
+Q Consensus        12 p~vVRRf~Sk~eyk~f~K~Gft--fDP~d~r~GISaTst~i~p~n   54 (111)
+                      +.+...+|+...++.|.++|++  |-=.+...|-...++.|.|.+
+T Consensus        67 ~~~~~~~C~~~~~~~~~~~G~~i~y~Y~~~~~g~~l~~~~i~~~d  111 (118)
+T 3NPD_A           67 SQLGDSVCSNTGYRQLLARGAILTYSFTEYKTNQPVATERFDAGS  111 (118)
+T ss_dssp             HHHHHHHHTCHHHHHHHTTTCEEEEEEEETTTCCEEEEEEECHHH
+T ss_pred             HHHHHhhccCHhHHHHHHCCCEEEEEEeeCCCCcEEEEEEEcHhh
+
+
+No 18
+>3WDN_A Glycine cleavage system H protein, mitochondrial; antiparallel beta sheet, beta sandwich, OXIDOREDUCTASE; HET: GOL; 0.86A {Bos taurus} SCOP: b.84.1.0
+Probab=24.60  E-value=1.2e+02  Score=19.12  Aligned_cols=22  Identities=32%  Similarity=0.603  Sum_probs=0.0  Template_Neff=11.300
+
+Q ss_pred             CCCCchHhhcCCHHHHHHHHHc
+Q FD01847913_040    9 PQNPGIVRRFMSKAEYKDFIKN   30 (111)
+Q Consensus         9 p~np~vVRRf~Sk~eyk~f~K~   30 (111)
+                      |+++...+.+++.++|+++.++
+T Consensus       101 ~~~~~~~~~l~~~~~~~~~~~~  122 (125)
+T 3WDN_A          101 FSNPSELDELMSEEAYEKYIKS  122 (125)
+T ss_dssp             ESCGGGGGGSEEHHHHHHHHHH
+T ss_pred             eCCHHHHHhhCCHHHHHHHHHh
+
+
+No 19
+>PF18096.5 ; Thump_like ; THUMP domain-like
+Probab=24.13  E-value=2e+02  Score=18.56  Aligned_cols=20  Identities=15%  Similarity=0.214  Sum_probs=0.0  Template_Neff=8.400
+
+Q ss_pred             CCChHHHHHHHccCCC-cEEE
+Q FD01847913_040   52 PKNPDAIKRSTGALGA-DYYV   71 (111)
+Q Consensus        52 p~nPD~I~~~TgAlgA-DyYV   71 (111)
+                      |.+||.+++..+..|. ++|+
+T Consensus        37 ~~~~~~lrk~l~~~g~~~~~l   57 (73)
+T L0DLW3_SINAD/3   37 DLRPEALRAQWKPRGPHPATL   57 (73)
+T ss_pred             CCCHHHHHHHhCCCCCCCEEE
+
+
+No 20
+>PF07879.15 ; PHB_acc_N ; PHB/PHA accumulation regulator DNA-binding domain
+Probab=22.78  E-value=94  Score=21.22  Aligned_cols=31  Identities=16%  Similarity=0.321  Sum_probs=0.0  Template_Neff=5.600
+
+Q ss_pred             hhcCCHHHHHHHHHcCcccCCCCCCCcccee
+Q FD01847913_040   16 RRFMSKAEYKDFIKNGFEFNPADSRGGISVT   46 (111)
+Q Consensus        16 RRf~Sk~eyk~f~K~GftfDP~d~r~GISaT   46 (111)
+                      +||.|.+|+.++.+.|..|---|...|--.|
+T Consensus        16 ~~yVtl~el~~li~~G~~~~V~d~~Tg~DiT   46 (61)
+T G2KLR2_MICAA/1   16 SSYVTLDDLCTMVKEERDFVVYDAKTGEDLT   46 (61)
+T ss_pred             CCccCHHHHHHHHHhCCCEEEEeCCCCCccH
+
+
+No 21
+>PF14066.10 ; DUF4256 ; Protein of unknown function (DUF4256)
+Probab=22.69  E-value=1.5e+02  Score=24.26  Aligned_cols=42  Identities=24%  Similarity=0.387  Sum_probs=0.0  Template_Neff=5.300
+
+Q ss_pred             hcCCHHHHHHHHHcCcccCCCCCCCccceeEEeeCCCChHHHHHHHccCCCcE
+Q FD01847913_040   17 RFMSKAEYKDFIKNGFEFNPADSRGGISVTSVKVDPKNPDAIKRSTGALGADY   69 (111)
+Q Consensus        17 Rf~Sk~eyk~f~K~GftfDP~d~r~GISaTst~i~p~nPD~I~~~TgAlgADy   69 (111)
+                      ..++.++|..|...|- ||.+-+ +=|.+         |+.||+.-||+-.|+
+T Consensus       105 ~Ll~e~~Y~~LQ~~~~-~D~kts-sWL~T---------p~~iR~~GgAlfgd~  146 (173)
+T C6VZE9_DYAFD/1  105 EILDEETYRHLQTLGK-FDLKTS-SWIKT---------PANIRKLGGAVFCDR  146 (173)
+T ss_pred             ccCCHHHHHHHHhhcC-ccCCCc-ccccC---------ChhHHccCCcEEeee
+
+
+No 22
+>PF14056.10 ; DUF4250 ; Domain of unknown function (DUF4250)
+Probab=20.98  E-value=1.3e+02  Score=18.79  Aligned_cols=16  Identities=13%  Similarity=0.351  Sum_probs=0.0  Template_Neff=7.700
+
+Q ss_pred             HHHHHcCcccCCCCCC
+Q FD01847913_040   25 KDFIKNGFEFNPADSR   40 (111)
+Q Consensus        25 k~f~K~GftfDP~d~r   40 (111)
+                      +.|++.|+.||+...+
+T Consensus        39 ~~l~~~GY~y~~~~~q   54 (55)
+T R5LDH5_9FIRM/3   39 SKLKSAGYIYNKTINQ   54 (55)
+T ss_pred             HHHHHCCCeeeCCCCC
+
+
+No 23
+>6I2V_A Uncharacterized protein; Pilotin, T2SS, V.vulnificus, Outer-membrane, PROTEIN BINDING; HET: SO4, 1PE; 1.75A {Vibrio vulnificus}
+Probab=20.54  E-value=1.1e+02  Score=22.66  Aligned_cols=22  Identities=14%  Similarity=0.368  Sum_probs=0.0  Template_Neff=6.500
+
+Q ss_pred             chHhhcCCHHHHHHHHHcCccc
+Q FD01847913_040   13 GIVRRFMSKAEYKDFIKNGFEF   34 (111)
+Q Consensus        13 ~vVRRf~Sk~eyk~f~K~Gftf   34 (111)
+                      .++++||+..|.+.+...|+.|
+T Consensus        68 ~~~~~yC~~~ei~~~L~~GV~Y   89 (114)
+T 6I2V_A           68 TSVSKYCEDATVRNQLDMGLMY   89 (114)
+T ss_dssp             HHHHHHHHCHHHHHHHHHTCEE
+T ss_pred             HHHHHhcCCHHHHHHHHcCCeE
+
+
+No 24
+>PF04365.17 ; BrnT_toxin ; Ribonuclease toxin, BrnT, of type II toxin-antitoxin system
+Probab=20.49  E-value=1.2e+02  Score=18.49  Aligned_cols=18  Identities=17%  Similarity=0.196  Sum_probs=0.0  Template_Neff=10.100
+
+Q ss_pred             cCCHHHHHHHHHcCcccC
+Q FD01847913_040   18 FMSKAEYKDFIKNGFEFN   35 (111)
+Q Consensus        18 f~Sk~eyk~f~K~GftfD   35 (111)
+                      |+.....+.+.++|++|+
+T Consensus         1 wd~~k~~~~~~khgi~~~   18 (79)
+T B6INL0_RHOCS/5    1 WDRQKAEANRRKHGVCFG   18 (79)
+T ss_pred             CCHHHHHHHHHHhCCCHH
+
+

@@ -1,0 +1,185 @@
+Query         FD01873430_03463 RHS repeat family protein
+Match_columns 119
+No_of_seqs    17 out of 22
+Neff          3.2177
+Searched_HMMs 86581
+Date          Mon Feb 26 21:10:49 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/4267588.hhr -oa3m ../results/4267588.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 PF15633.10 ; Tox-ART-HYD1 ; HY  99.2 6.7E-12 7.7E-17   81.9   1.4   92    4-101     1-95  (101)
+  2 PF13151.10 ; DUF3990 ; Protein  52.8      45 0.00053   23.9   3.6   68    2-85      1-68  (147)
+  3 7ZHL_A RHS repeat protein; bac  39.6 1.2E+02  0.0014   21.0   4.0   69    2-93      5-74  (116)
+  4 4KZS_A LPP20 lipofamily protei  33.6 1.7E+02  0.0019   23.7   4.4   60   42-109   182-244 (285)
+  5 PF20033.3 ; DUF6438 ; Domain o  32.4 1.6E+02  0.0018   18.3   3.3   32   16-54     19-50  (76)
+  6 PF10694.13 ; DUF2500 ; Protein  26.9      70 0.00081   22.3   1.2   34   65-98     58-91  (106)
+  7 2XND_H ATP SYNTHASE SUBUNIT DE  25.5 2.5E+02  0.0028   20.1   3.7   69   39-109     9-77  (131)
+  8 PF04025.16 ; RemA-like ; Extra  25.5 1.1E+02  0.0013   20.8   1.9   13   42-54     59-71  (73)
+  9 7P1W_A Putative regulatory pro  24.9 1.1E+02  0.0013   22.3   2.0   13   42-54     70-82  (94)
+ 10 2JDI_H ATP SYNTHASE DELTA CHAI  21.8 3.6E+02  0.0042   20.1   4.1   69   39-109    23-91  (146)
+
+No 1
+>PF15633.10 ; Tox-ART-HYD1 ; HYD1 signature containing ADP-ribosyltransferase
+Probab=99.21  E-value=6.7e-12  Score=81.94  Aligned_cols=92  Identities=18%  Similarity=0.335  Sum_probs=62.1  Template_Neff=10.100
+
+Q ss_pred             EEEecCcccccceeccccEEeCCCCcCCCCccCCCCCceEEEcCCHHHHhhc---CccccccCCccceeEEEEEEechhh
+Q FD01873430_034    4 VYHYTSKDGYNGIMGSGTIQTKDPGARGKGSIQGKPQGVYVTTLSPEELKSS---GLRGKMGLTKEKSTHFISFEIDSSK   80 (119)
+Q Consensus         4 VyHYTdK~GYngI~~s~~I~~~~~~~ra~~~~kg~p~GVYVTt~SPe~L~~~---g~k~~lGlT~eKSt~yi~Fevd~s~   80 (119)
+                      +||||+++|+++|..++.|..+.+.......  ..+.|||+|.+.|+.....   ..-..+.....|.+|+|+|++++..
+T Consensus         1 ~yHyt~~~g~~~I~~~~~i~~s~~~~~~~~~--~~g~g~y~t~~~p~~~~~~~~~~~~~~~~~~~~k~~~~i~id~~~~~   78 (101)
+T G8M247_ACECE/5    1 LYHYTDEVGLNGILNSKKLKPSLKAVNPKDA--RYGNGQYLSDIIPGTKTPGQLSKQFINNPFQGKRFTYYIEIDVTDLN   78 (101)
+T ss_pred             CcccCCHHHHHHHHccCCCCCCcccCCcccc--ccCCCeeccCCCCCCCChHHHHhhhhCCcccccceEEEEEEEcCCCe
+Confidence            5999999999999999999874332112211  2578999999999987433   2222455566899999999999954
+
+
+Q ss_pred             eeEecCCCCeEEEEEEcCeEe
+Q FD01873430_034   81 VKRVDRQNGYLRLYIEEDIVL  101 (119)
+Q Consensus        81 lK~v~~~~g~~r~yi~gDv~L  101 (119)
+                      +  +...+.+  ..+.+|+.|
+T Consensus        79 ~--~~~~~~v--~~~~~~~~l   95 (101)
+T G8M247_ACECE/5   79 I--IKGRDGV--YVVLGEEPL   95 (101)
+T ss_pred             e--EeCCCCE--EEeCCCCCC
+Confidence            3  3333333  233555544
+
+
+No 2
+>PF13151.10 ; DUF3990 ; Protein of unknown function (DUF3990)
+Probab=52.84  E-value=45  Score=23.85  Aligned_cols=68  Identities=16%  Similarity=0.209  Sum_probs=0.0  Template_Neff=9.800
+
+Q ss_pred             eEEEEecCcccccceeccccEEeCCCCcCCCCccCCCCCceEEEcCCHHHHhhcCccccccCCccceeEEEEEEechhhe
+Q FD01873430_034    2 VRVYHYTSKDGYNGIMGSGTIQTKDPGARGKGSIQGKPQGVYVTTLSPEELKSSGLRGKMGLTKEKSTHFISFEIDSSKV   81 (119)
+Q Consensus         2 v~VyHYTdK~GYngI~~s~~I~~~~~~~ra~~~~kg~p~GVYVTt~SPe~L~~~g~k~~lGlT~eKSt~yi~Fevd~s~l   81 (119)
+                      +.+||-|+.       ....+.+     .......--++|.|+|+-  .+.+.. +..............+.|+++.+.+
+T Consensus         1 ~~lyHGT~~-------~~~~~~~-----~~~~~~~DFG~GfY~t~~--~~~A~~-~a~~~~~~~~~~~~v~~~~i~~~~~   65 (147)
+T F5YIS2_TREPZ/1    1 MKVYHGSSA-------VVNKPDI-----KFSRKNLDFGKGFYVTSY--QEQAEN-WAKRKALRKGTAPIVSAYTLNEDFD   65 (147)
+T ss_pred             CeEeecccc-------cccCCcc-----ccCCCCCCCCCEEEEeCC--HHHHHH-HHHHHHHhcCCCCEEEEEEeCCCch
+
+
+Q ss_pred             eEec
+Q FD01873430_034   82 KRVD   85 (119)
+Q Consensus        82 K~v~   85 (119)
+                      . ++
+T Consensus        66 ~-l~   68 (147)
+T F5YIS2_TREPZ/1   66 R-FQ   68 (147)
+T ss_pred             h-cc
+
+
+No 3
+>7ZHL_A RHS repeat protein; bacterial toxin, secreted toxin, T6SS, ADP-ribosyltransferase, translation inhibitor, TOXIN; 2.2A {Salmonella enterica subsp. enterica serovar Typhimurium}
+Probab=39.59  E-value=1.2e+02  Score=20.97  Aligned_cols=69  Identities=10%  Similarity=0.310  Sum_probs=0.0  Template_Neff=9.600
+
+Q ss_pred             eEEEEecCcccccceeccccEEeCCCCcCCCCccCCCCCceEEEc-CCHHHHhhcCccccccCCccceeEEEEEEechhh
+Q FD01873430_034    2 VRVYHYTSKDGYNGIMGSGTIQTKDPGARGKGSIQGKPQGVYVTT-LSPEELKSSGLRGKMGLTKEKSTHFISFEIDSSK   80 (119)
+Q Consensus         2 v~VyHYTdK~GYngI~~s~~I~~~~~~~ra~~~~kg~p~GVYVTt-~SPe~L~~~g~k~~lGlT~eKSt~yi~Fevd~s~   80 (119)
+                      ++|.++.+...|..+..++.+...            .....||.. ..++.....         ..+...|++|.++.+.
+T Consensus         5 ~~vgr~ms~~e~~~m~~tg~v~~~------------~~g~t~v~~~~~~~~~~~~---------~~~g~~~vefdv~~~~   63 (116)
+T 7ZHL_A            5 ATVGRWMGPAEYQQMLDTGTVVQS------------STGTTHVAYPADIDAFGKQ---------AKNGAMYVEFDVPEKS   63 (116)
+T ss_dssp             EEEEEEECHHHHHHHHHHTBCCCC------------TTSEEEEBSSCCTTSSTTT---------SCTTCEEEEEEEEGGG
+T ss_pred             eeeccccCHHHHHHHHhhCCeeec------------CCCceeeecCcChhhhhhh---------ccCCceEEEeecCHHh
+
+
+Q ss_pred             eeEecCCCCeEEE
+Q FD01873430_034   81 VKRVDRQNGYLRL   93 (119)
+Q Consensus        81 lK~v~~~~g~~r~   93 (119)
+                      |..-  +.+..++
+T Consensus        64 l~~~--~~gw~~~   74 (116)
+T 7ZHL_A           64 LVPT--NEGWAKI   74 (116)
+T ss_dssp             CBCC--SSSSEEE
+T ss_pred             cccC--CCcceEe
+
+
+No 4
+>4KZS_A LPP20 lipofamily protein; Helicobacter pylori, secreted proteins, outer membrane, Tol-Pal system, Three-helix bundle, UNKNOWN FUNCTION; HET: 1PE; 2.7A {Helicobacter pylori R046Wa}
+Probab=33.61  E-value=1.7e+02  Score=23.70  Aligned_cols=60  Identities=13%  Similarity=0.034  Sum_probs=0.0  Template_Neff=9.600
+
+Q ss_pred             eEEEcCCHHHHhhc--Ccccccc-CCccceeEEEEEEechhheeEecCCCCeEEEEEEcCeEeecccccee
+Q FD01873430_034   42 VYVTTLSPEELKSS--GLRGKMG-LTKEKSTHFISFEIDSSKVKRVDRQNGYLRLYIEEDIVLRDVNNKLR  109 (119)
+Q Consensus        42 VYVTt~SPe~L~~~--g~k~~lG-lT~eKSt~yi~Fevd~s~lK~v~~~~g~~r~yi~gDv~Lrd~N~k~~  109 (119)
+                      |.|..-.++.+...  ..-+.++ .+++.+.|.|.+.+...        .+...+++..++.+.|.++..+
+T Consensus       182 v~v~~~~~~~i~~~l~~~L~g~~~~~~~~~~~~i~~~~~~~--------~~~~~~~~~~~~~~~d~~g~~v  244 (285)
+T 4KZS_A          182 ITFDNNSDAEIKAALISAYARVLTPSDEEKLYQIKNEVFTD--------SANGITRIRVVVSASDCQGTPV  244 (285)
+T ss_dssp             ECCCSSCCHHHHHHHHHHHTTTCEEECCSSSCEECCCBSSS--------BCCCCBBTTBCCCCCCCCCCCC
+T ss_pred             EEEcCCChHHHHHHHHHHHhhhccCCCcccceEEEEEEEEe--------cCCCeEEEEEEEEEEcCCCCeE
+
+
+No 5
+>PF20033.3 ; DUF6438 ; Domain of unknown function (DUF6438)
+Probab=32.39  E-value=1.6e+02  Score=18.27  Aligned_cols=32  Identities=16%  Similarity=0.292  Sum_probs=0.0  Template_Neff=10.300
+
+Q ss_pred             eeccccEEeCCCCcCCCCccCCCCCceEEEcCCHHHHhh
+Q FD01873430_034   16 IMGSGTIQTKDPGARGKGSIQGKPQGVYVTTLSPEELKS   54 (119)
+Q Consensus        16 I~~s~~I~~~~~~~ra~~~~kg~p~GVYVTt~SPe~L~~   54 (119)
+                      |.+.+.+.+     .+....  ...|.|...++++++.+
+T Consensus        19 I~~dG~v~~-----~~~~~~--~~~g~~~~~l~~~~~~~   50 (76)
+T A0A0Q7E0J7_9CA   19 LRNDGTVYF-----CGRYYV--QAAGWREGRITREQFDT   50 (76)
+T ss_pred             EeCCCEEEE-----ECeecc--cCCeEEEEEcCHHHHHH
+
+
+No 6
+>PF10694.13 ; DUF2500 ; Protein of unknown function (DUF2500)
+Probab=26.89  E-value=70  Score=22.31  Aligned_cols=34  Identities=15%  Similarity=0.400  Sum_probs=0.0  Template_Neff=8.900
+
+Q ss_pred             ccceeEEEEEEechhheeEecCCCCeEEEEEEcC
+Q FD01873430_034   65 KEKSTHFISFEIDSSKVKRVDRQNGYLRLYIEED   98 (119)
+Q Consensus        65 ~eKSt~yi~Fevd~s~lK~v~~~~g~~r~yi~gD   98 (119)
+                      .....|++.|+.++..-..+.-....+...-+||
+T Consensus        58 ~~~~~y~v~F~~~~G~~~e~~v~~~~y~~l~~Gd   91 (106)
+T Q67LD8_SYMTH/1   58 SHHTAYYVTFEFEDGRREEFSVRGDQYGLLVEGD   91 (106)
+T ss_pred             cccEEEEEEEEECCCCEEEEEEcHHHcCccCCCC
+
+
+No 7
+>2XND_H ATP SYNTHASE SUBUNIT DELTA, MITOCHONDRIAL; ATP PHOSPHORYLASE (H+ TRANSPORTING), ATP SYNTHESIS, F1FO ATP SYNTHASE, HYDROLASE, ION TRANSPORT, P-LOOP; HET: ANP; 3.5A {BOS TAURUS}
+Probab=25.51  E-value=2.5e+02  Score=20.14  Aligned_cols=69  Identities=9%  Similarity=0.198  Sum_probs=0.0  Template_Neff=9.300
+
+Q ss_pred             CCceEEEcCCHHHHhhcCccccccCCccceeEEEEEEechhheeEecCCCCeEEEEEEcCeEeecccccee
+Q FD01873430_034   39 PQGVYVTTLSPEELKSSGLRGKMGLTKEKSTHFISFEIDSSKVKRVDRQNGYLRLYIEEDIVLRDVNNKLR  109 (119)
+Q Consensus        39 p~GVYVTt~SPe~L~~~g~k~~lGlT~eKSt~yi~Fevd~s~lK~v~~~~g~~r~yi~gDv~Lrd~N~k~~  109 (119)
+                      |.|.+........+.-.+..|.+|+-..++.....+..  ..+.....+.....++|.+-+-....|++..
+T Consensus         9 p~~~~~~~~~v~~v~~~~~~G~~~il~~H~~~i~~l~~--G~~~i~~~~~~~~~~~i~~G~~~v~~~~~~~   77 (131)
+T 2XND_H            9 PTQVFFNSANVRQVDVPTQTGAFGILAAHVPTLQVLRP--GLVVVHAEDGTTSKYFVSSGSVTVNADSSVQ   77 (131)
+T ss_dssp             SSCEEEEEEECSEEEECBSSSCEEECTTCCCCCEEBCS--EEEEEECSSSCCEEEEESSEEEEECSSSEEE
+T ss_pred             CCceEEcCCcEEEEEEecCCccEEecCCCCCeEEEeCC--EEEEEEeCCCCEEEEEEecceEEECCCCeEE
+
+
+No 8
+>PF04025.16 ; RemA-like ; Extracellular matrix regulatory protein A-like
+Probab=25.47  E-value=1.1e+02  Score=20.75  Aligned_cols=13  Identities=23%  Similarity=0.411  Sum_probs=0.0  Template_Neff=7.600
+
+Q ss_pred             eEEEcCCHHHHhh
+Q FD01873430_034   42 VYVTTLSPEELKS   54 (119)
+Q Consensus        42 VYVTt~SPe~L~~   54 (119)
+                      ||++++||++|.+
+T Consensus        59 vy~S~is~~TL~k   71 (73)
+T R7MLC1_9FIRM/3   59 VILSSLITDTVAS   71 (73)
+T ss_pred             EEEeCCCHHHHHh
+
+
+No 9
+>7P1W_A Putative regulatory protein GTNG_1019; Biofilm, DNA-binding, histone-like, Geobacillus, DNA BINDING PROTEIN; 1.8A {Geobacillus thermodenitrificans (strain NG80-2)}
+Probab=24.95  E-value=1.1e+02  Score=22.35  Aligned_cols=13  Identities=23%  Similarity=0.588  Sum_probs=0.0  Template_Neff=6.600
+
+Q ss_pred             eEEEcCCHHHHhh
+Q FD01873430_034   42 VYVTTLSPEELKS   54 (119)
+Q Consensus        42 VYVTt~SPe~L~~   54 (119)
+                      ||.+++||++|.+
+T Consensus        70 vylSpis~~TL~k   82 (94)
+T 7P1W_A           70 VILSSVQPETVAN   82 (94)
+T ss_dssp             EEEESSCHHHHHH
+T ss_pred             EEEeCCCHHHHHH
+
+
+No 10
+>2JDI_H ATP SYNTHASE DELTA CHAIN; ATP PHOSPHORYLASE, HYDROLASE, ATP SYNTHESIS; HET: ANP; 1.9A {BOS TAURUS} SCOP: a.2.10.1, b.93.1.1
+Probab=21.79  E-value=3.6e+02  Score=20.05  Aligned_cols=69  Identities=9%  Similarity=0.198  Sum_probs=0.0  Template_Neff=8.800
+
+Q ss_pred             CCceEEEcCCHHHHhhcCccccccCCccceeEEEEEEechhheeEecCCCCeEEEEEEcCeEeecccccee
+Q FD01873430_034   39 PQGVYVTTLSPEELKSSGLRGKMGLTKEKSTHFISFEIDSSKVKRVDRQNGYLRLYIEEDIVLRDVNNKLR  109 (119)
+Q Consensus        39 p~GVYVTt~SPe~L~~~g~k~~lGlT~eKSt~yi~Fevd~s~lK~v~~~~g~~r~yi~gDv~Lrd~N~k~~  109 (119)
+                      |.+++........+.-.+..|.+|+-..++.+...+..  ..+.....+.....++|.+-+-....|+++.
+T Consensus        23 p~~~~~~~~~v~~v~~~~~~G~~gIl~~H~~~i~~l~~--G~i~i~~~~~~~~~~~v~~G~~~v~~~~~v~   91 (146)
+T 2JDI_H           23 PTQVFFNSANVRQVDVPTQTGAFGILAAHVPTLQVLRP--GLVVVHAEDGTTSKYFVSSGSVTVNADSSVQ   91 (146)
+T ss_dssp             SSCEEEC-----CCCCCC-----------------CCS--BCCCC----------CBCSBC---------C
+T ss_pred             CCceEEeCCceeEEEEecCCccEEecCCCcCeEEEeCC--eEEEEEeCCCCEEEEEEeCCeEEECCCCEEE
+
+

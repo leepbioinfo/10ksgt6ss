@@ -1,0 +1,487 @@
+Query         FD01848789_00537 hypothetical protein
+Match_columns 192
+No_of_seqs    103 out of 131
+Neff          5.74029
+Searched_HMMs 86581
+Date          Tue Feb 27 23:43:29 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/4994472.hhr -oa3m ../results/4994472.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 PF17363.6 ; DUF5388 ; Family o  53.6      89   0.001   22.3   5.2   44   31-74     10-53  (65)
+  2 PF17452.6 ; YnfE ; Uncharacter  51.6 1.1E+02  0.0012   23.7   5.5   58   18-75     19-77  (78)
+  3 5IR0_B Uncharacterized protein  48.9      38 0.00044   28.9   3.2   40  151-191   110-149 (161)
+  4 PF14069.10 ; SpoVIF ; Stage VI  45.3      86   0.001   23.1   4.2   49   30-78     11-60  (72)
+  5 6YNX_P ATPTT10; mitochondria,   45.1      39 0.00045   28.8   2.6   97   64-160    20-126 (152)
+  6 3AYH_A DNA-directed RNA polyme  41.9   2E+02  0.0024   22.6   6.2   66   13-78     54-131 (136)
+  7 PF08349.15 ; DUF1722 ; Protein  34.0 2.9E+02  0.0034   20.7   5.7   62   32-93     32-93  (117)
+  8 5AWF_A FeS cluster assembly pr  32.0 1.9E+02  0.0022   28.4   5.5   55   33-87    441-495 (495)
+  9 4DN7_B ABC transporter, ATP-bi  31.3 2.1E+02  0.0024   27.2   5.5   53   33-85    377-429 (429)
+ 10 2F5U_A Virion protein UL25; HS  28.8      38 0.00044   33.8   0.3    9  150-158   428-436 (447)
+ 11 PF01706.20 ; FliG_C ; FliG C-t  28.8      61  0.0007   24.3   1.3   39  135-173     3-43  (108)
+ 12 7DV2_D SegB; DNA BINDING PROTE  28.1      91   0.001   24.4   2.1   16  133-148    54-69  (83)
+ 13 PF18689.5 ; PriX ; Primase X    27.8      91  0.0011   24.8   2.1   16  133-148    78-93  (95)
+ 14 PF14129.10 ; DUF4296 ; Domain   27.7 1.9E+02  0.0022   20.9   3.7   29  163-192    54-82  (87)
+ 15 7NXP_A Capsid vertex component  27.4      39 0.00045   34.1   0.1    9  150-158   446-454 (479)
+ 16 7ANE_p mS23; Ribosome, Mitocho  27.2 1.4E+02  0.0016   28.6   3.4   47   38-88    130-176 (321)
+ 17 6SGA_Cb mS23; mitochondrial ri  26.7 1.3E+02  0.0015   28.7   3.2   47   38-88    130-176 (311)
+ 18 6PPB_l Capsid vertex component  25.9      45 0.00052   34.2   0.2    9  150-158   530-538 (549)
+ 19 7ETJ_O Capsid vertex component  25.5      47 0.00055   34.8   0.2    9  150-158   624-632 (642)
+ 20 6W2D_w Capsid vertex component  25.1      45 0.00052   34.4   0.0    9  150-158   551-559 (570)
+ 21 PF17447.6 ; YkpC ; Uncharacter  25.0 1.1E+02  0.0013   20.8   1.8   17  109-125     7-23  (42)
+ 22 5ZZ8_s UL25; Herpes simplex vi  24.9      46 0.00054   34.4   0.1    9  150-158   566-574 (585)
+ 23 PF03874.20 ; RNA_pol_Rpb4 ; RN  24.8 6.3E+02  0.0073   21.5   6.6   70    9-78     57-156 (160)
+ 24 6RWT_A Ubiquinol-cytochrome C   24.3 6.7E+02  0.0077   21.2   7.3   67  125-191    16-83  (184)
+ 25 PF05461.15 ; ApoL ; Apolipopro  24.2 8.5E+02  0.0098   22.4  10.8  113   23-137    39-152 (298)
+ 26 7FJ1_c DNA packaging tegument   24.0      47 0.00054   34.0  -0.1    9  150-158   516-524 (534)
+ 27 PF01785.21 ; Closter_coat ; Cl  23.6      77 0.00089   27.2   1.1   30   10-43    142-171 (194)
+ 28 2YSK_A Hypothetical protein TT  23.0 6.3E+02  0.0072   20.5   6.2   69   10-78     62-134 (145)
+ 29 PF05358.15 ; DicB ; DicB prote  21.8 1.5E+02  0.0017   22.0   2.0   18  166-184    28-45  (62)
+ 30 5IZS_F Designed protein 5L6HC3  21.8 6.2E+02  0.0071   20.2   5.4   56  134-192    16-71  (95)
+ 31 7BQA_B 60 kDa polyprotein; ASF  20.2 1.2E+02  0.0014   29.5   1.8   27  135-161    55-85  (339)
+
+No 1
+>PF17363.6 ; DUF5388 ; Family of unknown function (DUF5388)
+Probab=53.63  E-value=89  Score=22.31  Aligned_cols=44  Identities=9%  Similarity=0.165  Sum_probs=0.0  Template_Neff=7.100
+
+Q ss_pred             hhhHHHHHHHHHhcccChhHHHHHHHHHHHHHHHhCCHHHHHHH
+Q FD01848789_005   31 QGETFRLLNAIKNGLANENNINKAINKILDCFYTYIPEKTRGKI   74 (192)
+Q Consensus        31 ~~e~~Rl~~~Ik~gi~~~~~i~kiI~iIi~~f~~~l~~~~~~~i   74 (192)
+                      ..++.--+.++++-+...+...++|+..++.+...+++++++..
+T Consensus        10 ~~~t~~~l~AL~~~l~~~~~~~e~i~~lid~yi~~Ls~~ek~~f   53 (65)
+T A0A0F4KPW2_9LA   10 DNHTRNAVLALARATADKRTASEMVSILVESFLDNMTPSKLKIY   53 (65)
+T ss_pred             CHHHHHHHHHHHHHHcCCCCHHHHHHHHHHHHHHhCCHHHHHHH
+
+
+No 2
+>PF17452.6 ; YnfE ; Uncharacterized YnfE-like
+Probab=51.62  E-value=1.1e+02  Score=23.70  Aligned_cols=58  Identities=19%  Similarity=0.330  Sum_probs=0.0  Template_Neff=2.800
+
+Q ss_pred             HhcccCCcchhhhhhhHH-HHHHHHHhcccChhHHHHHHHHHHHHHHHhCCHHHHHHHH
+Q FD01848789_005   18 TRAVFDTENNFKRQGETF-RLLNAIKNGLANENNINKAINKILDCFYTYIPEKTRGKIY   75 (192)
+Q Consensus        18 ~~~f~dtd~r~~n~~e~~-Rl~~~Ik~gi~~~~~i~kiI~iIi~~f~~~l~~~~~~~i~   75 (192)
+                      |-||-+.+.--+|+.|.+ +-.+-++.+.+..+..-+++..+++.-+..++-++++.+|
+T Consensus        19 ~pDY~GKE~Dl~~QkE~ie~Ye~~Lqq~~~s~e~fD~~vdA~ikcA~gDis~~eLE~vY   77 (78)
+T Q62U34_BACLD/2   19 ASDYDGKEEDLRRQQEELERYEQQLKEKSASAESFDQVVNAAVDCAAGDISYSQLEQMF   77 (78)
+T ss_pred             ccCCCChHHHHHHHHHHHHHHHHHHHHhcCChhhHHHHHHHHHHHhcCCCCHHHHHHHh
+
+
+No 3
+>5IR0_B Uncharacterized protein ORF19; Vibrio cholerae, alpha/beta protein, unknown function, structure genomics, Center for Structural Genomics of Infectious Diseases, CSGID; HET: MSE, CIT; 3.297A {Vibrio cholerae O1 biovar El Tor}
+Probab=48.90  E-value=38  Score=28.89  Aligned_cols=40  Identities=23%  Similarity=0.365  Sum_probs=0.0  Template_Neff=6.500
+
+Q ss_pred             CcHHhHHhhhhcHHHHHHHhHHHhhcHHHHHHHHHHHHHhh
+Q FD01848789_005  151 LDLLYFLVEPLMEPFIESMKIRENEGQTAFNELMEIVVDEI  191 (192)
+Q Consensus       151 LDllYFLvE~~l~PfidAi~i~~~~g~~~fn~i~~~~~~~i  191 (192)
+                      +|++.|++|..+.+|..+-..-+.. .+.++++++.+.+.+
+T Consensus       110 ~dl~~~~le~Nf~~FF~~s~l~~~~-~~~l~~~~~~~~~~~  149 (161)
+T 5IR0_B          110 MDLFVWLVDENLVTLFKGSKQLQSL-KPKFDEFYKKFEDFI  149 (161)
+T ss_dssp             HHHHHHHHHHHTHHHHTTCC---------------------
+T ss_pred             HHHHHHHHHHHcHhHHccCHHHHhh-HHHHHHHHHHHHHHC
+
+
+No 4
+>PF14069.10 ; SpoVIF ; Stage VI sporulation protein F
+Probab=45.28  E-value=86  Score=23.07  Aligned_cols=49  Identities=16%  Similarity=0.313  Sum_probs=0.0  Template_Neff=6.600
+
+Q ss_pred             hhhhHHHHHHHHHhccc-ChhHHHHHHHHHHHHHHHhCCHHHHHHHHHHH
+Q FD01848789_005   30 RQGETFRLLNAIKNGLA-NENNINKAINKILDCFYTYIPEKTRGKIYSRI   78 (192)
+Q Consensus        30 n~~e~~Rl~~~Ik~gi~-~~~~i~kiI~iIi~~f~~~l~~~~~~~i~~k~   78 (192)
+                      ...+-..+++-++..-. +++.++++|..+-......+++++.+++.+.+
+T Consensus        11 ~~~~i~~la~~v~~~dL~de~~~r~lI~~ls~~~~~~vs~eqe~~iv~~i   60 (72)
+T Q81FR3_BACCR/9   11 NKEDIFKLASSVQNANLRDETVLRQLIHQVALMAGREVPKEQEDQIVKAI   60 (72)
+T ss_pred             CHHHHHHHHhcCCHHHcCCHHHHHHHHHHHHHHhCCCCCHHHHHHHHHHH
+
+
+No 5
+>6YNX_P ATPTT10; mitochondria, ATP synthase, Fo-subcomplex, IF1 dimer, MEMBRANE PROTEIN; HET: UQ8, PO4, PEE, NAD, CDL, ATP, PC1; 2.5A {Tetrahymena thermophila}
+Probab=45.11  E-value=39  Score=28.82  Aligned_cols=97  Identities=20%  Similarity=0.255  Sum_probs=0.0  Template_Neff=2.200
+
+Q ss_pred             HhCCHHHHHHHHHHH---HHHHHHHHHHHHHHHHHHHHHHHhchhhHHHHHHHHHH-HHHHHHHHHHHHHHHH------H
+Q FD01848789_005   64 TYIPEKTRGKIYSRI---GGSVAGRAITNSVISGRIATTIAGRSSLYIKFKGGIIG-NILLLGGMTERAIYSS------W  133 (192)
+Q Consensus        64 ~~l~~~~~~~i~~k~---~g~~~Gr~~~~~~i~~~i~~~i~~~~~~~~~~~~~~~~-~il~igg~~~Raiy~S------r  133 (192)
+                      +-+|++++++|.+-.   ....-|-.+++..++-...++|-.-.++-+-+-+++++ ..++.|-..+-++|.|      -
+T Consensus        20 SlV~~e~q~~i~~l~ngv~s~qN~a~~~s~~lSleavNRi~~~kkl~Iy~raaiV~~~~~~g~r~~~~s~y~~~~~~ei~   99 (152)
+T 6YNX_P           20 SLIEESKQEQIQAIYDKVPQWTNGGRFLGFWLSMEAVNRVQSVAKLPIYYRAGIVATSTLLGGLVSSLVFWKSGNENQVA   99 (152)
+T ss_pred             eccchHHHHHHHHHHhcCCcccchhhhhhhhHcHHhHHccchHhcCchhhhhhHHhHHHHHHHHHHHhhHHhcCChhHHH
+
+
+Q ss_pred             HHHHHCHHHHHHHcccCCcHHhHHhhh
+Q FD01848789_005  134 GLNADCPEIYNLLYPDNLDLLYFLVEP  160 (192)
+Q Consensus       134 ~L~~~nP~iY~~Lr~~dLDllYFLvE~  160 (192)
+                      .|..-.|---++.--..||=+||+++|
+T Consensus       100 klldGaPiwenkfDVPELdK~fFfiDD  126 (152)
+T 6YNX_P          100 KLANGAPVYLKKWEVPELSKLYFFLDD  126 (152)
+T ss_pred             HHhcCCchhhcccCCchhhceeEEEcC
+
+
+No 6
+>3AYH_A DNA-directed RNA polymerase III subunit rpc9; Transcription; HET: SO4; 2.193A {Schizosaccharomyces pombe}
+Probab=41.85  E-value=2e+02  Score=22.62  Aligned_cols=66  Identities=8%  Similarity=0.033  Sum_probs=0.0  Template_Neff=9.200
+
+Q ss_pred             hHHHHHhcccCCc--chhhhhhhHHHHHHHHHhcccChhHHHHHHH----------HHHHHHHHhCCHHHHHHHHHHH
+Q FD01848789_005   13 DLVYLTRAVFDTE--NNFKRQGETFRLLNAIKNGLANENNINKAIN----------KILDCFYTYIPEKTRGKIYSRI   78 (192)
+Q Consensus        13 dl~yl~~~f~dtd--~r~~n~~e~~Rl~~~Ik~gi~~~~~i~kiI~----------iIi~~f~~~l~~~~~~~i~~k~   78 (192)
+                      .+.+..++|+..-  .+..+...-..+.+.++.....+..+..+++          .++.+...+++++++++|.+-+
+T Consensus        54 ~i~~~~~~Yl~~~~~~~~~~~~~~~~~~~~L~~~~Lt~~E~~~iiNl~P~s~~el~~ii~~~~~r~~~e~~~~il~~v  131 (136)
+T 3AYH_A           54 TIQFEILKYLSSQGNCEGLTKERFLDCIAIFNEFELTKAEILVILNNKPSSVPELYACIEGIEERFKEEDIFKLVEKI  131 (136)
+T ss_dssp             HHHHHHHHHHHTTTCCTTCCHHHHHHHHHTTTTTCCCHHHHHHHHHHCCCSHHHHHHHSTTHHHHHTTTTHHHHHHHH
+T ss_pred             HHHHHHHHHHhhCCCcccCCHHHHHHHHHHHhcCCCCHHHHHHHHHcCCCCHHHHHHHhhcHHHhCCHHHHHHHHHHH
+
+
+No 7
+>PF08349.15 ; DUF1722 ; Protein of unknown function (DUF1722)
+Probab=33.96  E-value=2.9e+02  Score=20.74  Aligned_cols=62  Identities=8%  Similarity=0.026  Sum_probs=0.0  Template_Neff=9.800
+
+Q ss_pred             hhHHHHHHHHHhcccChhHHHHHHHHHHHHHHHhCCHHHHHHHHHHHHHHHHHHHHHHHHHH
+Q FD01848789_005   32 GETFRLLNAIKNGLANENNINKAINKILDCFYTYIPEKTRGKIYSRIGGSVAGRAITNSVIS   93 (192)
+Q Consensus        32 ~e~~Rl~~~Ik~gi~~~~~i~kiI~iIi~~f~~~l~~~~~~~i~~k~~g~~~Gr~~~~~~i~   93 (192)
+                      .+-.+.+..+-+.........+++..+...|.+.+++++++.+.+.+.....|++-...++.
+T Consensus        32 ~~y~~~l~~~l~~~~~~~~~~n~l~~i~~~~~~~l~~~E~~~~~~~i~~y~~~~~~~~~~~~   93 (117)
+T Q3JE26_NITOC/2   32 PTYEAELMSALRRRATRKGHTNVLMHLLGFLRAQLDKADRAELLESMESYRLGLVPLIVPMT   93 (117)
+T ss_pred             HHHHHHHHHHHcccCCCccHHHHHHHHHHHHHHcCCHHHHHHHHHHHHHHHcCCCCHHHHHH
+
+
+No 8
+>5AWF_A FeS cluster assembly protein SufB; Iron-Sulfur Clusters, Iron-Sulfur Proteins, ABC proteins, ABC ATPase, TRANSPORT PROTEIN-PROTEIN BINDING complex; 2.957A {Escherichia coli (strain K12)}
+Probab=31.96  E-value=1.9e+02  Score=28.41  Aligned_cols=55  Identities=13%  Similarity=0.172  Sum_probs=0.0  Template_Neff=8.800
+
+Q ss_pred             hHHHHHHHHHhcccChhHHHHHHHHHHHHHHHhCCHHHHHHHHHHHHHHHHHHHH
+Q FD01848789_005   33 ETFRLLNAIKNGLANENNINKAINKILDCFYTYIPEKTRGKIYSRIGGSVAGRAI   87 (192)
+Q Consensus        33 e~~Rl~~~Ik~gi~~~~~i~kiI~iIi~~f~~~l~~~~~~~i~~k~~g~~~Gr~~   87 (192)
+                      |.+-++.+--+|+..++.-+-+|+-++.++.+++|.+.++.+...+..++.|+..
+T Consensus       441 d~e~lfYL~SRGi~~~~A~~llv~gf~~~~~~~i~~~~~~~~~~~i~~~l~~~~~  495 (495)
+T 5AWF_A          441 GEDQLFYCLQRGISEEDAISMIVNGFCKDVFSELPLEFAVEAQKLLAISLEHSVG  495 (495)
+T ss_dssp             CHHHHHHHHHTTCCHHHHHHHHHHHHTHHHHTTSCHHHHHHHHHHHHHHHHHHCC
+T ss_pred             CHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHhhCCHHHHHHHHHHHHHHhhcccC
+
+
+No 9
+>4DN7_B ABC transporter, ATP-binding protein; STRUCTURAL GENOMICS, PROTEIN STRUCTURE INITIATIVE, NEW YORK STRUCTURAL GENOMIX RESEARCH CONSORTIUM, NYSGRC, PSI-Biology, New York Structural; HET: MSE, 1PE; 1.6A {Methanosarcina maze}
+Probab=31.32  E-value=2.1e+02  Score=27.20  Aligned_cols=53  Identities=21%  Similarity=0.281  Sum_probs=0.0  Template_Neff=9.500
+
+Q ss_pred             hHHHHHHHHHhcccChhHHHHHHHHHHHHHHHhCCHHHHHHHHHHHHHHHHHH
+Q FD01848789_005   33 ETFRLLNAIKNGLANENNINKAINKILDCFYTYIPEKTRGKIYSRIGGSVAGR   85 (192)
+Q Consensus        33 e~~Rl~~~Ik~gi~~~~~i~kiI~iIi~~f~~~l~~~~~~~i~~k~~g~~~Gr   85 (192)
+                      |.+-|+.+--+|+..++..+-+++-++..+.+.+|++.++.+.+.+.-.+.|+
+T Consensus       377 d~e~lfYL~SRGi~~~~A~~lli~gf~~~~~~~~~~~~~~~~~~~i~~~~~~~  429 (429)
+T 4DN7_B          377 AKDQVEYLMARGLTEDEAVGMIIRGFLDVGIRGIPEELKEEIENTIAQTALGM  429 (429)
+T ss_dssp             CHHHHHHHHHTTCCHHHHHHHHHHHHHHGGGTTSCGGGHHHHHHHHHHHHHTC
+T ss_pred             CHHHHHHHHhCCCCHHHHHHHHHHHHHHHHHhcCCHHHHHHHHHHHHHHhhcC
+
+
+No 10
+>2F5U_A Virion protein UL25; HSV-1, Capsid Protein, DNA packaging, UL25, Head Completion, VIRAL PROTEIN; 2.1A {Human herpesvirus 1}
+Probab=28.78  E-value=38  Score=33.80  Aligned_cols=9  Identities=56%  Similarity=1.202  Sum_probs=0.0  Template_Neff=5.400
+
+Q ss_pred             CCcHHhHHh
+Q FD01848789_005  150 NLDLLYFLV  158 (192)
+Q Consensus       150 dLDllYFLv  158 (192)
+                      |||++||||
+T Consensus       428 dYD~LYFlv  436 (447)
+T 2F5U_A          428 DYDMLYFLC  436 (447)
+T ss_dssp             HHHHHHHHH
+T ss_pred             HHHHHHHHH
+
+
+No 11
+>PF01706.20 ; FliG_C ; FliG C-terminal domain
+Probab=28.77  E-value=61  Score=24.32  Aligned_cols=39  Identities=5%  Similarity=0.084  Sum_probs=0.0  Template_Neff=9.400
+
+Q ss_pred             HHHHCHHHHHHHccc--CCcHHhHHhhhhcHHHHHHHhHHH
+Q FD01848789_005  135 LNADCPEIYNLLYPD--NLDLLYFLVEPLMEPFIESMKIRE  173 (192)
+Q Consensus       135 L~~~nP~iY~~Lr~~--dLDllYFLvE~~l~PfidAi~i~~  173 (192)
+                      |++++|+++..++..  .+|=+..+=++.++.++..+....
+T Consensus         3 l~~~~p~~a~~i~~~~~~fedl~~l~~~~l~~~l~~~~~~~   43 (108)
+T W0RED5_9BACT/2    3 VSERDASLCEQIKNLMFVFEDLAGLDDKSLQRLLREIEAKQ   43 (108)
+T ss_pred             hhhhCHHHHHHHHHHCCCHHHHhCCCHHHHHHHHHhCCHHH
+
+
+No 12
+>7DV2_D SegB; DNA BINDING PROTEIN-DNA COMPLEX, DNA BINDING PROTEIN; 3.1A {Saccharolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2)}
+Probab=28.11  E-value=91  Score=24.35  Aligned_cols=16  Identities=19%  Similarity=0.389  Sum_probs=0.0  Template_Neff=3.900
+
+Q ss_pred             HHHHHHCHHHHHHHcc
+Q FD01848789_005  133 WGLNADCPEIYNLLYP  148 (192)
+Q Consensus       133 r~L~~~nP~iY~~Lr~  148 (192)
+                      +.|+++||++|.+...
+T Consensus        54 ~~l~~~YPeLw~~v~~   69 (83)
+T 7DV2_D           54 KGLKEMYPTLFTIAEK   69 (83)
+T ss_dssp             HHHHHHSHHHHHHHHH
+T ss_pred             HHHHHHCHHHHHHHHH
+
+
+No 13
+>PF18689.5 ; PriX ; Primase X
+Probab=27.75  E-value=91  Score=24.80  Aligned_cols=16  Identities=25%  Similarity=0.364  Sum_probs=0.0  Template_Neff=4.800
+
+Q ss_pred             HHHHHHCHHHHHHHcc
+Q FD01848789_005  133 WGLNADCPEIYNLLYP  148 (192)
+Q Consensus       133 r~L~~~nP~iY~~Lr~  148 (192)
+                      ..|+++||++|..+.+
+T Consensus        78 ~klk~~~~eLY~~i~~   93 (95)
+T F4B8W4_ACIHW/4   78 KKLQEKDPELYEEIRR   93 (95)
+T ss_pred             HHHHHHCHHHHHHHHH
+
+
+No 14
+>PF14129.10 ; DUF4296 ; Domain of unknown function (DUF4296)
+Probab=27.66  E-value=1.9e+02  Score=20.86  Aligned_cols=29  Identities=17%  Similarity=0.267  Sum_probs=0.0  Template_Neff=9.100
+
+Q ss_pred             HHHHHHHhHHHhhcHHHHHHHHHHHHHhhC
+Q FD01848789_005  163 EPFIESMKIRENEGQTAFNELMEIVVDEIK  192 (192)
+Q Consensus       163 ~PfidAi~i~~~~g~~~fn~i~~~~~~~i~  192 (192)
+                      +-|...+.....+ |..|++|.+.|.+.+.
+T Consensus        54 ~~f~~s~~~Y~~~-p~~~~~iy~~v~~~L~   82 (87)
+T H1YD22_9SPHI/2   54 AEFKKSLKFYSTR-PDILSEIYAGVNKRLD   82 (87)
+T ss_pred             HHHHHHHHHHHHC-HHHHHHHHHHHHHHHH
+
+
+No 15
+>7NXP_A Capsid vertex component 2; herpesvirus, capsid, HCMV, assembly, VIRAL PROTEIN; HET: GOL; 1.896A {Human cytomegalovirus}
+Probab=27.43  E-value=39  Score=34.09  Aligned_cols=9  Identities=67%  Similarity=1.113  Sum_probs=0.0  Template_Neff=5.100
+
+Q ss_pred             CCcHHhHHh
+Q FD01848789_005  150 NLDLLYFLV  158 (192)
+Q Consensus       150 dLDllYFLv  158 (192)
+                      |||++||||
+T Consensus       446 dYD~LYFlv  454 (479)
+T 7NXP_A          446 IYELLYFLV  454 (479)
+T ss_dssp             HHHHHHHHH
+T ss_pred             HHHHHHHHH
+
+
+No 16
+>7ANE_p mS23; Ribosome, Mitochondria, Kinetoplastid; HET: NAD; 3.9A {Leishmania major}
+Probab=27.23  E-value=1.4e+02  Score=28.64  Aligned_cols=47  Identities=23%  Similarity=0.404  Sum_probs=0.0  Template_Neff=2.400
+
+Q ss_pred             HHHHHhcccChhHHHHHHHHHHHHHHHhCCHHHHHHHHHHHHHHHHHHHHH
+Q FD01848789_005   38 LNAIKNGLANENNINKAINKILDCFYTYIPEKTRGKIYSRIGGSVAGRAIT   88 (192)
+Q Consensus        38 ~~~Ik~gi~~~~~i~kiI~iIi~~f~~~l~~~~~~~i~~k~~g~~~Gr~~~   88 (192)
+                      ..+.++|+..    ..+|+.|++.|++.+.-++.-...+.--.+++||+++
+T Consensus       130 y~Lkr~Gv~H----~~AikkVlq~fY~~laVkkRVaaIQAEEAKLSGkfIT  176 (321)
+T 7ANE_p          130 YELERKGVAH----SVAIKRVLQMFYDELTVKKRVAAIQAEEAKLSGKYIS  176 (321)
+T ss_pred             HHHHHcCCCH----HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhCCcee
+
+
+No 17
+>6SGA_Cb mS23; mitochondrial ribosome, assembly intermediate, translation, RIBOSOME; HET: UBD, PM8; 3.1A {Trypanosoma brucei brucei}
+Probab=26.72  E-value=1.3e+02  Score=28.68  Aligned_cols=47  Identities=28%  Similarity=0.415  Sum_probs=0.0  Template_Neff=2.400
+
+Q ss_pred             HHHHHhcccChhHHHHHHHHHHHHHHHhCCHHHHHHHHHHHHHHHHHHHHH
+Q FD01848789_005   38 LNAIKNGLANENNINKAINKILDCFYTYIPEKTRGKIYSRIGGSVAGRAIT   88 (192)
+Q Consensus        38 ~~~Ik~gi~~~~~i~kiI~iIi~~f~~~l~~~~~~~i~~k~~g~~~Gr~~~   88 (192)
+                      ..+.++|+..    ..+|+.|++.|++.+.-++.-...+.--.+++||+++
+T Consensus       130 y~Lkr~Gv~H----~~AikkVlq~fY~~laVkkRVaaIQAEEAKLSGkfIT  176 (311)
+T 6SGA_Cb         130 YELKRRGVDH----GEAIRKVLQGFYSGLAVKKRVAAIQAEEAKLTGRFIT  176 (311)
+T ss_pred             HHHHHcCCCH----HHHHHHHHHHHHHhHHHHHHHHHHHHHHHHHhCCcee
+
+
+No 18
+>6PPB_l Capsid vertex component 2; genome, portal, capsid, genome packaging, VIRUS, VIRAL PROTEIN;{Human herpesvirus 8}
+Probab=25.88  E-value=45  Score=34.23  Aligned_cols=9  Identities=44%  Similarity=0.907  Sum_probs=0.0  Template_Neff=5.200
+
+Q ss_pred             CCcHHhHHh
+Q FD01848789_005  150 NLDLLYFLV  158 (192)
+Q Consensus       150 dLDllYFLv  158 (192)
+                      |||++||||
+T Consensus       530 dYD~LYFlv  538 (549)
+T 6PPB_l          530 DYDRAYFMV  538 (549)
+T ss_dssp             ---------
+T ss_pred             HHHHHHHHH
+
+
+No 19
+>7ETJ_O Capsid vertex component 2; C5 portal vertex, partially-enveloped capsid, VIRAL PROTEIN; 4.0A {Human cytomegalovirus}
+Probab=25.50  E-value=47  Score=34.76  Aligned_cols=9  Identities=67%  Similarity=1.113  Sum_probs=0.0  Template_Neff=4.900
+
+Q ss_pred             CCcHHhHHh
+Q FD01848789_005  150 NLDLLYFLV  158 (192)
+Q Consensus       150 dLDllYFLv  158 (192)
+                      |||++||||
+T Consensus       624 DYDlLYFlv  632 (642)
+T 7ETJ_O          624 IYELLYFLV  632 (642)
+T ss_dssp             ---------
+T ss_pred             HHHHHHHHH
+
+
+No 20
+>6W2D_w Capsid vertex component 2; gamma-herpesvirus, EBV, CATC, Structural plasticity, VIRAL PROTEIN; 4.0A {Epstein-Barr virus (strain B95-8)}
+Probab=25.13  E-value=45  Score=34.38  Aligned_cols=9  Identities=56%  Similarity=1.017  Sum_probs=0.0  Template_Neff=5.100
+
+Q ss_pred             CCcHHhHHh
+Q FD01848789_005  150 NLDLLYFLV  158 (192)
+Q Consensus       150 dLDllYFLv  158 (192)
+                      |||++||||
+T Consensus       551 dYD~LYFlv  559 (570)
+T 6W2D_w          551 DYDRLYFLT  559 (570)
+T ss_dssp             ---------
+T ss_pred             HHHHHHHHH
+
+
+No 21
+>PF17447.6 ; YkpC ; Uncharacterized YkpC-like
+Probab=25.00  E-value=1.1e+02  Score=20.76  Aligned_cols=17  Identities=29%  Similarity=0.436  Sum_probs=0.0  Template_Neff=1.900
+
+Q ss_pred             HHHHHHHHHHHHHHHHH
+Q FD01848789_005  109 KFKGGIIGNILLLGGMT  125 (192)
+Q Consensus       109 ~~~~~~~~~il~igg~~  125 (192)
+                      |+..+++.+.+++|||.
+T Consensus         7 Rv~Is~iLsgIIlGGMS   23 (42)
+T YKPC_BACSU/2-4    7 RVAIAAILSGIILGGMS   23 (42)
+T ss_pred             HHHHHHHHHHHHHccch
+
+
+No 22
+>5ZZ8_s UL25; Herpes simplex virus 2, capsid, capsid-vertex-specific component, STRUCTURAL PROTEIN; 3.75A {Human herpesvirus 2}
+Probab=24.90  E-value=46  Score=34.44  Aligned_cols=9  Identities=67%  Similarity=1.246  Sum_probs=0.0  Template_Neff=5.000
+
+Q ss_pred             CCcHHhHHh
+Q FD01848789_005  150 NLDLLYFLV  158 (192)
+Q Consensus       150 dLDllYFLv  158 (192)
+                      |||++||||
+T Consensus       566 dYD~LYFlv  574 (585)
+T 5ZZ8_s          566 DYDLLYFLC  574 (585)
+T ss_dssp             ---------
+T ss_pred             HHHHHHHHH
+
+
+No 23
+>PF03874.20 ; RNA_pol_Rpb4 ; RNA polymerase Rpb4
+Probab=24.76  E-value=6.3e+02  Score=21.49  Aligned_cols=70  Identities=13%  Similarity=0.171  Sum_probs=0.0  Template_Neff=7.100
+
+Q ss_pred             cccchHHH---HHhcccC--C-cchhhhhhhHHHHHHHHH------hcc--------cChhHHHHHHH----------HH
+Q FD01848789_005    9 SVPVDLVY---LTRAVFD--T-ENNFKRQGETFRLLNAIK------NGL--------ANENNINKAIN----------KI   58 (192)
+Q Consensus         9 SvP~dl~y---l~~~f~d--t-d~r~~n~~e~~Rl~~~Ik------~gi--------~~~~~i~kiI~----------iI   58 (192)
+                      ..|.++.+   ..++|+.  . -.+..+...-..+.+.++      ...        ..+....++++          .+
+T Consensus        57 ~~~~~l~~i~~~tl~Yl~~~~~f~~~~~~e~i~~l~~~L~~~~~~~~~~~~~~~~~~Lt~~E~lqIiNl~P~s~~El~~i  136 (160)
+T A0A0D1CVH2_UST   57 KVPENLRTIQYETISSLSQVTKPCAHQTAENIVAFLDELKARGYSIHDSEAKRGGLGLNRSERLQIVNHAPQSVVELHTL  136 (160)
+T ss_pred             hCchhHHHHHHHHHHHHhcCCCCCCCCCHHHHHHHHHHHHHcCCCCCcchhhcCCCCCCHHHHHHHhhcCCCCHHHHHHH
+
+
+Q ss_pred             HHHHHHhCCHHHHHHHHHHH
+Q FD01848789_005   59 LDCFYTYIPEKTRGKIYSRI   78 (192)
+Q Consensus        59 i~~f~~~l~~~~~~~i~~k~   78 (192)
+                      +.+...+++++++++|.+-+
+T Consensus       137 i~~~e~r~~ee~le~IL~~i  156 (160)
+T A0A0D1CVH2_UST  137 VEELEERFHPHQIEELIALV  156 (160)
+T ss_pred             HHhHHhcCCHHHHHHHHHHH
+
+
+No 24
+>6RWT_A Ubiquinol-cytochrome C chaperone; Respiratory chain, Complex III, Assembly factor, Mitochondrial translation, CHAPERONE; HET: GOL; 1.42A {Brucella abortus NCTC 8038}
+Probab=24.31  E-value=6.7e+02  Score=21.23  Aligned_cols=67  Identities=10%  Similarity=0.008  Sum_probs=0.0  Template_Neff=8.600
+
+Q ss_pred             HHHHHHHHHHHHHHCHHHHHHHccc-CCcHHhHHhhhhcHHHHHHHhHHHhhcHHHHHHHHHHHHHhh
+Q FD01848789_005  125 TERAIYSSWGLNADCPEIYNLLYPD-NLDLLYFLVEPLMEPFIESMKIRENEGQTAFNELMEIVVDEI  191 (192)
+Q Consensus       125 ~~Raiy~Sr~L~~~nP~iY~~Lr~~-dLDllYFLvE~~l~PfidAi~i~~~~g~~~fn~i~~~~~~~i  191 (192)
+                      ..+.+|.+=--+.++|+.|..+.-. ++|--+-++.=++--.+..+.....+|...-+.+++.+-+.+
+T Consensus        16 ~a~~ly~~~~~~a~~~~~~~~~~l~dtf~~rf~~~~LH~wl~~~RL~~~~~~~~~l~q~l~d~~~~d~   83 (184)
+T 6RWT_A           16 IVLRVYEVIVAAARQKRFYAQFQVPDTPLGRYEMLSLHIFLALHRMKGENPALNALAQEIADEFFKDV   83 (184)
+T ss_dssp             HHHHHHHHHHHHHTCGGGTTTTCCCCSHHHHHHHHHHHHHHHHHHHCSSCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHhCHHHHHhhCCCCChhHHHHHHHHHHHHHHHHHHcCCHHHHHHHHHHHHHHHHHH
+
+
+No 25
+>PF05461.15 ; ApoL ; Apolipoprotein L
+Probab=24.24  E-value=8.5e+02  Score=22.43  Aligned_cols=113  Identities=13%  Similarity=0.032  Sum_probs=0.0  Template_Neff=8.500
+
+Q ss_pred             CCcchhhhhhhHHHHHHHHHhcccChhHHHHHHHHHHHHHHHhCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHh
+Q FD01848789_005   23 DTENNFKRQGETFRLLNAIKNGLANENNINKAINKILDCFYTYIPEKTRGKIYSRIGGSVAGRAITNSVISGRIATTIAG  102 (192)
+Q Consensus        23 dtd~r~~n~~e~~Rl~~~Ik~gi~~~~~i~kiI~iIi~~f~~~l~~~~~~~i~~k~~g~~~Gr~~~~~~i~~~i~~~i~~  102 (192)
+                      |.+.-..-+.+..++....++-....+...+-++.+.+++.+.-..-...++....+|-+.|=+++..++..-+..-..-
+T Consensus        39 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~L~~iad~ld~~~k~~~ia~~~g~~~~ivgg~~~i~G~~lap~t~G~sl  118 (298)
+T F6VUH9_HORSE/1   39 DKVMIQKDQENTKKFLDKFPQVKRELEERIGKLHALADKVDKVHRDCTISNVVANSTGAVAGVLTFLGLALAPVTAGVSL  118 (298)
+T ss_pred             hHhhHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhccHhhHhhhhhHHHHHHHHHHHHHHHHhccchHH
+
+
+Q ss_pred             chhhHHHHHH-HHHHHHHHHHHHHHHHHHHHHHHHH
+Q FD01848789_005  103 RSSLYIKFKG-GIIGNILLLGGMTERAIYSSWGLNA  137 (192)
+Q Consensus       103 ~~~~~~~~~~-~~~~~il~igg~~~Raiy~Sr~L~~  137 (192)
+                      -  +.....+ ++.+++..+|..+......+...++
+T Consensus       119 ~--l~~~G~~~g~~g~~~~~~a~i~~~~~~~~~~~~  152 (298)
+T F6VUH9_HORSE/1  119 A--LSATGIGLGAAAGVTTVSTSIVEYSTNSSAKAE  152 (298)
+T ss_pred             H--HHHHHHHHHHHHHhhhhHHHHHHHHhcHHHHHH
+
+
+No 26
+>7FJ1_c DNA packaging tegument protein UL25; Pseudorabies virus, C-capsid, Cryo-EM, VIRUS; 4.43A {Suid alphaherpesvirus 1}
+Probab=23.96  E-value=47  Score=34.04  Aligned_cols=9  Identities=67%  Similarity=1.246  Sum_probs=0.0  Template_Neff=4.900
+
+Q ss_pred             CCcHHhHHh
+Q FD01848789_005  150 NLDLLYFLV  158 (192)
+Q Consensus       150 dLDllYFLv  158 (192)
+                      |||++||||
+T Consensus       516 dYD~LYFlv  524 (534)
+T 7FJ1_c          516 DYDLLYFLC  524 (534)
+T ss_dssp             ---------
+T ss_pred             HHHHHHHHH
+
+
+No 27
+>PF01785.21 ; Closter_coat ; Closterovirus coat protein
+Probab=23.62  E-value=77  Score=27.24  Aligned_cols=30  Identities=10%  Similarity=0.100  Sum_probs=0.0  Template_Neff=8.100
+
+Q ss_pred             ccchHHHHHhcccCCcchhhhhhhHHHHHHHHHh
+Q FD01848789_005   10 VPVDLVYLTRAVFDTENNFKRQGETFRLLNAIKN   43 (192)
+Q Consensus        10 vP~dl~yl~~~f~dtd~r~~n~~e~~Rl~~~Ik~   43 (192)
+                      +|....|++.||++.+    .-+|.+|.+.+..+
+T Consensus       142 vp~~~~~~a~DF~~~~----~~t~~e~~a~~~ak  171 (194)
+T CAPSD_CTV36/27  142 IPAGYHYLCADFLTGA----GLTDLECAVYIQAK  171 (194)
+T ss_pred             CCCCcccccCCccCcC----CCCHHHHHHHHHHH
+
+
+No 28
+>2YSK_A Hypothetical protein TTHA1432; conserved hypothetical, NPPSFA, National Project on Protein Structural and Functional Analyses, RIKEN Structural Genomics/Proteomics Initiative, RSGI; 1.9A {Thermus thermophilus}
+Probab=23.03  E-value=6.3e+02  Score=20.46  Aligned_cols=69  Identities=10%  Similarity=0.122  Sum_probs=0.0  Template_Neff=8.600
+
+Q ss_pred             ccchHHHHHhcccCCcchhhhhhhHHHHHHHHHhcccCh---h-HHHHHHHHHHHHHHHhCCHHHHHHHHHHH
+Q FD01848789_005   10 VPVDLVYLTRAVFDTENNFKRQGETFRLLNAIKNGLANE---N-NINKAINKILDCFYTYIPEKTRGKIYSRI   78 (192)
+Q Consensus        10 vP~dl~yl~~~f~dtd~r~~n~~e~~Rl~~~Ik~gi~~~---~-~i~kiI~iIi~~f~~~l~~~~~~~i~~k~   78 (192)
+                      +|.++..+-++-.+-........+...+...|.....-.   + .-...+..|+.-..+.+++...+++...+
+T Consensus        62 LP~~l~~~~~~~~~~~~~~~~~~~~~ef~~~V~~~~~~~~~~~~~a~~~~~aV~~~l~~~l~~~~~~~l~~~L  134 (145)
+T 2YSK_A           62 LPMLVRGLYYEGWDPTGKPLKERHKEAFLAHVAEELKTPSGPAVDPEAATRAVFKVLSREISQGELEDVLGLL  134 (145)
+T ss_dssp             SCHHHHHHHHTTCCTTSCCCCCCSHHHHHHHHHHTSEETTEESSCHHHHHHHHHHHHHHHSCHHHHHHHHHTS
+T ss_pred             ccHHHHHHHHcCCCCCCCCCCcCCHHHHHHHHHHHcCCCCCCCCCHHHHHHHHHHHHHHhCCHHHHHHHHhhC
+
+
+No 29
+>PF05358.15 ; DicB ; DicB protein
+Probab=21.78  E-value=1.5e+02  Score=22.04  Aligned_cols=18  Identities=17%  Similarity=0.401  Sum_probs=0.0  Template_Neff=2.500
+
+Q ss_pred             HHHHhHHHhhcHHHHHHHH
+Q FD01848789_005  166 IESMKIRENEGQTAFNELM  184 (192)
+Q Consensus       166 idAi~i~~~~g~~~fn~i~  184 (192)
+                      .|||+.++.+ +...|++|
+T Consensus        28 EDAInkrK~e-~~lLN~ic   45 (62)
+T DICB_ECOLI/1-6   28 EDAINKRKQE-RELLNKIC   45 (62)
+T ss_pred             hhhHhhhHhC-HHHHHHHH
+
+
+No 30
+>5IZS_F Designed protein 5L6HC3_1; rosetta, de novo design, DE NOVO PROTEIN; 2.36A {synthetic construct}
+Probab=21.75  E-value=6.2e+02  Score=20.24  Aligned_cols=56  Identities=23%  Similarity=0.131  Sum_probs=0.0  Template_Neff=1.700
+
+Q ss_pred             HHHHHCHHHHHHHcccCCcHHhHHhhhhcHHHHHHHhHHHhhcHHHHHHHHHHHHHhhC
+Q FD01848789_005  134 GLNADCPEIYNLLYPDNLDLLYFLVEPLMEPFIESMKIRENEGQTAFNELMEIVVDEIK  192 (192)
+Q Consensus       134 ~L~~~nP~iY~~Lr~~dLDllYFLvE~~l~PfidAi~i~~~~g~~~fn~i~~~~~~~i~  192 (192)
+                      +|.++.-+--.+|...|+|++|..+|=.=..=+.----+-+.   .-.+|++.-+.+|+
+T Consensus        16 ~lar~lLeA~ArLQELNidlv~l~~eLtDp~tiRe~i~~~K~---~SK~IveeAE~eIr   71 (95)
+T 5IZS_F           16 ELARKLLEAVARLQELNIDLVRKTSELTDEKTIREEIRKVKE---ESKRIVEEAEEEIR   71 (95)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHH---HHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHhCHHHHHHHHhcCCHHHHHHHHHHHHH---HHHHHHHHHHHHHH
+
+
+No 31
+>7BQA_B 60 kDa polyprotein; ASFV, core-shell, p35, STRUCTURAL PROTEIN; 2.102A {African swine fever virus}
+Probab=20.20  E-value=1.2e+02  Score=29.52  Aligned_cols=27  Identities=30%  Similarity=0.622  Sum_probs=0.0  Template_Neff=3.800
+
+Q ss_pred             HHHHCHHHHHHHccc-CCcH---HhHHhhhh
+Q FD01848789_005  135 LNADCPEIYNLLYPD-NLDL---LYFLVEPL  161 (192)
+Q Consensus       135 L~~~nP~iY~~Lr~~-dLDl---lYFLvE~~  161 (192)
+                      |+..+|++|.++-+. |+|=   +|.|+||+
+T Consensus        55 l~~~~~~~f~~vLP~ld~~P~v~fYlLlePy   85 (339)
+T 7BQA_B           55 LSLNHPTEFIKVLPLIDFDPLVTFYLLLEPY   85 (339)
+T ss_dssp             HHHHCHHHHHHHGGGCCSSHHHHHHHHHCTT
+T ss_pred             HHHcChhHHHHHhhhcCCCcccchhhhcccc
+
+

@@ -1,0 +1,1230 @@
+Query         FD01543125_04688 LysM domain-containing protein
+Match_columns 270
+No_of_seqs    101 out of 108
+Neff          3.90431
+Searched_HMMs 86581
+Date          Tue Feb 27 22:51:30 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/6927681.hhr -oa3m ../results/6927681.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 3BKH_A lytic transglycosylase;  99.0 8.4E-08 9.8E-13   79.1  15.6  166    8-267    97-267 (268)
+  2 4P0G_A Membrane-bound lytic mu  97.6   0.001 1.2E-08   62.5  10.2  109    8-220   265-373 (435)
+  3 4CFP_B MEMBRANE-BOUND LYTIC MU  97.4   0.019 2.2E-07   55.0  15.5  159    7-257   172-340 (341)
+  4 PF01464.24 ; SLT ; Transglycos  97.2 0.00071 8.2E-09   50.7   3.3  116   11-221     1-119 (129)
+  5 5A5X_A MEMBRANE-BOUND LYTIC MU  97.0  0.0096 1.1E-07   57.2   9.7  109    8-220   253-361 (453)
+  6 6GI4_B Endo-type membrane-boun  96.8    0.28 3.2E-06   40.3  15.1  160    7-259    20-191 (194)
+  7 5ANZ_A SOLUBLE LYTIC TRANSGLYC  96.1   0.015 1.8E-07   56.8   5.1   65    7-83    117-218 (420)
+  8 1LTM_A 36 KDA SOLUBLE LYTIC TR  96.0   0.016 1.9E-07   56.2   4.7   65    7-83     94-196 (320)
+  9 7QVD_AAA Lytic murein transgly  96.0    0.02 2.3E-07   55.0   5.2   65    7-83     76-177 (380)
+ 10 PF13406.10 ; SLT_2 ; Transglyc  95.9   0.032 3.7E-07   53.0   6.1   66    7-83     72-173 (292)
+ 11 5OHU_A Soluble lytic murein tr  95.6    0.16 1.8E-06   49.9   9.5  135    9-246   478-612 (642)
+ 12 4ANR_A SOLUBLE LYTIC TRANSGLYC  95.5   0.011 1.3E-07   57.3   1.5   65    7-83     91-193 (323)
+ 13 4XP8_A EtgA protein; peptidogl  95.5   0.058 6.8E-07   38.0   4.6   55   11-79      2-56  (88)
+ 14 5O29_A Transglycosylase; lytic  94.7   0.082 9.5E-07   50.9   4.6   58    9-85    436-493 (596)
+ 15 PF19489.3 ; SLT_4 ; Transglyco  93.4    0.32 3.7E-06   38.8   4.8   67    6-85     31-104 (184)
+ 16 PF06871.15 ; TraH_2 ; TraH_2    91.7     1.9 2.2E-05   39.7   8.2  106   12-211     5-139 (206)
+ 17 4HPE_C Putative cell wall hydr  91.4     2.8 3.3E-05   37.2   8.6   85    7-205    25-111 (308)
+ 18 1GBS_A AUSTRALIAN BLACK SWAN E  88.7     1.6 1.8E-05   35.7   4.7   52    8-77     47-101 (185)
+ 19 6TAB_A SLT domain-containing p  88.0     1.8 2.1E-05   39.5   5.0   83    8-184   119-210 (254)
+ 20 4M5E_A Uncharacterized protein  87.1     3.8 4.4E-05   42.7   7.2  102    7-184   223-333 (410)
+ 21 3GXR_D Goose-type lysozyme 1;   87.0     2.3 2.7E-05   35.6   4.7   57    6-77     43-103 (187)
+ 22 4G9S_A Goose-type lysozyme; hy  84.6     3.7 4.2E-05   34.3   4.8   49    7-74     48-100 (187)
+ 23 PF06737.18 ; Transglycosylas ;  82.6     2.7 3.1E-05   28.5   2.7   42   23-83      3-44  (77)
+ 24 PF07182.15 ; DUF1402 ; Protein  81.7      36 0.00042   34.1  10.8  194    3-217    49-268 (294)
+ 25 7K5C_D Peptidoglycan transglyc  80.9     5.1 5.9E-05   45.0   5.4   68    1-87      4-71  (1318)
+ 26 3W6B_A Lysozyme-like chitinoly  78.8      10 0.00012   31.2   5.3   60    7-85     40-103 (183)
+ 27 4CGE_E RESUSCITATION-PROMOTING  74.4     3.4 3.9E-05   28.5   1.3   41   24-83      1-41  (75)
+ 28 1XSF_A Probable resuscitation-  72.8     6.2 7.2E-05   30.3   2.5   42   21-81     25-66  (108)
+ 29 8GFH_A Lytic transglycosylase   71.4      11 0.00013   38.6   4.5   55    9-85    371-426 (544)
+ 30 2N5Z_A Resuscitation-promoting  68.0     7.8 9.1E-05   27.7   2.0   47   19-84      1-47  (82)
+ 31 4EMN_B Probable resuscitation-  60.5      10 0.00012   26.4   1.4   38   25-81      2-39  (81)
+ 32 4FDY_B Similar to lipoprotein,  59.5      24 0.00028   31.6   3.8   28    7-34     27-56  (313)
+ 33 1QSA_A PROTEIN (SOLUBLE LYTIC   58.5      27 0.00031   34.4   4.3   58    9-85    453-510 (618)
+ 34 4OW1_W Resuscitation-promoting  47.2      33 0.00038   26.4   2.4   40   23-81      2-41  (92)
+ 35 8EJ5_A gp10, tail tip lysin (s  42.6      62 0.00072   34.2   4.2   31    4-34     41-71  (473)
+ 36 PF20306.2 ; Sp-DndD ; Small pr  42.3      81 0.00093   22.1   3.5   25   10-34      3-27  (50)
+ 37 3KK4_B uncharacterized protein  37.0 1.1E+02  0.0013   27.3   4.2   41    7-47     36-76  (125)
+ 38 PF00216.25 ; Bac_DNA_binding ;  34.4 1.3E+02  0.0015   22.3   3.7   24   10-33      4-27  (90)
+ 39 PF16805.9 ; Trans_coact ; Phag  32.3      78  0.0009   25.4   2.4   29    4-32     16-44  (69)
+ 40 3OTP_L Lysozyme C; typsin-like  30.1 1.1E+02  0.0013   20.2   2.6   37   21-72      8-44  (44)
+ 41 1B8Z_B PROTEIN (HISTONELIKE PR  28.8 1.9E+02  0.0022   21.2   3.9   25    9-33      3-27  (90)
+ 42 PF10911.12 ; T7-like_Y65 ; Bac  28.0 1.8E+02  0.0021   24.4   3.8   34  151-190    16-49  (77)
+ 43 2NDP_B Histone-like DNA-bindin  27.0   2E+02  0.0024   21.9   3.8   25    9-33      9-33  (99)
+ 44 1OWF_A Integration Host Factor  26.8 2.1E+02  0.0024   21.9   3.8   25    9-33      5-29  (99)
+ 45 1MUL_A DNA binding protein HU-  26.7 1.9E+02  0.0022   21.4   3.5   23   11-33      5-27  (90)
+ 46 PF18896.4 ; SLT_3 ; Lysozyme l  26.1 1.9E+02  0.0022   19.0   3.1   50   15-77      2-51  (84)
+ 47 PF13702.10 ; Lysozyme_like ; L  25.9 2.3E+02  0.0027   22.5   4.1   43    8-77      5-49  (161)
+ 48 PF12523.12 ; DUF3725 ; Protein  25.7 1.1E+02  0.0013   25.6   2.3   31  192-222     2-32  (74)
+ 49 5L8Z_A DNA-binding protein; th  25.3   2E+02  0.0023   21.9   3.5   25    9-33      5-31  (96)
+ 50 PF13772.10 ; AIG2_2 ; AIG2-lik  25.2 1.7E+02   0.002   22.5   3.2   29    2-30     73-101 (101)
+ 51 5FBM_A DNA-binding protein HU;  24.9 2.1E+02  0.0024   22.4   3.6   24   10-33      5-28  (99)
+ 52 4P3V_A DNA-binding protein HU-  24.4 2.1E+02  0.0024   21.3   3.4   24   10-33      4-27  (90)
+ 53 1WTU_A TRANSCRIPTION FACTOR 1;  24.3 2.2E+02  0.0026   21.6   3.6   24   10-33      4-27  (99)
+ 54 6N2L_A Histone family protein   23.8 2.5E+02  0.0029   22.0   3.9   25    9-33     11-35  (100)
+ 55 PF12554.12 ; MOZART1 ; Mitotic  22.8 1.1E+02  0.0013   23.0   1.7   13   19-31     31-43  (47)
+ 56 PF11203.12 ; EccE ; Putative t  21.6 1.1E+02  0.0013   25.1   1.5   61  153-213     1-75  (90)
+ 57 1PGY_A Swa2p; UBA, ubiquitin,   21.5 3.8E+02  0.0044   20.9   4.1   42  192-235     3-44  (47)
+ 58 2FBD_B Lysozyme 1; Digestive L  21.3 1.1E+02  0.0013   25.0   1.6   52   12-77      7-61  (122)
+ 59 1P71_A DNA-binding protein HU;  20.2 3.4E+02   0.004   20.2   3.8   25    9-33      3-27  (94)
+
+No 1
+>3BKH_A lytic transglycosylase; transglycosylase, bacteriophage, phiKZ, endolysin, peptidoglycan, cell wall degradation, lysozyme, HYDROLASE; HET: MSE; 2.5A {Pseudomonas phage phiKZ}
+Probab=98.97  E-value=8.4e-08  Score=79.07  Aligned_cols=166  Identities=20%  Similarity=0.219  Sum_probs=114.3  Template_Neff=12.200
+
+Q ss_pred             HHHHHHHHHHHHHCCCHHHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCchhhhcccccchhHHHhccCCCH
+Q FD01543125_046    8 IYWNEIIRASERSGIIPQSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSSAAGMTQFLNGTWMTETLRDGTY   87 (270)
+Q Consensus         8 ~Yr~~Ii~Aa~RtGi~pqalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SSAaGLtQFL~gTW~~~A~~~GT~   87 (270)
+                      .....+..++..+++++..+.+++..|..      +++...+            +.+++.|+.||+.+||..+....+. 
+T Consensus        97 ~~~~~~~~~~~~~~~~~~~~~~~~~~es~------~~~~~~~------------~~~~a~g~~q~~~~t~~~~~~~~~~-  157 (268)
+T 3BKH_A           97 AATPVMNAVENATGVRSQLLLTFASIESA------FDYEIKA------------KTSSATGWFQFLTGTWKTMIENYGM-  157 (268)
+T ss_dssp             HHHHHHHHHHHHHCCCHHHHHHHHHHHHT------TCSSCBC------------TTSSCBTTTTBCHHHHHHHHHHHGG-
+T ss_pred             hchhHHHHHHHHHCCCHHHHHHHHhhhhh------cCCcccc------------CCCCCeeceeecchHHHHHHHHHHH-
+Confidence            34567788899999999999999999973      3445556            6789999999999999887533221 
+
+
+Q ss_pred             HHHHHHHcCCccCCCcccCCCceeecCCCceeccceeecCCccccchhhhhccccccCCCCCCCCChHHHHHHHHhccCH
+Q FD01543125_046   88 LYEKATEQGLVADKPLLNKKGEVVKNKKGEVVNEKKFQVSTDKWKNLKELTNGRYITGITPYPVHATAEIQQWLNLRFKP  167 (270)
+Q Consensus        88 Ln~~a~~~G~l~~~~~~~~~~~~~~~k~~~~~~~~~F~la~g~~~~~~~l~~~~~l~~~~p~~~~~~~~~~~lL~LR~dp  167 (270)
+                            ..|+.    .                                                      ...+.+|+||
+T Consensus       158 ------~~g~~----~------------------------------------------------------~~~~~~r~~~  173 (268)
+T 3BKH_A          158 ------KYGVL----T------------------------------------------------------DPTGALRKDP  173 (268)
+T ss_dssp             ------GGTCC----C------------------------------------------------------CTTCGGGGCH
+T ss_pred             ------HhCCC----C------------------------------------------------------CCCCCcCCCH
+Confidence                  11110    0                                                      0234799999
+
+
+Q ss_pred             HHHHHHHHHHHHHHHHHHHHc-CCCCCCCCHHHHHHHHHHHHhcCHHHHHHHHhCCCCHHHHHHHHHHHhChHHHHHHHH
+Q FD01543125_046  168 EYAIMAAVDYGVANLASLKMA-GYNIDGLNDAEKAKLIYLTHHLGLSDAIHFIKNNITEGKAKELLIAQVGDESAISKAK  246 (270)
+Q Consensus       168 e~sI~aaaDYa~~NL~~L~~~-G~~v~~L~d~ekAK~~YL~HHlG~gdA~~Fi~~ti~~~~A~~LL~aQVG~~~A~~~~~  246 (270)
+                      +.+++.+..|...+.+.|... |..+   ++.+    +|++|+.|++++.+|+...-... +...+..-   ..+...+-
+T Consensus       174 ~~~~~~~~~~~~~~~~~~~~~~g~~~---~~~~----~y~~~~~g~~~~~~~~~~~~~~~-~~~~~~~~---~~~n~~~~  242 (268)
+T 3BKH_A          174 RISALMGAELIKENMNILRPVLKREP---TDTD----LYLAHFFGPGAARRFLTTGQNEL-AATHFPKE---AQANPSIF  242 (268)
+T ss_dssp             HHHHHHHHHHHHHHHHHHGGGCSSCC---CHHH----HHHHHHHCHHHHHHHTTSCTTSB-HHHHCHHH---HHHCHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHhCCCC---ChhH----HHHHHHhCHHHHHHHHHhCccch-HHHhCHHH---HHhCHHHh
+Confidence            999999999999999999975 6654   4443    59999999999999998753222 22222211   11111121
+
+
+Q ss_pred             --h--CCCHHHHHHHHHHHHHhhcC
+Q FD01543125_046  247 --K--NGGYMKAHRKWLIDYIDDNI  267 (270)
+Q Consensus       247 --~--~gd~~~AhR~WL~~yId~~I  267 (270)
+                        .  .+..+..+..|+...+++..
+T Consensus       243 ~~~~g~~~t~~~~~~~~~~~~~~~~  267 (268)
+T 3BKH_A          243 YNKDGSPKTIQEVYNLMDGKVAAHR  267 (268)
+T ss_dssp             BCTTSCBCBHHHHHHHHHHHHHTTC
+T ss_pred             cCCCCCcccHHHHHHHHHHHHHHhc
+Confidence              1  34466677888888777654
+
+
+No 2
+>4P0G_A Membrane-bound lytic murein transglycosylase F; Lytic transglycosylase, glycosyltransferase, ABC substrate binding-like domain, peptidoglycan, LYASE; HET: NAG, BLG, AMU; 1.65A {Pseudomonas aeruginosa}
+Probab=97.59  E-value=0.001  Score=62.55  Aligned_cols=109  Identities=17%  Similarity=0.229  Sum_probs=0.0  Template_Neff=10.500
+
+Q ss_pred             HHHHHHHHHHHHHCCCHHHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCchhhhcccccchhHHHhccCCCH
+Q FD01543125_046    8 IYWNEIIRASERSGIIPQSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSSAAGMTQFLNGTWMTETLRDGTY   87 (270)
+Q Consensus         8 ~Yr~~Ii~Aa~RtGi~pqalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SSAaGLtQFL~gTW~~~A~~~GT~   87 (270)
+                      .|.+.|..++++.|+++.-|+||+..|      ..|++..++             ...|.||.||...||...       
+T Consensus       265 ~~~~~~~~~~~~~~~~~~l~~a~~~~e------s~~~~~~~s-------------~~g~~G~mq~~~~t~~~~-------  318 (435)
+T 4P0G_A          265 RYESHFKQSGKQLDTDWRLLAAIGYQE------SLWQPGATS-------------KTGVRGLMMLTNRTAQAM-------  318 (435)
+T ss_dssp             HHHHHHHHHHHHHTSCHHHHHHHHHHH------HSSCTTCBC-------------TTSCBTTTTBCHHHHHHH-------
+T ss_pred             hhHHHHHHHHhhhCCCHHHHHHHHHHH------hcCCCCCcc-------------cCCceeeeccCHHHHHHh-------
+
+
+Q ss_pred             HHHHHHHcCCccCCCcccCCCceeecCCCceeccceeecCCccccchhhhhccccccCCCCCCCCChHHHHHHHHhccCH
+Q FD01543125_046   88 LYEKATEQGLVADKPLLNKKGEVVKNKKGEVVNEKKFQVSTDKWKNLKELTNGRYITGITPYPVHATAEIQQWLNLRFKP  167 (270)
+Q Consensus        88 Ln~~a~~~G~l~~~~~~~~~~~~~~~k~~~~~~~~~F~la~g~~~~~~~l~~~~~l~~~~p~~~~~~~~~~~lL~LR~dp  167 (270)
+                                     .                                                +.+         +.||
+T Consensus       319 ---------------~------------------------------------------------~~~---------~~~~  326 (435)
+T 4P0G_A          319 ---------------G------------------------------------------------VSN---------RLDP  326 (435)
+T ss_dssp             ---------------T------------------------------------------------CSC---------TTCH
+T ss_pred             ---------------C------------------------------------------------CCC---------CCCH
+
+
+Q ss_pred             HHHHHHHHHHHHHHHHHHHHcCCCCCCCCHHHHHHHHHHHHhcCHHHHHHHHh
+Q FD01543125_046  168 EYAIMAAVDYGVANLASLKMAGYNIDGLNDAEKAKLIYLTHHLGLSDAIHFIK  220 (270)
+Q Consensus       168 e~sI~aaaDYa~~NL~~L~~~G~~v~~L~d~ekAK~~YL~HHlG~gdA~~Fi~  220 (270)
+                      +.+|.+++.|-..-.+.+.      ..+.+.++-+++.-+.+.|+|...+-++
+T Consensus       327 ~~~i~~g~~~l~~~~~~~~------~~~~~~~~~~~~~aayn~g~~~~~~a~~  373 (435)
+T 4P0G_A          327 KQSIQGGSKYFVQIRSELP------ESIKEPDRSWFALAAYNIGGAHLEDARK  373 (435)
+T ss_dssp             HHHHHHHHHHHHHHHHHSC------TTCCTTHHHHHHHHHHHHCHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHCC------ccCCcchHHHHHHHHHhcCchHHHHHHH
+
+
+No 3
+>4CFP_B MEMBRANE-BOUND LYTIC MUREIN TRANSGLYCOSYLASE C; LYASE; HET: P6G, CIT, AMV, NAG, AMU; 2.15A {ESCHERICHIA COLI}
+Probab=97.35  E-value=0.019  Score=54.99  Aligned_cols=159  Identities=19%  Similarity=0.243  Sum_probs=0.0  Template_Neff=8.600
+
+Q ss_pred             HHHHHHHHHHHHHHCCCHHHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCchhhhcccccchhHHHhccCCC
+Q FD01543125_046    7 VIYWNEIIRASERSGIIPQSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSSAAGMTQFLNGTWMTETLRDGT   86 (270)
+Q Consensus         7 ~~Yr~~Ii~Aa~RtGi~pqalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SSAaGLtQFL~gTW~~~A~~~GT   86 (270)
+                      ..|++.+...+.+.|++|.-++|+|..|      ..++|...+             ...|.||.|+...+|........ 
+T Consensus       172 ~~y~~~v~~~a~~~~l~~~li~aii~~E------S~fnp~a~S-------------~~~A~GlmQi~p~ta~~~~~~~~-  231 (341)
+T 4CFP_B          172 HKYLGMVRQASRKYGVDESLILAIMQTQ------SSFNPYAVS-------------RSDALGLMQVVQHTAGKDVFRSQ-  231 (341)
+T ss_dssp             GGGHHHHHHHHHHHTCCHHHHHHHHHHH------HTTCTTCBC-------------TTCCBTTTTBCCCCCCHHHHHHT-
+T ss_pred             HHHHHHHHHHHHHHCCCHHHHHHHHHHH------cCCCCCCCC-------------CCCceeCcccchhhhHHHHHHhc-
+
+
+Q ss_pred             HHHHHHHHcCCccCCCcccCCCceeecCCCceeccceeecCCccccchhhhhccccccCCCCCCCCChHHHHHHHHhccC
+Q FD01543125_046   87 YLYEKATEQGLVADKPLLNKKGEVVKNKKGEVVNEKKFQVSTDKWKNLKELTNGRYITGITPYPVHATAEIQQWLNLRFK  166 (270)
+Q Consensus        87 ~Ln~~a~~~G~l~~~~~~~~~~~~~~~k~~~~~~~~~F~la~g~~~~~~~l~~~~~l~~~~p~~~~~~~~~~~lL~LR~d  166 (270)
+                               |.-.....                                                          ..++|
+T Consensus       232 ---------~~~~~~~~----------------------------------------------------------~~l~d  244 (341)
+T 4CFP_B          232 ---------GKSGTPSR----------------------------------------------------------SFLFD  244 (341)
+T ss_dssp             ---------TCCSCCCH----------------------------------------------------------HHHHS
+T ss_pred             ---------CCCCCCCH----------------------------------------------------------HHhcC
+
+
+Q ss_pred             HHHHHHHHHHHHHHHHHHHHHcCCCCCCCCHHHHHHHHHHHHhcCHHHHHHHHhCC----------CCHHHHHHHHHHHh
+Q FD01543125_046  167 PEYAIMAAVDYGVANLASLKMAGYNIDGLNDAEKAKLIYLTHHLGLSDAIHFIKNN----------ITEGKAKELLIAQV  236 (270)
+Q Consensus       167 pe~sI~aaaDYa~~NL~~L~~~G~~v~~L~d~ekAK~~YL~HHlG~gdA~~Fi~~t----------i~~~~A~~LL~aQV  236 (270)
+                      |+..|..++.|    |..|...-..-.. ++....-.+-.++..|++...+.+...          ++++.....|..+.
+T Consensus       245 p~~ni~~g~~y----l~~l~~~~~~~~~-~~~~~~~~aiaaYn~G~g~v~~~~~~~~~~a~~~in~~~~~~~y~~l~~~~  319 (341)
+T 4CFP_B          245 PASNIDTGTAY----LAMLNNVYLGGID-NPTSRRYAVITAYNGGAGSVLRVFSNDKIQAANIINTMTPGDVYQTLTTRH  319 (341)
+T ss_dssp             HHHHHHHHHHH----HHHCCCCCSTTCC-SHHHHHHHHHHHHHHCHHHHHTTTCSSHHHHHHHHTTSCHHHHHHHHHHHC
+T ss_pred             HHHHHHHHHHH----HHHHHHHhcCCCC-CchhHHHHHHHHHHcChHHHHHHHccChhHHHHHHhhCCHHHHHHHHHHcC
+
+
+Q ss_pred             ChHHHHHHHHhCCCHHHHHHH
+Q FD01543125_046  237 GDESAISKAKKNGGYMKAHRK  257 (270)
+Q Consensus       237 G~~~A~~~~~~~gd~~~AhR~  257 (270)
+                      .......|+..--.+...|+.
+T Consensus       320 p~~et~~Yl~kV~~~~~~y~~  340 (341)
+T 4CFP_B          320 PSAESRRYLYKVNTAQKSYRR  340 (341)
+T ss_dssp             SCHHHHHHHHHHHHHHHTTSB
+T ss_pred             CCHHHHHHHHHHHHHHHHHhc
+
+
+No 4
+>PF01464.24 ; SLT ; Transglycosylase SLT domain
+Probab=97.18  E-value=0.00071  Score=50.68  Aligned_cols=116  Identities=16%  Similarity=0.100  Sum_probs=0.0  Template_Neff=11.800
+
+Q ss_pred             HHHHHHHHHHCCCHHHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCc--hhhhcccccchhHHHhccCCCHH
+Q FD01543125_046   11 NEIIRASERSGIIPQSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSS--AAGMTQFLNGTWMTETLRDGTYL   88 (270)
+Q Consensus        11 ~~Ii~Aa~RtGi~pqalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SS--AaGLtQFL~gTW~~~A~~~GT~L   88 (270)
+                      ..|.+++++.|++|..+++|+..|+.-.. ..-++...+            ..+.  +.|+.||...+|......     
+T Consensus         1 ~~i~~~~~~~~~~~~~~~ai~~~es~~~~-~~~~~~~~~------------~~~~~~~~G~~q~~~~~~~~~~~~-----   62 (129)
+T YQBO_BACSU/135    1 MAAIMATKTPMSWLPGLMTIAQHESGGNP-KAINLWDSN------------AKAGHPSQGLMQTIPSTFNAHKLP-----   62 (129)
+T ss_pred             ChHHHHhcCCCCCHHHHHHHHHHHhCCCC-CcccccccC------------cccCCCCccceeeCcchhHhcCCC-----
+
+
+Q ss_pred             HHHHHHcCCccCCCcccCCCceeecCCCceeccceeecCCccccchhhhhccccccCCCCCCCCChHHHHHHHHhccCHH
+Q FD01543125_046   89 YEKATEQGLVADKPLLNKKGEVVKNKKGEVVNEKKFQVSTDKWKNLKELTNGRYITGITPYPVHATAEIQQWLNLRFKPE  168 (270)
+Q Consensus        89 n~~a~~~G~l~~~~~~~~~~~~~~~k~~~~~~~~~F~la~g~~~~~~~l~~~~~l~~~~p~~~~~~~~~~~lL~LR~dpe  168 (270)
+                                   ..                                                          ..+.+|.
+T Consensus        63 -------------~~----------------------------------------------------------~~~~~~~   71 (129)
+T YQBO_BACSU/135   63 -------------GM----------------------------------------------------------NNILNPI   71 (129)
+T ss_pred             -------------CC----------------------------------------------------------CCCCCHH
+
+
+Q ss_pred             HHHHHHHHHHHHHHHHHH-HcCCCCCCCCHHHHHHHHHHHHhcCHHHHHHHHhC
+Q FD01543125_046  169 YAIMAAVDYGVANLASLK-MAGYNIDGLNDAEKAKLIYLTHHLGLSDAIHFIKN  221 (270)
+Q Consensus       169 ~sI~aaaDYa~~NL~~L~-~~G~~v~~L~d~ekAK~~YL~HHlG~gdA~~Fi~~  221 (270)
+                      ..|..+++|......... ..+.....+..      +|.+||.|.+...+++..
+T Consensus        72 ~~~~~~~~~l~~~~~~~~~~~~~~~~~~~~------~~~~y~~g~~~~~~~~~~  119 (129)
+T YQBO_BACSU/135   72 HNAAAAIGYIKSRYGSINNVPGIRSMRHGG------PYVGYANGGLITKEQIAR  119 (129)
+T ss_pred             HHHHHHHHHHHHHhCcccCCCCcccccCCC------cccccccCCccccccccc
+
+
+No 5
+>5A5X_A MEMBRANE-BOUND LYTIC MUREIN TRANSGLYCOSYLASE F; HYDROLASE, LYTIC TRANSGLYCOSILOSE, CELL WALL RECYCLING; HET: EDO, MSE; 1.801A {PSEUDOMONAS AERUGINOSA PAO1}
+Probab=96.99  E-value=0.0096  Score=57.18  Aligned_cols=109  Identities=17%  Similarity=0.235  Sum_probs=0.0  Template_Neff=10.100
+
+Q ss_pred             HHHHHHHHHHHHHCCCHHHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCchhhhcccccchhHHHhccCCCH
+Q FD01543125_046    8 IYWNEIIRASERSGIIPQSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSSAAGMTQFLNGTWMTETLRDGTY   87 (270)
+Q Consensus         8 ~Yr~~Ii~Aa~RtGi~pqalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SSAaGLtQFL~gTW~~~A~~~GT~   87 (270)
+                      .|.+.|..++++.|+++.-|+||+-.|      ..|++...+             ...|.|+.||...||...       
+T Consensus       253 ~~~~~~~~~a~~~g~d~~ll~ai~~~e------s~~~~~~~s-------------~~g~~G~mq~~~~t~~~~-------  306 (453)
+T 5A5X_A          253 RYESHFKQSGKQKDTDWRLLAAIGYQE------SLWQPGATS-------------KTGVRGLMMLTNRTAQAM-------  306 (453)
+T ss_dssp             HHHHHHHHHHHHTTSCHHHHHHHHHHH------HSSCTTCBC-------------TTSCBTTTTBCHHHHHHH-------
+T ss_pred             chHHHHHHHhhccCCCHHHHHHHHHHh------hcCCCCCCC-------------CCCceeccccCHHHHHHc-------
+
+
+Q ss_pred             HHHHHHHcCCccCCCcccCCCceeecCCCceeccceeecCCccccchhhhhccccccCCCCCCCCChHHHHHHHHhccCH
+Q FD01543125_046   88 LYEKATEQGLVADKPLLNKKGEVVKNKKGEVVNEKKFQVSTDKWKNLKELTNGRYITGITPYPVHATAEIQQWLNLRFKP  167 (270)
+Q Consensus        88 Ln~~a~~~G~l~~~~~~~~~~~~~~~k~~~~~~~~~F~la~g~~~~~~~l~~~~~l~~~~p~~~~~~~~~~~lL~LR~dp  167 (270)
+                                     .                                                +.+         ++||
+T Consensus       307 ---------------g------------------------------------------------~~~---------~~~~  314 (453)
+T 5A5X_A          307 ---------------G------------------------------------------------VSN---------RLDP  314 (453)
+T ss_dssp             ---------------T------------------------------------------------CSC---------TTSH
+T ss_pred             ---------------C------------------------------------------------CCC---------CCCH
+
+
+Q ss_pred             HHHHHHHHHHHHHHHHHHHHcCCCCCCCCHHHHHHHHHHHHhcCHHHHHHHHh
+Q FD01543125_046  168 EYAIMAAVDYGVANLASLKMAGYNIDGLNDAEKAKLIYLTHHLGLSDAIHFIK  220 (270)
+Q Consensus       168 e~sI~aaaDYa~~NL~~L~~~G~~v~~L~d~ekAK~~YL~HHlG~gdA~~Fi~  220 (270)
+                      +.+|.+++.|-..-.+.+.      .++.+.++-+++--+.+.|++...+..+
+T Consensus       315 ~~~i~~g~~yl~~~~~~~~------~~~~~~~~~~~~laayn~G~~~~~~~~~  361 (453)
+T 5A5X_A          315 KQSIQGGSKYFVQIRSELP------ESIKEPDRSWFALAAYNIGGAHLEDARK  361 (453)
+T ss_dssp             HHHHHHHHHHHHHHHHHSC------TTCCTTHHHHHHHHHHHHCHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHCC------ccCCcchHHHHHHHHHHcChhHHHHHHH
+
+
+No 6
+>6GI4_B Endo-type membrane-bound lytic murein transglycosylase A; Lytic Transglycosylase, LYASE; 1.35A {Escherichia coli}
+Probab=96.76  E-value=0.28  Score=40.33  Aligned_cols=160  Identities=15%  Similarity=0.065  Sum_probs=0.0  Template_Neff=11.300
+
+Q ss_pred             HHHHHHHHHHHHHHCCCHHHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCchhhhcccccchhHHHhccCCC
+Q FD01543125_046    7 VIYWNEIIRASERSGIIPQSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSSAAGMTQFLNGTWMTETLRDGT   86 (270)
+Q Consensus         7 ~~Yr~~Ii~Aa~RtGi~pqalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SSAaGLtQFL~gTW~~~A~~~GT   86 (270)
+                      ..|...|...+++.|+++..+++++..|      ..+++...+             .+++.|+.||...+|...      
+T Consensus        20 ~~~~~~~~~~~~~~~~~~~~~~a~~~~e------s~~~~~~~~-------------~~g~~G~~q~~~~~~~~~------   74 (194)
+T 6GI4_B           20 MQWMPISQKAGAAWGVDPQLITAIIAIE------SGGNPNAVS-------------KANAIGLMQLKASTSGRD------   74 (194)
+T ss_dssp             HTTHHHHHHHHHHHTCCHHHHHHHHHHH------TTTCTTCEE-------------TTTEETTTTEECCCCCHH------
+T ss_pred             HHHHHHHHHHHHHHCCCHHHHHHHHHHH------cCCCCCCCC-------------CCCccccccccccchhHH------
+
+
+Q ss_pred             HHHHHHHHcCCccCCCcccCCCceeecCCCceeccceeecCCccccchhhhhccccccCCCCCCCCChHHHHHHHHhccC
+Q FD01543125_046   87 YLYEKATEQGLVADKPLLNKKGEVVKNKKGEVVNEKKFQVSTDKWKNLKELTNGRYITGITPYPVHATAEIQQWLNLRFK  166 (270)
+Q Consensus        87 ~Ln~~a~~~G~l~~~~~~~~~~~~~~~k~~~~~~~~~F~la~g~~~~~~~l~~~~~l~~~~p~~~~~~~~~~~lL~LR~d  166 (270)
+                          ..+..|+......                                                          ..+++
+T Consensus        75 ----~~~~~~~~~~~~~----------------------------------------------------------~~~~~   92 (194)
+T 6GI4_B           75 ----VYRRMGWSGEPTT----------------------------------------------------------SELKN   92 (194)
+T ss_dssp             ----HHHHTTCSSCCCH----------------------------------------------------------HHHHS
+T ss_pred             ----HHHHhCCCCCCCH----------------------------------------------------------HHHcC
+
+
+Q ss_pred             HHHHHHHHHHHHHHHHHH-HHHcCCCCCCCCHHHHHHHHHHHHhcCHHHHHHHHhC----------CCCHHHHHHHHHHH
+Q FD01543125_046  167 PEYAIMAAVDYGVANLAS-LKMAGYNIDGLNDAEKAKLIYLTHHLGLSDAIHFIKN----------NITEGKAKELLIAQ  235 (270)
+Q Consensus       167 pe~sI~aaaDYa~~NL~~-L~~~G~~v~~L~d~ekAK~~YL~HHlG~gdA~~Fi~~----------ti~~~~A~~LL~aQ  235 (270)
+                      |..+|..++.|...+++. ...      ..++.+....+...++.|.+...++++.          ..+...........
+T Consensus        93 ~~~~~~~~~~~~~~~~~~~~~~------~~~~~~~~~~~~~~y~~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  166 (194)
+T 6GI4_B           93 PERNISMGAAYLNILETGPLAG------IEDPKVLQYALVVSYANGAGALLRTFSSDRKKAISKINDLDADEFLEHVARN  166 (194)
+T ss_dssp             HHHHHHHHHHHHHHHHHTTTTT------CCCHHHHHHHHHHHHHHCHHHHHHTTCSSHHHHHHHHTTSCHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHhhCccCC------CCChHHHHHHHHHHHhcCHHHHHHHHccCHHHHHHHHhcCCHHHHHHHHHHh
+
+
+Q ss_pred             hChHHHHHHHH-hCCCHHHHHHHHH
+Q FD01543125_046  236 VGDESAISKAK-KNGGYMKAHRKWL  259 (270)
+Q Consensus       236 VG~~~A~~~~~-~~gd~~~AhR~WL  259 (270)
+                      ........++. -.+.+....-.|+
+T Consensus       167 ~~~~~~~~~~~~~~~~~~~~~~~~~  191 (194)
+T 6GI4_B          167 HPAPQAPRYIYKLEQALDAMLEHHH  191 (194)
+T ss_dssp             CSCTHHHHHHHHHHHHHHHHGGGCC
+T ss_pred             CCcchHHHHHHHHHHHHHHHHhccc
+
+
+No 7
+>5ANZ_A SOLUBLE LYTIC TRANSGLYCOSYLASE B3; HYDROLASE, LYTIC TRANSGLYCOSILASE, CELL WALL RECYCLING; HET: PEG; 1.614A {PSEUDOMONAS AERUGINOSA}
+Probab=96.12  E-value=0.015  Score=56.85  Aligned_cols=65  Identities=15%  Similarity=0.073  Sum_probs=0.0  Template_Neff=8.900
+
+Q ss_pred             HHHHHHHHHHHHHHCCCHHHHHHHHhhHhhc-------------------------------------cCCCccCCCccc
+Q FD01543125_046    7 VIYWNEIIRASERSGIIPQSIAAVIHSEAAK-------------------------------------YRGGVWKPTSVC   49 (270)
+Q Consensus         7 ~~Yr~~Ii~Aa~RtGi~pqalAAiI~AEAAk-------------------------------------~~~G~W~~~S~n   49 (270)
+                      ..|++.+.++++++|+||.-|+||+.-|..-                                     .. |.+++....
+T Consensus       117 ~~~~~~~~~~~~~~gv~~~~i~ai~~~Es~~G~~~g~~~~~~~l~~l~~~~~r~~~~~~~l~~~~~~~~~-~~~~~~~~~  195 (420)
+T 5ANZ_A          117 AQHARILGEVDARYAVDADAVVAIWGMESNYGSHMGNKNVIRSLATLAYEGRRPEFAHAQLLAALKILQH-GDVPASFMI  195 (420)
+T ss_dssp             HHTHHHHHHHHHHHTCCHHHHHHHHHHHHTTTTCSCSEEHHHHHHHHHHHCSCHHHHHHHHHHHHHHHHH-TSSCGGGCE
+T ss_pred             HHHHHHHHHHHHHHCCCHHHhhhHHHHHcccccccCCCcccccccccccCCCCHHHHHHHHHHHHHHHHc-CCCCHHHCc
+
+
+Q ss_pred             cCCCCCCCCCCCCCCchhhhcccccchhHHHhcc
+Q FD01543125_046   50 KNSKKSTKENTVYKSSAAGMTQFLNGTWMTETLR   83 (270)
+Q Consensus        50 ~~~~~~~~~~~~~~SSAaGLtQFL~gTW~~~A~~   83 (270)
+                      .           +-..|-|++||+..||...+.+
+T Consensus       196 ~-----------s~aGa~G~~Qf~p~~~~~~~~d  218 (420)
+T 5ANZ_A          196 G-----------SWAGAMGQTQFIPTTHNQYAVD  218 (420)
+T ss_dssp             E-----------CTTSCBTTTTBCHHHHHHHCCC
+T ss_pred             c-----------cCChhhcCCccccchHHHHhcc
+
+
+No 8
+>1LTM_A 36 KDA SOLUBLE LYTIC TRANSGLYCOSYLASE; GLYCOSYLTRANSFERASE, MURAMIDASE, TRANSGLYCOSYLASE, PEPTIDOGLYCAN MATURATION, LYSOZYME, PERIPLASMIC; HET: BCN; 1.7A {Escherichia coli} SCOP: d.2.1.6
+Probab=96.03  E-value=0.016  Score=56.17  Aligned_cols=65  Identities=20%  Similarity=0.218  Sum_probs=0.0  Template_Neff=7.400
+
+Q ss_pred             HHHHHHHHHHHHHHCCCHHHHHHHHhhHhhc--------------------------------------cCCCccCCCcc
+Q FD01543125_046    7 VIYWNEIIRASERSGIIPQSIAAVIHSEAAK--------------------------------------YRGGVWKPTSV   48 (270)
+Q Consensus         7 ~~Yr~~Ii~Aa~RtGi~pqalAAiI~AEAAk--------------------------------------~~~G~W~~~S~   48 (270)
+                      ..|++.+.++++++|++|.-|+||+-.|..-                                      .. |.+++.+.
+T Consensus        94 ~~~~~~l~~~~~~~gV~~~ii~AI~~~ES~~G~~~g~~~~~~~l~tla~~~~~r~~~~~~el~~~l~~~~~-~~~~~~~~  172 (320)
+T 1LTM_A           94 NQYEDALNRAWQVYGVPPEIIVGIIGVETRWGRVMGKTRILDALATLSFNYPRRAEYFSGELETFLLMARD-EQDDPLNL  172 (320)
+T ss_dssp             HHTHHHHHHHHHHHCCCHHHHHHHHHHHHTTTTCCCCEEHHHHHHHHHHSCGGGHHHHHHHHHHHHHHHHH-TTCCTTTC
+T ss_pred             HHHHHHHHHHHHHHCCCHHHHhhhhhhhcchhhhcCCcccccccchhhhCChhHHHhhhhHHHHHHHHHHh-cCCChhhh
+
+
+Q ss_pred             ccCCCCCCCCCCCCCCchhhhcccccchhHHHhcc
+Q FD01543125_046   49 CKNSKKSTKENTVYKSSAAGMTQFLNGTWMTETLR   83 (270)
+Q Consensus        49 n~~~~~~~~~~~~~~SSAaGLtQFL~gTW~~~A~~   83 (270)
+                      ..           +-..|-|++||+..||...+.+
+T Consensus       173 ~g-----------S~aGA~G~~Qf~Pst~~~~~~d  196 (320)
+T 1LTM_A          173 KG-----------SFAGAMGYGQFMPSSYKQYAVD  196 (320)
+T ss_dssp             EE-----------CTTCCBTTTTBCHHHHHHHCCC
+T ss_pred             cC-----------CCCCCCCccccChhHHHHHhHh
+
+
+No 9
+>7QVD_AAA Lytic murein transglycosylase; Lytic transglycosylase, HYDROLASE; 1.7A {Pseudomonas aeruginosa}
+Probab=96.00  E-value=0.02  Score=55.04  Aligned_cols=65  Identities=18%  Similarity=0.160  Sum_probs=0.0  Template_Neff=9.100
+
+Q ss_pred             HHHHHHHHHHHHHHCCCHHHHHHHHhhHhhc-------------------------------------cCCCccCCCccc
+Q FD01543125_046    7 VIYWNEIIRASERSGIIPQSIAAVIHSEAAK-------------------------------------YRGGVWKPTSVC   49 (270)
+Q Consensus         7 ~~Yr~~Ii~Aa~RtGi~pqalAAiI~AEAAk-------------------------------------~~~G~W~~~S~n   49 (270)
+                      ..|++.+..+++++|+||.-|+||+.-|..-                                     .. |.+++.+..
+T Consensus        76 ~~~~~~l~~~~~~~gv~~~~i~ai~~~Es~~G~~~g~~~~~~~l~t~~~~~~r~~~~~~~l~~~~~~~~~-~~~~~~~~~  154 (380)
+T 7QVD_AAA         76 AQHDKLLDQVAARYGVDKYTVVAVWGVESDYGRIFGKRPLLTSLSTLSCYGRRQSFFQGEFLATLKLLQA-GDIRDAGIT  154 (380)
+T ss_pred             HHhHHHHHHHHHHHCCCHHHHHHHHHHHchhccccCCCChhhhhccccccccchHhhhHHHHHHHHHHHc-CCCChhhCC
+
+
+Q ss_pred             cCCCCCCCCCCCCCCchhhhcccccchhHHHhcc
+Q FD01543125_046   50 KNSKKSTKENTVYKSSAAGMTQFLNGTWMTETLR   83 (270)
+Q Consensus        50 ~~~~~~~~~~~~~~SSAaGLtQFL~gTW~~~A~~   83 (270)
+                      .           +-..|-|++||+..+|...+..
+T Consensus       155 g-----------s~aGa~G~~Qf~p~~~~~~~~d  177 (380)
+T 7QVD_AAA        155 G-----------SWAGAFGHTQFMPSTYARIAVD  177 (380)
+T ss_pred             c-----------cccHHhcCCccChhHHHHheeC
+
+
+No 10
+>PF13406.10 ; SLT_2 ; Transglycosylase SLT domain
+Probab=95.93  E-value=0.032  Score=53.02  Aligned_cols=66  Identities=17%  Similarity=0.156  Sum_probs=0.0  Template_Neff=8.000
+
+Q ss_pred             HHHHHHHHHHHHHHCCCHHHHHHHHhhHhhccCC-C-----------------------------------ccCCCcccc
+Q FD01543125_046    7 VIYWNEIIRASERSGIIPQSIAAVIHSEAAKYRG-G-----------------------------------VWKPTSVCK   50 (270)
+Q Consensus         7 ~~Yr~~Ii~Aa~RtGi~pqalAAiI~AEAAk~~~-G-----------------------------------~W~~~S~n~   50 (270)
+                      ..|++.+..+++++|+||.-|+||+..|..=... |                                   .+++.+...
+T Consensus        72 ~~~~~~l~~~~~~~gVp~~~l~ai~~~ES~~g~~~~~~~~~~~l~tl~~~~~r~~~~~~~l~~~l~~~~~~~~~~~~~~g  151 (292)
+T A9KCL8_COXBN/3   72 QKHHRILTEIGNKYGVNPCFIVSLWGMETSYGSYMGNFPVIQSLATLAYESQRKAFFRKQLFYALEILNGGHVTLQNFKG  151 (292)
+T ss_pred             HHHHHHHHHHHHHHCCCHHHHHHHHHHHhcccccCCCCchhHHHhHhhHHhhhHHHHHHHHHHHHHHHhCCCCChhHcCC
+
+
+Q ss_pred             CCCCCCCCCCCCCCchhhhcccccchhHHHhcc
+Q FD01543125_046   51 NSKKSTKENTVYKSSAAGMTQFLNGTWMTETLR   83 (270)
+Q Consensus        51 ~~~~~~~~~~~~~SSAaGLtQFL~gTW~~~A~~   83 (270)
+                                 ..+.|.|++||+..||...+.+
+T Consensus       152 -----------s~aGA~G~~Qf~P~t~~~~g~d  173 (292)
+T A9KCL8_COXBN/3  152 -----------EWAGASGQPQFLPSSWHNYAVD  173 (292)
+T ss_pred             -----------CCCccCCCCCCChhHHHHhhcc
+
+
+No 11
+>5OHU_A Soluble lytic murein transglycosylase; Lytic Transglycosylase, LYASE; HET: PO4; 2.2A {Pseudomonas aeruginosa}
+Probab=95.64  E-value=0.16  Score=49.91  Aligned_cols=135  Identities=16%  Similarity=0.188  Sum_probs=0.0  Template_Neff=11.300
+
+Q ss_pred             HHHHHHHHHHHHCCCHHHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCchhhhcccccchhHHHhccCCCHH
+Q FD01543125_046    9 YWNEIIRASERSGIIPQSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSSAAGMTQFLNGTWMTETLRDGTYL   88 (270)
+Q Consensus         9 Yr~~Ii~Aa~RtGi~pqalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SSAaGLtQFL~gTW~~~A~~~GT~L   88 (270)
+                      |++.|...+++.+++|.-|.|||..|..      |+|...+             .+.|.||+|++..|-.          
+T Consensus       478 ~~~~v~~~a~~~~~dp~li~ai~RqES~------f~~~a~S-------------~agA~GlmQ~mp~Ta~----------  528 (642)
+T 5OHU_A          478 HRATLVREAKNRGLHSSWIFAITRQESA------FMSDARS-------------GVGATGLMQLMPGTAK----------  528 (642)
+T ss_dssp             THHHHHHHHHHTTCCHHHHHHHHHHHHT------TCTTCBC-------------TTSCBTTTTBCHHHHH----------
+T ss_pred             hHHHHHHHHHHcCCCHHHHHHHHHHhcc------CCCCCCC-------------CCCCccccccCHHHHH----------
+
+
+Q ss_pred             HHHHHHcCCccCCCcccCCCceeecCCCceeccceeecCCccccchhhhhccccccCCCCCCCCChHHHHHHHHhccCHH
+Q FD01543125_046   89 YEKATEQGLVADKPLLNKKGEVVKNKKGEVVNEKKFQVSTDKWKNLKELTNGRYITGITPYPVHATAEIQQWLNLRFKPE  168 (270)
+Q Consensus        89 n~~a~~~G~l~~~~~~~~~~~~~~~k~~~~~~~~~F~la~g~~~~~~~l~~~~~l~~~~p~~~~~~~~~~~lL~LR~dpe  168 (270)
+                       ..|+..|+-.....                                                           .-+||+
+T Consensus       529 -~~a~~~~~~~~~~~-----------------------------------------------------------~l~~p~  548 (642)
+T 5OHU_A          529 -ETSRKFGIPLASTQ-----------------------------------------------------------QLIVPD  548 (642)
+T ss_dssp             -HHHHHHTCCCCCGG-----------------------------------------------------------GGGSHH
+T ss_pred             -HHHHHhCCCCCCHH-----------------------------------------------------------HhcCHH
+
+
+Q ss_pred             HHHHHHHHHHHHHHHHHHHcCCCCCCCCHHHHHHHHHHHHhcCHHHHHHHHhCCCCHHHHHHHHHHHhChHHHHHHHH
+Q FD01543125_046  169 YAIMAAVDYGVANLASLKMAGYNIDGLNDAEKAKLIYLTHHLGLSDAIHFIKNNITEGKAKELLIAQVGDESAISKAK  246 (270)
+Q Consensus       169 ~sI~aaaDYa~~NL~~L~~~G~~v~~L~d~ekAK~~YL~HHlG~gdA~~Fi~~ti~~~~A~~LL~aQVG~~~A~~~~~  246 (270)
+                      .-|.-++.|-..-++.....-+....            +-.-|++-..++++.  ....--..++..|.-..-+.|++
+T Consensus       549 ~ni~lg~~yl~~l~~~~~g~~~~a~a------------aYNaGp~~v~~w~~~--~~~~~~~~fie~Ip~~ETr~Yvk  612 (642)
+T 5OHU_A          549 VNIRLGAAYLSQVHSQFNGNRVLASA------------AYNAGPGRVRQWLKD--TRHLAFDVWIETIPFDETRQYVQ  612 (642)
+T ss_dssp             HHHHHHHHHHHHHHHHTTTCHHHHHH------------HHHHCHHHHHHHTTT--CCSEEHHHHHHTCSCHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHhCCChhHHHH------------HHhcCHHHHHHHHHh--ccCCccchHHHhCCHHHHHHHHH
+
+
+No 12
+>4ANR_A SOLUBLE LYTIC TRANSGLYCOSYLASE B; LYASE, EF-HAND LIKE MOTIF, PEPTIDOGLYCAN; 1.84A {PSEUDOMONAS AERUGINOSA}
+Probab=95.52  E-value=0.011  Score=57.29  Aligned_cols=65  Identities=18%  Similarity=0.233  Sum_probs=0.0  Template_Neff=7.400
+
+Q ss_pred             HHHHHHHHHHHHHHCCCHHHHHHHHhhHhhc--------------------------------------cCCCccCCCcc
+Q FD01543125_046    7 VIYWNEIIRASERSGIIPQSIAAVIHSEAAK--------------------------------------YRGGVWKPTSV   48 (270)
+Q Consensus         7 ~~Yr~~Ii~Aa~RtGi~pqalAAiI~AEAAk--------------------------------------~~~G~W~~~S~   48 (270)
+                      ..|++.+..+++++|+||.-|+||+-.|..=                                      .. |.+++...
+T Consensus        91 ~~~~~~l~~a~~~~gV~~~~iaAI~~~ES~~G~~~g~~~~~~~l~tla~~~~~r~~~~~~el~~~l~~~~~-~~~~~~~~  169 (323)
+T 4ANR_A           91 NKHAEDLARAEKEYGVPAEIIVSIIGVETFFGRNTGSYRVMDALSTLGFDYPPRADFFRKELREFLLLARE-QQVDPLSL  169 (323)
+T ss_dssp             HHTHHHHHHHHHHHCCCHHHHHHHHHHHHTTTTCCCSEEHHHHHHHHHHHCGGGHHHHHHHHHHHHHHHHH-HTCCGGGC
+T ss_pred             HHHHHHHHHHHHHHCCChhhEEEEeccccccCcccCCccchhccchhhcCCchhHHHHHHHHHHHHHHHHH-cCCChhhc
+
+
+Q ss_pred             ccCCCCCCCCCCCCCCchhhhcccccchhHHHhcc
+Q FD01543125_046   49 CKNSKKSTKENTVYKSSAAGMTQFLNGTWMTETLR   83 (270)
+Q Consensus        49 n~~~~~~~~~~~~~~SSAaGLtQFL~gTW~~~A~~   83 (270)
+                      ..           +.+.|-|++||+..||...+.+
+T Consensus       170 ~g-----------S~aGA~G~~QfmPst~~~~~~d  193 (323)
+T 4ANR_A          170 TG-----------SYAGAMGLPQFMPSSFRAYAVD  193 (323)
+T ss_dssp             EE-----------CTTCCBTTTTBCHHHHHHHCCC
+T ss_pred             cC-----------CCCCCCCcCcCChHHHHHHhhh
+
+
+No 13
+>4XP8_A EtgA protein; peptidoglycan hydrolase, hydrolase; HET: MSE; 2.03A {Escherichia coli}
+Probab=95.49  E-value=0.058  Score=38.03  Aligned_cols=55  Identities=13%  Similarity=0.094  Sum_probs=0.0  Template_Neff=11.600
+
+Q ss_pred             HHHHHHHHHHCCCHHHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCchhhhcccccchhHH
+Q FD01543125_046   11 NEIIRASERSGIIPQSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSSAAGMTQFLNGTWMT   79 (270)
+Q Consensus        11 ~~Ii~Aa~RtGi~pqalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SSAaGLtQFL~gTW~~   79 (270)
+                      +.|..++++.|++|..+.+++..|..-.. +...+...+             .+.+.|+.|+...+|..
+T Consensus         2 ~~~~~~~~~~~v~~~~~~ai~~~Es~~~~-~~~~~~~~~-------------~~~~~G~~q~~~~~~~~   56 (88)
+T 4XP8_A            2 DCFEITGKAYNIDPLILKAIAWNESKNKN-GIKSKINKN-------------GTYNIGIMQINSSHLDL   56 (88)
+T ss_dssp             CHHHHHHHHHTCCHHHHHHHHHHHHSSCC-SCBCCCCTT-------------SCCEETTTTEEGGGHHH
+T ss_pred             chHHHHHHHhCCCHHHHHHHHHHhhCCCC-CccccCCCC-------------CCcceeecccchhhHHH
+
+
+No 14
+>5O29_A Transglycosylase; lytic transglycosylases, acid/base catalysis, peptidoglycan, bacteria, hydrolase; 1.3785A {Neisseria meningitidis}
+Probab=94.67  E-value=0.082  Score=50.93  Aligned_cols=58  Identities=17%  Similarity=0.248  Sum_probs=0.0  Template_Neff=11.500
+
+Q ss_pred             HHHHHHHHHHHHCCCHHHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCchhhhcccccchhHHHhccCC
+Q FD01543125_046    9 YWNEIIRASERSGIIPQSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSSAAGMTQFLNGTWMTETLRDG   85 (270)
+Q Consensus         9 Yr~~Ii~Aa~RtGi~pqalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SSAaGLtQFL~gTW~~~A~~~G   85 (270)
+                      |++.|..++++.+++|.-+.+||..|      ..+++..++             ...|.||+|++..|+...+.+-|
+T Consensus       436 ~~~~v~~~~~~~~i~p~~~~~l~r~e------s~~~~~~~s-------------~~~a~gl~q~~~~t~~~~a~~~~  493 (596)
+T 5O29_A          436 FKDTVIRHAQNVNVDPAWVYGLIRQE------SRFVIGAQS-------------RVGAQGLMQVMPATAREIAGKIG  493 (596)
+T ss_dssp             CHHHHHHHHHHTTCCHHHHHHHHHHH------HTTCTTCBC-------------TTCCBTTTTBCHHHHHHHHHHHT
+T ss_pred             cHHHHHHHHHhcCCCHHHHHHHHHHH------hcCCCCCCC-------------CCCCCCcccCCHHHHHHHHHHHC
+
+
+No 15
+>PF19489.3 ; SLT_4 ; Transglycosylase SLT domain
+Probab=93.35  E-value=0.32  Score=38.81  Aligned_cols=67  Identities=22%  Similarity=0.142  Sum_probs=0.0  Template_Neff=11.900
+
+Q ss_pred             cHHHHHHHHHHHHHHCCCHHHHHHHHhhHhhccCCCccCCC-------ccccCCCCCCCCCCCCCCchhhhcccccchhH
+Q FD01543125_046    6 NVIYWNEIIRASERSGIIPQSIAAVIHSEAAKYRGGVWKPT-------SVCKNSKKSTKENTVYKSSAAGMTQFLNGTWM   78 (270)
+Q Consensus         6 N~~Yr~~Ii~Aa~RtGi~pqalAAiI~AEAAk~~~G~W~~~-------S~n~~~~~~~~~~~~~~SSAaGLtQFL~gTW~   78 (270)
+                      ...+...+..++++.|+++..+++++..|..-.. ....+.       ..+            +.|.+.|+.|+...+|.
+T Consensus        31 ~~~~~~~~~~~~~~~~~~~~~~~ai~~~es~~~~-~~~~~~~~~~~~~~~~------------~~~~~~G~~q~~~~~~~   97 (184)
+T A0A2Z2NZM7_9GA   31 KRGWHKAAREAEKKWGAPMYIPMAIIYQESTFRA-KVKPARRKLMGFIPWR------------RLSSAYGYAQAIDGTWN   97 (184)
+T ss_pred             ccchHHHHHHHHHHHCCCcHHHHHHHHHHhccCc-cccchhhcccCCCccc------------ccccccchhhhccccHH
+
+
+Q ss_pred             HHhccCC
+Q FD01543125_046   79 TETLRDG   85 (270)
+Q Consensus        79 ~~A~~~G   85 (270)
+                      ......|
+T Consensus        98 ~~~~~~~  104 (184)
+T A0A2Z2NZM7_9GA   98 QYLRSTG  104 (184)
+T ss_pred             HHHHHhC
+
+
+No 16
+>PF06871.15 ; TraH_2 ; TraH_2
+Probab=91.73  E-value=1.9  Score=39.73  Aligned_cols=106  Identities=16%  Similarity=0.142  Sum_probs=0.0  Template_Neff=7.500
+
+Q ss_pred             HHHHHHHHHCCCHHHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCchh------------------------
+Q FD01543125_046   12 EIIRASERSGIIPQSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSSAA------------------------   67 (270)
+Q Consensus        12 ~Ii~Aa~RtGi~pqalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SSAa------------------------   67 (270)
+                      .|+..+.+.+++|.-|.+||..|      +.|+|...+            ..+...                        
+T Consensus         5 ali~~~a~~~v~p~il~ai~~~E------S~~~p~av~------------~~~~~~~~l~~~p~t~~eA~~~~~~~~~~~   66 (206)
+T O68015_AGRFC/1    5 ALIKECSDPGLKPAIVEQFIERA------GAPDPLAVT------------VRSGNRIVLVPRPTTPDEALALIRQNLGRN   66 (206)
+T ss_pred             HHHHHHhCcCCCHHHHHHHHHHh------cCCCceeEE------------ccCCCeEEeecCCCCHHHHHHHHHHHhhcC
+
+
+Q ss_pred             ----hhcccccchhHHHhccCCCHHHHHHHHcCCccCCCcccCCCceeecCCCceeccceeecCCccccchhhhhccccc
+Q FD01543125_046   68 ----GMTQFLNGTWMTETLRDGTYLYEKATEQGLVADKPLLNKKGEVVKNKKGEVVNEKKFQVSTDKWKNLKELTNGRYI  143 (270)
+Q Consensus        68 ----GLtQFL~gTW~~~A~~~GT~Ln~~a~~~G~l~~~~~~~~~~~~~~~k~~~~~~~~~F~la~g~~~~~~~l~~~~~l  143 (270)
+                          ||+|+-.                            .                                        
+T Consensus        67 ~v~vGlmQi~~----------------------------~----------------------------------------   78 (206)
+T O68015_AGRFC/1   67 IVRVGLTQYPA----------------------------G----------------------------------------   78 (206)
+T ss_pred             ceEEEcceech----------------------------h----------------------------------------
+
+
+Q ss_pred             cCCCCCCCCChHHHHHHHHhccCHHHHHHHHHHHHHHHHHHHHHc-CCCCCCCCHHHHHHHHHHHHhcC
+Q FD01543125_046  144 TGITPYPVHATAEIQQWLNLRFKPEYAIMAAVDYGVANLASLKMA-GYNIDGLNDAEKAKLIYLTHHLG  211 (270)
+Q Consensus       144 ~~~~p~~~~~~~~~~~lL~LR~dpe~sI~aaaDYa~~NL~~L~~~-G~~v~~L~d~ekAK~~YL~HHlG  211 (270)
+                              ........+....+||...|..++.|-...++...+. |-...+....+.-..+..+-|-|
+T Consensus        79 --------~g~~~~~~~~~~l~Dp~~Ni~~G~~~L~~~~~~~~~~~g~~~~~~~~~~~~~~Ai~aYntG  139 (206)
+T O68015_AGRFC/1   79 --------LGIVEAGQLKPDLIEPCENIKMGTALFAKVYRIVTKWYGNPTESEVLPQVFEDAIIAWQTG  139 (206)
+T ss_pred             --------hCCCccccchhHhhCHHHHHHHHHHHHHHHHHHHHHhhCCCcccchhhHHHHHHHHHhccC
+
+
+No 17
+>4HPE_C Putative cell wall hydrolase Tn916-like,CTn1-Orf17; Two domains protein, Slt/lysozyme-like muramidase, NlpC/P60 LD endopeptidase, Structural Genomics, Joint Center for Structural Genomics, JCSG; HET: OCS, MSE, GOL; 2.38A {Clostridium difficile}
+Probab=91.41  E-value=2.8  Score=37.17  Aligned_cols=85  Identities=21%  Similarity=0.209  Sum_probs=0.0  Template_Neff=11.400
+
+Q ss_pred             HHHHHHHHHHHHHHCCCH--HHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCchhhhcccccchhHHHhccC
+Q FD01543125_046    7 VIYWNEIIRASERSGIIP--QSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSSAAGMTQFLNGTWMTETLRD   84 (270)
+Q Consensus         7 ~~Yr~~Ii~Aa~RtGi~p--qalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SSAaGLtQFL~gTW~~~A~~~   84 (270)
+                      ..|+..|.+++++.||+|  .-|+|||..|..                           ..+.|++|+...+        
+T Consensus        25 ~~~~~~~~~~~~~~~v~~~~~~~~ai~~~ES~---------------------------~~~~~~~q~~~~~--------   69 (308)
+T 4HPE_C           25 LKHQPMVEKYARENGISEYVNVLLAIIQVESG---------------------------GTAEDVMQSSESL--------   69 (308)
+T ss_dssp             HTTHHHHHHHHHHTTCGGGHHHHHHHHHHHHT---------------------------TCSSSTTCCTGGG--------
+T ss_pred             HHcHHHHHHHHHHcCChHHHHHHHHHHHHhcC---------------------------CCCCCcccccccC--------
+
+
+Q ss_pred             CCHHHHHHHHcCCccCCCcccCCCceeecCCCceeccceeecCCccccchhhhhccccccCCCCCCCCChHHHHHHHHhc
+Q FD01543125_046   85 GTYLYEKATEQGLVADKPLLNKKGEVVKNKKGEVVNEKKFQVSTDKWKNLKELTNGRYITGITPYPVHATAEIQQWLNLR  164 (270)
+Q Consensus        85 GT~Ln~~a~~~G~l~~~~~~~~~~~~~~~k~~~~~~~~~F~la~g~~~~~~~l~~~~~l~~~~p~~~~~~~~~~~lL~LR  164 (270)
+                                     ....                                                          ...
+T Consensus        70 ---------------~~~~----------------------------------------------------------~~~   76 (308)
+T 4HPE_C           70 ---------------GLPP----------------------------------------------------------NSL   76 (308)
+T ss_dssp             ---------------TCCT----------------------------------------------------------TCS
+T ss_pred             ---------------CCCC----------------------------------------------------------CcC
+
+
+Q ss_pred             cCHHHHHHHHHHHHHHHHHHHHHcCCCCCCCCHHHHHHHHH
+Q FD01543125_046  165 FKPEYAIMAAVDYGVANLASLKMAGYNIDGLNDAEKAKLIY  205 (270)
+Q Consensus       165 ~dpe~sI~aaaDYa~~NL~~L~~~G~~v~~L~d~ekAK~~Y  205 (270)
+                      ++|+ +|..+++|-...++....     ....+-.++-..|
+T Consensus        77 ~~~~-~i~~~~~~l~~~~~~~~~-----~~~~~~~~~l~aY  111 (308)
+T 4HPE_C           77 DTES-SIKQGCKYFASLLSSSKN-----QGIDDLNVAIQSY  111 (308)
+T ss_dssp             CHHH-HHHHHHHHHHHHHHHHHH-----TTCCCHHHHHHHH
+T ss_pred             CCHH-HHHHHHHHHHHHHHHhhh-----cCCCcHHHHHhhh
+
+
+No 18
+>1GBS_A AUSTRALIAN BLACK SWAN EGG WHITE LYSOZYME; HYDROLASE (O-GLYCOSYL); 1.5A {Cygnus atratus} SCOP: d.2.1.5
+Probab=88.74  E-value=1.6  Score=35.72  Aligned_cols=52  Identities=19%  Similarity=0.161  Sum_probs=0.0  Template_Neff=11.300
+
+Q ss_pred             HHHHHHHHHHHHHCCCHHHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCC---CCchhhhcccccchh
+Q FD01543125_046    8 IYWNEIIRASERSGIIPQSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVY---KSSAAGMTQFLNGTW   77 (270)
+Q Consensus         8 ~Yr~~Ii~Aa~RtGi~pqalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~---~SSAaGLtQFL~gTW   77 (270)
+                      .|...|...+.+.++++..+++++..|      ..|++...+            .   .+.+.|+.||...+|
+T Consensus        47 ~~~~~~~~~~~~~~~~~~~~~a~~~~e------s~~~~~~~~------------~~~~~~~~~G~~q~~~~~~  101 (185)
+T 1GBS_A           47 RYKTIIKKVGEKLCVEPAVIAGIISRE------SHAGKVLKN------------GWGDRGNGFGLMQVDKRSH  101 (185)
+T ss_dssp             TSHHHHHHHHHHHTCCHHHHHHHHHHH------HGGGTTCBT------------TBCTTSCEETTTTEETTTS
+T ss_pred             HHHHHHHHHHHHHCCCHHHHHHHHHhc------CCCCccccC------------CCCCCCceeeeEEEccccC
+
+
+No 19
+>6TAB_A SLT domain-containing protein; lysozyme peptidoglycan, HYDROLASE; HET: SO4; 1.26A {Bdellovibrio bacteriovorus HD100}
+Probab=87.99  E-value=1.8  Score=39.49  Aligned_cols=83  Identities=8%  Similarity=-0.043  Sum_probs=0.0  Template_Neff=9.400
+
+Q ss_pred             HHHHHHHHHHHHHCCCHHHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCch---------hhhcccccchhH
+Q FD01543125_046    8 IYWNEIIRASERSGIIPQSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSSA---------AGMTQFLNGTWM   78 (270)
+Q Consensus         8 ~Yr~~Ii~Aa~RtGi~pqalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SSA---------aGLtQFL~gTW~   78 (270)
+                      .|...+.+  .+.++++.-+.+|+..|      ..|++...+            +....         .||.||...+|.
+T Consensus       119 ~~~~~~~~--~~~~~~~~~~~a~~~~E------S~~~~~a~~------------~~g~~~~~g~~~~~~Gl~Q~~~~~~~  178 (254)
+T 6TAB_A          119 KYSSLSYA--QRKQYWAFVLSSMVRFE------SNFKTAMSY------------TEDFNDSNGNRVISRGLLQISIESGN  178 (254)
+T ss_dssp             TGGGCCHH--HHHHHHHHHHHHHHHHH------HTTCTTCEE------------EEEEECTTSSEEEEETTTTBCHHHHH
+T ss_pred             chhcCCHH--HHHHHHHHHHHHHHHHH------cCCCCccee------------ecCCcccCCCeeeeeeeeeechhhhh
+
+
+Q ss_pred             HHhccCCCHHHHHHHHcCCccCCCcccCCCceeecCCCceeccceeecCCccccchhhhhccccccCCCCCCCCChHHHH
+Q FD01543125_046   79 TETLRDGTYLYEKATEQGLVADKPLLNKKGEVVKNKKGEVVNEKKFQVSTDKWKNLKELTNGRYITGITPYPVHATAEIQ  158 (270)
+Q Consensus        79 ~~A~~~GT~Ln~~a~~~G~l~~~~~~~~~~~~~~~k~~~~~~~~~F~la~g~~~~~~~l~~~~~l~~~~p~~~~~~~~~~  158 (270)
+                      ....+.++...                                                                     
+T Consensus       179 ~~~~~~~~~~~---------------------------------------------------------------------  189 (254)
+T 6TAB_A          179 AYGCGFKSTKD---------------------------------------------------------------------  189 (254)
+T ss_dssp             TTTCCCCSGGG---------------------------------------------------------------------
+T ss_pred             hhCCCCCCHHH---------------------------------------------------------------------
+
+
+Q ss_pred             HHHHhccCHHHHHHHHHHHHHHHHHH
+Q FD01543125_046  159 QWLNLRFKPEYAIMAAVDYGVANLAS  184 (270)
+Q Consensus       159 ~lL~LR~dpe~sI~aaaDYa~~NL~~  184 (270)
+                           ++||+.+|.+++.|-...++.
+T Consensus       190 -----~~dp~~ni~~~~~~l~~~~~~  210 (254)
+T 6TAB_A          190 -----LHDPLQNLSCGIRILDRWVSR  210 (254)
+T ss_dssp             -----GGSHHHHHHHHHHHHHHHHHH
+T ss_pred             -----hcCHHHHHHHHHHHHHHHHHh
+
+
+No 20
+>4M5E_A Uncharacterized protein; toxin, lysozyme fold, Hydrolase, persiplasm; HET: GOL; 1.49A {Pseudomonas aeruginosa}
+Probab=87.07  E-value=3.8  Score=42.67  Aligned_cols=102  Identities=21%  Similarity=0.129  Sum_probs=0.0  Template_Neff=5.500
+
+Q ss_pred             HHHHHHHHHHHHHHCCCHHHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCch---------hhhcccccchh
+Q FD01543125_046    7 VIYWNEIIRASERSGIIPQSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSSA---------AGMTQFLNGTW   77 (270)
+Q Consensus         7 ~~Yr~~Ii~Aa~RtGi~pqalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SSA---------aGLtQFL~gTW   77 (270)
+                      ..|++.|.++|++.|++|.-|+|||-.|-.... .-  .+...             ...+         -|++|.-..| 
+T Consensus       223 ~~~~~~I~kaA~~ygIDP~LLaAIIf~E~~r~S-~f--eDa~d-------------~~ga~~l~~~dfSIGL~QIKpST-  285 (410)
+T 4M5E_A          223 PSRAKVMSAAARKYDLTPQLIGAIILAEQRDQT-RD--EDAKD-------------YQAAVSIKSANTSIGLGQVVVST-  285 (410)
+T ss_dssp             CBHHHHHHHHHHHHTCCHHHHHHHHHHHHHTCC-HH--HHHHH-------------HHHHHSTTCCCCEETTTTEEHHH-
+T ss_pred             hHhHHHHHHHHHHhCCCHHHHHHHHHHHHccCC-Cc--hHHHH-------------HHHHHhccCCCceEEcCCcCHHH-
+
+
+Q ss_pred             HHHhccCCCHHHHHHHHcCCccCCCcccCCCceeecCCCceeccceeecCCccccchhhhhccccccCCCCCCCCChHHH
+Q FD01543125_046   78 MTETLRDGTYLYEKATEQGLVADKPLLNKKGEVVKNKKGEVVNEKKFQVSTDKWKNLKELTNGRYITGITPYPVHATAEI  157 (270)
+Q Consensus        78 ~~~A~~~GT~Ln~~a~~~G~l~~~~~~~~~~~~~~~k~~~~~~~~~F~la~g~~~~~~~l~~~~~l~~~~p~~~~~~~~~  157 (270)
+                                    |+..+.+...-.                                             ..+.....+
+T Consensus       286 --------------Ae~Le~l~~~l~---------------------------------------------~~~~~~~sr  306 (410)
+T 4M5E_A          286 --------------AIKYELFTDLLG---------------------------------------------QPVRRGLSR  306 (410)
+T ss_dssp             --------------HHHTTTTTTTSC---------------------------------------------HHHHHHCCH
+T ss_pred             --------------HHHHhhhhhhhC---------------------------------------------CCCcccCCh
+
+
+Q ss_pred             HHHHHhccCHHHHHHHHHHHHHHHHHH
+Q FD01543125_046  158 QQWLNLRFKPEYAIMAAVDYGVANLAS  184 (270)
+Q Consensus       158 ~~lL~LR~dpe~sI~aaaDYa~~NL~~  184 (270)
+                      ..+...=+||+..|..++.|-+.-.+.
+T Consensus       307 ~~~i~rL~dPe~NI~y~AaYLR~l~~~  333 (410)
+T 4M5E_A          307 KAVATLLASDEFNIFATARYIRYVANL  333 (410)
+T ss_dssp             HHHHHHHTSHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHhcCHHHHHHHHHHHHHHHHHH
+
+
+No 21
+>3GXR_D Goose-type lysozyme 1; Atlantic cod, fish lysozyme, active site residues, substrate binding sites, surface potential, muramidase activity, immune system; HET: NAG; 1.7A {Gadus morhua} SCOP: d.2.1.5
+Probab=87.04  E-value=2.3  Score=35.57  Aligned_cols=57  Identities=19%  Similarity=0.108  Sum_probs=0.0  Template_Neff=10.700
+
+Q ss_pred             cHHHHHHHHHHHHHHCCCHHHHHHHHhhHhhccCCCccC----CCccccCCCCCCCCCCCCCCchhhhcccccchh
+Q FD01543125_046    6 NVIYWNEIIRASERSGIIPQSIAAVIHSEAAKYRGGVWK----PTSVCKNSKKSTKENTVYKSSAAGMTQFLNGTW   77 (270)
+Q Consensus         6 N~~Yr~~Ii~Aa~RtGi~pqalAAiI~AEAAk~~~G~W~----~~S~n~~~~~~~~~~~~~~SSAaGLtQFL~gTW   77 (270)
+                      +..|...|..++.+.+++|..+.+++..|..-..   ..    .....            ..+.+.|+.||...+|
+T Consensus        43 ~~~~~~~~~~~~~~~~~~~~~~~a~~~~es~~~~---~~~~~~~~~~~------------~~~~~~G~~q~~~~~~  103 (187)
+T 3GXR_D           43 MEKYKSFINNVAKKHVVDPAVIAAIISRESRAGN---VIFNTTPPGWG------------DNYNGFGLMQVDKRYH  103 (187)
+T ss_dssp             HGGGHHHHHHHHHHHTCCHHHHHHHHHHHHTTTT---TTTTSSSTTEE------------TTTTEETTTTEETTTS
+T ss_pred             HHHHHHHHHHHHHHhCCCHHHHHHHHHHccCCCc---ccccCCCCCCC------------CCcceeeeEEecCCcC
+
+
+No 22
+>4G9S_A Goose-type lysozyme; hydrolase inhibitor, lysozyme, HYDROLASE-HYDROLASE INHIBITOR complex; HET: FLC; 0.95A {Salmo salar} SCOP: d.2.1.5, l.1.1.1
+Probab=84.61  E-value=3.7  Score=34.29  Aligned_cols=49  Identities=22%  Similarity=0.230  Sum_probs=0.0  Template_Neff=10.800
+
+Q ss_pred             HHHHHHHHHHHHHHCCCHHHHHHHHhhHhhccCCCccCCCcc----ccCCCCCCCCCCCCCCchhhhccccc
+Q FD01543125_046    7 VIYWNEIIRASERSGIIPQSIAAVIHSEAAKYRGGVWKPTSV----CKNSKKSTKENTVYKSSAAGMTQFLN   74 (270)
+Q Consensus         7 ~~Yr~~Ii~Aa~RtGi~pqalAAiI~AEAAk~~~G~W~~~S~----n~~~~~~~~~~~~~~SSAaGLtQFL~   74 (270)
+                      ..|...|..++++.|++|..+++++..|      ..|++...    .             .+++.|+.||+.
+T Consensus        48 ~~~~~~~~~~~~~~~~~~~~~~a~~~~e------s~~~~~~~~~~~~-------------~~~a~G~~q~~~  100 (187)
+T 4G9S_A           48 NKYKELITRVGQKHGLDPAIIAGIISRE------SRAGSALDHGWGD-------------HGKGFGLMQVDK  100 (187)
+T ss_dssp             HHHHHHHHHHHHHHTSCHHHHHHHHHHH------HTTTTTCBTTBCT-------------TSCEETTTTEET
+T ss_pred             HHHHHHHHHHHHHhCCCHHHHHHHHhhc------CCCCcccccCCCC-------------CCCeeeeeEecC
+
+
+No 23
+>PF06737.18 ; Transglycosylas ; Transglycosylase-like domain
+Probab=82.55  E-value=2.7  Score=28.50  Aligned_cols=42  Identities=19%  Similarity=0.310  Sum_probs=0.0  Template_Neff=11.900
+
+Q ss_pred             CHHHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCchhhhcccccchhHHHhcc
+Q FD01543125_046   23 IPQSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSSAAGMTQFLNGTWMTETLR   83 (270)
+Q Consensus        23 ~pqalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SSAaGLtQFL~gTW~~~A~~   83 (270)
+                      ++..+.+|+..|   .. |.|   ..+            ..+.+.|+.||+.++|...+..
+T Consensus         3 ~~~~~~~i~~~e---s~-~~~---~~~------------~~~g~~g~~q~~~~~w~~~~~~   44 (77)
+T Q9L157_STRCO/4    3 LRTDWDAIAACE---SS-GNW---QAN------------TGNGYYGGLQFARSSWIAAGGL   44 (77)
+T ss_pred             ChhHHHHHHhhc---CC-CCC---CCC------------CCCCCccceeecHHHHHHhcCc
+
+
+No 24
+>PF07182.15 ; DUF1402 ; Protein of unknown function (DUF1402)
+Probab=81.66  E-value=36  Score=34.09  Aligned_cols=194  Identities=12%  Similarity=0.105  Sum_probs=0.0  Template_Neff=6.300
+
+Q ss_pred             CCccHHHHHHHHHHHHHHCCCHHHHHHHHhhHhhccCC-----------Cc-cCCCccccCCCCCCCCCCCCCCchhhhc
+Q FD01543125_046    3 LGKNVIYWNEIIRASERSGIIPQSIAAVIHSEAAKYRG-----------GV-WKPTSVCKNSKKSTKENTVYKSSAAGMT   70 (270)
+Q Consensus         3 LG~N~~Yr~~Ii~Aa~RtGi~pqalAAiI~AEAAk~~~-----------G~-W~~~S~n~~~~~~~~~~~~~~SSAaGLt   70 (270)
+                      |..|......|..+|++.||+|.-|+++|-.|-.....           .- |-..+..            -.....-|.
+T Consensus        49 l~~~~~l~~~I~~~A~~~gIdP~~i~~iI~~E~~~n~~~~D~~q~~~l~~~~y~~~~~~------------f~~~G~~~~  116 (294)
+T B9JXW3_AGRVS/2   49 LIKDRQLIGKIKKTAAAYNIDPIHIVGALVGEHTYNVDAYDTLQSYYVKAASYAGHTFR------------FAYDGEDVD  116 (294)
+T ss_pred             HHHCHHHHHHHHHHHHHcCCCHHHHHHHHHHHHHhCCcHHHHHHHHHHHHHhhcCCcce------------eeeCCcchH
+
+
+Q ss_pred             ccccchhHHHhcc-CCCHHHHHHHHcCCccCCCcccCCCceeecCCCceecccee------------ecCCccccchhhh
+Q FD01543125_046   71 QFLNGTWMTETLR-DGTYLYEKATEQGLVADKPLLNKKGEVVKNKKGEVVNEKKF------------QVSTDKWKNLKEL  137 (270)
+Q Consensus        71 QFL~gTW~~~A~~-~GT~Ln~~a~~~G~l~~~~~~~~~~~~~~~k~~~~~~~~~F------------~la~g~~~~~~~l  137 (270)
+                      .|+..-=...|.. +.++..-.|++.=|-..-..        +.-.|..-....|            .+--++-++....
+T Consensus       117 ~~~~~p~~~~c~~~~~~~~~w~c~e~~~~~~~~~--------k~v~g~~~~~~~~~~~f~~p~~ag~SiG~~QmKPs~Ae  188 (294)
+T B9JXW3_AGRVS/2  117 DFVARPEFAACAELKDSAKLWTCRENVWEDKFQG--------KRVGNKSFPNNRFSAVFFQPFYAGQTFGLGQINPLTAL  188 (294)
+T ss_pred             HHHhChhHHHhHhhccccchHhHHHhhhhHhhCC--------cccCCCcCCCCcchhhccCcccCCCccccCccCHHHHH
+
+
+Q ss_pred             hccccccCCCCCCCCChHHHHHHHHhccCHHHHHHHHHHHHHHHHHHHHH-cCCCCCCCCHHHHHHHHHHHHhcCHHHHH
+Q FD01543125_046  138 TNGRYITGITPYPVHATAEIQQWLNLRFKPEYAIMAAVDYGVANLASLKM-AGYNIDGLNDAEKAKLIYLTHHLGLSDAI  216 (270)
+Q Consensus       138 ~~~~~l~~~~p~~~~~~~~~~~lL~LR~dpe~sI~aaaDYa~~NL~~L~~-~G~~v~~L~d~ekAK~~YL~HHlG~gdA~  216 (270)
+                      .....+..+..........+..++..-.||+.+|.-++.|-+.-.+.-++ +|+.+.+ .++-.|-+.=++++.......
+T Consensus       189 ~Le~~v~~~~~~~~l~~~~~~~ri~rL~dp~~qi~Y~Aafl~~~~~~~~~~~g~di~~-~~~ilATlYN~G~~~~~a~~~  267 (294)
+T B9JXW3_AGRVS/2  189 MLTDMVHQTSGYPKLDEKDAAGLYKAIMDPDTSLAYIAAIIRKSIDDYKTYANVDISN-NPGLTATLYNVGNSEARARAL  267 (294)
+T ss_pred             HHHHHHHhccCCCCCChhhHHHHHHHHhCHHHHHHHHHHHHHHHHHHHHhhcCCCccc-CHHHHHHhhhcCCchHHHHHh
+
+
+Q ss_pred             H
+Q FD01543125_046  217 H  217 (270)
+Q Consensus       217 ~  217 (270)
+                      +
+T Consensus       268 ~  268 (294)
+T B9JXW3_AGRVS/2  268 G  268 (294)
+T ss_pred             h
+
+
+No 25
+>7K5C_D Peptidoglycan transglycosylase gp16; T7, ejectosome, ejection protein, genome-delivery, podoviridae, VIRAL PROTEIN; 2.7A {Escherichia phage T7}
+Probab=80.87  E-value=5.1  Score=45.03  Aligned_cols=68  Identities=22%  Similarity=0.187  Sum_probs=0.0  Template_Neff=10.000
+
+Q ss_pred             CCCCccHHHHHHHHHHHHHHCCCHHHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCchhhhcccccchhHHH
+Q FD01543125_046    1 LMLGKNVIYWNEIIRASERSGIIPQSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSSAAGMTQFLNGTWMTE   80 (270)
+Q Consensus         1 L~LG~N~~Yr~~Ii~Aa~RtGi~pqalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SSAaGLtQFL~gTW~~~   80 (270)
+                      ++++....|.+.|..++++.|++|.-+.+++..|      ..|++...+             ..++.|+.||...+|...
+T Consensus         4 ~~~~~~~~~~~~i~~~~~~~gv~~~~~~~~~~~e------S~~~~~a~s-------------~~ga~Gl~Q~~~~t~~~~   64 (1318)
+T 7K5C_D            4 YDKNVPSDYDGLFQKAADANGVSYDLLRKVAWTE------SRFVPTAKS-------------KTGPLGMMQFTKATAKAL   64 (1318)
+T ss_dssp             GGTTSCCTTCTTHHHHHHHHCCCHHHHHHHHHHH------HTTCSSCCS-------------SSCCCSSSCCCHHHHHHT
+T ss_pred             ccccCCchhHHHHHHHHHHHCCCHHHHHHHHHHH------cCCCCCCCC-------------CCCCCCCCccCHHHHHHc
+
+
+Q ss_pred             hccCCCH
+Q FD01543125_046   81 TLRDGTY   87 (270)
+Q Consensus        81 A~~~GT~   87 (270)
+                      ....+.+
+T Consensus        65 g~~~~~~   71 (1318)
+T 7K5C_D           65 GLRVTDG   71 (1318)
+T ss_dssp             TSCCSSS
+T ss_pred             CCCCCCC
+
+
+No 26
+>3W6B_A Lysozyme-like chitinolytic enzyme; GH family 23, enzyme, Glycoside hydrolase, chitinase, HYDROLASE; HET: GOL; 1.9A {Ralstonia}
+Probab=78.83  E-value=10  Score=31.16  Aligned_cols=60  Identities=20%  Similarity=0.165  Sum_probs=0.0  Template_Neff=11.200
+
+Q ss_pred             HHHHHHHHHHHHHHCCC---HHHHHHHHhhHhhccCCCccC-CCccccCCCCCCCCCCCCCCchhhhcccccchhHHHhc
+Q FD01543125_046    7 VIYWNEIIRASERSGII---PQSIAAVIHSEAAKYRGGVWK-PTSVCKNSKKSTKENTVYKSSAAGMTQFLNGTWMTETL   82 (270)
+Q Consensus         7 ~~Yr~~Ii~Aa~RtGi~---pqalAAiI~AEAAk~~~G~W~-~~S~n~~~~~~~~~~~~~~SSAaGLtQFL~gTW~~~A~   82 (270)
+                      ..|+..|..++...+++   +..+.+++..|      ..|+ +...+             ...+.|+.||...+|.....
+T Consensus        40 ~~~~~~~~~~~~~~~~~~~~~~~~~a~~~~e------s~~~~~~~~~-------------~~~~~G~~q~~~~~~~~~~~  100 (183)
+T 3W6B_A           40 SRIWTYVMNADNAYGKGGDFALLLSAVIKKE------SYFGDGLSGS-------------PSAGDGLMQVEPNTRNAYLS  100 (183)
+T ss_dssp             HHHHHHHHHHHHHHTCTTHHHHHHHHHHHHH------HGGGTSCTTC-------------TTGGGTTTTCCHHHHHHTHH
+T ss_pred             HHHHHHHHHHHHHHCCCcchHHHHHHHHHHH------hccCCccCCC-------------CCCCCCcccccHhHHHHHHH
+
+
+Q ss_pred             cCC
+Q FD01543125_046   83 RDG   85 (270)
+Q Consensus        83 ~~G   85 (270)
+                      ..+
+T Consensus       101 ~~~  103 (183)
+T 3W6B_A          101 QFS  103 (183)
+T ss_dssp             HHH
+T ss_pred             Hhc
+
+
+No 27
+>4CGE_E RESUSCITATION-PROMOTING FACTOR RPFE; SECRETED PROTEIN, HYDROLASE; 2.756A {MYCOBACTERIUM TUBERCULOSIS} SCOP: d.2.1.0
+Probab=74.40  E-value=3.4  Score=28.46  Aligned_cols=41  Identities=22%  Similarity=0.316  Sum_probs=0.0  Template_Neff=11.400
+
+Q ss_pred             HHHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCchhhhcccccchhHHHhcc
+Q FD01543125_046   24 PQSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSSAAGMTQFLNGTWMTETLR   83 (270)
+Q Consensus        24 pqalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SSAaGLtQFL~gTW~~~A~~   83 (270)
+                      |....+|+..|   .. |.|+.   +            ..+...|+.||+..||...+..
+T Consensus         1 ~~~~~~i~~~E---S~-~~~~~---~------------~~~g~~G~~q~~~~tw~~~~~~   41 (75)
+T 4CGE_E            1 SVNWDAIAQCE---SG-GNWSI---N------------TGNGYYGGLRFTAGTWRANGGS   41 (75)
+T ss_dssp             --CCHHHHHHH---TS-SCSCC---C------------CSSSEETTTTEEHHHHHTTTCC
+T ss_pred             CCcHHHHHhHh---cC-CCCCC---C------------CCCCCcceeeecHHHHHHcCCC
+
+
+No 28
+>1XSF_A Probable resuscitation-promoting factor rpfB; LYSOZYME-LIKE STRUCTURE, CELL CYCLE, HYDROLASE; NMR {Mycobacterium tuberculosis} SCOP: d.2.1.8
+Probab=72.83  E-value=6.2  Score=30.29  Aligned_cols=42  Identities=29%  Similarity=0.322  Sum_probs=0.0  Template_Neff=10.400
+
+Q ss_pred             CCCHHHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCchhhhcccccchhHHHh
+Q FD01543125_046   21 GIIPQSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSSAAGMTQFLNGTWMTET   81 (270)
+Q Consensus        21 Gi~pqalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SSAaGLtQFL~gTW~~~A   81 (270)
+                      |.+...+..|+..|..    |.|+.   +            ..+...|+.||+.++|....
+T Consensus        25 ~~~~~~~~~i~~cES~----g~~~~---~------------~~~g~~G~~q~~~~tw~~~~   66 (108)
+T 1XSF_A           25 VIDGSIWDAIAGCEAG----GNWAI---N------------TGNGYYGGVQFDQGTWEANG   66 (108)
+T ss_dssp             CTTHHHHHHHCCCCCS----SCTTC---C------------CSSSBCTTTCCBHHHHHHTT
+T ss_pred             CCChHHHHHHHhhccC----CCCCC---C------------CCCCCeeeeeecHHHHHHhC
+
+
+No 29
+>8GFH_A Lytic transglycosylase domain-containing protein; soluble lytic transglycosylase, inhibitor, LYASE, LYASE-LYASE Inhibitor complex; HET: ZIA, CIT; 1.83A {Campylobacter jejuni}
+Probab=71.41  E-value=11  Score=38.56  Aligned_cols=55  Identities=24%  Similarity=0.216  Sum_probs=0.0  Template_Neff=9.400
+
+Q ss_pred             HHHHHHHHHHHHCCCHHHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCchhhhcccccchhHHHhc-cCC
+Q FD01543125_046    9 YWNEIIRASERSGIIPQSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSSAAGMTQFLNGTWMTETL-RDG   85 (270)
+Q Consensus         9 Yr~~Ii~Aa~RtGi~pqalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SSAaGLtQFL~gTW~~~A~-~~G   85 (270)
+                      |++.|..++.+   .|.-+.|||..|      ..+++..++             .+.|.||.|++..|....+. .-|
+T Consensus       371 ~~~~~~~~~~~---~~~l~~ai~r~E------S~f~~~a~S-------------~~gA~GlmQ~~p~ta~~~~~~~~g  426 (544)
+T 8GFH_A          371 YYDNIKDYNKT---RQALILAIARQE------SRFIPTAIS-------------VSYALGMMQFMPFLANHIGEKELK  426 (544)
+T ss_pred             cHHHHHHHHHH---CHHHHHHHHHHH------cCCCCCCCC-------------ccccccccccCHHHHHHHHHHHhC
+
+
+No 30
+>2N5Z_A Resuscitation-promoting factor RpfC; resuscitation promoting factor, RpfC, HYDROLASE; NMR {Mycobacterium tuberculosis} SCOP: l.1.1.1, d.2.1.0
+Probab=68.02  E-value=7.8  Score=27.68  Aligned_cols=47  Identities=21%  Similarity=0.181  Sum_probs=0.0  Template_Neff=10.900
+
+Q ss_pred             HHCCCHHHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCchhhhcccccchhHHHhccC
+Q FD01543125_046   19 RSGIIPQSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSSAAGMTQFLNGTWMTETLRD   84 (270)
+Q Consensus        19 RtGi~pqalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SSAaGLtQFL~gTW~~~A~~~   84 (270)
+                      |.+-+.....+|+..|.   . |.|+.   +            ..+...|+.||...||...+...
+T Consensus         1 ~~~~~~~~~~~i~~cEs---~-~~~~~---~------------~~~g~~G~~q~~~~tw~~~~~~~   47 (82)
+T 2N5Z_A            1 GAMGPSPNWDAVAQCES---G-GNWAA---N------------TGNGKYGGLQFKPATWAAFGGVG   47 (82)
+T ss_dssp             CCSCCCCCHHHHHHHHT---S-SCTTC---T------------TCSSCBTTTTBCHHHHGGGTSSS
+T ss_pred             CCCCCchhHHHHHhHhc---C-CCCCC---c------------CCCCCceeeeeCHHHHHHhCCCC
+
+
+No 31
+>4EMN_B Probable resuscitation-promoting factor rpfB; alpha beta, hydrolase; HET: BEN, SO4; 1.17A {Mycobacterium tuberculosis} SCOP: d.2.1.8
+Probab=60.48  E-value=10  Score=26.39  Aligned_cols=38  Identities=29%  Similarity=0.384  Sum_probs=0.0  Template_Neff=11.500
+
+Q ss_pred             HHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCchhhhcccccchhHHHh
+Q FD01543125_046   25 QSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSSAAGMTQFLNGTWMTET   81 (270)
+Q Consensus        25 qalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SSAaGLtQFL~gTW~~~A   81 (270)
+                      ..+.+|+..|.   . |.|+.   +            ..+...|+.||+.++|...+
+T Consensus         2 ~~~~~i~~~es---~-~~~~~---~------------~~~g~~G~~q~~~~~w~~~~   39 (81)
+T 4EMN_B            2 SIWDAIAGCEA---G-GNWAI---N------------TGNGYYGGVQFDQGTWEANG   39 (81)
+T ss_dssp             CHHHHHHHHHH---T-TCTTC---C------------CSSSCBTTTTBCHHHHHHTT
+T ss_pred             chhHHHHhhcc---C-CCCCC---C------------CCCCCeeeeeecHHHHHHcC
+
+
+No 32
+>4FDY_B Similar to lipoprotein, NLP/P60 family; Slt/lysozyme-like muramidase, NlpC/P60 LD endopeptidase, Structural Genomics, Joint Center for Structural Genomics, JCSG, Protein Structure Initiative; HET: MSE, OCS; 2.23A {Staphylococcus aureus subsp. aureus}
+Probab=59.45  E-value=24  Score=31.60  Aligned_cols=28  Identities=21%  Similarity=0.186  Sum_probs=0.0  Template_Neff=11.400
+
+Q ss_pred             HHHHHHHHHHHHHHCCCH--HHHHHHHhhH
+Q FD01543125_046    7 VIYWNEIIRASERSGIIP--QSIAAVIHSE   34 (270)
+Q Consensus         7 ~~Yr~~Ii~Aa~RtGi~p--qalAAiI~AE   34 (270)
+                      ..|...|.+++++.|++|  .-|++||..|
+T Consensus        27 ~~~~~~i~~~~~~~gv~~~~~~~~ai~~~e   56 (313)
+T 4FDY_B           27 LAHRPLIEKYGKEYGIEDYVSYILAIMQVE   56 (313)
+T ss_dssp             HTTHHHHHHHHHHTTCGGGHHHHHHHHHHH
+T ss_pred             HHcHHHHHHHHHHHCChHHHHHHHHHHHHh
+
+
+No 33
+>1QSA_A PROTEIN (SOLUBLE LYTIC TRANSGLYCOSYLASE SLT70); ALPHA-SUPERHELIX, TRANSFERASE; HET: SO4, GOL; 1.65A {Escherichia coli} SCOP: d.2.1.6, a.118.5.1
+Probab=58.48  E-value=27  Score=34.39  Aligned_cols=58  Identities=21%  Similarity=0.266  Sum_probs=0.0  Template_Neff=11.700
+
+Q ss_pred             HHHHHHHHHHHHCCCHHHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCchhhhcccccchhHHHhccCC
+Q FD01543125_046    9 YWNEIIRASERSGIIPQSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSSAAGMTQFLNGTWMTETLRDG   85 (270)
+Q Consensus         9 Yr~~Ii~Aa~RtGi~pqalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SSAaGLtQFL~gTW~~~A~~~G   85 (270)
+                      |+..+...+.+.++++..+.+++..|      +.+++...+             ...+.|+.|+...|+...+..-|
+T Consensus       453 ~~~~~~~~~~~~~~~~~~~~~~~~~e------s~~~~~~~~-------------~~ga~G~~q~~~~~~~~~~~~~~  510 (618)
+T 1QSA_A          453 YNDLFKRYTSGKEIPQSYAMAIARQE------SAWNPKVKS-------------PVGASGLMQIMPGTATHTVKMFS  510 (618)
+T ss_dssp             THHHHHHHHTTSSSCHHHHHHHHHHH------HTTCTTCBC-------------TTCCBTTTTBCHHHHHHHHHHHT
+T ss_pred             hHHHHHHHHccCCCCHHHHHHHHHHH------hcCCCCCCC-------------CCCCccccccCHhHHHHHHHHcC
+
+
+No 34
+>4OW1_W Resuscitation-promoting factor RpfC; Resuscitation Promoting Factor, Peptidoglycan, Transglycosylase, HYDROLASE; 1.9A {Mycobacterium tuberculosis} SCOP: d.2.1.0
+Probab=47.24  E-value=33  Score=26.44  Aligned_cols=40  Identities=25%  Similarity=0.305  Sum_probs=0.0  Template_Neff=9.400
+
+Q ss_pred             CHHHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCchhhhcccccchhHHHh
+Q FD01543125_046   23 IPQSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSSAAGMTQFLNGTWMTET   81 (270)
+Q Consensus        23 ~pqalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SSAaGLtQFL~gTW~~~A   81 (270)
+                      ++....+|+..|   .. |.|+.   +            ..+...|+.||..+||...+
+T Consensus         2 ~~~~w~~ia~cE---S~-g~~~a---~------------~~~g~~G~~q~~~~tw~~~~   41 (92)
+T 4OW1_W            2 PSPNWDAVAQCE---SG-GNWAA---N------------TGNGKYGGLQFKPATWAAFG   41 (92)
+T ss_dssp             CCCCHHHHHHHH---HS-SCTTC---C------------CSSSCBTTTTBCHHHHHHTT
+T ss_pred             CchhHHHHHhhh---cC-CCCCC---C------------CCCCCcccccccHHHHHHhC
+
+
+No 35
+>8EJ5_A gp10, tail tip lysin (spike); phage tail, VIRUS; 4.9A {Staphylococcus phage Andhra}
+Probab=42.61  E-value=62  Score=34.15  Aligned_cols=31  Identities=23%  Similarity=0.350  Sum_probs=0.0  Template_Neff=7.300
+
+Q ss_pred             CccHHHHHHHHHHHHHHCCCHHHHHHHHhhH
+Q FD01543125_046    4 GKNVIYWNEIIRASERSGIIPQSIAAVIHSE   34 (270)
+Q Consensus         4 G~N~~Yr~~Ii~Aa~RtGi~pqalAAiI~AE   34 (270)
+                      |....+.+.|++++++.||+|.-++||+-.|
+T Consensus        41 ~~~~~~~~~~~~~~k~~gi~p~lf~ai~~~E   71 (473)
+T 8EJ5_A           41 GNSSTKIKQVLNAVKSIGVSPALFAAYEKNE   71 (473)
+T ss_dssp             TTCHHHHHHHHHHHHHHTCCHHHHHHHHHHH
+T ss_pred             cCCHHHHHHHHHHHHHhCCCHHHHHHHHHHh
+
+
+No 36
+>PF20306.2 ; Sp-DndD ; Small protein found in certain Dnd DNA modification systems
+Probab=42.27  E-value=81  Score=22.11  Aligned_cols=25  Identities=16%  Similarity=0.225  Sum_probs=0.0  Template_Neff=8.500
+
+Q ss_pred             HHHHHHHHHHHCCCHHHHHHHHhhH
+Q FD01543125_046   10 WNEIIRASERSGIIPQSIAAVIHSE   34 (270)
+Q Consensus        10 r~~Ii~Aa~RtGi~pqalAAiI~AE   34 (270)
+                      +..|.+.+++.|+|+.-+..+|+.|
+T Consensus         3 ~~lL~~ic~~~~v~~eli~~Ll~~e   27 (50)
+T A0A150MC83_9BA    3 EKLLHEICEKHEVNPKYLEILIKLE   27 (50)
+T ss_pred             HHHHHHHHHHCCCCHHHHHHHHHHH
+
+
+No 37
+>3KK4_B uncharacterized protein BP1543; Structural genomics, PSI-2, Protein Structure Initiative, Midwest Center for Structural Genomics, MCSG, unknown function; HET: CME, MSE; 1.95A {Bordetella pertussis Tohama I}
+Probab=36.97  E-value=1.1e+02  Score=27.34  Aligned_cols=41  Identities=22%  Similarity=0.437  Sum_probs=0.0  Template_Neff=5.700
+
+Q ss_pred             HHHHHHHHHHHHHHCCCHHHHHHHHhhHhhccCCCccCCCc
+Q FD01543125_046    7 VIYWNEIIRASERSGIIPQSIAAVIHSEAAKYRGGVWKPTS   47 (270)
+Q Consensus         7 ~~Yr~~Ii~Aa~RtGi~pqalAAiI~AEAAk~~~G~W~~~S   47 (270)
+                      ..||++|.+.|++-|++...|..-|+.|+....++..|-.|
+T Consensus        36 ~~fW~aLe~IA~~eg~sl~~Lv~~I~~~~~~~~~~~~nlsS   76 (125)
+T 3KK4_B           36 QLFWDVLEEIAARDGMRVTQLIERLYDELVQYRGEAANFTS   76 (125)
+T ss_dssp             HHHHHHHHHHHHHTTCCHHHHHHHHHHHHHHHHSSCTTHHH
+T ss_pred             HHHHHHHHHHHHHhCCCHHHHHHHHHHHHHHhcCCCCCHHH
+
+
+No 38
+>PF00216.25 ; Bac_DNA_binding ; Bacterial DNA-binding protein
+Probab=34.36  E-value=1.3e+02  Score=22.27  Aligned_cols=24  Identities=4%  Similarity=0.080  Sum_probs=0.0  Template_Neff=10.500
+
+Q ss_pred             HHHHHHHHHHHCCCHHHHHHHHhh
+Q FD01543125_046   10 WNEIIRASERSGIIPQSIAAVIHS   33 (270)
+Q Consensus        10 r~~Ii~Aa~RtGi~pqalAAiI~A   33 (270)
+                      .+.+...++++|+++..+.+++++
+T Consensus         4 ~~l~~~ia~~~~~~~~~~~~~l~~   27 (90)
+T A0L640_MAGMM/1    4 GELKKIVADKTGMSQADAGRAVAA   27 (90)
+T ss_pred             HHHHHHHHHHHCCCHHHHHHHHHH
+
+
+No 39
+>PF16805.9 ; Trans_coact ; Phage late-transcription coactivator
+Probab=32.34  E-value=78  Score=25.42  Aligned_cols=29  Identities=17%  Similarity=0.271  Sum_probs=0.0  Template_Neff=5.700
+
+Q ss_pred             CccHHHHHHHHHHHHHHCCCHHHHHHHHh
+Q FD01543125_046    4 GKNVIYWNEIIRASERSGIIPQSIAAVIH   32 (270)
+Q Consensus         4 G~N~~Yr~~Ii~Aa~RtGi~pqalAAiI~   32 (270)
+                      |.|-.|-++|+..+++.+|.|..++-+|+
+T Consensus        16 ~~~~sYidAi~~~cEe~~ie~e~v~klI~   44 (69)
+T M1U9Z1_9CAUD/1   16 RGDINYIEAIVCFCEDNEIEIESVPKLLS   44 (69)
+T ss_pred             CCCccHHHHHHHHHHHCCCChHHHHHhCC
+
+
+No 40
+>3OTP_L Lysozyme C; typsin-like protease domain PDZ domains, protease, HYDROLASE; 3.76A {Escherichia coli}
+Probab=30.05  E-value=1.1e+02  Score=20.19  Aligned_cols=37  Identities=14%  Similarity=0.021  Sum_probs=0.0  Template_Neff=9.300
+
+Q ss_pred             CCCHHHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCchhhhccc
+Q FD01543125_046   21 GIIPQSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSSAAGMTQF   72 (270)
+Q Consensus        21 Gi~pqalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SSAaGLtQF   72 (270)
+                      ++++..+.+|+..|..-.. ...+.+  .            ..|..-||.|.
+T Consensus         8 ~~~~~~~~~ia~~eS~~~~-~~~~~~--~------------~g~~~~GlfQI   44 (44)
+T 3OTP_L            8 GYSLGNWVSAAKFESNFNT-QATNRN--T------------DGSTDYGILQI   44 (44)
+T ss_pred             CCCHHHHHHHHHHHcCCCC-CceecC--C------------CCCceEeeeeC
+
+
+No 41
+>1B8Z_B PROTEIN (HISTONELIKE PROTEIN HU); THERMOTOGA MARITIMA, THERMOSTABLE DNA BINDING PROTEIN, DNA BINDING PROTEIN; 1.6A {Thermotoga maritima} SCOP: a.55.1.1
+Probab=28.77  E-value=1.9e+02  Score=21.18  Aligned_cols=25  Identities=12%  Similarity=0.242  Sum_probs=0.0  Template_Neff=10.700
+
+Q ss_pred             HHHHHHHHHHHHCCCHHHHHHHHhh
+Q FD01543125_046    9 YWNEIIRASERSGIIPQSIAAVIHS   33 (270)
+Q Consensus         9 Yr~~Ii~Aa~RtGi~pqalAAiI~A   33 (270)
+                      ..+.+...++++++++..+.+++++
+T Consensus         3 ~~~l~~~i~~~~~~~~~~~~~~~~~   27 (90)
+T 1B8Z_B            3 KKELIDRVAKKAGAKKKDVKLILDT   27 (90)
+T ss_dssp             HHHHHHHHHHHHTCCHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHCCCHHHHHHHHHH
+
+
+No 42
+>PF10911.12 ; T7-like_Y65 ; Bacteriophage T7-like gene 6.5
+Probab=28.05  E-value=1.8e+02  Score=24.39  Aligned_cols=34  Identities=15%  Similarity=0.332  Sum_probs=0.0  Template_Neff=4.500
+
+Q ss_pred             CCChHHHHHHHHhccCHHHHHHHHHHHHHHHHHHHHHcCC
+Q FD01543125_046  151 VHATAEIQQWLNLRFKPEYAIMAAVDYGVANLASLKMAGY  190 (270)
+Q Consensus       151 ~~~~~~~~~lL~LR~dpe~sI~aaaDYa~~NL~~L~~~G~  190 (270)
+                      +..+....+-|.-||++++.+.+.+      ++.|+++|+
+T Consensus        16 P~Ip~~~~eyL~~r~n~~Yl~~~G~------l~~lr~~G~   49 (77)
+T A0A088F7Z4_9CA   16 PDVPRATAEYLQVRFNYAYLEASGH------IGLMRANGC   49 (77)
+T ss_pred             CCCCHHHHHHHHHHcCHHHHHHhcc------HHHHHHcCC
+
+
+No 43
+>2NDP_B Histone-like DNA-binding superfamily protein; Histone-like protein, DNA BINDING PROTEIN; NMR {Mycoplasma gallisepticum S6} SCOP: a.55.1.0
+Probab=27.00  E-value=2e+02  Score=21.89  Aligned_cols=25  Identities=20%  Similarity=0.173  Sum_probs=0.0  Template_Neff=10.200
+
+Q ss_pred             HHHHHHHHHHHHCCCHHHHHHHHhh
+Q FD01543125_046    9 YWNEIIRASERSGIIPQSIAAVIHS   33 (270)
+Q Consensus         9 Yr~~Ii~Aa~RtGi~pqalAAiI~A   33 (270)
+                      ..+.+...++++|+++..+.+++++
+T Consensus         9 ~~~l~~~ia~~~~~~~~~~~~~l~~   33 (99)
+T 2NDP_B            9 AAEYLKEMADETNIKVQDIRLVVTS   33 (99)
+T ss_dssp             HHHHHHHSCSSSSCCHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHhCCCHHHHHHHHHH
+
+
+No 44
+>1OWF_A Integration Host Factor Alpha-subunit; protein-DNA recognition, indirect readout, IHF, DNA bending, minor groove, TRANSCRIPTION-DNA COMPLEX; 1.95A {Escherichia coli} SCOP: a.55.1.1
+Probab=26.85  E-value=2.1e+02  Score=21.94  Aligned_cols=25  Identities=4%  Similarity=-0.035  Sum_probs=0.0  Template_Neff=10.100
+
+Q ss_pred             HHHHHHHHHHHHCCCHHHHHHHHhh
+Q FD01543125_046    9 YWNEIIRASERSGIIPQSIAAVIHS   33 (270)
+Q Consensus         9 Yr~~Ii~Aa~RtGi~pqalAAiI~A   33 (270)
+                      ..+.+...++++|+++..+-+++++
+T Consensus         5 ~~~l~~~ia~~~~~~~~~~~~~l~~   29 (99)
+T 1OWF_A            5 KAEMSEYLFDKLGLSKRDAKELVEL   29 (99)
+T ss_dssp             HHHHHHHHHHHHCCCHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHhCCCHHHHHHHHHH
+
+
+No 45
+>1MUL_A DNA binding protein HU-alpha; histone-like, DNA BINDING PROTEIN; 2.3A {Escherichia coli} SCOP: a.55.1.1
+Probab=26.70  E-value=1.9e+02  Score=21.39  Aligned_cols=23  Identities=17%  Similarity=0.151  Sum_probs=0.0  Template_Neff=10.500
+
+Q ss_pred             HHHHHHHHHHCCCHHHHHHHHhh
+Q FD01543125_046   11 NEIIRASERSGIIPQSIAAVIHS   33 (270)
+Q Consensus        11 ~~Ii~Aa~RtGi~pqalAAiI~A   33 (270)
+                      +.+...++++|+++..+.+++++
+T Consensus         5 ~l~~~i~~~~~~~~~~~~~~~~~   27 (90)
+T 1MUL_A            5 QLIDVIAEKAELSKTQAKAALES   27 (90)
+T ss_dssp             HHHHHHHHHTTCCHHHHHHHHHH
+T ss_pred             HHHHHHHHHhCCCHHHHHHHHHH
+
+
+No 46
+>PF18896.4 ; SLT_3 ; Lysozyme like domain
+Probab=26.06  E-value=1.9e+02  Score=19.03  Aligned_cols=50  Identities=16%  Similarity=0.054  Sum_probs=0.0  Template_Neff=12.800
+
+Q ss_pred             HHHHHHCCCHHHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCchhhhcccccchh
+Q FD01543125_046   15 RASERSGIIPQSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSSAAGMTQFLNGTW   77 (270)
+Q Consensus        15 ~Aa~RtGi~pqalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SSAaGLtQFL~gTW   77 (270)
+                      .+....|+++..+..++..=..... +.+......            ..+.+.|+.|+...+|
+T Consensus         2 ~~~~~~g~~~~~~~~~~~~~~~~s~-~~~~~~~~~------------~~~~~~G~~q~~~~~~   51 (84)
+T A0A1H8XES0_9PS    2 SVGRAAGFTGDDFVTAVAVAMAESR-CDPLARGVN------------SGSIDRGLWQINNVYH   51 (84)
+T ss_pred             chhHHcCCCHHHHHHHHHHHHHhcC-CCCCccCCC------------CCCeeEEEEEEecccC
+
+
+No 47
+>PF13702.10 ; Lysozyme_like ; Lysozyme-like
+Probab=25.95  E-value=2.3e+02  Score=22.55  Aligned_cols=43  Identities=12%  Similarity=0.052  Sum_probs=0.0  Template_Neff=11.600
+
+Q ss_pred             HHHHHHHHHHHHHCCCH--HHHHHHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCchhhhcccccchh
+Q FD01543125_046    8 IYWNEIIRASERSGIIP--QSIAAVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSSAAGMTQFLNGTW   77 (270)
+Q Consensus         8 ~Yr~~Ii~Aa~RtGi~p--qalAAiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SSAaGLtQFL~gTW   77 (270)
+                      .|...+..++.+.|+++  ..+++++..|.....                      .     |+.||...++
+T Consensus         5 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~es~~~~----------------------~-----G~~q~~~~~~   49 (161)
+T A4VUN1_STRSY/2    5 TYQTMVQEVLAENDTPANEELVLAMIYTETKGQE----------------------A-----DVMQSSESAT   49 (161)
+T ss_pred             hhHHHHHHHHHHcCCChhHHHHHHHHHHHhCCCC----------------------C-----CCcccccccc
+
+
+No 48
+>PF12523.12 ; DUF3725 ; Protein of unknown function (DUF3725)
+Probab=25.66  E-value=1.1e+02  Score=25.61  Aligned_cols=31  Identities=16%  Similarity=0.203  Sum_probs=0.0  Template_Neff=3.300
+
+Q ss_pred             CCCCCHHHHHHHHHHHHhcCHHHHHHHHhCC
+Q FD01543125_046  192 IDGLNDAEKAKLIYLTHHLGLSDAIHFIKNN  222 (270)
+Q Consensus       192 v~~L~d~ekAK~~YL~HHlG~gdA~~Fi~~t  222 (270)
+                      ..+.+-.+=||++||+-+.-..+++.||+++
+T Consensus         2 ~~~f~i~~ga~~~~l~~~~~~e~~R~flegt   32 (74)
+T B1PM22_PRSVW/4    2 VGEFIVSEGAKILQLVQIGNATIGRTFLEGD   32 (74)
+T ss_pred             cceeecchHHHHHHHHHhccchHHHHHHhCC
+
+
+No 49
+>5L8Z_A DNA-binding protein; thermostable, DNA-binding, HU-protein, Spiroplasma melliferum, histone-like, NAP, DNA binding protein; 1.4A {Spiroplasma melliferum KC3} SCOP: l.1.1.1, a.55.1.0
+Probab=25.30  E-value=2e+02  Score=21.88  Aligned_cols=25  Identities=4%  Similarity=-0.044  Sum_probs=0.0  Template_Neff=10.100
+
+Q ss_pred             HHHHHHHHHHH--HCCCHHHHHHHHhh
+Q FD01543125_046    9 YWNEIIRASER--SGIIPQSIAAVIHS   33 (270)
+Q Consensus         9 Yr~~Ii~Aa~R--tGi~pqalAAiI~A   33 (270)
+                      ..+.+.+.+++  +|+++..+..++++
+T Consensus         5 ~~~l~~~ia~~~~~~~~~~~v~~vl~~   31 (96)
+T 5L8Z_A            5 KKELAAQIAEKFTDVLSKTHAEEITNF   31 (96)
+T ss_dssp             HHHHHHHHHHHTTTTCCHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHhcCCCCHHHHHHHHHH
+
+
+No 50
+>PF13772.10 ; AIG2_2 ; AIG2-like family
+Probab=25.19  E-value=1.7e+02  Score=22.51  Aligned_cols=29  Identities=14%  Similarity=0.155  Sum_probs=0.0  Template_Neff=10.000
+
+Q ss_pred             CCCccHHHHHHHHHHHHHHCCCHHHHHHH
+Q FD01543125_046    2 MLGKNVIYWNEIIRASERSGIIPQSIAAV   30 (270)
+Q Consensus         2 ~LG~N~~Yr~~Ii~Aa~RtGi~pqalAAi   30 (270)
+                      .++++..|.+.|+..+...|+++.-|..|
+T Consensus        73 ~~~p~~~Y~~~i~~ga~~~g~~~~y~~~l  101 (101)
+T B4N450_DROWI/1   73 SRQPSKTYLKCLVKGAIESSIPQSYIQRL  101 (101)
+T ss_pred             cCCCCHHHHHHHHHHHHHcCCCHHHHhhC
+
+
+No 51
+>5FBM_A DNA-binding protein HU; Histone-like protein, DNA binding, Dimerization, DNA BINDING PROTEIN; 1.9A {Streptococcus mutans serotype c (strain ATCC 700610 / UA159)} SCOP: l.1.1.1, a.55.1.0
+Probab=24.91  E-value=2.1e+02  Score=22.43  Aligned_cols=24  Identities=17%  Similarity=0.263  Sum_probs=0.0  Template_Neff=9.400
+
+Q ss_pred             HHHHHHHHHHHCCCHHHHHHHHhh
+Q FD01543125_046   10 WNEIIRASERSGIIPQSIAAVIHS   33 (270)
+Q Consensus        10 r~~Ii~Aa~RtGi~pqalAAiI~A   33 (270)
+                      .+.+...++++|++...+..++++
+T Consensus         5 ~~l~~~ia~~~~l~~~~~~~vl~~   28 (99)
+T 5FBM_A            5 QDLIAKVAEATELTKKDSAAAVDA   28 (99)
+T ss_dssp             HHHHHHHHHHHCCCHHHHHHHHHH
+T ss_pred             HHHHHHHHHHhCCCHHHHHHHHHH
+
+
+No 52
+>4P3V_A DNA-binding protein HU-beta; Histone-like, homodimer, DNA BINDING PROTEIN; 1.25A {Escherichia coli} SCOP: a.55.1.1
+Probab=24.39  E-value=2.1e+02  Score=21.28  Aligned_cols=24  Identities=8%  Similarity=0.058  Sum_probs=0.0  Template_Neff=10.400
+
+Q ss_pred             HHHHHHHHHHHCCCHHHHHHHHhh
+Q FD01543125_046   10 WNEIIRASERSGIIPQSIAAVIHS   33 (270)
+Q Consensus        10 r~~Ii~Aa~RtGi~pqalAAiI~A   33 (270)
+                      .+.+...++++|+++..+.++|++
+T Consensus         4 ~~l~~~i~~~~~l~~~~~~~~~~~   27 (90)
+T 4P3V_A            4 SQLIDKIAAGADISKAAAGRALDA   27 (90)
+T ss_dssp             HHHHHHHHHHHTCCHHHHHHHHHH
+T ss_pred             HHHHHHHHHhcCCCHHHHHHHHHH
+
+
+No 53
+>1WTU_A TRANSCRIPTION FACTOR 1; TRANSCRIPTION FACTOR, TYPE II DNA-BINDING PROTEIN; NMR {Bacillus phage SPO1} SCOP: a.55.1.1
+Probab=24.30  E-value=2.2e+02  Score=21.60  Aligned_cols=24  Identities=13%  Similarity=0.149  Sum_probs=0.0  Template_Neff=10.300
+
+Q ss_pred             HHHHHHHHHHHCCCHHHHHHHHhh
+Q FD01543125_046   10 WNEIIRASERSGIIPQSIAAVIHS   33 (270)
+Q Consensus        10 r~~Ii~Aa~RtGi~pqalAAiI~A   33 (270)
+                      .+.+...++++|++...+.+++++
+T Consensus         4 ~~l~~~i~~~~~is~~~~~~~~~~   27 (99)
+T 1WTU_A            4 TELIKAIAQDTELTQVSVSKMLAS   27 (99)
+T ss_dssp             HHHHHHHHTSSSCSHHHHHHHHHH
+T ss_pred             HHHHHHHHHHhCCCHHHHHHHHHH
+
+
+No 54
+>6N2L_A Histone family protein DNA-binding protein; SSGCID, Burkholderia ambifaria, Histone family, DNA binding protein, Structural Genomics, Seattle Structural Genomics Center for Infectious; 1.85A {Burkholderia ambifaria (strain MC40-6)} SCOP: l.1.1.1, a.55.1.0
+Probab=23.84  E-value=2.5e+02  Score=21.99  Aligned_cols=25  Identities=8%  Similarity=0.070  Sum_probs=0.0  Template_Neff=9.500
+
+Q ss_pred             HHHHHHHHHHHHCCCHHHHHHHHhh
+Q FD01543125_046    9 YWNEIIRASERSGIIPQSIAAVIHS   33 (270)
+Q Consensus         9 Yr~~Ii~Aa~RtGi~pqalAAiI~A   33 (270)
+                      +.+.+.+.+++++++...+..++++
+T Consensus        11 ~~~~~~~ia~~~~~~~~~~~~vl~~   35 (100)
+T 6N2L_A           11 KQELIDAVAAQTGASKAQTGETLDT   35 (100)
+T ss_dssp             HHHHHHHHHHHHCCCHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHCCCHHHHHHHHHH
+
+
+No 55
+>PF12554.12 ; MOZART1 ; Mitotic-spindle organizing gamma-tubulin ring associated
+Probab=22.78  E-value=1.1e+02  Score=23.00  Aligned_cols=13  Identities=38%  Similarity=0.820  Sum_probs=0.0  Template_Neff=5.200
+
+Q ss_pred             HHCCCHHHHHHHH
+Q FD01543125_046   19 RSGIIPQSIAAVI   31 (270)
+Q Consensus        19 RtGi~pqalAAiI   31 (270)
+                      +.|+.|.++|.+|
+T Consensus        31 e~GvnPeaLA~vi   43 (47)
+T N1Q4P1_DOTSN/2   31 ENGVSPESLAKVV   43 (47)
+T ss_pred             HCCCCHHHHHHHH
+
+
+No 56
+>PF11203.12 ; EccE ; Putative type VII ESX secretion system translocon, EccE
+Probab=21.62  E-value=1.1e+02  Score=25.09  Aligned_cols=61  Identities=23%  Similarity=0.128  Sum_probs=0.0  Template_Neff=7.200
+
+Q ss_pred             ChHHHHHHHHhccCHHH--------------HHHHHHHHHHHHHHHHHHcCCCCCCCCHHHHHHHHHHHHhcCHH
+Q FD01543125_046  153 ATAEIQQWLNLRFKPEY--------------AIMAAVDYGVANLASLKMAGYNIDGLNDAEKAKLIYLTHHLGLS  213 (270)
+Q Consensus       153 ~~~~~~~lL~LR~dpe~--------------sI~aaaDYa~~NL~~L~~~G~~v~~L~d~ekAK~~YL~HHlG~g  213 (270)
+                      ....+..||.+|+||.-              .-.+.+.=+..=.+.|++.|+...-|+.+|+.-..=...|..+.
+T Consensus         1 a~a~r~tWl~vRld~~~~~~a~~~RGgg~~~~~~al~~a~~Rl~~~L~~~g~~a~~L~a~el~~~~~~~~~~~~~   75 (90)
+T V9XF77_9NOCA/8    1 AAAERTVRVVLRLDVTSCAAAAARRGGGSEGAARTVVAAARRVIRALGDAGYGARLLTASEIEQAALRISHGVPA   75 (90)
+T ss_pred             CCcceeEEEEEEEehhhhHHHHHHhCCCchHHHHHHHHHHHHHHHHHHHcCCcEEECCHHHHHHHHHHHhCCCCc
+
+
+No 57
+>1PGY_A Swa2p; UBA, ubiquitin, Swa2, auxilin, ubiquitin-associated domain, PROTEIN BINDING; NMR {Saccharomyces cerevisiae} SCOP: a.5.2.1
+Probab=21.53  E-value=3.8e+02  Score=20.93  Aligned_cols=42  Identities=31%  Similarity=0.516  Sum_probs=0.0  Template_Neff=3.000
+
+Q ss_pred             CCCCCHHHHHHHHHHHHhcCHHHHHHHHhCCCCHHHHHHHHHHH
+Q FD01543125_046  192 IDGLNDAEKAKLIYLTHHLGLSDAIHFIKNNITEGKAKELLIAQ  235 (270)
+Q Consensus       192 v~~L~d~ekAK~~YL~HHlG~gdA~~Fi~~ti~~~~A~~LL~aQ  235 (270)
+                      |++.-|-|.||+|=|+  +....|..|...++.-++.-+....+
+T Consensus         3 vDEVkDMEiAkLMSLG--lSid~A~~~Yd~Gi~Ye~~l~~~~~k   44 (47)
+T 1PGY_A            3 VDEVKDMEIARLMSLG--LSIEEATEFYENDVTYERYLEILKSK   44 (47)
+T ss_dssp             SHHHHHHHHHHHHHHC--CCSHHHHHHHHHHCSSHHHHHHHHHS
+T ss_pred             hhhhhHHHHHHHHhCC--CCHHHHHHHHHcCccHHHHHHHHHHH
+
+
+No 58
+>2FBD_B Lysozyme 1; Digestive Lysozime, Musca domestica, HYDROLASE; HET: PEG, SO4; 1.9A {Musca domestica} SCOP: d.2.1.0
+Probab=21.25  E-value=1.1e+02  Score=25.00  Aligned_cols=52  Identities=21%  Similarity=0.273  Sum_probs=0.0  Template_Neff=9.200
+
+Q ss_pred             HHHHHHHHHCCCHHHHH---HHHhhHhhccCCCccCCCccccCCCCCCCCCCCCCCchhhhcccccchh
+Q FD01543125_046   12 EIIRASERSGIIPQSIA---AVIHSEAAKYRGGVWKPTSVCKNSKKSTKENTVYKSSAAGMTQFLNGTW   77 (270)
+Q Consensus        12 ~Ii~Aa~RtGi~pqalA---AiI~AEAAk~~~G~W~~~S~n~~~~~~~~~~~~~~SSAaGLtQFL~gTW   77 (270)
+                      .|..+.++.|++...|.   +|+..|..-.. +..++...+             .|.--||.|+=+..|
+T Consensus         7 e~~~~l~~~~~~~~~l~~~~cia~~ES~~~~-~a~~~~~~~-------------gs~~~GlfQin~~~w   61 (122)
+T 2FBD_B            7 SLAREMYALGVPKSELPQWTCIAEHESSYRT-NVVGPTNSN-------------GSNDYGIFQINNYYW   61 (122)
+T ss_dssp             HHHHHHHHTTCCGGGHHHHHHHHHHHHTTBT-TCBCCCCTT-------------SCCEETTTTEETTTT
+T ss_pred             HHHHHHHHcCCChhHHcceeeeeeeccCCCc-cccCCCCCC-------------CCceeEEEEEcCcee
+
+
+No 59
+>1P71_A DNA-binding protein HU; protein-DNA complex, DNA bending, HU, DNA Binding Protein-DNA COMPLEX; 1.9A {Anabaena sp.} SCOP: a.55.1.1
+Probab=20.20  E-value=3.4e+02  Score=20.23  Aligned_cols=25  Identities=12%  Similarity=0.157  Sum_probs=0.0  Template_Neff=10.500
+
+Q ss_pred             HHHHHHHHHHHHCCCHHHHHHHHhh
+Q FD01543125_046    9 YWNEIIRASERSGIIPQSIAAVIHS   33 (270)
+Q Consensus         9 Yr~~Ii~Aa~RtGi~pqalAAiI~A   33 (270)
+                      ..+.+...++++|+++..+.+++++
+T Consensus         3 ~~~l~~~is~~~~~~~~~~~~v~~~   27 (94)
+T 1P71_A            3 KGELVDAVAEKASVTKKQADAVLTA   27 (94)
+T ss_dssp             HHHHHHHHHHHHTCCHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHhCCCHHHHHHHHHH
+
+

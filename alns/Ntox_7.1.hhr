@@ -1,0 +1,68 @@
+Query         FD01849511_03367 RHS repeat family protein
+Match_columns 104
+No_of_seqs    101 out of 109
+Neff          4.53917
+Searched_HMMs 86581
+Date          Tue Feb 27 20:51:49 2024
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/5655761.hhr -oa3m ../results/5655761.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 PF19023.4 ; DUF5749 ; Family o  62.5      10 0.00012   26.8   1.6   29    8-36     36-64  (78)
+  2 2KK4_A Uncharacterized protein  57.0      11 0.00013   27.6   1.2   28    8-36     42-70  (95)
+  3 2ZUV_A Lacto-N-biose phosphory  28.6      70 0.00081   28.8   1.8   49   13-62      2-54  (759)
+  4 PF20606.2 ; DUF6799 ; Domain o  23.8 1.5E+02  0.0017   19.0   2.2   19   39-58     30-48  (62)
+
+No 1
+>PF19023.4 ; DUF5749 ; Family of unknown function (DUF5749)
+Probab=62.48  E-value=10  Score=26.84  Aligned_cols=29  Identities=10%  Similarity=0.220  Sum_probs=0.0  Template_Neff=4.100
+
+Q ss_pred             HHHHhhcCCCCCCCCcccHHHHHHHHHhh
+Q FD01849511_033    8 IRNQTAAGGNRGITGVVSQNDAFRLGEAF   36 (104)
+Q Consensus         8 L~~a~~~~gNfgi~G~~T~~eA~~lG~~W   36 (104)
+                      |.+........-+.|-...++|.+||+.|
+T Consensus        36 l~~Ve~~~~~~iv~g~fd~~~A~~lG~~W   64 (78)
+T D3RZQ0_FERPA/4   36 LEAIEKTEEDKIYVSDFDEEEAKKFGELW   64 (78)
+T ss_pred             HHHeeecCCceEEecCCCHHHHHHHHHHH
+
+
+No 2
+>2KK4_A Uncharacterized protein AF_2094; protein of unknown function, Structural Genomics, PSI-2, Protein Structure Initiative, Northeast Structural Genomics Consortium, NESG, Unknown; NMR {Archaeoglobus fulgidus}
+Probab=57.00  E-value=11  Score=27.59  Aligned_cols=28  Identities=21%  Similarity=0.366  Sum_probs=0.0  Template_Neff=3.900
+
+Q ss_pred             HHHHhhc-CCCCCCCCcccHHHHHHHHHhh
+Q FD01849511_033    8 IRNQTAA-GGNRGITGVVSQNDAFRLGEAF   36 (104)
+Q Consensus         8 L~~a~~~-~gNfgi~G~~T~~eA~~lG~~W   36 (104)
+                      |.+.... ..+.-| |-...++|.+||+.|
+T Consensus        42 l~~Ve~~~~e~i~V-g~fD~~kA~~lGe~W   70 (95)
+T 2KK4_A           42 KKSIKSVEDGRIVI-GEFDEEEARELGRKW   70 (95)
+T ss_dssp             TTTEEEEETTEEEE-CCCCHHHHHHHHHHH
+T ss_pred             HHHEEEecCCeEEE-ccCCHHHHHHHHHHH
+
+
+No 3
+>2ZUV_A Lacto-N-biose phosphorylase; beta-alpha-barrel, TIM barrel, Glycosyltransferase, Transferase; HET: NDG, EDO, NO3; 1.85A {Bifidobacterium longum}
+Probab=28.65  E-value=70  Score=28.84  Aligned_cols=49  Identities=18%  Similarity=0.173  Sum_probs=0.0  Template_Neff=10.000
+
+Q ss_pred             hcCCCCCCCC-cccHHHHHHHHHhhcCCCcEEccCCCeE---EcCCCCcccCCC
+Q FD01849511_033   13 AAGGNRGITG-VVSQNDAFRLGEAFVGPNYRVMSSGKGL---VSEDGLRTFRFP   62 (104)
+Q Consensus        13 ~~~gNfgi~G-~~T~~eA~~lG~~WVG~G~r~~s~G~~l---iSaDGlR~yR~P   62 (104)
+                      ..+|-|+|++ ..-.+++.+|.+.| |..+...|||..|   +..=|...||+|
+T Consensus         2 ~~~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~y~~~   54 (759)
+T 2ZUV_A            2 TSTGRFTLPSEENFAEKTKELAELW-GADAIRNSDGTHLDEAVLALGKKIYNAY   54 (759)
+T ss_dssp             -CCCSEEEECCTTCHHHHHHHHHHH-TCSEEECCC------CHHHHTCEEEEEE
+T ss_pred             CCccceecccccChHHHHHHHHHHH-CCCceeCCCCCccCHHHHHccCCEEEEE
+
+
+No 4
+>PF20606.2 ; DUF6799 ; Domain of unknown function (DUF6799)
+Probab=23.77  E-value=1.5e+02  Score=19.03  Aligned_cols=19  Identities=21%  Similarity=0.443  Sum_probs=0.0  Template_Neff=7.300
+
+Q ss_pred             CCcEEccCCCeEEcCCCCcc
+Q FD01849511_033   39 PNYRVMSSGKGLVSEDGLRT   58 (104)
+Q Consensus        39 ~G~r~~s~G~~liSaDGlR~   58 (104)
+                      +|.++..+| .++.+||.+.
+T Consensus        30 nGt~v~~~G-~v~~~dG~~~   48 (62)
+T B9XKI4_PEDPL/1   30 DGTKVMKDG-TVMTKHGKSK   48 (62)
+T ss_pred             CCCEEcCCc-EEEeCCCcEE
+
+
