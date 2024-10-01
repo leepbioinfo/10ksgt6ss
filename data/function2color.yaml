@@ -1,0 +1,27 @@
+Peptidoglycan:
+  color: '#EF802E'
+  position: 1
+Nuclease:
+  color: '#49BAEF'
+  position: 2
+Peptidase:
+  color: '#BA3431'
+  position: 3    
+ADP-ribosyltransferase:
+  color: '#847DDE'
+  position: 4
+Phospholipase:
+  color: '#FC9AC7'
+  position: 5
+Pore-forming:
+  color: '#98BF0E'
+  position: 6  
+Adenylyl cyclase:
+  color: '#DFDCF6'
+  position: 7  
+Phosphodiester glycosidase:
+  color: '#FFFF00'
+  position: 8  
+Not determined:
+  color: '#B4B4B4'
+  position: 9  
