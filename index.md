@@ -1,3 +1,15 @@
+# 🔎 How to Use This Resource <a id="how-to-use"></a>
+
+This page provides curated information on *Salmonella* T6SS effector candidates identified in our genome-wide analysis. Each row in the table represents a specific effector group (e.g., `STox_2`), with links to the relevant data and structural models. Columns include:
+
+- **Nuclease**: Broad functional category (e.g., DNase, RNase).
+- **Model**: Multiple sequence alignments used to build HMMs, available in versions *with* and *without* gaps. All alignments include **NCBI protein accession IDs**.
+- **HHpred**: Link to remote homology search results for the representative effector.
+- **Group**: Functional or structural classification (e.g., BECR fold).
+- **AlphaFold**: Access to AlphaFold2-predicted 3D structures (**view** or **download**).
+
+Use the links in each row to explore and download sequences, alignments, and predicted structures.
+
 ## Nuclease: DNase, RNase
 
 | Model                | Alignment                                                                                                       | HHpred                                       | Group                            | AlphaFold                                                                                                                                                                                             |
