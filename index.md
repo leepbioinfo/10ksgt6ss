@@ -1,9 +1,23 @@
 # Effector Repertoire of Salmonella T6SS
 ## 🔎 How to Use This Resource <a id="how-to-use"></a>
 
-This page provides curated information on *Salmonella* T6SS effector candidates identified in our genome-wide analysis. Each row in the table represents a specific effector group (e.g., `STox_2`), with links to the relevant data and structural models. Columns include:
+This page provides curated information on *Salmonella* T6SS effector candidates identified in our genome-wide analysis. Each row in the table represents a specific effector group (e.g., `STox_2`), with links to the relevant data and structural models.
+Each table on this page represents a broader **thematic category of effector activity**, grouping together toxins with similar molecular targets or biochemical mechanisms. You can navigate directly to each category below:
 
-- **Nuclease**: Broad functional category (e.g., DNase, RNase).
+- [Nuclease (DNase, RNase)](https://leepbioinfo.github.io/10ksgt6ss/#nuclease-dnase-rnase)
+- [Deaminase](https://leepbioinfo.github.io/10ksgt6ss/#deaminase)
+- [Peptidase](https://leepbioinfo.github.io/10ksgt6ss/#peptidase)
+- [ADP-ribosyltransferase](https://leepbioinfo.github.io/10ksgt6ss/#adp-ribosyltransferase)
+- [Glycosidase](https://leepbioinfo.github.io/10ksgt6ss/#glycosidase)
+- [Phospholipase and Acyltransferase](https://leepbioinfo.github.io/10ksgt6ss/#phospholipase--and-acyltransferase)
+- [Pore-forming](https://leepbioinfo.github.io/10ksgt6ss/#pore-forming)
+- [Adenylyl cyclase](https://leepbioinfo.github.io/10ksgt6ss/#adenylyl-cyclase)
+- [Phosphodiester / Glycosidase / NagPA-like](https://leepbioinfo.github.io/10ksgt6ss/#phosphodiester-glycosidase-nagpa)
+- [Not determined](https://leepbioinfo.github.io/10ksgt6ss/#not-determined)
+
+Each section contains a curated table of candidate effectors, their alignments, structural models, and predicted functions.
+Columns include:
+
 - **Model**: Multiple sequence alignments used to build HMMs, available in versions *with* and *without* gaps. All alignments include **NCBI protein accession IDs**.
 - **HHpred**: Link to remote homology search results for the representative effector.
 - **Group**: Functional or structural classification (e.g., BECR fold).
