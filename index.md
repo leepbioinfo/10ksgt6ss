@@ -1,4 +1,5 @@
-# 🔎 How to Use This Resource <a id="how-to-use"></a>
+# Effector Repertoire of Salmonella T6SS
+## 🔎 How to Use This Resource <a id="how-to-use"></a>
 
 This page provides curated information on *Salmonella* T6SS effector candidates identified in our genome-wide analysis. Each row in the table represents a specific effector group (e.g., `STox_2`), with links to the relevant data and structural models. Columns include:
 
