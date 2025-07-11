@@ -43,7 +43,7 @@ Nicastro, G.G., Sibinelli-Sousa, S., Hespanhol, J.T., et al. (2025)
 
 - Python 3.8+
 - Dependencies:
-  - `pandas`, `Biopython`, `matplotlib`
+  - `pandas 2.0+`, `Biopython`, `matplotlib`
   - External tools: `mmseqs2`, `jackhmmer`, `mafft`, `hh-suite`, `FoldSeek`, `AlphaFold`, `DALI`
 
 Install via `environment.yml` or `requirements.txt`.
