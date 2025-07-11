@@ -1,83 +1,55 @@
-from scipy.stats import norm
-from working_dfs import t2,l1type, l2type 
-import numpy as np
-import matplotlib.pyplot as plt
+from working_dfs import t2,li1, li3,li1i3, li2, type_dict, type_to_color, insidei1, insidei2, insidei3, final
+import matplotlib.gridspec as gridspec
+import matplotlib.patches as mpatches
 import matplotlib
-
-def count_series(
-        series,
-        normalize=False,
-        cut_off=False,
-        ):
-    '''
-    Function to flatten a pd.Series.value_counts
-    The normalize options is to write the results as frequency.
-    The cut_off options is to print results only above a given threashold.
-    If the normalize function is True, you should give the cutoff value as pct.
-    '''
-    import pandas as pd
-
-    flattened_list = []
-    s = series.dropna().value_counts(normalize=normalize)
-
-    if cut_off:
-        cut_off = cut_off/100
-        s = s.where(lambda x: x >= cut_off).dropna()
-    for y, z in s.items():
-        if normalize:
-            flattened_list.append(f'{y}({100 * z:.2f}%)')
-        else:
-            flattened_list.append(f'{y}({z})')
-    return ', '.join(flattened_list)
-
+import matplotlib.pyplot as plt
 
 #set font size and family for all the plot
 font = {'family' : 'Arial',
         'weight' : 'medium',
         'style'  : 'normal',
-        'size'   : 5}
+        'size'   : 4}
 
 matplotlib.rc('font', **font)
 
+cm = 1/2.54
 
-t3 = t2.groupby('genome').agg(basename = ('basename', lambda x : count_series(x)), effector_count = ('basename', 'nunique'))
+total = t2.groupby('genome').basename.value_counts().rename('xxx').reset_index().basename.value_counts().reset_index().rename({'basename':"Effectors", "count": "number_genomes"}, axis=1)
+inside = final.query('i1.notna() or i2.notna() or i3.notna() or i4b.notna()').groupby('assembly').basename.value_counts().rename('xxx').reset_index().basename.value_counts().reset_index().rename({'basename':"Effectors", "count": "inside"}, axis=1)
+in_out_count = total.merge(inside, how='left').fillna(0)
+in_out_count['outside'] = in_out_count.number_genomes - in_out_count.inside
 
-fig, ax1 = plt.subplots()
-fig.set_size_inches(4, 3)
-t1 = t3.query('genome in @l1type')
-t2 = t3.query('genome in @l2type')
-linspaced1 = np.linspace(t1.effector_count.min()-1, t1.effector_count.max(), 40)
-fit1 = norm.pdf(linspaced1, t1.effector_count.mean(), t1.effector_count.std()) * len(t1)
-plt.hist(t1.effector_count, bins=np.arange(20)-0.5, alpha=0.5, label="One T6SS", color="steelblue")
-plt.plot(linspaced1, fit1 , '-o', color="steelblue", label="Fit", markersize=3)
-plt.legend(loc=2,frameon=False)
-ax1.set_ylabel('Number of genomes')
-ax1.set_xlabel('Number of effectors per genome')
-ax1.set(xticks=range(16), xlim=[0.5, 15.5], yticks=range(250, 1800, 250))
-plt.text(0.7, 1600, f'count = {int(t1.effector_count.describe()["count"])}\nmean = {t1.effector_count.describe()["mean"]:.2f} \nstd = {t1.effector_count.describe()["std"]:.2f}', ha='left', color='steelblue')
-plt.text(11.7, 1600, f'count = {int(t2.effector_count.describe()["count"])}\nmean = {t2.effector_count.describe()["mean"]:.2f} \nstd = {t2.effector_count.describe()["std"]:.2f}', ha='left', color='darkorange')
-
-ax2 = ax1.twinx()
-linspaced2 = np.linspace(t2.effector_count.min()-1, t1.effector_count.max(), 40)
-fit2 = norm.pdf(linspaced2, t2.effector_count.mean(), t2.effector_count.std()) * len(t2)
-plt.hist(t2.effector_count, bins=np.arange(20)-0.5,  alpha=0.5, label="2 or more T6SS", color="darkorange")
-ax2.set_ylabel('Number of genomes')
-plt.plot(linspaced2, fit2, '-o', label="fit", color="darkorange", markersize=3)
-plt.legend(loc=1,frameon=False)
-
-ax2.set(yticks=range(20, 140, 20))
+to_plot_2b = in_out_count.head(20)
+to_plot_2b['toxin_type'] = to_plot_2b.Effectors.map(type_dict)
+to_plot_2b['color_map'] = to_plot_2b.toxin_type.map(pd.DataFrame(type_to_color).T.color.to_dict())
 
 
-#plt.fill_between(linspaced1, fit1/13, fit2 , where=((fit1/12 <= fit2) & (linspaced1 >2) ), color='red', alpha=0.1, interpolate=False, label='Above')
+fig, ax = plt.subplots()
+fig.set_size_inches(7.4 * cm, 4 *cm)
 
+fruits = to_plot_2b.Effectors.tolist()
+counts1 = to_plot_2b.inside.tolist()
+counts2 = to_plot_2b.outside.tolist()
+bar_labels = to_plot_2b.number_genomes.tolist()
+bar_colors = to_plot_2b.color_map.tolist()
+for i, value in enumerate(bar_labels):
+    plt.text(i, value + 100, str(value), ha='center')
+ax.bar(fruits, counts1, color=bar_colors,label=bar_labels, bottom=counts2)
+ax.bar(fruits, counts2,alpha=0.7,label ="orphan", color=bar_colors)
+ax.set_xticklabels(fruits, rotation=45, horizontalalignment='right')
+ax.set_ylabel('Total genomes')
+plt.minorticks_on()
+plt.gca().xaxis.set_minor_locator(plt.NullLocator())
+ax.spines[['right', 'top']].set_visible(False)
 
-ax1.spines[['right', 'top']].set_visible(False)
-ax2.spines[['left', 'top']].set_visible(False)
-ax2.spines['right'].set_color('darkorange')
-ax1.spines['left'].set_color('steelblue')
+#creating a custom legend:
+legend_dict = pd.DataFrame(type_to_color).T.color.to_dict()
+patchList = []
+for key in legend_dict:
+        data_key = mpatches.Patch(color=legend_dict[key], label=key)
+        patchList.append(data_key)
 
+plt.legend(handles=patchList, frameon=False)
 
 plt.tight_layout()
-plt.savefig('./Figure_2A.svg')
-
-
+plt.savefig("./Figure_2A.svg")

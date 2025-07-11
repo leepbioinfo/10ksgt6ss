@@ -1,37 +1,15 @@
+from working_dfs import t2,li1, li3,li1i3, li2, type_dict, type_to_color, insidei1, insidei2, insidei3, final
 import matplotlib.gridspec as gridspec
-from working_dfs import  type_dict, type_to_color, insidei1, insidei2, insidei3
-import matplotlib.gridspec as gridspec
-import matplotlib
+from venn import venn
+from matplotlib.colors import  ListedColormap
 import matplotlib.pyplot as plt
-import pandas as pd
+cmv = ListedColormap(['#74C3E3','#D184E1', '#FF958E', '#00C469' ])
 
-#set font size and family for all the plot
-font = {'family' : 'Arial',
-        'weight' : 'medium',
-        'style'  : 'normal',
-        'size'   : 5}
-
-matplotlib.rc('font', **font)
-
-pci1 = insidei1.eval(' func_type = basename.map(@type_dict)').func_type.value_counts(normalize=True).reset_index()
-pci1['colors'] = pci1['index'].map(pd.DataFrame(type_to_color).T.color.to_dict())
-pci2 = insidei2.eval(' func_type = basename.map(@type_dict)').func_type.value_counts(normalize=True).reset_index()
-pci2['colors'] = pci2['index'].map(pd.DataFrame(type_to_color).T.color.to_dict())
-pci3 = insidei3.eval(' func_type = basename.map(@type_dict)').func_type.value_counts(normalize=True).reset_index()
-pci3['colors'] = pci3['index'].map(pd.DataFrame(type_to_color).T.color.to_dict())
-
-fig = plt.figure(tight_layout=True)
-gs = gridspec.GridSpec(1, 3)
-ax = fig.add_subplot(gs[0, 0])
-ax.set_title('i3')
-ax.pie(pci3.func_type,
-       colors=pci3.colors,autopct='%1.1f%%', pctdistance=1.25)
-ax = fig.add_subplot(gs[0, 1])
-ax.set_title('i1')
-ax.pie(pci1.func_type,
-       colors=pci1.colors,autopct='%1.1f%%', pctdistance=1.25)
-ax = fig.add_subplot(gs[0, 2])
-ax.set_title('i2')
-ax.pie(pci2.func_type,
-       colors=pci2.colors,autopct='%1.1f%%', pctdistance=1.25)
-plt.savefig('./Figure_2E.pdf')
+si1 = set(final[['basename', 'i1', 'i2', 'i3', 'i4b']].set_index('basename').notna().eval('orphan  = (i1 + i2 + i3 + i4b) ==False').astype(int).reset_index().query('i1 ==1').basename)
+si2 = set(final[['basename', 'i1', 'i2', 'i3', 'i4b']].set_index('basename').notna().eval('orphan  = (i1 + i2 + i3 + i4b) ==False').astype(int).reset_index().query('i2 ==1').basename)
+si3 = set(final[['basename', 'i1', 'i2', 'i3', 'i4b']].set_index('basename').notna().eval('orphan  = (i1 + i2 + i3 + i4b) ==False').astype(int).reset_index().query('i3 ==1').basename)
+si4b = set(final[['basename', 'i1', 'i2', 'i3', 'i4b']].set_index('basename').notna().eval('orphan  = (i1 + i2 + i3 + i4b) ==False').astype(int).reset_index().query('i4b ==1').basename)
+sorphan = set(final[['basename', 'i1', 'i2', 'i3', 'i4b']].set_index('basename').notna().eval('orphan  = (i1 + i2 + i3 + i4b) ==False').astype(int).reset_index().query('orphan ==1').basename)
+vend = {'i1':si1,'i2': si2, 'i3':si3,'orphan': sorphan}
+venn(vend, cmap=cmv)
+plt.savefig("./Figure_2E.png")
