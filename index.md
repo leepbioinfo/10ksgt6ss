@@ -3,7 +3,7 @@
 ## 📰 Citation
 
 Nicastro, G.G., Sibinelli-Sousa, S., Hespanhol, J.T., et al. (2025)
-**Genome-directed study reveals the diversity of *Salmonella* T6SS effectors and identifies a novel family of lipid-targeting antibacterial toxins**. *bioRxiv*. https://doi.org/10.1101/2024.09.27.615498
+**Genome-directed study reveals the diversity of *Salmonella* T6SS effectors and identifies a novel family of lipid-targeting antibacterial toxins**. *bioRxiv*.[https://doi.org/10.1101/2024.09.27.615498](https://doi.org/10.1101/2024.09.27.615498) 
 
 ---
 
