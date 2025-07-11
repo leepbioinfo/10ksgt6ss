@@ -1,4 +1,12 @@
 # Effector Repertoire of Salmonella T6SS
+
+## 📰 Citation
+
+Nicastro, G.G., Sibinelli-Sousa, S., Hespanhol, J.T., et al. (2025)
+**Genome-directed study reveals the diversity of *Salmonella* T6SS effectors and identifies a novel family of lipid-targeting antibacterial toxins**. *bioRxiv*. https://doi.org/10.1101/2024.09.27.615498
+
+---
+
 ## 🔎 How to Use This Resource <a id="how-to-use"></a>
 
 This page provides curated information on *Salmonella* T6SS effector candidates identified in our genome-wide analysis. Each row in the table represents a specific effector group (e.g., `STox_2`), with links to the relevant data and structural models.
