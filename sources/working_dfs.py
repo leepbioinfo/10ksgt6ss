@@ -26,7 +26,7 @@ with open(f'{data_path}/function2color.yaml', 'r') as f:
         type_to_color = yaml.load(f, Loader=yaml.SafeLoader)
         
 
-df10 = pd.read_pickle(f'{data_path}/10k_vizinho_novo_df_jaccard.pk')
+df10 = pd.read_pickle(f'{data_path}/10k_vizinho_novo_df_jaccard.pkl')
 df10 = df10[df10['assembly'].str.startswith('FD')]
 df10.nei_c = df10.nei_c.replace(j1)
 df10.nei_c = df10.nei_c.replace(j2)
