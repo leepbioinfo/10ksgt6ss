@@ -2,15 +2,16 @@
 
 ## Overview
 
-This repository contains all the source files (`source.py`) used for the analyses presented in [project/paper name].  
-Each directory corresponds to a distinct analysis or dataset, and contains the exact scripts used to generate the results, ensuring full reproducibility.
+This directory contains all the `source.py` files used for the analyses in this project.  
+Each source corresponds to a distinct analysis or dataset, and contains the exact scripts used to generate the results, ensuring full reproducibility.
 
-## Directory Structure
+## Source Structure
 
 
-- **analysis_X/source.py**: Main script used for a specific analysis or figure.
-- **analysis_X/data/**: Input data and/or intermediate files.
-- **shared/**: Utility functions or modules used by multiple analyses.
+- **filter_t6ss_neighbors.py**: Script to filter results from the T6SSiii_tssH model (which retrieves many non-T6SS proteins) and fetch 10 genes upstream and downstream of the identified T6SS components.
+- **jaccard.py**: Script that uses the filtered data and classifies T6SS clusters using Jaccard and Louvain algorithms..
+- **working_dfs.py**: Script that generates multiple dataframes incorporating manually curated annotations; these final dataframes serve as the basis for figure generation and statistical analyses.
+- **Fig_x.py**: Scripts used to generate the figures for the final manuscript; some figures may have been subsequently edited with image software to enhance their aesthetics.
 - **requirements.txt**: List of all Python dependencies.
 
 ## How to Reproduce the Analyses
@@ -20,20 +21,14 @@ Each directory corresponds to a distinct analysis or dataset, and contains the e
     pip install -r requirements.txt
     ```
 
-2. **Navigate to the directory of the analysis you want to reproduce:**
-    ```bash
-    cd analysis_1
-    ```
-
-3. **Run the source script:**
+2. **Run the source script:**
     ```bash
     python source.py
     ```
     - Some analyses may require specific data files in the `data/` subfolder.
-    - Each `source.py` includes documentation at the top explaining the required inputs and expected outputs.
 
-4. **Output:**
-    - Results (plots, tables, etc.) will be generated in the same directory or in an `output/` subfolder, as described in each `README.md`.
+3. **Output:**
+    - Results (plots, tables, etc.) will be generated in the same directory or in an `output/` subfolder, as described in the `source.py`.
 
 ## Notes
 
