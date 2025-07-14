@@ -1,0 +1,763 @@
+Query         FD01845358_00518 hypothetical protein
+Match_columns 200
+No_of_seqs    58 out of 64
+Neff          4.53762
+Searched_HMMs 93885
+Date          Mon Jul 14 23:22:29 2025
+Command       hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -d /cluster/toolkit/production/databases/hh-suite/pfama/pfama -o ../results/8263289.hhr -oa3m ../results/8263289.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 3W3E_A Cotyledoneous yieldin-l  99.2 4.4E-10 4.7E-15   86.8  12.9  107   31-147    54-161 (242)
+  2 2DKV_A chitinase; class I chit  99.2 2.3E-10 2.5E-15   93.4  10.4  105   90-198   160-280 (309)
+  3 5H7T_A Class IV chitinase; Cry  99.2 7.3E-10 7.8E-15   86.2  12.2   54   92-145   100-154 (212)
+  4 8P8E_AAA Glycoside hydrolase f  99.1 1.6E-08 1.7E-13   71.3  13.6  171    7-199    14-215 (220)
+  5 6LNR_A Class-1 chitinase; Chit  99.1 1.1E-09 1.1E-14   89.7   8.1  170    2-198    79-274 (292)
+  6 9MS7_B PWe2 endolysin; endolys  99.0 2.6E-07 2.8E-12   62.3  15.0  165    4-200    12-180 (182)
+  7 3CQL_B Endochitinase; GLYCOSYL  98.9   5E-08 5.4E-13   75.6  11.9  171   12-198    30-224 (243)
+  8 9MS6_A PWe1 endolysin; endolys  98.9 2.3E-07 2.4E-12   63.8  12.3  169   12-200    16-207 (210)
+  9 2Z37_C Chitinase; chitinase, e  98.9 1.2E-07 1.3E-12   73.5  12.2  172   12-198    30-225 (244)
+ 10 8XCL_A EF-hand domain-containi  98.9 1.3E-06 1.4E-11   62.2  16.1  161    4-198    14-235 (244)
+ 11 4OK7_C Endolysin; Helical prot  98.8 5.9E-07 6.3E-12   62.7  13.1  173    4-200    24-222 (223)
+ 12 3WH1_A Chitinase A; Chitinase,  98.7 1.6E-06 1.7E-11   63.7  12.3  154   13-200    26-196 (206)
+ 13 9EOI_A Putative lytic enzyme;   98.7 3.4E-06 3.6E-11   57.8  12.9  169   10-200    17-208 (209)
+ 14 7R6S_A Putative bacteriophage   98.5 6.1E-06 6.5E-11   65.7  12.1  175    8-200     1-191 (337)
+ 15 PF00182.24 ; Glyco_hydro_19 ;   98.3 2.4E-05 2.6E-10   60.4  10.7  168   10-198    28-220 (232)
+ 16 2CJL_B SECRETED CHITINASE; HYD  98.2 7.6E-05 8.1E-10   54.2  11.6  160   12-198    21-192 (204)
+ 17 1WVV_A chitinase C; family 19   98.2 1.1E-05 1.2E-10   61.4   7.5  162    5-199    78-254 (265)
+ 18 8HNE_A Anc4, ancestral GH19 ch  98.1 0.00012 1.3E-09   55.1  10.8  157   12-198    19-200 (219)
+ 19 4MCK_A Chitinase; HYDROLASE; 1  97.9 0.00092 9.8E-09   48.9  12.0  154   12-199    31-190 (201)
+ 20 PF20824.2 ; Cmr2_hel_dom2 ; CR  43.5      65  0.0007   25.5   3.3   32    5-40      8-39  (88)
+ 21 1H99_A TRANSCRIPTION ANTITERMI  36.0 2.3E+02  0.0025   23.0   5.4   89  112-200   131-224 (224)
+ 22 PF00159.23 ; Hormone_3 ; Pancr  29.9   2E+02  0.0021   18.8   3.4   24    1-24      5-28  (35)
+ 23 1K8V_A NEUROPEPTIDE F; neurope  29.1 1.5E+02  0.0016   20.6   2.9   18    7-24     15-32  (40)
+ 24 6MQU_J PL5, designed TM pentam  27.6      43 0.00046   22.4   0.1    5   97-101    27-31  (33)
+ 25 8BBU_B Lysozyme; lysozyme, mur  25.2 6.3E+02  0.0067   20.8   6.7   86  101-200    33-118 (124)
+ 26 PF14300.11 ; DUF4375 ; Domain   23.5 2.5E+02  0.0026   21.5   3.5   56  134-195    12-68  (121)
+
+No 1
+>3W3E_A Cotyledoneous yieldin-like protein; alpha helical protein, Hydrolase, Family 19 glycosidase, Regulatory protein of the cell wall yield threshold, cotyledon; 1.5A {Vigna unguiculata} SCOP: d.2.1.1
+Probab=99.25  E-value=4.4e-10  Score=86.79  Aligned_cols=107  Identities=18%  Similarity=0.228  Sum_probs=75.7  Template_Neff=12.700
+
+Q ss_pred             CHHHHHHHHHHHHHHhhchhcccccCccccCCccccccccCCCCCChHHHHHHHHcCCCCCCCCccccccceEEeEehhh
+Q FD01845358_005   31 NEKFISYMLATIRIESYAYRQKLFFKPISEDISYDKAEVDYGSGPTASNRQRAILNHNTNIGDGYKYRGRGLVQLTWKIS  110 (200)
+Q Consensus        31 n~~~iaymLAt~r~Esy~~~~~~~Fs~~~E~~sY~~a~~d~~~~~t~~~~~~a~~ngNt~~GDGykYRGRGlVqLTwK~N  110 (200)
+                      +..+++||||++.+|+..+....      |...|... ........   ......+++...+||++|+|||++|+||+.+
+T Consensus        54 ~~~~~a~~l~~~~~e~~~~~~~~------~~~~~~~~-~~~~~~~~---~~~~~~~~~~~~~~~~~~~g~g~~~~~~~~~  123 (242)
+T 3W3E_A           54 RKREVAAFLAQTSHETTGGAATS------PDGPYAWG-YCFVTERD---KSNRYCDGSGPCSAGKSYYGRGPIQLTHNYN  123 (242)
+T ss_dssp             HHHHHHHHHHHHHHHTCCCCTTS------TTCGGGCT-TCCSBCSC---CSCCCCCSSSCCCTTCCCCCBTTTTBCSHHH
+T ss_pred             CHHHHHHHHHHHhhhccCCCCCC------CCCCCccc-ceeEeeeC---CCCCCCCCCCCCCCCcccccCCccccccchh
+Confidence            56678999999999998643322      21111110 00000000   0011234666788999999999999999999
+
+
+Q ss_pred             HhHHHHHHCCCcccCHHHHh-CHHHHHHHHHHHHhhCC
+Q FD01845358_005  111 YENFKSITGIDIVASPDLCL-EMSTAVSIMMKGMKDGG  147 (200)
+Q Consensus       111 Y~kf~~~~g~DfV~nPDla~-e~~~Av~imi~gm~~g~  147 (200)
+                      |..+....+.|++.+|++.. +...++...+|.|....
+T Consensus       124 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  161 (242)
+T 3W3E_A          124 YNAAGRALGVDLINNPDLVARDAVVSFKTALWFWMTPQ  161 (242)
+T ss_dssp             HHHHHHHHTSCTTTCTTHHHHCHHHHHHHHHHHHHCCB
+T ss_pred             HHHHHHHhCCCcccCHHHHhcChHHHHHHHHHHHhCCC
+Confidence            99999999999999999885 88889999999987543
+
+
+No 2
+>2DKV_A chitinase; class I chitinase, whole structure, Oryza sativa L. japonica, HYDROLASE; HET: MPD, MES; 2.0A {Oryza sativa Japonica Group}
+Probab=99.21  E-value=2.3e-10  Score=93.40  Aligned_cols=105  Identities=19%  Similarity=0.252  Sum_probs=68.0  Template_Neff=12.100
+
+Q ss_pred             CCCCCccccccceEEeEehhhHhHHHHHHCCCcccCHHHHh-CHHHHHHHHHHHHhhCCCcCCCcHHHHhc---------
+Q FD01845358_005   90 NIGDGYKYRGRGLVQLTWKISYENFKSITGIDIVASPDLCL-EMSTAVSIMMKGMKDGGFRTGYSLDTYLG---------  159 (200)
+Q Consensus        90 ~~GDGykYRGRGlVqLTwK~NY~kf~~~~g~DfV~nPDla~-e~~~Av~imi~gm~~g~f~tg~~L~~yi~---------  159 (200)
+                      ...+++.|+|+++++++|+.+|..+....+.++..+|+... ....++....|+|..... ....-...+.         
+T Consensus       160 ~~~~g~~~~g~g~~~~~~~~~y~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~  238 (309)
+T 2DKV_A          160 PCAPGRKYYGRGPIQLSFNFNYGPAGRAIGVDLLSNPDLVATDATVSFKTALWFWMTPQG-NKPSSHDVITGRWAPSPAD  238 (309)
+T ss_dssp             CCCTTCCCCCBTTTTBCSHHHHHHHHHHHTSCTTTCTTHHHHCHHHHHHHHHHHHHCCBT-TBCCHHHHHTTCCCCCHHH
+T ss_pred             CCCCCCeEEccCccceeeecCchHhHHHhCCCcccCHHHHhcChhHHHhhhhhhhcCCCC-CCCCchhhccCCCCCCHHH
+Confidence            34578899999999999999999888888888888888776 667777888888865443 2111112211         
+
+
+Q ss_pred             ---cCCCchhhchhHHcCCC---CCCccchHHHHHHHHHHHHHHh
+Q FD01845358_005  160 ---EGKHDYFNARLIINGYR---DGIPDKANEFKDYAELFEVIIN  198 (200)
+Q Consensus       160 ---~~~~dy~~ar~iING~~---~~~~D~~~~ia~ya~~Fe~il~  198 (200)
+                         .....+.....+|||..   .+.| ..  +.++...|+.+.+
+T Consensus       239 ~~~~~~~~~~~~~~~~~~~~~~~~~~~-~~--~~~r~~~~~~~~~  280 (309)
+T 2DKV_A          239 AAAGRAPGYGVITNIVNGGLECGHGPD-DR--VANRIGFYQRYCG  280 (309)
+T ss_dssp             HHTTCCSSHHHHHHHHHHHHHSSSSCC-HH--HHHHHHHHHHHHH
+T ss_pred             HHcccCCCcHHHHHhhcccccCCCCCC-HH--HHHHHHHHHHHHH
+Confidence               12234555677888872   1111 33  6666666665543
+
+
+No 3
+>5H7T_A Class IV chitinase; Cryptomeria japonica, GH19 Chitinase, CJP-4, Allergen, HYDROLASE; 1.19A {Cryptomeria japonica}
+Probab=99.20  E-value=7.3e-10  Score=86.24  Aligned_cols=54  Identities=22%  Similarity=0.372  Sum_probs=38.4  Template_Neff=11.900
+
+Q ss_pred             CCCccccccceEEeEehhhHhHHHHHHCCCcccCHHHHh-CHHHHHHHHHHHHhh
+Q FD01845358_005   92 GDGYKYRGRGLVQLTWKISYENFKSITGIDIVASPDLCL-EMSTAVSIMMKGMKD  145 (200)
+Q Consensus        92 GDGykYRGRGlVqLTwK~NY~kf~~~~g~DfV~nPDla~-e~~~Av~imi~gm~~  145 (200)
+                      .+++.+.+++..++++..++..+......++...+.... .....+....++|..
+T Consensus       100 ~~~~~~~g~g~~~~~~~~~y~~~~~~~~~~~~~~p~~~~~~~~~~~~~~~~~~~~  154 (212)
+T 5H7T_A          100 ASGKTYHGRGPLQLSWNYNYGAAGSYIQFDGLNNPEIVGTDSTISFKTAVWFWMV  154 (212)
+T ss_dssp             CTTCCCCCBTTTTBCSHHHHHHHHHHHTSCTTTCGGGGGTCHHHHHHHHHHHHHT
+T ss_pred             CCCcccccCCcccccchHHHHHHHHHhCCCCCCCHHHHhcCHHHHHHHHHHHHhh
+Confidence            456678888899988888887776666666666666654 555666777777753
+
+
+No 4
+>8P8E_AAA Glycoside hydrolase family protein; endolysin, phage lysozyme, muramidase, antimicrobial, HYDROLASE; HET: EPE; 1.391A {Bacteriophage sp.}
+Probab=99.09  E-value=1.6e-08  Score=71.30  Aligned_cols=171  Identities=20%  Similarity=0.203  Sum_probs=0.0  Template_Neff=14.700
+
+Q ss_pred             cCHHHHHHHHHHHHHHHHhhcccCCHHHHHHHHHHHHHHhhchhcccccCccccCCccccccccCCCCC-----------
+Q FD01845358_005    7 DSEESLRTLLIEMKKQYYNYFDEFNEKFISYMLATIRIESYAYRQKLFFKPISEDISYDKAEVDYGSGP-----------   75 (200)
+Q Consensus         7 ~S~~nL~~ll~~in~~y~~~~~~~n~~~iaymLAt~r~Esy~~~~~~~Fs~~~E~~sY~~a~~d~~~~~-----------   75 (200)
+                      .+...+..++..++.....+. +......+++++++.+|+..+....      +...|...........           
+T Consensus        14 ~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~------~~~~~~~~~~~~~~~~~~~~~~~~~~~   86 (220)
+T 8P8E_AAA         14 CTTDRAIKWLDDVQAAMDKFH-IESPRAIAAYLANIGVESGGLVSLV------ENLNYSAQGLANTWPRRYAVDPRVRPY   86 (220)
+T ss_pred             CCHHHHHHHHHHHHHHHHHcC-CCCHHHHHHHHHHHHHHcCCccccc------cccCCCHHHHHHHCccccCCCccccCC
+
+
+Q ss_pred             ----------------ChHHHHHHHHcCCCCCCCCccccccceEEeEehhhHhHHHHHHCCCcccCHHHHhCHHHHHHHH
+Q FD01845358_005   76 ----------------TASNRQRAILNHNTNIGDGYKYRGRGLVQLTWKISYENFKSITGIDIVASPDLCLEMSTAVSIM  139 (200)
+Q Consensus        76 ----------------t~~~~~~a~~ngNt~~GDGykYRGRGlVqLTwK~NY~kf~~~~g~DfV~nPDla~e~~~Av~im  139 (200)
+                                      ....+.....+++...+|+++|+|+|+++++|+.+|..+....+.++..+|+.+.+...++...
+T Consensus        87 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  166 (220)
+T 8P8E_AAA         87 VPNALANRLARNPVAIANNVYADRMGNGCEQDGDGWKYRGRGLIQLTGKSNYSLFAEDSGMDVLEKPELLETPAGASMSS  166 (220)
+T ss_pred             CchHHHHHHhhChHHHHHHhccccCCCCCCCCCCCccccccceeecccHHHHHHHHHHhCCChhhCHHHhcCHHHHHHHH
+
+
+Q ss_pred             HHHHhhCCCcCCCcHHHHhccCCCchhhchhHHcCCCCCCcc----chHHHHHHHHHHHHHHhh
+Q FD01845358_005  140 MKGMKDGGFRTGYSLDTYLGEGKHDYFNARLIINGYRDGIPD----KANEFKDYAELFEVIINE  199 (200)
+Q Consensus       140 i~gm~~g~f~tg~~L~~yi~~~~~dy~~ar~iING~~~~~~D----~~~~ia~ya~~Fe~il~~  199 (200)
+                      .+.|....      +....+  ..++......+|+.     .    ..  +..+...++.+.+.
+T Consensus       167 ~~~~~~~~------~~~~~~--~~~~~~~~~~~~~~-----~~~~~~~--~~~~~~~~~~~~~~  215 (220)
+T 8P8E_AAA        167 AWFFWRNR------CIPMAE--SNNFSMVVKTINGA-----APNDANH--GQLRINRYMKTIAA  215 (220)
+T ss_pred             HHHHHHCC------cHHHhh--cCCHHHHHHHHhCC-----CCCcccc--HHHHHHHHHHHHHH
+
+
+No 5
+>6LNR_A Class-1 chitinase; Chitinase, Hevein, Hydrolase; HET: NAG; 1.66A {Simarouba glauca}
+Probab=99.07  E-value=1.1e-09  Score=89.74  Aligned_cols=170  Identities=16%  Similarity=0.061  Sum_probs=0.0  Template_Neff=11.800
+
+Q ss_pred             CCccccCHHHHHHHHHHHHHHHHhhcccCCHHHHHHHHHHHHHHhhchhcccccCccccCCccccccccCCCCCChHH-H
+Q FD01845358_005    2 PALTQDSEESLRTLLIEMKKQYYNYFDEFNEKFISYMLATIRIESYAYRQKLFFKPISEDISYDKAEVDYGSGPTASN-R   80 (200)
+Q Consensus         2 ~~l~~~S~~nL~~ll~~in~~y~~~~~~~n~~~iaymLAt~r~Esy~~~~~~~Fs~~~E~~sY~~a~~d~~~~~t~~~-~   80 (200)
+                      +.........+...+..+..+-.....+.+...++++||++.+|+..+....              .+..+....... .
+T Consensus        79 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~a~~la~~~~e~~~~~~~~--------------~~~~~~~~~~~~~~  144 (292)
+T 6LNR_A           79 PARCFYTYNDFIQAAKAFPAFGDTGNDVIRKREIAAFFAQTSHETTGGSPGG--------------PYQKGYCFKEEVGP  144 (292)
+T ss_pred             CCcccccHHHHHHHHHhChhhccCCcchhcHHHHHHHHHHhcccccCCCCCC--------------ccccceeeccccCC
+
+
+Q ss_pred             HHHHHcCCCCCCCCccccccceEEeEehhhHhHHHHHHCCCcccCHHHHh-CHHHHHHHHHHHHhhCC----------Cc
+Q FD01845358_005   81 QRAILNHNTNIGDGYKYRGRGLVQLTWKISYENFKSITGIDIVASPDLCL-EMSTAVSIMMKGMKDGG----------FR  149 (200)
+Q Consensus        81 ~~a~~ngNt~~GDGykYRGRGlVqLTwK~NY~kf~~~~g~DfV~nPDla~-e~~~Av~imi~gm~~g~----------f~  149 (200)
+                      ......++...+||++|+|||.+||||+.+|..+....++|++.+|++.. +...++...+|+|....          . 
+T Consensus       145 ~~~~~~~~~~~~~g~~~~g~g~~~~~~~~~y~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-  223 (292)
+T 6LNR_A          145 GGGYCGGGYPCPDPGQYYGRGPIQLTWNYNYIFCGDDINQDLDNHPNLNSVNGVLSFKSAIWFWMTPQSPKPSCHDVMT-  223 (292)
+T ss_pred             CCCCCCCCCCCCCCCceecCcceeecccccHHhhhhhcCCCcccChhHHhcCchHHHHHhhhHHhCCCCCCCChhhhhc-
+
+
+Q ss_pred             CCCcHHHHhccCC-------CchhhchhHHcCCCCCCcc-------chHHHHHHHHHHHHHHh
+Q FD01845358_005  150 TGYSLDTYLGEGK-------HDYFNARLIINGYRDGIPD-------KANEFKDYAELFEVIIN  198 (200)
+Q Consensus       150 tg~~L~~yi~~~~-------~dy~~ar~iING~~~~~~D-------~~~~ia~ya~~Fe~il~  198 (200)
+                           ..+.....       ..+.....+|||.     .       ..  ++.+...++.+.+
+T Consensus       224 -----~~~~~~~~~~~~~~~~~~~~~~~~~n~~-----~~~~~~~~~~--~~~r~~~~~~~~~  274 (292)
+T 6LNR_A          224 -----NEWAPGGADGNAGRDPGFGLTTNIINGG-----LECGFGTDSR--VQDRIGYFKHFCS  274 (292)
+T ss_pred             -----CCcCCCCcCccccCCCCcHHHHHHHhcc-----ccCCCCCChH--HHHHHHHHHHHHH
+
+
+No 6
+>9MS7_B PWe2 endolysin; endolysin, carbohydrate-metabolizing, soil phage enzyme, HYDROLASE; HET: EDO; 1.5A {metagenome}
+Probab=98.96  E-value=2.6e-07  Score=62.33  Aligned_cols=165  Identities=22%  Similarity=0.219  Sum_probs=0.0  Template_Neff=15.000
+
+Q ss_pred             ccccCHHHHHHHHHHHHHHHHhhcccCCHHHHHHHHHHHHHHhhchhcccccCccccCCccccccccCCCCCChHH-HHH
+Q FD01845358_005    4 LTQDSEESLRTLLIEMKKQYYNYFDEFNEKFISYMLATIRIESYAYRQKLFFKPISEDISYDKAEVDYGSGPTASN-RQR   82 (200)
+Q Consensus         4 l~~~S~~nL~~ll~~in~~y~~~~~~~n~~~iaymLAt~r~Esy~~~~~~~Fs~~~E~~sY~~a~~d~~~~~t~~~-~~~   82 (200)
+                      ........+..++..++.....+. +......+++++++.+|+..+....                .......... ...
+T Consensus        12 ~~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~----------------~~~~~~~~~~~~~~   74 (182)
+T 9MS7_B           12 MTNARKTGIDVFAPLLRKYMEQYE-INTPIRISMFLSQIAHESGELRYTR----------------EIWGPTDAQRRYEK   74 (182)
+T ss_dssp             STTCCHHHHHHHHHHHHHHHHHTT-CCSHHHHHHHHHHHHHHTTTTTCSB----------------CCCCCCHHHHGGGT
+T ss_pred             hcccchhcHHHHHHHHHHHHHHcC-CCCHHHHHHHHHHHHHHhccCccce----------------eccCCcHHHHHhhc
+
+
+Q ss_pred             HHHcCCCCCCCCccccccceEEeEehhhHhHHHHHHCC---CcccCHHHHhCHHHHHHHHHHHHhhCCCcCCCcHHHHhc
+Q FD01845358_005   83 AILNHNTNIGDGYKYRGRGLVQLTWKISYENFKSITGI---DIVASPDLCLEMSTAVSIMMKGMKDGGFRTGYSLDTYLG  159 (200)
+Q Consensus        83 a~~ngNt~~GDGykYRGRGlVqLTwK~NY~kf~~~~g~---DfV~nPDla~e~~~Av~imi~gm~~g~f~tg~~L~~yi~  159 (200)
+                      ...+++...+++++|+|+|+++++|+.+|..+....+.   ++..+|+...+...++....+.|....      +.....
+T Consensus        75 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~------~~~~~~  148 (182)
+T 9MS7_B           75 RIDLGNLHVGDGKKFMGRGLIQITGRANYAACSLALTGSPDTFLDNPELLSTPKYATESACWFWYDRG------LNELAD  148 (182)
+T ss_dssp             CTTTCCCSTTHHHHTCCBTTTTBCSHHHHHHHHHHHHSSTHHHHHCGGGGGSHHHHHHHHHHHHHHTT------HHHHHH
+T ss_pred             chhcCCCCCCCcccccCCCCccccCHHHHHHHHHHhcCCCcccccCHHHHcCchHHHHHHHHHHHhcC------HHHHhc
+
+
+Q ss_pred             cCCCchhhchhHHcCCCCCCccchHHHHHHHHHHHHHHhhC
+Q FD01845358_005  160 EGKHDYFNARLIINGYRDGIPDKANEFKDYAELFEVIINET  200 (200)
+Q Consensus       160 ~~~~dy~~ar~iING~~~~~~D~~~~ia~ya~~Fe~il~~~  200 (200)
+                        ..++......+|+.     ...  +..+...++.+.+..
+T Consensus       149 --~~~~~~~~~~~~~~-----~~~--~~~~~~~~~~~~~~~  180 (182)
+T 9MS7_B          149 --SEDFQRITKRINGG-----LNG--LESRIKFFERAKKNL  180 (182)
+T ss_dssp             --TTCHHHHHHHHHSS-----CTT--HHHHHHHHHHHHHHH
+T ss_pred             --cccHHHHHHHHhcC-----CCC--HHHHHHHHHHHHHHh
+
+
+No 7
+>3CQL_B Endochitinase; GLYCOSYL HYDROLASE, CHITINASE, N-ACETYL-D-GLUCOSAMINE, Carbohydrate metabolism, Chitin degradation, Chitin-binding, Glycosidase, Hydrolase, Polysaccharide degradation, Vacuole; HET: NAG, SO4, NDG; 1.5A {Carica papaya} SCOP: d.2.1.1
+Probab=98.93  E-value=5e-08  Score=75.55  Aligned_cols=171  Identities=16%  Similarity=0.139  Sum_probs=0.0  Template_Neff=12.700
+
+Q ss_pred             HHHHHHHHHHHHHhhcccC-----CHHHHHHHHHHHHHHhhchhcccccCccccCCccccccccCCCCCChHHHHHHHHc
+Q FD01845358_005   12 LRTLLIEMKKQYYNYFDEF-----NEKFISYMLATIRIESYAYRQKLFFKPISEDISYDKAEVDYGSGPTASNRQRAILN   86 (200)
+Q Consensus        12 L~~ll~~in~~y~~~~~~~-----n~~~iaymLAt~r~Esy~~~~~~~Fs~~~E~~sY~~a~~d~~~~~t~~~~~~a~~n   86 (200)
+                      ....+..+...+..+. +.     +...++|+||++.+|+..     +++............+.............   .
+T Consensus        30 ~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~e~~~-----~~~~~~~~~~~~~~~~~~~~~~~~~~~~~---~  100 (243)
+T 3CQL_B           30 TYDAFIAAAKSFPSFG-TTGSTDVRKREIAAFLGQTSHETTG-----GWPSAPDGPYAWGYCFLKERNPSSNYCAP---S  100 (243)
+T ss_dssp             CHHHHHHHHTTSTTTT-CSSCHHHHHHHHHHHHHHHHHHTCC-----CCTTCTTCGGGCTTCCSBCSSCCCCCCCC---C
+T ss_pred             CHHHHHHHHHhChhcc-CCCChHhcHHHHHHHHHHhhhccCC-----CCCCCCCCCCccceeeecccCCCCCCcCC---C
+
+
+Q ss_pred             CCCCCCCCccccccceEEeEehhhHhHHHHHHCCCcccCHHHH-hCHHHHHHHHHHHHhhCCCcCCCcHHHHhc------
+Q FD01845358_005   87 HNTNIGDGYKYRGRGLVQLTWKISYENFKSITGIDIVASPDLC-LEMSTAVSIMMKGMKDGGFRTGYSLDTYLG------  159 (200)
+Q Consensus        87 gNt~~GDGykYRGRGlVqLTwK~NY~kf~~~~g~DfV~nPDla-~e~~~Av~imi~gm~~g~f~tg~~L~~yi~------  159 (200)
+                      ++...+|++.|+|||++|+||+.+|..+....+.+++.+|+.. .+...++....|.|.............+..      
+T Consensus       101 ~~~~~~~~~~~~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  180 (243)
+T 3CQL_B          101 PRYPCAPGKSYYGRGPIQLSWNYNYGPCGEALRVNLLGNPDLVATDRVISFKTALWFWMTPQAPKPSCHDVITGRWQPSA  180 (243)
+T ss_dssp             SSSCCCTTCCCCCBTTTTBCSHHHHHHHHHHHTSCTTTCGGGGGTCHHHHHHHHHHHHHCCBTTBCCHHHHHTTCCCCCH
+T ss_pred             CCCCCCCCcceecCCceeeeeeecchhhhHhhCCCcccCHHHHhcCchHHHHHhhHHHcCCCCCCCChhHhhcCCCCCCh
+
+
+Q ss_pred             -----cCCCchhhchhHHcCCCCCCcc-------chHHHHHHHHHHHHHHh
+Q FD01845358_005  160 -----EGKHDYFNARLIINGYRDGIPD-------KANEFKDYAELFEVIIN  198 (200)
+Q Consensus       160 -----~~~~dy~~ar~iING~~~~~~D-------~~~~ia~ya~~Fe~il~  198 (200)
+                           .....+.....++|+.     .       ..  ++++...+....+
+T Consensus       181 ~~~~~~~~~~~~~~~~~~~~~-----~~~~~~~~~~--~~~~~~~~~~~~~  224 (243)
+T 3CQL_B          181 ADTAAGRLPGYGVITNIINGG-----LECGKGPNPQ--VADRIGFFRRYCG  224 (243)
+T ss_dssp             HHHHHTCCSSHHHHHHHHHHH-----HHSSSSCCHH--HHHHHHHHHHHHH
+T ss_pred             HHHhccCCCChHHHHHHHhcc-----cccCCCCCHH--HHHHHHHHHHHHH
+
+
+No 8
+>9MS6_A PWe1 endolysin; endolysin, carbohydrate-metabolizing, soil phage enzyme, HYDROLASE; 2.15A {metagenome}
+Probab=98.87  E-value=2.3e-07  Score=63.81  Aligned_cols=169  Identities=18%  Similarity=0.189  Sum_probs=0.0  Template_Neff=15.100
+
+Q ss_pred             HHHHHHHHHHHHHhhcccCCHHHHHHHHHHHHHHhhchhcccccCccccCCccccccccCCCCCChH-------------
+Q FD01845358_005   12 LRTLLIEMKKQYYNYFDEFNEKFISYMLATIRIESYAYRQKLFFKPISEDISYDKAEVDYGSGPTAS-------------   78 (200)
+Q Consensus        12 L~~ll~~in~~y~~~~~~~n~~~iaymLAt~r~Esy~~~~~~~Fs~~~E~~sY~~a~~d~~~~~t~~-------------   78 (200)
+                      ....+..++..+..+. +......+++++++.+|+..+....      +...|..............             
+T Consensus        16 ~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~------~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   88 (210)
+T 9MS6_A           16 PEGWGEQLTPAMEKFG-IRDREDIAAFIAQLMVESGELNRVV------ENLSYSTKRLREVWPKRFPDDRTAMRYANNPQ   88 (210)
+T ss_dssp             HHHHHHHHHHHHHHTT-CCSHHHHHHHHHHHHHHTTTTTCCB------CCCCCCHHHHHHHSTTTCCSHHHHHHHTTCHH
+T ss_pred             hHHHHHHHHHHHHHhC-CCCHHHHHHHHHHHHHHcCCcccCc------ccCCCCHHHHHHHCcccCCCHHHHHHHhhCHH
+
+
+Q ss_pred             -----HHHHHHHcCCCCCCCCccccccceEEeEehhhHhHHHHHHCCCcccCHHHHhCHHHHHHHHHHHHhhCCCcCCCc
+Q FD01845358_005   79 -----NRQRAILNHNTNIGDGYKYRGRGLVQLTWKISYENFKSITGIDIVASPDLCLEMSTAVSIMMKGMKDGGFRTGYS  153 (200)
+Q Consensus        79 -----~~~~a~~ngNt~~GDGykYRGRGlVqLTwK~NY~kf~~~~g~DfV~nPDla~e~~~Av~imi~gm~~g~f~tg~~  153 (200)
+                           .......+++...+++++|+|||+++++|+.+|..+....+.++..+|+...+...++....++|....      
+T Consensus        89 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~------  162 (210)
+T 9MS6_A           89 ALANYVYANRIGNGNEASGDGWRFRGRGPIQTTGRANYLQLERALGIPVTRKPELLETQALGALAAAKFWYDNK------  162 (210)
+T ss_dssp             HHHHHHTTTSTTCCCTTTTHHHHTCCBTTTTBCSHHHHHHHHHHHTSCTTTCGGGGGSHHHHHHHHHHHHHHHH------
+T ss_pred             HHHHHHhcCCcCCCCCCCCCchhccccCcccccCHHHHHHHHHHhCCCCCCCHHHHhCHHHHHHHHHHHHHHCC------
+
+
+Q ss_pred             HHHHhccCC-----CchhhchhHHcCCCCCCccchHHHHHHHHHHHHHHhhC
+Q FD01845358_005  154 LDTYLGEGK-----HDYFNARLIINGYRDGIPDKANEFKDYAELFEVIINET  200 (200)
+Q Consensus       154 L~~yi~~~~-----~dy~~ar~iING~~~~~~D~~~~ia~ya~~Fe~il~~~  200 (200)
+                      +........     ..+.....++|+.     ...  +.++...++.+.+..
+T Consensus       163 ~~~~~~~~~~~~~~~~~~~~~~~~~~~-----~~~--~~~~~~~~~~~~~~~  207 (210)
+T 9MS6_A          163 LTSLALDIAGDDQEADWVTITRRINGG-----TEG--LARRRQYRDKARKHL  207 (210)
+T ss_dssp             HHHHHHHHTC------------------------C--HHHHHHHHHHHHHCC
+T ss_pred             cHHHHHhhcCCCChhhHHHHHHHHcCC-----CCC--HHHHHHHHHHHHHHh
+
+
+No 9
+>2Z37_C Chitinase; chitinase, endochitinase, family 19, conformational changes, HYDROLASE; 1.53A {Brassica juncea} SCOP: d.2.1.1
+Probab=98.87  E-value=1.2e-07  Score=73.54  Aligned_cols=172  Identities=15%  Similarity=0.092  Sum_probs=0.0  Template_Neff=12.700
+
+Q ss_pred             HHHHHHHHHHHHHhhcccC-----CHHHHHHHHHHHHHHhhchhcccccCccccCCccccccccCCCCCChHHHHHHHHc
+Q FD01845358_005   12 LRTLLIEMKKQYYNYFDEF-----NEKFISYMLATIRIESYAYRQKLFFKPISEDISYDKAEVDYGSGPTASNRQRAILN   86 (200)
+Q Consensus        12 L~~ll~~in~~y~~~~~~~-----n~~~iaymLAt~r~Esy~~~~~~~Fs~~~E~~sY~~a~~d~~~~~t~~~~~~a~~n   86 (200)
+                      ....+..++..+..+. +.     +...++|+||++.+|+..+.....-........+............       ..+
+T Consensus        30 ~~~~~~~~~~~~~~~~-~~~~~~~~~~~~a~~~a~~~~e~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-------~~~  101 (244)
+T 2Z37_C           30 TYDAFITAAKSFPSFG-NTGDLAMRKKEIAAFFGQTSHETTGGWSGAPDGANTWGYCYKEEIDKSDPHCD-------SNN  101 (244)
+T ss_dssp             CHHHHHHHHTTSTTTT-CSSSHHHHHHHHHHHHHHHHHHTCCCCTTCTTCGGGCTTCCSBCSCCCCCCCC-------TTC
+T ss_pred             CHHHHHHHHHhChhcc-cCCCHHHhHHHHHHHHHHhhcccCCCCCCCCCCcccccceeeeeccCCCCcCC-------CCC
+
+
+Q ss_pred             CCCCCCCCccccccceEEeEehhhHhHHHHHHCCCcccCHHHHh-CHHHHHHHHHHHHhhCCCcCCCcHHHHhc------
+Q FD01845358_005   87 HNTNIGDGYKYRGRGLVQLTWKISYENFKSITGIDIVASPDLCL-EMSTAVSIMMKGMKDGGFRTGYSLDTYLG------  159 (200)
+Q Consensus        87 gNt~~GDGykYRGRGlVqLTwK~NY~kf~~~~g~DfV~nPDla~-e~~~Av~imi~gm~~g~f~tg~~L~~yi~------  159 (200)
+                      ++...++++.|+|+|++++||+.+|..+....+.+++.+|+... +...++....+.|.............+..      
+T Consensus       102 ~~~~~~~~~~~~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  181 (244)
+T 2Z37_C          102 LEWPCAPGKFYYGRGPMMLSWNYNYGPCGRDLGLELLKNPDVASSDPVIAFKTAIWFWMTPQAPKPSCHDVITDQWEPSA  181 (244)
+T ss_dssp             SSSCCCTTCCCCCBTTTTBCSHHHHHHHHHHHTCCTTTCTTHHHHCHHHHHHHHHHHHHCCBTTBCCHHHHHTTCCCCCH
+T ss_pred             CCCCCCCCceeecCCcccccccCcchHhHHhhCCchhhCHHHHhhCHHHHHHHhhHHHcCCCCCCCChhHhhcCCCCCCh
+
+
+Q ss_pred             -----cCCCchhhchhHHcCCCCCCcc-------chHHHHHHHHHHHHHHh
+Q FD01845358_005  160 -----EGKHDYFNARLIINGYRDGIPD-------KANEFKDYAELFEVIIN  198 (200)
+Q Consensus       160 -----~~~~dy~~ar~iING~~~~~~D-------~~~~ia~ya~~Fe~il~  198 (200)
+                           .....+.....++||.     .       ..  ++.+...+..++.
+T Consensus       182 ~~~~~~~~~~~~~~~~~~~~~-----~~~~~~~~~~--~~~r~~~~~~~~~  225 (244)
+T 2Z37_C          182 ADISAGRLPGYGVITNIINGG-----LECAGRDVAK--VQDRISFYTRYCG  225 (244)
+T ss_dssp             HHHHTTCCSSHHHHHHHHHHH-----HHTTTTTHHH--HHHHHHHHHHHHH
+T ss_pred             HHHhcCCCCCchHHHHHhccc-----cccCCCChHH--HHHHHHHHHHHHH
+
+
+No 10
+>8XCL_A EF-hand domain-containing protein; T6SS, interspecies interaction, bifunctional effector, peptidoglycan hydrolysis, HYDROLASE; 2.27A {Aeromonas dhakensis}
+Probab=98.86  E-value=1.3e-06  Score=62.17  Aligned_cols=161  Identities=24%  Similarity=0.238  Sum_probs=0.0  Template_Neff=14.900
+
+Q ss_pred             ccccCHHHHHHHHHHHHHHHHhhcccCCHHHHHHHHHHHHHHhhchhcccccCccccCCccccccccCCCCCChHHHHHH
+Q FD01845358_005    4 LTQDSEESLRTLLIEMKKQYYNYFDEFNEKFISYMLATIRIESYAYRQKLFFKPISEDISYDKAEVDYGSGPTASNRQRA   83 (200)
+Q Consensus         4 l~~~S~~nL~~ll~~in~~y~~~~~~~n~~~iaymLAt~r~Esy~~~~~~~Fs~~~E~~sY~~a~~d~~~~~t~~~~~~a   83 (200)
+                      ....+......++..++.....+. +......+++++++.+|+.......                  ....+.......
+T Consensus        14 ~~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~------------------~~~~~~~~~~~~   74 (244)
+T 8XCL_A           14 NLNQDKSSCEAILPFLNEYAKTYG-MKEERAMAHFLSQVGHESNFKPVSE------------------NLRYSPKGMRKI   74 (244)
+T ss_dssp             TTTCCHHHHHHHHHHHHHHHHHHT-CCCHHHHHHHHHHHHHHHTTSCEEC------------------CCCCCHHHHCCC
+T ss_pred             cCCCCHHHHHHHHHHHHHHHHHhC-CCCHHHHHHHHHHHHHHcCCccccc------------------cceeChHHHHHH
+
+
+Q ss_pred             HH--------------------------------------------------cCCCCCCCCccccccceEEeEehhhHhH
+Q FD01845358_005   84 IL--------------------------------------------------NHNTNIGDGYKYRGRGLVQLTWKISYEN  113 (200)
+Q Consensus        84 ~~--------------------------------------------------ngNt~~GDGykYRGRGlVqLTwK~NY~k  113 (200)
+                      ..                                                  +++...+|+++|+|+|+++++|+.+|..
+T Consensus        75 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  154 (244)
+T 8XCL_A           75 FGCKGGSKNYDPILDDAKEGRLRPKLWTHESDYAFNPVALGNYVYANRPGSKNGDESSGDGYKYRGRGLIQITHKDAYIK  154 (244)
+T ss_dssp             CCBTTCGGGEETTTTEESSCBSSTHHHHTHHHHTTCHHHHHHHHTTTCTTSCCCCGGGCHHHHTCCEETTEECSHHHHHH
+T ss_pred             HcCCCCcccCcccchhhhhcccchhhcCCccccccChHHHHHHHhcCCCCCCCCCCCCCCchhcCCCCcccccCHHHHHH
+
+
+Q ss_pred             HHHHHC-------CCcccCHHHHhCHHHHHHHHHHHHhhC----CCcCCCcHHHHhccCCCchhhchhHHcCCCCCCccc
+Q FD01845358_005  114 FKSITG-------IDIVASPDLCLEMSTAVSIMMKGMKDG----GFRTGYSLDTYLGEGKHDYFNARLIINGYRDGIPDK  182 (200)
+Q Consensus       114 f~~~~g-------~DfV~nPDla~e~~~Av~imi~gm~~g----~f~tg~~L~~yi~~~~~dy~~ar~iING~~~~~~D~  182 (200)
+                      +....+       .++..+|+.+.....++....++|...    .      +....+  ..++.....++|+.     ..
+T Consensus       155 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~------~~~~~~--~~~~~~~~~~~~~~-----~~  221 (244)
+T 8XCL_A          155 FTEAHNAANPSDQKDFLASPDDILTLRYATSSAYFFWFIYKKSFN------LHSTAC--TGTVKEVTKIVNGG-----YA  221 (244)
+T ss_dssp             HHHHHHHHCTTSCCCTTTCGGGGGSHHHHHHHHHHCCCCCTGGGT------HHHHHH--HSCHHHHHHHHHSS-----CT
+T ss_pred             HHHHHHhcCCccccccccCHHHHhCHHHHHHHHHHHHHHhccccc------hhHHhh--cCchhhHHHHhccc-----cC
+
+
+Q ss_pred             hHHHHHHHHHHHHHHh
+Q FD01845358_005  183 ANEFKDYAELFEVIIN  198 (200)
+Q Consensus       183 ~~~ia~ya~~Fe~il~  198 (200)
+                      .  +.++...++.+.+
+T Consensus       222 ~--~~~~~~~~~~~~~  235 (244)
+T 8XCL_A          222 G--YADRLKRFNAVAA  235 (244)
+T ss_dssp             T--HHHHHHHHHHHHH
+T ss_pred             C--HHHHHHHHHHHHH
+
+
+No 11
+>4OK7_C Endolysin; Helical protein, Hydrolase; HET: GOL, SO4; 1.9A {Salmonella phage SPN1S}
+Probab=98.82  E-value=5.9e-07  Score=62.69  Aligned_cols=173  Identities=20%  Similarity=0.205  Sum_probs=0.0  Template_Neff=15.000
+
+Q ss_pred             ccccCHHHHHHHHHHHHHHHHhhcccCCHHHHHHHHHHHHHHhhchhcccccCccccCCccccccccCCCC---------
+Q FD01845358_005    4 LTQDSEESLRTLLIEMKKQYYNYFDEFNEKFISYMLATIRIESYAYRQKLFFKPISEDISYDKAEVDYGSG---------   74 (200)
+Q Consensus         4 l~~~S~~nL~~ll~~in~~y~~~~~~~n~~~iaymLAt~r~Esy~~~~~~~Fs~~~E~~sY~~a~~d~~~~---------   74 (200)
+                      ...........++..++.....+. .......+++++++.+|+..+....      +...|..........         
+T Consensus        24 ~~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~------~~~~~~~~~~~~~~~~~~~~~~~~   96 (223)
+T 4OK7_C           24 ASGINEQLAARWFPHITTAMNEFG-ITKPDDQAMFIAQVGHESGGFTRLQ------ENFNYSVNGLSGFIRAGRITPDQA   96 (223)
+T ss_dssp             HHTCCHHHHHHHHHHHHHHHHHHT-CCSHHHHHHHHHHHHHHTTTTTCCB------CCCCCBTGGGHHHHHTTSSCHHHH
+T ss_pred             hhCCCHHHHHHHHHHHHHHHHHcC-CCCHHHHHHHHHHHHHHcCCCccCe------eccCCCHHHHhhhhcccCCCHHHH
+
+
+Q ss_pred             -----------------CChHHHHHHHHcCCCCCCCCccccccceEEeEehhhHhHHHHHHCCCcccCHHHHhCHHHHHH
+Q FD01845358_005   75 -----------------PTASNRQRAILNHNTNIGDGYKYRGRGLVQLTWKISYENFKSITGIDIVASPDLCLEMSTAVS  137 (200)
+Q Consensus        75 -----------------~t~~~~~~a~~ngNt~~GDGykYRGRGlVqLTwK~NY~kf~~~~g~DfV~nPDla~e~~~Av~  137 (200)
+                                       ............++...+|+++++|+|+++++|+.+|..+....+.+++.+|++..+...++.
+T Consensus        97 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  176 (223)
+T 4OK7_C           97 NALGRKTYEKSLPLERQRAIANLVYSKRMGNNGPGDGWNYRGRGLIQITGLNNYRDCGNGLKVDLVAQPELLAQDEYAAR  176 (223)
+T ss_dssp             HHHSBCTTCSSCCHHHHHHHHHHHTTTSTTCCSTTHHHHTCCBTTTTBCSHHHHHHHHHHHTCCTTTCGGGGGSHHHHHH
+T ss_pred             HHhhhhhhhhcCChHHHHHHHHHHhcccCCCCCCCCcccccCCCcccCCCHHHHHHHhchhCCChhhCHHHHcCcHHHHH
+
+
+Q ss_pred             HHHHHHhhCCCcCCCcHHHHhccCCCchhhchhHHcCCCCCCccchHHHHHHHHHHHHHHhhC
+Q FD01845358_005  138 IMMKGMKDGGFRTGYSLDTYLGEGKHDYFNARLIINGYRDGIPDKANEFKDYAELFEVIINET  200 (200)
+Q Consensus       138 imi~gm~~g~f~tg~~L~~yi~~~~~dy~~ar~iING~~~~~~D~~~~ia~ya~~Fe~il~~~  200 (200)
+                      ...+.+....      +....    .++......+|+.     ...  +..+...++.+++..
+T Consensus       177 ~~~~~~~~~~------~~~~~----~~~~~~~~~~~~~-----~~~--~~~~~~~~~~~~~~~  222 (223)
+T 4OK7_C          177 SAAWFFSSKG------CMKYT----GDLVRVTQIINGG-----QNG--IDDRRTRYAAARKVL  222 (223)
+T ss_dssp             HHHHHHHHTT------GGGGT----TCHHHHHHHHHSS-----CTT--HHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHhcC------chHHc----CCHHHHHHHHHCC-----CCC--HHHHHHHHHHHHHHh
+
+
+No 12
+>3WH1_A Chitinase A; Chitinase, Hydrolase, Carbohydrate; HET: NAG, EDO; 1.0A {Bryum coronatum} SCOP: d.2.1.0
+Probab=98.68  E-value=1.6e-06  Score=63.66  Aligned_cols=154  Identities=17%  Similarity=0.215  Sum_probs=0.0  Template_Neff=13.500
+
+Q ss_pred             HHHHHHHHHHHHhhcccC-----CHHHHHHHHHHHHHHhhchhcccccCccccCCccccccccCCCCCChHHHHHHHHcC
+Q FD01845358_005   13 RTLLIEMKKQYYNYFDEF-----NEKFISYMLATIRIESYAYRQKLFFKPISEDISYDKAEVDYGSGPTASNRQRAILNH   87 (200)
+Q Consensus        13 ~~ll~~in~~y~~~~~~~-----n~~~iaymLAt~r~Esy~~~~~~~Fs~~~E~~sY~~a~~d~~~~~t~~~~~~a~~ng   87 (200)
+                      ...+..++..+..+. ..     .....+|+++++.+|+..+....              ............      ++
+T Consensus        26 ~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--------------~~~~~~~~~~~~------~~   84 (206)
+T 3WH1_A           26 YDGLVSASNGYPEFG-TTGSLDDQKRELAAFLGNINQASGGLQFIQ--------------EQNPQSDYCDTS------ST   84 (206)
+T ss_dssp             HHHHHHHHTTCTTTT-TSSSHHHHHHHHHHHHHHHHHHHTTTTCSB--------------CSCC-CCCCCTT------CC
+T ss_pred             HHHHHHHHhcCcccc-CCCCHHHhHHHHHHHHHHHHHHhcCeeeee--------------ccCCccccCCCC------CC
+
+
+Q ss_pred             CCCCCCCccccccceEEeEehhhHhHHHHHHCCCcccCHHHHh-CHHHHHHHHHHHHhhCCCcCCCcHHHHhccCCCchh
+Q FD01845358_005   88 NTNIGDGYKYRGRGLVQLTWKISYENFKSITGIDIVASPDLCL-EMSTAVSIMMKGMKDGGFRTGYSLDTYLGEGKHDYF  166 (200)
+Q Consensus        88 Nt~~GDGykYRGRGlVqLTwK~NY~kf~~~~g~DfV~nPDla~-e~~~Av~imi~gm~~g~f~tg~~L~~yi~~~~~dy~  166 (200)
+                      +...++++.|+|+|.++++|+.+|..+....+.+++.+|+... +...++....+.|....      +..+......++.
+T Consensus        85 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~------~~~~~~~~~~~~~  158 (206)
+T 3WH1_A           85 QYPCAAGKQYYGRGPIQLSWNYNYGEAGADLGLDLLNNPDLVAQDSTVAWRTALWFWMKRD------CHGAITASPPSFS  158 (206)
+T ss_dssp             SSCCCTTCCCCCBTTTTBCSHHHHHHHHHHHTCCTTTCTTHHHHCHHHHHHHHHHHHHHTT------HHHHHHSSSCCHH
+T ss_pred             CCCCCCCcceecCCceeeeeehhHHHHHHHHCcchhhCHHHHhcCHHHHHHHHHHHHcCCc------cchhHhcCCCchH
+
+
+Q ss_pred             hchhHHcCCCCCCcc-----------chHHHHHHHHHHHHHHhhC
+Q FD01845358_005  167 NARLIINGYRDGIPD-----------KANEFKDYAELFEVIINET  200 (200)
+Q Consensus       167 ~ar~iING~~~~~~D-----------~~~~ia~ya~~Fe~il~~~  200 (200)
+                      ....++|+.     .           ..  +..+...|+.+.+..
+T Consensus       159 ~~~~~~~~~-----~~~~~~~~~~~~~~--~~~~~~~~~~~~~~~  196 (206)
+T 3WH1_A          159 GTIRIINGG-----LECNQPAGSIGNMQ--MENRVTYYTQFCQTL  196 (206)
+T ss_dssp             HHHHHHHHH-----HHSSCCTTSHHHHH--HHHHHHHHHHHHHHH
+T ss_pred             HHHHHHcCC-----ccCCCCCCcCCchh--HHHHHHHHHHHHHHh
+
+
+No 13
+>9EOI_A Putative lytic enzyme; Endolysin, peptidoglycan, GH19, CARBOHYDRATE; HET: FLC; 1.77A {Pseudomonas aeruginosa UCBPP-PA14}
+Probab=98.67  E-value=3.4e-06  Score=57.79  Aligned_cols=169  Identities=17%  Similarity=0.141  Sum_probs=0.0  Template_Neff=15.200
+
+Q ss_pred             HHHHHHHHHHHHHHHhhcccCCHHHHHHHHHHHHHHhhchhcccccCccccCCccccccccCCCCCChHH----------
+Q FD01845358_005   10 ESLRTLLIEMKKQYYNYFDEFNEKFISYMLATIRIESYAYRQKLFFKPISEDISYDKAEVDYGSGPTASN----------   79 (200)
+Q Consensus        10 ~nL~~ll~~in~~y~~~~~~~n~~~iaymLAt~r~Esy~~~~~~~Fs~~~E~~sY~~a~~d~~~~~t~~~----------   79 (200)
+                      ..+...+..++..+..+. .......+++++++.+|+..+....      +...|...............          
+T Consensus        17 ~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~------~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   89 (209)
+T 9EOI_A           17 LVAGVFVVALQRAMDERE-IDTPARCAAFLAQVGHESSQLTRLV------ENLNYSAQGLAATWPGRYLGPDGQPNALAL   89 (209)
+T ss_dssp             HHHHHHHHHHHHHHHHTT-CCSHHHHHHHHHHHHHHTTTTTCCB------CCCCCCHHHHHHHSHHHHBCTTSSBCHHHH
+T ss_pred             HHHHHHHHHHHHHHHHcC-CCCHHHHHHHHHHHHHHcccccccc------cccCCCHHHHHHhCccccCCCCCChhHHHH
+
+
+Q ss_pred             -------------HHHHHHcCCCCCCCCccccccceEEeEehhhHhHHHHHHCCCcccCHHHHhCHHHHHHHHHHHHhhC
+Q FD01845358_005   80 -------------RQRAILNHNTNIGDGYKYRGRGLVQLTWKISYENFKSITGIDIVASPDLCLEMSTAVSIMMKGMKDG  146 (200)
+Q Consensus        80 -------------~~~a~~ngNt~~GDGykYRGRGlVqLTwK~NY~kf~~~~g~DfV~nPDla~e~~~Av~imi~gm~~g  146 (200)
+                                   ......+++...+++++++|+|.++++|+.+|..+....+.+++.+|+...+...++....+.|...
+T Consensus        90 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  169 (209)
+T 9EOI_A           90 RLARNPQAIADNTYATRNGNGDEASGDGWRFRGRGLLQITGRANYRLVGEALGEPLEAEPWRLEQPVPAARSAAWWWAGH  169 (209)
+T ss_dssp             HHTTCHHHHHHHHTTTSTTCCCGGGTHHHHTCCBTTTTBCSHHHHHHHHHHHTSCTTTCGGGGGSHHHHHHHHHHHHHHT
+T ss_pred             HHHhCHHHHHHHhccCcCCCCCCCCCCccccccccccceecHHHHHHHHHHHCCCcccChhHHhChHHHHHHHHHHHHhC
+
+
+Q ss_pred             CCcCCCcHHHHhccCCCchhhchhHHcCCCCCCccchHHHHHHHHHHHHHHhhC
+Q FD01845358_005  147 GFRTGYSLDTYLGEGKHDYFNARLIINGYRDGIPDKANEFKDYAELFEVIINET  200 (200)
+Q Consensus       147 ~f~tg~~L~~yi~~~~~dy~~ar~iING~~~~~~D~~~~ia~ya~~Fe~il~~~  200 (200)
+                      .      +....+  ..++......+|+.     ...  +..+...++.+.+..
+T Consensus       170 ~------~~~~~~--~~~~~~~~~~~~~~-----~~~--~~~~~~~~~~~~~~~  208 (209)
+T 9EOI_A          170 G------LNELAD--RGEFAAITRRINGG-----LNG--QAERLALWQRARAVL  208 (209)
+T ss_dssp             T------HHHHHH--TTCHHHHHHHHHSS-----CTT--HHHHHHHHHHHHHHH
+T ss_pred             C------hHHHhc--cCcHHHHHHHHhcC-----CCC--HHHHHHHHHHHHHHh
+
+
+No 14
+>7R6S_A Putative bacteriophage protein; structural genomics, Center for Structural Genomics of Infectious Diseases, CSGID, UNKNOWN FUNCTION; HET: MSE, SO4; 1.9A {Stenotrophomonas maltophilia (strain K279a)}
+Probab=98.50  E-value=6.1e-06  Score=65.67  Aligned_cols=175  Identities=20%  Similarity=0.123  Sum_probs=0.0  Template_Neff=13.400
+
+Q ss_pred             CHHHHHHHHHHHHHHHHhhcccCCHHHHHHHHHHHHHHhhchhcccccCccccCCcccc----------------ccccC
+Q FD01845358_005    8 SEESLRTLLIEMKKQYYNYFDEFNEKFISYMLATIRIESYAYRQKLFFKPISEDISYDK----------------AEVDY   71 (200)
+Q Consensus         8 S~~nL~~ll~~in~~y~~~~~~~n~~~iaymLAt~r~Esy~~~~~~~Fs~~~E~~sY~~----------------a~~d~   71 (200)
+                      |...-..+...++..+..+. +..+...+++++.+.+|+..+.................                .....
+T Consensus         1 ~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   79 (337)
+T 7R6S_A            1 SNAMSTDRESQLLRQATKAG-IDSPLELANFMAQAGHESRGLSRLNESFNFTRGISQIPVEAAWRNGNAALESARQEALR   79 (337)
+T ss_dssp             ---CHHHHHHHHHHHHHHTT-CCCHHHHHHHHHHHHHHTTTTTCCBCCCCCSSCGGGCCCGGGGTTCHHHHHHHHHHHHT
+T ss_pred             CcccchHHHHHHHHHHHHcC-CCCHHHHHHHHHHHHHHcCCcccccccCCCCcccccccchHHhhcCchHHHHHHHHHHc
+
+
+Q ss_pred             CCCCChHHHHHHHHcCCCCCCCCccccccceEEeEehhhHhHHHHHHCCCcccCHHHHhCHHHHHHHHHHHHhhCCCcCC
+Q FD01845358_005   72 GSGPTASNRQRAILNHNTNIGDGYKYRGRGLVQLTWKISYENFKSITGIDIVASPDLCLEMSTAVSIMMKGMKDGGFRTG  151 (200)
+Q Consensus        72 ~~~~t~~~~~~a~~ngNt~~GDGykYRGRGlVqLTwK~NY~kf~~~~g~DfV~nPDla~e~~~Av~imi~gm~~g~f~tg  151 (200)
+                      ...............++...+++++|+|+|+++++|+.+|..+...++.+++.+|++..+...++....++|....    
+T Consensus        80 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~----  155 (337)
+T 7R6S_A           80 GRPENLAELMYGGRMGNDAPGDALKYHGRGYLPLVGKENYERAGKALDLDLVNQPELAAQPEHAGRIAVWQWQTRV----  155 (337)
+T ss_dssp             TCCHHHHHHHHTTSTTCCSTTHHHHTCCBTTTTBCSHHHHHHHHHHHTCCTTTCGGGGGSHHHHHHHHHHHHHHHS----
+T ss_pred             cCHHHHHHHHhcCCCCCCCCCChhhccCCCCcccCCHHHHHHHHHHhCCCcccCHHHHhCHHHHHHHHHHHHHhcC----
+
+
+Q ss_pred             CcHHHHhccCCCchhhchhHHcCCCCCCccchHHHHHHHHHHHHHHhhC
+Q FD01845358_005  152 YSLDTYLGEGKHDYFNARLIINGYRDGIPDKANEFKDYAELFEVIINET  200 (200)
+Q Consensus       152 ~~L~~yi~~~~~dy~~ar~iING~~~~~~D~~~~ia~ya~~Fe~il~~~  200 (200)
+                            ......++......+|+.     ...  +..+...++.+.+..
+T Consensus       156 ------~~~~~~~~~~~~~~~~~~-----~~~--~~~~~~~~~~~~~~~  191 (337)
+T 7R6S_A          156 ------PEGARHDVREATYALNGA-----LNG--IEARRQRFEVWQQKL  191 (337)
+T ss_dssp             ------CGGGTTCHHHHHHHHHSS-----CCS--HHHHHHHHHHHHHHC
+T ss_pred             ------CccccccHHHHHHHHccc-----cCC--HHHHHHHHHHHHHhc
+
+
+No 15
+>PF00182.24 ; Glyco_hydro_19 ; Chitinase class I
+Probab=98.30  E-value=2.4e-05  Score=60.42  Aligned_cols=168  Identities=16%  Similarity=0.104  Sum_probs=0.0  Template_Neff=12.700
+
+Q ss_pred             HHHHHHHHHHHHHHHhhcccCCHHHHHHHHHHHHHHhhchhcccccCccccCCccccccc------cCCCCCChHHHHHH
+Q FD01845358_005   10 ESLRTLLIEMKKQYYNYFDEFNEKFISYMLATIRIESYAYRQKLFFKPISEDISYDKAEV------DYGSGPTASNRQRA   83 (200)
+Q Consensus        10 ~nL~~ll~~in~~y~~~~~~~n~~~iaymLAt~r~Esy~~~~~~~Fs~~~E~~sY~~a~~------d~~~~~t~~~~~~a   83 (200)
+                      +.+..++..++..........+...+++|++++.+|+.......              ..      .............+
+T Consensus        28 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--------------~~~~~~~~~~~~~~~~~~~~~~   93 (232)
+T CHID_SOLLC/8-2   28 EAFITATKTFAAFGTTGDTNTRNKEIAAFLAQTSHETTGGWATA--------------PDGPYSWGYCYNREQGSPGDYC   93 (232)
+T ss_pred             HHHHHHHHHhHhhccCCChhccHHHHHHHHHHHcccccCCCcCC--------------CCCCccceeecccccCCCcccc
+
+
+Q ss_pred             HHcCCCCCCCCccccccceEEeEehhhHhHHHHHHCCCcccCHHHHh-CHHHHHHHHHHHHhhCCCcCCCcHHHHhc---
+Q FD01845358_005   84 ILNHNTNIGDGYKYRGRGLVQLTWKISYENFKSITGIDIVASPDLCL-EMSTAVSIMMKGMKDGGFRTGYSLDTYLG---  159 (200)
+Q Consensus        84 ~~ngNt~~GDGykYRGRGlVqLTwK~NY~kf~~~~g~DfV~nPDla~-e~~~Av~imi~gm~~g~f~tg~~L~~yi~---  159 (200)
+                      ...++....+++.|+|+|++++||+.+|..+....+.+++.+|+... +...++....+.|.......-........   
+T Consensus        94 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  173 (232)
+T CHID_SOLLC/8-2   94 ASSQQWPCAPGKKYFGRGPIQISYNYNYGAAGSAIGVNLLNNPDLVANDAVVSFKTALWFWMTAQQPKPSAHDVITGRWS  173 (232)
+T ss_pred             CCCCCCCCCCCCeeecCCcccccccccchhhhhhhCCCcccCHHHHhcChhHHHHHHHHHHhcCCCCCCChhHHhcCCCC
+
+
+Q ss_pred             --------cCCCchhhchhHHcCCCCCCcc-------chHHHHHHHHHHHHHHh
+Q FD01845358_005  160 --------EGKHDYFNARLIINGYRDGIPD-------KANEFKDYAELFEVIIN  198 (200)
+Q Consensus       160 --------~~~~dy~~ar~iING~~~~~~D-------~~~~ia~ya~~Fe~il~  198 (200)
+                              .....+.....++|+.     .       ..  +..+...+.....
+T Consensus       174 ~~~~~~~~~~~~~~~~~~~~~~~~-----~~~~~~~~~~--~~~~~~~~~~~~~  220 (232)
+T CHID_SOLLC/8-2  174 PSVADSAPGRVPGFGVITNIINGG-----MECNSGSNAL--MDNRIGFYRRYCQ  220 (232)
+T ss_pred             CChhcCCCCCCCCcHHHHHHHccc-----cccCCCCcHH--HHHHHHHHHHHHH
+
+
+No 16
+>2CJL_B SECRETED CHITINASE; HYDROLASE, PLANT ENZYMES; 1.5A {STREPTOMYCES COELICOLOR} SCOP: d.2.1.0
+Probab=98.24  E-value=7.6e-05  Score=54.18  Aligned_cols=160  Identities=18%  Similarity=0.156  Sum_probs=0.0  Template_Neff=13.800
+
+Q ss_pred             HHHHHHHHHHH--HHhhcccC--CHHHHHHHHHHHHHHhhchhcccccCccccCCccccccccCCCCCChHHHHHHHHcC
+Q FD01845358_005   12 LRTLLIEMKKQ--YYNYFDEF--NEKFISYMLATIRIESYAYRQKLFFKPISEDISYDKAEVDYGSGPTASNRQRAILNH   87 (200)
+Q Consensus        12 L~~ll~~in~~--y~~~~~~~--n~~~iaymLAt~r~Esy~~~~~~~Fs~~~E~~sY~~a~~d~~~~~t~~~~~~a~~ng   87 (200)
+                      +..++..++.+  +..+. +.  ....++|+|+++.+|+..+....              ............    ....
+T Consensus        21 ~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~--------------~~~~~~~~~~~~----~~~~   81 (204)
+T 2CJL_B           21 YSGLTAALSAYPGFSNTG-SDTVKKQEAAAFLANVGHETGGLVYVV--------------EQNTANYPHYCD----ASQP   81 (204)
+T ss_dssp             HHHHHHHGGGCTTTTCSS-SHHHHHHHHHHHHHHHHHHHTTTTCSB--------------CSCGGGGGGGCC----TTST
+T ss_pred             HHHHHHHHHcCcccccCC-CcccCHHHHHHHHHHHHHHhCCcEEEE--------------ecCCCCCcccCC----CCCC
+
+
+Q ss_pred             CCCCCCCccccccceEEeEehhhHhHHHHHHCCCcccCHHHHh-CHHHHHHHHHHHHhhCCCcCCCcHHHHhccCCCchh
+Q FD01845358_005   88 NTNIGDGYKYRGRGLVQLTWKISYENFKSITGIDIVASPDLCL-EMSTAVSIMMKGMKDGGFRTGYSLDTYLGEGKHDYF  166 (200)
+Q Consensus        88 Nt~~GDGykYRGRGlVqLTwK~NY~kf~~~~g~DfV~nPDla~-e~~~Av~imi~gm~~g~f~tg~~L~~yi~~~~~dy~  166 (200)
+                      .....+++.++|+|++++||+.+|..+....+.++..+|+... +...++....|.|....+ ....-.........++.
+T Consensus        82 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~  160 (204)
+T 2CJL_B           82 YGCPAGNDKYYGRGPVQLSWNFNYKAAGDALGIDLLNNPDLVQNDSAVAWKTGLWYWNTQTG-PGTMTPHDAMVNGAGFG  160 (204)
+T ss_dssp             TCCTTCTTCCCCBTTTTBCSHHHHHHHHHHHTSCTTTCTTHHHHCHHHHHHHHHHHHHHCCT-TSSSCHHHHHHTTCCHH
+T ss_pred             CCCCCCCCccccCCcccccCcchHHHHHHHhCCCcccChHHHhcChhHHHHHHHHHHhcCCC-CCCCChhHHHccCCChh
+
+
+Q ss_pred             hchhHHcCCCCCCcc-------chHHHHHHHHHHHHHHh
+Q FD01845358_005  167 NARLIINGYRDGIPD-------KANEFKDYAELFEVIIN  198 (200)
+Q Consensus       167 ~ar~iING~~~~~~D-------~~~~ia~ya~~Fe~il~  198 (200)
+                      ....++|+.     -       ..  +..+...++.+..
+T Consensus       161 ~~~~~~~~~-----~~~~~~~~~~--~~~~~~~~~~~~~  192 (204)
+T 2CJL_B          161 ETIRSINGS-----LECDGGNPGQ--VQSRIDNYERFTQ  192 (204)
+T ss_dssp             HHHHHTTCT-----TTTTTTCHHH--HHHHHHHHHHHHH
+T ss_pred             HHHhhccCc-----ccCCCCCchh--HHHHHHHHHHHHH
+
+
+No 17
+>1WVV_A chitinase C; family 19 chitinase, whole structure, HYDROLASE; HET: GOL, CL; 2.0A {Streptomyces griseus} SCOP: d.2.1.0
+Probab=98.23  E-value=1.1e-05  Score=61.36  Aligned_cols=162  Identities=15%  Similarity=0.120  Sum_probs=0.0  Template_Neff=13.600
+
+Q ss_pred             cccCHHHHHHHHHHHHHHHHhhcccCCHHHHHHHHHHHHHHhhchhcccccCccccCCccccccccCCCCCChHHHHHHH
+Q FD01845358_005    5 TQDSEESLRTLLIEMKKQYYNYFDEFNEKFISYMLATIRIESYAYRQKLFFKPISEDISYDKAEVDYGSGPTASNRQRAI   84 (200)
+Q Consensus         5 ~~~S~~nL~~ll~~in~~y~~~~~~~n~~~iaymLAt~r~Esy~~~~~~~Fs~~~E~~sY~~a~~d~~~~~t~~~~~~a~   84 (200)
+                      .......+...+.....+......+.+...++|+|+++.+|+..+....--........|..                  
+T Consensus        78 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~------------------  139 (265)
+T 1WVV_A           78 AFYTYKGLTDALSAYPAFAKTGSDEVKKREAAAFLANVSHQTGGLFYIKEVNEANYPHYCDT------------------  139 (265)
+T ss_dssp             TTCCHHHHHHHGGGSTTTTCSSSHHHHHHHHHHHHHHHHHHHTTTTCSBCSCGGGGGGGCCT------------------
+T ss_pred             ccccHHHHHHHHHhCHHHHhcCChHHhHHHHHHHHHHHHHHHCCcEEEeecCCCCchhhccC------------------
+
+
+Q ss_pred             HcCCCCCCCCccccccceEEeEehhhHhHHHHHHCCCcccCHHHHh-CHHHHHHHHHHHHhhCC-------CcCCCcHHH
+Q FD01845358_005   85 LNHNTNIGDGYKYRGRGLVQLTWKISYENFKSITGIDIVASPDLCL-EMSTAVSIMMKGMKDGG-------FRTGYSLDT  156 (200)
+Q Consensus        85 ~ngNt~~GDGykYRGRGlVqLTwK~NY~kf~~~~g~DfV~nPDla~-e~~~Av~imi~gm~~g~-------f~tg~~L~~  156 (200)
+                      ..++....++++|+|+|+++++|+.+|..+....+.+++.+|+.+. +...++....+.|....       .      ..
+T Consensus       140 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~------~~  213 (265)
+T 1WVV_A          140 TQSYGCPAGQAAYYGRGPIQLSWNFNYKAAGDALGINLLANPYLVEQDPAVAWKTGLWYWNSQNGPGTMTPH------NA  213 (265)
+T ss_dssp             TSTTCCTTCTTCCSCBTTTTBCSHHHHHHHHHHHTSCTTTCTTHHHHCHHHHHHHHHHHHHHCCTTSSSCHH------HH
+T ss_pred             CCCCCCCCCcceeeccccccccCchhHHHHHHHhCCccccChHHHhcCccceeeeEEEEeccCCCCCCCCcc------hH
+
+
+Q ss_pred             HhccCCCchhhchhHHcCCCCCCcc-------chHHHHHHHHHHHHHHhh
+Q FD01845358_005  157 YLGEGKHDYFNARLIINGYRDGIPD-------KANEFKDYAELFEVIINE  199 (200)
+Q Consensus       157 yi~~~~~dy~~ar~iING~~~~~~D-------~~~~ia~ya~~Fe~il~~  199 (200)
+                      ...  ..++.....++|+.     .       ..  +..+...++.+.+.
+T Consensus       214 ~~~--~~~~~~~~~~~~~~-----~~~~~~~~~~--~~~~~~~~~~~~~~  254 (265)
+T 1WVV_A          214 IVN--NAGFGETIRSINGA-----LECNGGNPAQ--VQSRINKFTQFTQI  254 (265)
+T ss_dssp             HHT--TCCHHHHHHHHHHH-----HHTTTTCHHH--HHHHHHHHHHHHHH
+T ss_pred             Hhc--CCChHHHHHHHhCc-----ccCCCCChHH--HHHHHHHHHHHHHH
+
+
+No 18
+>8HNE_A Anc4, ancestral GH19 chitinase; GH19 Chitinase, HYDROLASE; HET: 1PG, MES; 1.13A {synthetic construct}
+Probab=98.12  E-value=0.00012  Score=55.10  Aligned_cols=157  Identities=17%  Similarity=0.183  Sum_probs=0.0  Template_Neff=13.200
+
+Q ss_pred             HHHHHHHHHHHHHhhcccC-----CHHHHHHHHHHHHHHhhchhcccccCccccCCccccccccCCCCCChHHHHHHHHc
+Q FD01845358_005   12 LRTLLIEMKKQYYNYFDEF-----NEKFISYMLATIRIESYAYRQKLFFKPISEDISYDKAEVDYGSGPTASNRQRAILN   86 (200)
+Q Consensus        12 L~~ll~~in~~y~~~~~~~-----n~~~iaymLAt~r~Esy~~~~~~~Fs~~~E~~sY~~a~~d~~~~~t~~~~~~a~~n   86 (200)
+                      +...+..++..+..+. ..     ....++|+|+++.+|+..+....                +...........     
+T Consensus        19 ~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~----------------~~~~~~~~~~~~-----   76 (219)
+T 8HNE_A           19 TYDAFIAAAKSFPSFG-TTGDTDVRKREIAAFFAHVSHETSGLVYIE----------------EINQSNDYCDPS-----   76 (219)
+T ss_dssp             CHHHHHHHHHTSTTTT-CSSSHHHHHHHHHHHHHHHHHHHTTTTCSB----------------CSCCSCCCCCCC-----
+T ss_pred             CHHHHHHHHHhChhcc-CCCChHhhHHHHHHHHHHHhhccCCeeEEE----------------EccCCCCcCCcC-----
+
+
+Q ss_pred             CCCCCCCCccccccceEEeEehhhHhHHHHHHCCCcccCHHHHhC-HHHHHHHHHHHHhhCCCcCCCcHHHH--------
+Q FD01845358_005   87 HNTNIGDGYKYRGRGLVQLTWKISYENFKSITGIDIVASPDLCLE-MSTAVSIMMKGMKDGGFRTGYSLDTY--------  157 (200)
+Q Consensus        87 gNt~~GDGykYRGRGlVqLTwK~NY~kf~~~~g~DfV~nPDla~e-~~~Av~imi~gm~~g~f~tg~~L~~y--------  157 (200)
+                      ++....+++.|.|+|++++||+.+|..+....+.++..+|+.... ...++....+.|..... ....-...        
+T Consensus        77 ~~~~~~~~~~~~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~  155 (219)
+T 8HNE_A           77 TQYPCAPGKQYYGRGPLQLSWNYNYGPCGDALGLDLLNNPDLVAQDPVIAFKTALWFWMTPQS-PKPSCHDVMTGNWTPS  155 (219)
+T ss_dssp             SSSCCCTTCCCCCBTTTTBCSHHHHHHHHHHHTSCTTTCGGGGGTCHHHHHHHHHHHHHCCBT-TBCCHHHHHTTCCCCC
+T ss_pred             CCCCCCCCCceeCCCcccCCccccchhhHHHHCccchhCHHHHhhChhHHHHHhHHHHhCCCC-CCCChhHhhcCCCCCC
+
+
+Q ss_pred             ----hccCCCchhhchhHHcCCCCCCcc-------chHHHHHHHHHHHHHHh
+Q FD01845358_005  158 ----LGEGKHDYFNARLIINGYRDGIPD-------KANEFKDYAELFEVIIN  198 (200)
+Q Consensus       158 ----i~~~~~dy~~ar~iING~~~~~~D-------~~~~ia~ya~~Fe~il~  198 (200)
+                          .......+.....++++.     .       ..  +..+...|..+.+
+T Consensus       156 ~~~~~~~~~~~~~~~~~~~~~~-----~~~~~~~~~~--~~~~~~~~~~~~~  200 (219)
+T 8HNE_A          156 SADLAAGRVPGFGVTTNIINGG-----LECGKGNPAQ--AENRVNYYKDFCN  200 (219)
+T ss_dssp             HHHHHTTCCSSHHHHHHHHHHH-----HHSTTSCTHH--HHHHHHHHHHHHH
+T ss_pred             hHHHhccCCCCchHHHHHHccc-----ccCCCCChHH--HHHHHHHHHHHHH
+
+
+No 19
+>4MCK_A Chitinase; HYDROLASE; 1.5A {Zea mays} SCOP: l.1.1.1, d.2.1.0
+Probab=97.92  E-value=0.00092  Score=48.88  Aligned_cols=154  Identities=14%  Similarity=0.144  Sum_probs=0.0  Template_Neff=13.600
+
+Q ss_pred             HHHHHHHHHHHHH----hhcccCCHHHHHHHHHHHHHHhhchhcccccCccccCCccccccccCCCCCChHHHHHHHHcC
+Q FD01845358_005   12 LRTLLIEMKKQYY----NYFDEFNEKFISYMLATIRIESYAYRQKLFFKPISEDISYDKAEVDYGSGPTASNRQRAILNH   87 (200)
+Q Consensus        12 L~~ll~~in~~y~----~~~~~~n~~~iaymLAt~r~Esy~~~~~~~Fs~~~E~~sY~~a~~d~~~~~t~~~~~~a~~ng   87 (200)
+                      +..++..+.....    .+. +.....++|+|+++.+|+..+....              ............       +
+T Consensus        31 ~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~--------------~~~~~~~~~~~~-------~   88 (201)
+T 4MCK_A           31 RSAFLSAVNAYPGFAHGGTE-VEGKREIAAFFAHVTHQTGHFCYIS--------------EINKSNAYCDAS-------N   88 (201)
+T ss_dssp             HHHHHHHHTTCTTTTCSSCH-HHHHHHHHHHHHHHHHHHTTTTCSB--------------CSCCCCCCCCCS-------S
+T ss_pred             HHHHHHHHHhCccccCCCCc-cCCHHHHHHHHHHHhhhcCCceeee--------------eccccccccCCC-------C
+
+
+Q ss_pred             CCCCCCCccccccceEEeEehhhHhHHHHHHCCCcccCHHHHh-CHHHHHHHHHHHHhhCCCcCCCcHHHHhccCCCchh
+Q FD01845358_005   88 NTNIGDGYKYRGRGLVQLTWKISYENFKSITGIDIVASPDLCL-EMSTAVSIMMKGMKDGGFRTGYSLDTYLGEGKHDYF  166 (200)
+Q Consensus        88 Nt~~GDGykYRGRGlVqLTwK~NY~kf~~~~g~DfV~nPDla~-e~~~Av~imi~gm~~g~f~tg~~L~~yi~~~~~dy~  166 (200)
+                      +...++++.|.|+|+++++|+.+|..+....+.++..+|+... +...++....+.|.          .........++.
+T Consensus        89 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~----------~~~~~~~~~~~~  158 (201)
+T 4MCK_A           89 RWPCAAGQKYYGRGPLQISWNYNYGPAGRDIGFNGLADPNRVAQDAVIAFKTALWFWM----------NNVHRLMPQGFG  158 (201)
+T ss_dssp             SSCCCTTCCCCCBTTTTBCSHHHHHHHHHHHTSCTTTCTTHHHHCHHHHHHHHHHHHH----------HHTGGGGGGCHH
+T ss_pred             CCCCCCCcEEeCCCceeeeccccchhhHHhcCCCcccCHHHHhcChHHHHHHHHHHHH----------hcHHHhccCChH
+
+
+Q ss_pred             hchhHHcCCC-CCCccchHHHHHHHHHHHHHHhh
+Q FD01845358_005  167 NARLIINGYR-DGIPDKANEFKDYAELFEVIINE  199 (200)
+Q Consensus       167 ~ar~iING~~-~~~~D~~~~ia~ya~~Fe~il~~  199 (200)
+                      ....++|+.. .+.+...  +..+...++.+.+.
+T Consensus       159 ~~~~~~~~~~~~~~~~~~--~~~~~~~~~~~~~~  190 (201)
+T 4MCK_A          159 ATIRAINGLECNGNNPAQ--MNARVGYYKQYCQQ  190 (201)
+T ss_dssp             HHHHHHCSSSSTTSCHHH--HHHHHHHHHHHHHH
+T ss_pred             HHHHHHcccccCCCChHH--HHHHHHHHHHHHHH
+
+
+No 20
+>PF20824.2 ; Cmr2_hel_dom2 ; CRISPR RNA silencing complex Cmr2 subunit, second helical domain
+Probab=43.49  E-value=65  Score=25.48  Aligned_cols=32  Identities=25%  Similarity=0.351  Sum_probs=0.0  Template_Neff=6.500
+
+Q ss_pred             cccCHHHHHHHHHHHHHHHHhhcccCCHHHHHHHHH
+Q FD01845358_005    5 TQDSEESLRTLLIEMKKQYYNYFDEFNEKFISYMLA   40 (200)
+Q Consensus         5 ~~~S~~nL~~ll~~in~~y~~~~~~~n~~~iaymLA   40 (200)
+                      .+.+.+.|-+|+..+...    .+..++.++||+||
+T Consensus         8 ~~~gksfLYrll~ll~~~----~~~in~aRlAY~La   39 (88)
+T V2Z7P8_9FIRM/6    8 TERGKNFLYNLLELLRNK----SEKINLARLAYTLA   39 (88)
+T ss_pred             CcchHHHHHHHHHHHHcC----CCcchHHHHHHHHH
+
+
+No 21
+>1H99_A TRANSCRIPTION ANTITERMINATOR LICT; TRANSCRIPTIONAL ANTITERMINATOR, PTS REGULATORY DOMAIN; 1.55A {BACILLUS SUBTILIS} SCOP: a.142.1.1
+Probab=35.98  E-value=2.3e+02  Score=22.99  Aligned_cols=89  Identities=12%  Similarity=0.060  Sum_probs=0.0  Template_Neff=11.800
+
+Q ss_pred             hHHHHHHCCCcccCHHHHhCHHHHHHHHHHHHhhCCCcC---CCcHHHHhccCCCchhhchhHHcCCC--CCCccchHHH
+Q FD01845358_005  112 ENFKSITGIDIVASPDLCLEMSTAVSIMMKGMKDGGFRT---GYSLDTYLGEGKHDYFNARLIINGYR--DGIPDKANEF  186 (200)
+Q Consensus       112 ~kf~~~~g~DfV~nPDla~e~~~Av~imi~gm~~g~f~t---g~~L~~yi~~~~~dy~~ar~iING~~--~~~~D~~~~i  186 (200)
+                      ..+++.+|++|-.++.+...+..-+..++.-+..|....   ..-+......-..-|..|+.+++--.  .+.+-..+.+
+T Consensus       131 ~~i~~~~~~~~~~d~~l~~~l~~hl~~~~~r~~~~~~~~~~~~~~~~~i~~~yp~~~~~~~~~~~~~~~~~~~~~~~~Ei  210 (224)
+T 1H99_A          131 SIVKYHFKIEFNEESLHYYRFVTDLKFFAQRLFNGTHMESEDDFLLDTVKEKYHRAYECTKKIQTYIEREYEHKLTSDEL  210 (224)
+T ss_dssp             HHHHHHHTCCCCTTSHHHHHHHHHHHHHHHHHHHTCCCC--CTHHHHHHHHHTHHHHHHHHHHHHHHHHHHCCCCCHHHH
+T ss_pred             HHHHHHhCCCCCCCChhHHHHHHHHHHHHHHHHcCCCCCccchHHHHHHHHHCHHHHHHHHHHHHHHHHHHCCCCCHHHH
+
+
+Q ss_pred             HHHHHHHHHHHhhC
+Q FD01845358_005  187 KDYAELFEVIINET  200 (200)
+Q Consensus       187 a~ya~~Fe~il~~~  200 (200)
+                      +-.+-.|...++++
+T Consensus       211 ~~l~l~~~~~~~~~  224 (224)
+T 1H99_A          211 LYLTIDIERVVKQA  224 (224)
+T ss_dssp             HHHHHHHHHHHC--
+T ss_pred             HHHHHHHHHHHhhC
+
+
+No 22
+>PF00159.23 ; Hormone_3 ; Pancreatic hormone peptide
+Probab=29.92  E-value=2e+02  Score=18.84  Aligned_cols=24  Identities=4%  Similarity=0.119  Sum_probs=0.0  Template_Neff=6.600
+
+Q ss_pred             CCCccccCHHHHHHHHHHHHHHHH
+Q FD01845358_005    1 IPALTQDSEESLRTLLIEMKKQYY   24 (200)
+Q Consensus         1 ~~~l~~~S~~nL~~ll~~in~~y~   24 (200)
+                      ..+-...|.+.|++.+..++++|.
+T Consensus         5 ~~P~~~~s~eel~~Yl~~L~~Yy~   28 (35)
+T PAHO_MACMU/2-3    5 VYPGDNATPEQMAQYAADLRRYIN   28 (35)
+T ss_pred             CCCCCCCCHHHHHHHHHHHHHHHH
+
+
+No 23
+>1K8V_A NEUROPEPTIDE F; neuropeptide F, Moniezia expansa, NPF, UNKNOWN FUNCTION; HET: NH2; NMR {N/A} SCOP: j.6.1.1
+Probab=29.08  E-value=1.5e+02  Score=20.58  Aligned_cols=18  Identities=22%  Similarity=0.475  Sum_probs=0.0  Template_Neff=5.200
+
+Q ss_pred             cCHHHHHHHHHHHHHHHH
+Q FD01845358_005    7 DSEESLRTLLIEMKKQYY   24 (200)
+Q Consensus         7 ~S~~nL~~ll~~in~~y~   24 (200)
+                      .|.+.|+++|..++++|.
+T Consensus        15 ~s~eel~~YL~~L~~YY~   32 (40)
+T 1K8V_A           15 DNKAALRDYLRQINEYFA   32 (40)
+T ss_dssp             SSCSHHHHHHHHHHHHHH
+T ss_pred             CCHHHHHHHHHHHHHHHH
+
+
+No 24
+>6MQU_J PL5, designed TM pentamer; designed, engineered, transmembrane, pentamer, phospholamban, DE NOVO PROTEIN; 3.17A {N/A}
+Probab=27.57  E-value=43  Score=22.36  Aligned_cols=5  Identities=100%  Similarity=2.022  Sum_probs=0.0  Template_Neff=1.000
+
+Q ss_pred             ccccc
+Q FD01845358_005   97 YRGRG  101 (200)
+Q Consensus        97 YRGRG  101 (200)
+                      |||||
+T Consensus        27 yrgrg   31 (33)
+T 6MQU_J           27 YRGRG   31 (33)
+T ss_dssp             TTC--
+T ss_pred             HhcCC
+
+
+No 25
+>8BBU_B Lysozyme; lysozyme, muramidase, isopeptidase, glycosidase, antibacterial, hydrolase; HET: PCA, GOL, MLI; 1.1A {Hirudo medicinalis}
+Probab=25.20  E-value=6.3e+02  Score=20.85  Aligned_cols=86  Identities=16%  Similarity=0.030  Sum_probs=0.0  Template_Neff=7.800
+
+Q ss_pred             ceEEeEehhhHhHHHHHHCCCcccCHHHHhCHHHHHHHHHHHHhhCCCcCCCcHHHHhccCCCchhhchhHHcCCCCCCc
+Q FD01845358_005  101 GLVQLTWKISYENFKSITGIDIVASPDLCLEMSTAVSIMMKGMKDGGFRTGYSLDTYLGEGKHDYFNARLIINGYRDGIP  180 (200)
+Q Consensus       101 GlVqLTwK~NY~kf~~~~g~DfV~nPDla~e~~~Av~imi~gm~~g~f~tg~~L~~yi~~~~~dy~~ar~iING~~~~~~  180 (200)
+                      |..|||+     .+-...|.-...--+-+.++..|..++...|.+-.       .+--.....+-...-+|-||++.|--
+T Consensus        33 Gp~~Is~-----~yw~da~~~~~~~~~C~~d~~Ca~~~v~~Y~~~y~-------~~c~~d~~~~Ced~ariH~gGp~gc~  100 (124)
+T 8BBU_B           33 GPYQIKK-----PYWIDCGKPGGGYESCTKNKACSETCVRAYMKRYG-------TFCTGGRTPTCQDYARIHNGGPRGCK  100 (124)
+T ss_dssp             TTTTEEH-----HHHHHTTCCSSSHHHHHTSHHHHHHHHHHHHHHHH-------HHHHTSSCCCHHHHHHHHHHCTTGGG
+T ss_pred             cceeecc-----cHHHhcCCCCCcHHHHhcCHHHHHHHHHHHHHHhc-------cccCCCCCCCHHHHHHHhcCCCCCcC
+
+
+Q ss_pred             cchHHHHHHHHHHHHHHhhC
+Q FD01845358_005  181 DKANEFKDYAELFEVIINET  200 (200)
+Q Consensus       181 D~~~~ia~ya~~Fe~il~~~  200 (200)
+                      ...  -..|.++|++.++++
+T Consensus       101 ~~~--t~~yw~k~~~c~~~~  118 (124)
+T 8BBU_B          101 SSA--TVGYWNKVQKCLRGT  118 (124)
+T ss_dssp             CGG--GHHHHHHHHHHHHTC
+T ss_pred             CcC--cHHHHHHHHHHHhhc
+
+
+No 26
+>PF14300.11 ; DUF4375 ; Domain of unknown function (DUF4375)
+Probab=23.54  E-value=2.5e+02  Score=21.48  Aligned_cols=56  Identities=21%  Similarity=0.312  Sum_probs=0.0  Template_Neff=10.200
+
+Q ss_pred             HHHHHHHHHHhhCCCcCCCcHHHHhccCCCchhhchhHHcCCC-CCCccchHHHHHHHHHHHH
+Q FD01845358_005  134 TAVSIMMKGMKDGGFRTGYSLDTYLGEGKHDYFNARLIINGYR-DGIPDKANEFKDYAELFEV  195 (200)
+Q Consensus       134 ~Av~imi~gm~~g~f~tg~~L~~yi~~~~~dy~~ar~iING~~-~~~~D~~~~ia~ya~~Fe~  195 (200)
+                      ++|..+.--+..|+|      ..++.++..++.....++-+.+ +|.|+.+.++.+....|..
+T Consensus        12 ~~~~~~~~~v~nGG~------~~ff~n~~~~~~~~~~~~~al~~iga~~~a~~l~~~~~~~~~   68 (121)
+T R6VZ50_9BACT/4   12 LAYIAMREEMMDGGF------VQLIHNGWGHFIFHNPFDKAVRGWGLPELCSLIRRAHKLYSK   68 (121)
+T ss_pred             HHHHHHHHHHhcCCh------hhhhcCCcchhhccchHHHHHHHcCCHHHHHHHHHHHHHHHh
+
+
