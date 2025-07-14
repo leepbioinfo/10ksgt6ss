@@ -11,7 +11,7 @@ Tox-WHH.st1: Nuclease
 ColE7.2: Nuclease
 STox_19: Peptidase
 Tox-ParBL.st3: Nuclease
-STox_53: Not determined
+STox_53: Nuclease
 STox_36: Nuclease
 Tox-ART-HYD3.st: ADP-ribosyltransferase
 STox_57: Nuclease
@@ -42,7 +42,7 @@ Tox-JAB2.st2: Nuclease
 STox_17: Pore-forming
 STox_6: Nuclease
 Col-Pyo_DNase: Nuclease
-STox_18: Not determined
+STox_18: Pore-forming
 Pesticin: Peptidoglycan
 Tox-Ribonuclease.st: Nuclease
 Pyocin_S: Nuclease
@@ -52,7 +52,7 @@ WHH: Nuclease
 STox_29: Not determined
 STox_44: Peptidase
 Tox-PeptidaseM23.st: Peptidase
-STox_11: Not determined
+STox_11: Nuclease
 STox_50: Peptidoglycan
 STox_1: Nuclease
 Tox-AHH.st4: Nuclease
@@ -70,7 +70,7 @@ Lipase_3: Phospholipase
 Tlde1_dom: Peptidoglycan
 Tox-PeptidaseM4.st: Peptidase
 Tox-URI1.st: Nuclease
-STox_20: Nuclease
+STox_20: Deaminase
 Tox-MPTase.6: Peptidase
 STox_54: Nuclease
 Tox-CNF.1: Peptidase
@@ -96,7 +96,7 @@ STox_51: Peptidase
 VasX.st: Pore-forming
 Tge2PP.st: Peptidoglycan
 Tle3.st: Phospholipase
-STox_10: Not determined
+STox_10: Adenylyl cyclase
 STox_24: Not determined
 STox_30: Not determined
 STox_33: Not determined
