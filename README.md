@@ -22,12 +22,12 @@ Nicastro, G.G., Sibinelli-Sousa, S., Hespanhol, J.T., et al. (2025)
 
 ## 🔬 Repository Contents
 
-- `data/` – HMM profiles, sequence alignments, and effector metadata
-- `notebooks/` – Jupyter notebooks used in the analysis
-- `scripts/` – Python scripts for T6SS detection, clustering, and annotation
-- `models/` – AlphaFold2 structural predictions and FoldSeek/DALI results
-- `figures/` – Supplementary figures and raw data
-- `metadata/` – Mapping of serovars, T6SS subtypes, and effector repertoires
+- `hmm/` – HMM profiles used in this study
+- `sources/` – Python scripts for T6SS detection, clustering, figure production and annotation
+- `html/` – Sequence alignment files in HTML format, used in the interactive supplementary data.
+- `alns/` –Raw alignments in FASTA format for each model generated in this study, along with corresponding HHpred results in both .hhr (text) and HTML formats.
+- `alns/pdb/` –Mol* sessions with AlphaFold-predicted structures for each toxic domain model created in this study.
+- `data/` – Data folder containing Python pickle objects, Excel tables, and YAML files used in both manual analyses and automated scripts from the `source` folder.
 
 ---
 
