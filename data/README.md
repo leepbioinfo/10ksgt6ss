@@ -11,7 +11,7 @@ Each file corresponds to a specific dataset or intermediate result, and serves a
 - **10k_vizinho_novo_df_jaccard.pkl**:  Pickle file containing a DataFrame of gene loci with at least one T6SS component gene; output from jaccard.py (in the source folder)..
 - **FDEvolvedCargo5.xlsx**: Excel table listing protein IDs detected by HMM toxin models used in this study, including system classification and additional metadata.
 - **Toxins_nomenclature 05-01-2024.xlsx**: Excel table tracking the renaming history of the models used in this study. External models include reference to the original publication..
-- **figure_1E.tsv: table of statistics comparing hits to HMM models from this resource to publicily available models. This data was used to generate figure 1E. For details on how this table was generated see 
+- **figure_1E.tsv**: table of statistics comparing hits to HMM models from this resource to publicily available models. This data was used to generate figure 1E. For details on how this table was generated see 
 - **from_rob.xlsx**: Excel table with annotations of toxic domains and T6SS component domains.
 - **function2color.yaml**: YAML file specifying colors and ranking for thematic functions (e.g., peptidoglycan, nuclease, pore-forming), used to generate figures via scripts in the source folder.
 - **jaccard_type_classification.yaml**:YAML file with manual mapping of gene neighborhood annotations based on Jaccard + Louvain clustering. Louvain communities were labeled (e.g., T6SSiii) using phylogenetic analysis of grouped proteins.
