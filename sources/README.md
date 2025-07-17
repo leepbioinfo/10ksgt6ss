@@ -38,7 +38,7 @@ Each source corresponds to a distinct analysis or dataset, and contains the exac
 
 ## Questions or Issues
 
-If you encounter any problems reproducing the results or have questions about the code, please open an [issue](https://github.com/yourusername/yourrepo/issues) or contact me at [your_email@example.com].
+If you encounter any problems reproducing the results or have questions about the code, please open an [issue](https://github.com/leepbioinfo/10ksgt6ss/issues) or contact me at [nicastrogg@nih.gov].
 
 ---
 
