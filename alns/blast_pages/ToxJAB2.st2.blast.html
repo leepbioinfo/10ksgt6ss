@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <body onload="document.forms[0].submit()">
+    <form method="POST" action="https://blast.ncbi.nlm.nih.gov/Blast.cgi">
+      <input type="hidden" name="CMD" value="Put">
+      <input type="hidden" name="PROGRAM" value="blastp">
+      <input type="hidden" name="DATABASE" value="nr">
+      <input type="hidden" name="QUERY" value=">FD01845394_01196
+GFSSADDAARSALSKYNPMSIFKNREYGGIIFRAKDGSYGYTRGRLGTGRTAPTFKDSAGGLPKGSTPVGQYHTHGDYSDSGFNRTNKAGDYHNSDQFSSKDIFIHNQANGSYPGYTDALGTPSGGFWKIFGRVSGPDDA">
+      <noscript>
+        <input type="submit" value="Click to BLAST">
+      </noscript>
+    </form>
+  </body>
+</html>
