@@ -2,8 +2,6 @@ import yaml
 import pandas as pd
 import numpy as np
 from matplotlib.gridspec import GridSpec
-# %load fig_2C_velha_e_boa.py
-# %load fig_2C.py
 from working_dfs import t2,li1, li3,li1i3, li2, type_dict, type_to_color, insidei1, insidei2, insidei3, final
 import matplotlib.gridspec as gridspec
 from matplotlib.colors import  ListedColormap
@@ -12,7 +10,7 @@ import matplotlib.pyplot as plt
 
 
 # *******Renaming some models names ********
-data_path = "/panfs/pan1/proteinworld/People/gian/projects/10k/data/final_files"
+data_path = "../data/"
 with open(f'{data_path}/rename_model_name.yaml', 'r') as f:
     rename_model = yaml.load(f, Loader=yaml.SafeLoader)
 
@@ -30,7 +28,7 @@ te5 = te.iloc[:, te4]
 te6 = te2.where(lambda x : x.isin(te3.index.tolist())).dropna().index.tolist()
 te7 = te5.query('genome in @te6')
 te8 = te7.set_index('genome').apply(lambda x :''.join( x.replace({0: 'a', 1:'b'}).tolist()), axis=1).value_counts()
-t9 = te8.reset_index().rename({'index': 'tox', 0: 'number_of_genomes'}, axis=1).set_index('number_of_genomes').tox.reset_index()
+t9 = te8.reset_index().rename({'index': 'tox', 'count': 'number_of_genomes'}, axis=1).set_index('number_of_genomes').tox.reset_index()
 t10 = t9.tox.apply(lambda x: pd.Series(list(x)))
 t10.columns = te.iloc[:, te4].columns[1:].tolist()
 t10.index = t9.number_of_genomes

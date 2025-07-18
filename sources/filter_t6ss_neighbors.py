@@ -1,4 +1,5 @@
-# coding: utf-8
+#!/usr/bin/env python3
+
 df = pd.read_pickle('../../data/genome.pkl')
 df.loc[df.rocha == 'T6SSi_tssH', 't6ss'] = False
 df.loc[df.rocha == 'T6SSiii_tssH+T6SSi_tssH', 't6ss'] = False

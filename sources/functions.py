@@ -82,38 +82,6 @@ def padding_df(df, how='right'):
     return cdf
 
 
-def serovar_fig(ser_list, output='ser_fig.pdf'):
-
-    count = 0
-    lines = int(math.ceil(len(ser_list)/7) *2)
-    fig = plt.figure( figsize=(10,lines),tight_layout=True)
-    gs = gridspec.GridSpec(int(lines/2), 7)
-    for x,y in enumerate(ser_list):
-        print(y)
-        count += 1
-        ax = fig.add_subplot(gs[x])
-        to_plot = t2.query('serovar in @y').drop_duplicates(subset=["basename", "genome"]).basename.value_counts().reset_index().head()
-        to_plot['func'] = to_plot['index'].map(type_dict)
-        to_plot = to_plot.merge(pd.DataFrame(type_to_color).T, left_on='func', right_index=True).sort_values(['basename','position'], ascending=[False,True])
-        to_count  = t2.query('serovar in @y').eval('t6_type = genome.map(@assembly_to_t6ss_types.t6.to_dict())')
-        to_count.t6_type  = to_count.t6_type.fillna('ND')
-        title = padding_df(to_count.drop_duplicates('genome').t6_type.value_counts().rename('#genomes').reset_index().rename({'index':'T6SS types'}, axis=1))
-        title = title.to_string(index=None, justify='left')
-        title = f'{y}\n\n{title}\n'
-        tex_position_ref = (to_plot.basename.max() * 2/100)
-        plt.bar(to_plot['index'], to_plot.basename, color=to_plot['index'].map(type_dict).map(pd.DataFrame(type_to_color).T.color.to_dict()))
-        for i, value in to_plot.iterrows():
-            plt.text(i, value.basename + tex_position_ref , str(value.basename), ha='center')
-        plt.title(title,loc='left')
-        ax.spines['top'].set_visible(False)
-        ax.spines['right'].set_visible(False)
-        ax.set_xticklabels(to_plot['index'].tolist(),rotation=45, horizontalalignment='right')
-        ax.set_xlim(-1,5)
-        print(count)
-
-    plt.tight_layout()
-    plt.savefig(output)    
-
 def count_series(
         series,
         normalize=False,
@@ -140,3 +108,33 @@ def count_series(
             flattened_list.append(f'{y}({z})')
     return ', '.join(flattened_list)
 
+def serovar_fig(ser_list, output='ser_fig.pdf'):
+    count = 0
+    lines = int(math.ceil(len(ser_list)/7) *2)
+    fig = plt.figure( figsize=(10,lines),tight_layout=True)
+    gs = gridspec.GridSpec(int(lines/2), 7)
+    for x,y in enumerate(ser_list):
+        print(y)
+        count += 1
+        ax = fig.add_subplot(gs[x])
+        to_plot = t2.query('serovar in @y').drop_duplicates(subset=["basename", "genome"]).basename.value_counts().reset_index().head()
+        to_plot['func'] = to_plot['basename'].map(type_dict)
+        to_plot = to_plot.merge(pd.DataFrame(type_to_color).T, left_on='func', right_index=True).sort_values(['count','position'], ascending=[False,True])
+        to_count  = t2.query('serovar in @y').eval('t6_type = genome.map(@assembly_to_t6ss_types.t6.to_dict())')
+        to_count.t6_type  = to_count.t6_type.fillna('ND')
+        title = padding_df(to_count.drop_duplicates('genome').t6_type.value_counts().rename('#genomes').reset_index().rename({'#genomes':'T6SS types'}, axis=1))
+        title = title.to_string(index=None, justify='left')
+        title = f'{y}\n\n{title}\n'
+        tex_position_ref = (to_plot['count'].max() * 2/100)
+        plt.bar(to_plot['basename'], to_plot['count'], color=to_plot['basename'].map(type_dict).map(pd.DataFrame(type_to_color).T.color.to_dict()))
+        for i, value in to_plot.iterrows():
+            plt.text(i, value['count'] + tex_position_ref , str(value['count']), ha='center')
+        plt.title(title,loc='left')
+        ax.spines['top'].set_visible(False)
+        ax.spines['right'].set_visible(False)
+        ax.set_xticklabels(to_plot['basename'].tolist(),rotation=45, horizontalalignment='right')
+        ax.set_xlim(-1,5)
+        print(count)
+
+    plt.tight_layout()
+    plt.savefig(output)    

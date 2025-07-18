@@ -1,9 +1,11 @@
+#!/usr/bin/env python3
+
 from scipy.stats import norm
 from working_dfs import t2,l1type, l2type 
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib
-from rotifer.devel.alpha import gian_func as gf
+from functions import count_series
 
 #set font size and family for all the plot
 font = {'family' : 'Arial',
@@ -14,7 +16,7 @@ font = {'family' : 'Arial',
 matplotlib.rc('font', **font)
 
 
-t3 = t2.groupby('genome').agg(basename = ('basename', lambda x : gf.count_series(x, count='architecture')), effector_count = ('basename', 'nunique'))
+t3 = t2.groupby('genome').agg(basename = ('basename', lambda x : count_series(x, count='architecture')), effector_count = ('basename', 'nunique'))
 
 fig, ax1 = plt.subplots()
 fig.set_size_inches(4, 3)

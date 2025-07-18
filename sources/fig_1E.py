@@ -7,7 +7,7 @@ import seaborn as sns
 from matplotlib import pyplot as plt
 from mpl_toolkits.axes_grid1.inset_locator import inset_axes
 
-data_path = "."
+data_path = "../data"
 output = "figure_1E"
 input_table = f'''{os.path.join(data_path,output)}.tsv'''
 

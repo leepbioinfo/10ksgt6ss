@@ -1,4 +1,5 @@
-# coding: utf-8
+#!/usr/bin/env python3
+
 import community
 import networkx as nx
 df = pd.read_pickle('./vizinhos_t6_novo.pkl')

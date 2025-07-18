@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from working_dfs import t2,li1, li3,li1i3, li2, type_dict, type_to_color, insidei1, insidei2, insidei3, final
 import matplotlib.gridspec as gridspec
 from venn import venn
