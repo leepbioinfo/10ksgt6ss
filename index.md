@@ -27,8 +27,8 @@ Each section contains a curated table of candidate effectors, their alignments, 
 Columns include:
 
 - **Model**: HMM model constructed in this study.
-- **Alignments**:  Multiple sequence alignments used to build the HMMs, available in HTML (with and without gaps) and in FASTA format for download. All alignments include NCBI protein accession numbers.
 - **BLAST**: Link to run an NCBI BLASTP search using the reference sequence (the first sequence in the alignment) as the query against the NCBI nr database.
+- **Alignments**:  Multiple sequence alignments used to build the HMMs, available in HTML (with and without gaps) and in FASTA format for download. All alignments include NCBI protein accession numbers.
 - **HHpred**: HHpred remote homology search results obtained using the full alignment as input.
 - **Group**: Functional or structural classification (e.g., BECR fold).
 - **AlphaFold**: Access to AlphaFold2-predicted 3D structures, with options to visualize them using Mol* or download in `.molx` format.
