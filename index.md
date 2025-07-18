@@ -1,4 +1,4 @@
-# Effector Repertoire of Salmonella T6SS
+# Effector Repertoire of Salmonella T6SS [![GitHub](https://img.shields.io/badge/GitHub-Code-blue?logo=github)](https://github.com/leepbioinfo/10ksgt6ss/)
 
 ## 📰 Citation
 
