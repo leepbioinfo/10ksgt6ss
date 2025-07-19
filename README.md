@@ -11,7 +11,7 @@ This repository contains the data, scripts, and resources associated with our st
 - Serovar-specific effector repertoires are present in *Salmonella*.
 - T6SS subtypes i1 and i3 associate with distinct effector classes (anti-eukaryotic vs. antibacterial).
 - STox_15 (Tox-Act1) is a **novel effector** of the NlpC/P60 fold.
-- Biochemical assays demonstrated **Tox-Act1** has phospholipase activity
+- Biochemical assays demonstrated **Tox-Act1** has phospholipase activity.
 - *In vivo* assays with mutant strains showed that Tox-Act1 is secreted by the T6SS.
 - Tox-Act1 confers **competitive advantage** in the mouse gut and represents the **first lipid-targeting NlpC/P60 toxin** described in this context.
 
