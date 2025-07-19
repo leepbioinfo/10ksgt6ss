@@ -12,13 +12,12 @@ Each file corresponds to a specific dataset or intermediate result, and serves a
 - `FDEvolvedCargo5.xlsx`: Excel table listing protein IDs detected by HMM toxin models used in this study, including system classification and additional metadata.
 - `Toxins_nomenclature 05-01-2024.xlsx`: Excel table tracking the renaming history of the models used in this study. External models include reference to the original publication.
 - `figure_1E.tsv`: table of statistics comparing hits to HMM models from this resource to hits of publicily available models. This data was used to generate [figure 1E](../sources/fig_1E.py). 
-- `from_rob.xlsx`: Excel table with annotations of toxic domains and T6SS component domains.
+- `from_rob.xlsx`: Excel table with toxic domains and T6SS component assignments to *Salmonella* proteins.
 - `function2color.yaml`: YAML file specifying colors and ranking for thematic functions (e.g., peptidoglycan, nuclease, pore-forming), used to generate figures via scripts in the source folder.
-- `jaccard_type_classification.yaml`:YAML file with manual mapping of gene neighborhood annotations based on Jaccard + Louvain clustering. Louvain communities were labeled (e.g., T6SSiii) using phylogenetic analysis of grouped proteins.
-- `jaccard_group_classification.yaml`: YAML file mapping specific Jaccard clusters to broader functional groups.
+- `jaccard_type_classification.yaml`: YAML file with assignments of gene neighborhoods to Jaccard + Louvain clusters.
+- `jaccard_group_classification.yaml`: YAML file mapping of Jaccard clusters to T6SS groups based on the literature.
 - `md5.tsv`: MD5 checksums for all [alignments](../alns) and [HMM models](../hmm) available in this resource.
 - `meta_s3.xlsx`: Metadata table for genomes used in the study; sourced from [Perez-Sepulveda et al., 2021](https://doi.org/10.1186/s13059-021-02536-3).
 - `model2function.yaml`: YAML file mapping each HMM toxin model to a thematic function (e.g., peptidoglycan, nuclease, pore-forming) used in this study..
 - `rename_model_name.yaml`:  YAML file used to rename selected models during the final analysis stage.
 - `toxdist4.xlsx`: Excel table with references, statistics, and supporting information used to manually infer the function of toxin models.
-
