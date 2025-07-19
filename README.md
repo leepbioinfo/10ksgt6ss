@@ -4,6 +4,25 @@
 
 This repository contains the data, scripts, and resources associated with our study on the diversity of Type VI Secretion System (T6SS) effectors in *Salmonella* and the discovery of a novel family of lipid-targeting antibacterial toxins.
 
+### Note on large files
+
+This repository contains files larger than 100MB. Downloading these files requires Git LFS support.
+
+```bash
+conda install git-lfs
+git lfs install
+git lfs pull
+```
+
+### Reproduce the environment
+
+```bash
+conda env create -n <env-name> -f environment.yml
+conda activate <env-name>
+```
+
+These two commands re‑create the software environment needed to run scripts in this repository.
+
 ## 📰 Citation
 
 Nicastro, G.G., Sibinelli-Sousa, S., Hespanhol, J.T., et al. (2025)  
@@ -14,7 +33,7 @@ Nicastro, G.G., Sibinelli-Sousa, S., Hespanhol, J.T., et al. (2025)
 ## 🧬 Summary
 
 - Analyzed **10,000 *Salmonella* genomes** to identify T6SS-encoded effectors.
-- Identified **128 effector groups**, including **45 novel or highly divergent domains**.
+- Identified **128 effector groups**, including **47 novel (shared hits <= 25%) or highly divergent domains (shared hits <= 75%) (Figure 2B)**.
 - Biochemically validated **Tox-Act1**, a phospholipase effector secreted by T6SS.
 - Tox-Act1 confers **competitive advantage** in the mouse gut and represents the **first lipid-targeting NlpC/P60 toxin** described in this context.
 
@@ -41,26 +60,7 @@ Nicastro, G.G., Sibinelli-Sousa, S., Hespanhol, J.T., et al. (2025)
 
 ## 📦 Requirements
 
-- Python 3.8+
-- Dependencies:
-  - `pandas 2.0+`, `Biopython`, `matplotlib`
-  - External tools: `mmseqs2`, `jackhmmer`, `mafft`, `hh-suite`, `FoldSeek`, `AlphaFold`, `DALI`
-
-Install via `environment.yml` or `requirements.txt`.
-
----
-
-## 🚀 Reproducing the Analysis
-
-1. **Prepare input data**: GFF and protein FASTA files from the 10KSG dataset.
-2. **Detect T6SS clusters**:  
-   `python scripts/identify_T6SS_clusters.py`
-3. **Effector mining and classification**:  
-   Use scripts and HMMs to identify candidates.
-4. **Structure prediction and comparison**:  
-   AlphaFold2, FoldSeek, and DALI-based remote homology.
-5. **Manual curation**:  
-   Cross-validate domain predictions with structural context and conserved neighborhoods.
+See `environment.yml`.
 
 ---
 
