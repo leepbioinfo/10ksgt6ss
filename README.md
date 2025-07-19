@@ -14,7 +14,7 @@ git lfs install
 git lfs pull
 ```
 
-### Reproduce the environment
+### Setup the environment
 
 ```bash
 conda env create -n <env-name> -f environment.yml
