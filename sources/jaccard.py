@@ -29,4 +29,3 @@ ncc = pd.Series(cc).reset_index().explode([0]).rename({'index':'ncc', 0: 'block_
 v4 = v3.merge(ncc, how='left')
 v5 = viz.merge(v4[['vizi', 'nei_c', 'ncc']], how='left')
 df.to_pickle('./10k_vizinho_novo_df_jaccard.pk')
-t3.to_pickle('./jaccard_df_vizinho_novo.pk')

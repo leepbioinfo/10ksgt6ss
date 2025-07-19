@@ -5,6 +5,7 @@ import matplotlib.gridspec as gridspec
 import matplotlib.patches as mpatches
 import matplotlib
 import matplotlib.pyplot as plt
+import pandas as pd
 
 #set font size and family for all the plot
 font = {'family' : 'Arial',

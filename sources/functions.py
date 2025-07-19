@@ -9,6 +9,110 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import math
 
+def padding_df(df, how='right'):
+    cdf = df.copy()
+    c = df.columns
+    pad_col_name=[]
+    for x in c:
+        cdf[x] = cdf[x].fillna('').astype(str)
+        w = cdf[x].str.len().max()
+        cdf[x] = cdf[x].str.pad(width =w, side=how)
+        if how == 'left':
+            pad_col_name.append(x.rjust(w))
+        else:
+            pad_col_name.append(x.ljust(w))
+
+    cdf.columns = pad_col_name
+    return cdf
+
+
+def count_series(
+        series,
+        normalize=False,
+        cut_off=False,
+        count='domain',
+        as_list=False
+        ):
+    '''
+    Function to flatten a pd.Series.value_counts
+    and count the number of domains recognized in
+    the whole proteins set of proteins
+    Mind that by default, it count domain not architecture.
+    If one wants to count architecture, it should change the count
+    option to 'architecture'.
+    The normalize options is to write the results as frequency.
+    The cut_off options is to print results only above a given threashold.
+    If the normalize function is True, you should give the cutoff value as pct.
+    Usage:
+    in: count_series(df.pfam, normalize=True, cut_off=10)
+    out:'T6SS_HCP(15.15%), SP(11.36%)'
+    in: df.groupby('c80e3').agg({'pfam':count_series})
+                                                 pfam
+    c80e3
+    AAN66278.1
+    ABO22067.1                           SP(1), TM(1)
+    ABU79335.1  Gal_mutarotas_2(1), Glyco_hydro_31(1)
+    ABV15410.1                           SP(1), TM(1)
+    ABV15414.1                                  TM(1)
+
+    '''
+    flattened_list = []
+    if count == 'architecture':
+        s = series.dropna().value_counts(normalize=normalize)
+    else:
+        s = series.str.split('+').explode().dropna().value_counts(
+                normalize=normalize
+                )
+
+    if cut_off:
+        #cut_off = cut_off/100
+        s = s.where(lambda x: x >= cut_off).dropna()
+    for y, z in s.items():
+        if normalize:
+            flattened_list.append(f'{y}({100 * z:.2f}%)')
+        else:
+            flattened_list.append(f'{y}({z})')
+    
+    if as_list:
+        if len(flattened_list) ==0:
+            return list([''])
+        else:
+            return flattened_list
+
+    return ', '.join(flattened_list)
+
+
+def serovar_fig(ser_list, output='ser_fig.pdf'):
+    count = 0
+    lines = int(math.ceil(len(ser_list)/7) *2)
+    fig = plt.figure( figsize=(10,lines),tight_layout=True)
+    gs = gridspec.GridSpec(int(lines/2), 7)
+    for x,y in enumerate(ser_list):
+        print(y)
+        count += 1
+        ax = fig.add_subplot(gs[x])
+        to_plot = t2.query('serovar in @y').drop_duplicates(subset=["basename", "genome"]).basename.value_counts().reset_index().head()
+        to_plot['func'] = to_plot['basename'].map(type_dict)
+        to_plot = to_plot.merge(pd.DataFrame(type_to_color).T, left_on='func', right_index=True).sort_values(['count','position'], ascending=[False,True])
+        to_count  = t2.query('serovar in @y').eval('t6_type = genome.map(@assembly_to_t6ss_types.t6.to_dict())')
+        to_count.t6_type  = to_count.t6_type.fillna('ND')
+        title = padding_df(to_count.drop_duplicates('genome').t6_type.value_counts().rename('#genomes').reset_index().rename({'#genomes':'T6SS types'}, axis=1))
+        title = title.to_string(index=None, justify='left')
+        title = f'{y}\n\n{title}\n'
+        tex_position_ref = (to_plot['count'].max() * 2/100)
+        plt.bar(to_plot['basename'], to_plot['count'], color=to_plot['basename'].map(type_dict).map(pd.DataFrame(type_to_color).T.color.to_dict()))
+        for i, value in to_plot.iterrows():
+            plt.text(i, value['count'] + tex_position_ref , str(value['count']), ha='center')
+        plt.title(title,loc='left')
+        ax.spines['top'].set_visible(False)
+        ax.spines['right'].set_visible(False)
+        ax.set_xticklabels(to_plot['basename'].tolist(),rotation=45, horizontalalignment='right')
+        ax.set_xlim(-1,5)
+        print(count)
+
+    plt.tight_layout()
+    plt.savefig(output)    
+
 def heat_map(df, rows, columns,top_rows=False,group=False, output = "heatmap.pdf", orderby=False, top_columns=False):
     df = df[[rows, columns]]
     pivot_table = df.pivot_table(index=rows, columns=columns, aggfunc=lambda x:1, fill_value=0).astype(int)
@@ -63,78 +167,3 @@ def heat_map(df, rows, columns,top_rows=False,group=False, output = "heatmap.pdf
     ax.yaxis.set_label_position("right")
     ax.get_yaxis().set_ticks([])
     plt.savefig(f"./{output}")
-
-    
-def padding_df(df, how='right'):
-    cdf = df.copy()
-    c = df.columns
-    pad_col_name=[]
-    for x in c:
-        cdf[x] = cdf[x].fillna('').astype(str)
-        w = cdf[x].str.len().max()
-        cdf[x] = cdf[x].str.pad(width =w, side=how)
-        if how == 'left':
-            pad_col_name.append(x.rjust(w))
-        else:
-            pad_col_name.append(x.ljust(w))
-
-    cdf.columns = pad_col_name
-    return cdf
-
-
-def count_series(
-        series,
-        normalize=False,
-        cut_off=False,
-        ):
-    '''
-    Function to flatten a pd.Series.value_counts
-    The normalize options is to write the results as frequency.
-    The cut_off options is to print results only above a given threashold.
-    If the normalize function is True, you should give the cutoff value as pct.
-    '''
-    import pandas as pd
-
-    flattened_list = []
-    s = series.dropna().value_counts(normalize=normalize)
-
-    if cut_off:
-        cut_off = cut_off/100
-        s = s.where(lambda x: x >= cut_off).dropna()
-    for y, z in s.items():
-        if normalize:
-            flattened_list.append(f'{y}({100 * z:.2f}%)')
-        else:
-            flattened_list.append(f'{y}({z})')
-    return ', '.join(flattened_list)
-
-def serovar_fig(ser_list, output='ser_fig.pdf'):
-    count = 0
-    lines = int(math.ceil(len(ser_list)/7) *2)
-    fig = plt.figure( figsize=(10,lines),tight_layout=True)
-    gs = gridspec.GridSpec(int(lines/2), 7)
-    for x,y in enumerate(ser_list):
-        print(y)
-        count += 1
-        ax = fig.add_subplot(gs[x])
-        to_plot = t2.query('serovar in @y').drop_duplicates(subset=["basename", "genome"]).basename.value_counts().reset_index().head()
-        to_plot['func'] = to_plot['basename'].map(type_dict)
-        to_plot = to_plot.merge(pd.DataFrame(type_to_color).T, left_on='func', right_index=True).sort_values(['count','position'], ascending=[False,True])
-        to_count  = t2.query('serovar in @y').eval('t6_type = genome.map(@assembly_to_t6ss_types.t6.to_dict())')
-        to_count.t6_type  = to_count.t6_type.fillna('ND')
-        title = padding_df(to_count.drop_duplicates('genome').t6_type.value_counts().rename('#genomes').reset_index().rename({'#genomes':'T6SS types'}, axis=1))
-        title = title.to_string(index=None, justify='left')
-        title = f'{y}\n\n{title}\n'
-        tex_position_ref = (to_plot['count'].max() * 2/100)
-        plt.bar(to_plot['basename'], to_plot['count'], color=to_plot['basename'].map(type_dict).map(pd.DataFrame(type_to_color).T.color.to_dict()))
-        for i, value in to_plot.iterrows():
-            plt.text(i, value['count'] + tex_position_ref , str(value['count']), ha='center')
-        plt.title(title,loc='left')
-        ax.spines['top'].set_visible(False)
-        ax.spines['right'].set_visible(False)
-        ax.set_xticklabels(to_plot['basename'].tolist(),rotation=45, horizontalalignment='right')
-        ax.set_xlim(-1,5)
-        print(count)
-
-    plt.tight_layout()
-    plt.savefig(output)    
