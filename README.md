@@ -10,7 +10,7 @@ This repository contains the data, scripts, and resources associated with our st
 - A total of **128 effector families** were identified, including **47 novel** (shared hits <= 25%) or **highly divergent*** domains (shared hits <= 75%) (Figure 2B).
 - Serovar-specific effector repertoires are present in *Salmonella*.
 - T6SS subtypes i1 and i3 associate with distinct effector classes (anti-eukaryotic vs. antibacterial).
-- STox_15 (Tox-Act1) is a **novel effector** of the NlpC/P60 fold.
+- STox_15 (Tox-Act1) is a **novel effector** of the NlpC/P60 fold related to known N-acyltransferases of the Lnb (DUF4105) family.
 - Biochemical assays demonstrated **Tox-Act1** has phospholipase activity.
 - *In vivo* assays with mutant strains showed that Tox-Act1 is secreted by the T6SS.
 - Tox-Act1 confers **competitive advantage** in the mouse gut and represents the **first lipid-targeting NlpC/P60 toxin** described in this context.
