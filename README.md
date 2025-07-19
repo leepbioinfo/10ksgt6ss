@@ -15,7 +15,7 @@ This repository contains the data, scripts, and resources associated with our st
 - *In vivo* assays with mutant strains showed that Tox-Act1 is secreted by the T6SS.
 - Tox-Act1 confers **competitive advantage** in the mouse gut and represents the **first lipid-targeting NlpC/P60 toxin** described in this context.
 
---
+---
 
 ## 🌐 Online Resource
 
