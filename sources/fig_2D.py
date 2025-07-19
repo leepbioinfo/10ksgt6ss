@@ -37,4 +37,4 @@ ax = fig.add_subplot(gs[0, 2])
 ax.set_title('i2')
 ax.pie(pci2.proportion,
        colors=pci2.colors,autopct='%1.1f%%', pctdistance=1.25)
-plt.savefig('./fig_2D.pdf')
+plt.savefig('./Figure_2D.pdf')

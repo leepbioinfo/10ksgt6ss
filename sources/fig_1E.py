@@ -8,7 +8,7 @@ from matplotlib import pyplot as plt
 from mpl_toolkits.axes_grid1.inset_locator import inset_axes
 
 data_path = "../data"
-output = "figure_1E"
+output = "Figure_1E"
 input_table = f'''{os.path.join(data_path,output)}.tsv'''
 
 # Load, concatenate and filter
@@ -16,7 +16,7 @@ overlap = pd.read_csv(input_table, sep="\t")
 overlap.sort_values(['pshamax','model','pshared','overlap'], ascending=False, inplace=True)
 
 # Start drawinf panels and histogramsi
-sns.set(rc={'text.usetex' : True})
+#sns.set(rc={'text.usetex' : True})
 sns.set_style(style='white')
 joint_kws=dict(color=None)
 marginal_kws=dict(bins=20, color='gainsboro', edgecolor='black')

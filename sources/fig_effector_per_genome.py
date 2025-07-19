@@ -54,6 +54,6 @@ ax1.spines['left'].set_color('steelblue')
 
 
 plt.tight_layout()
-plt.savefig('./Old_Figure_2A.svg')
+plt.savefig('./number_of_effectors_per_genome.svg')
 
 

@@ -5,4 +5,4 @@ from fig_2B_function import heat_map
 l = li3+li1i3+li1
 l.remove('FD01875449')
 l.remove('FD01872508')
-heat_map(t2,'genome','basename', orderby=l,top_columns=15, output='fig_2B.pdf')
+heat_map(t2,'genome','basename', orderby=l,top_columns=15, output='Figure_2B.pdf')
