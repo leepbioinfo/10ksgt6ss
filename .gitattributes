@@ -1,3 +1,4 @@
 *.pkl filter=lfs diff=lfs merge=lfs -text
 *.pk filter=lfs diff=lfs merge=lfs -text
 data/10k_vizinho_novo_df_jaccard.pkl filter=lfs diff=lfs merge=lfs -text
+data/10k_vizinho_novo_df_jaccard.tsv filter=lfs diff=lfs merge=lfs -text
