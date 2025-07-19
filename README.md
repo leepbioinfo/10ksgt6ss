@@ -4,6 +4,22 @@
 
 This repository contains the data, scripts, and resources associated with our study on the diversity of Type VI Secretion System (T6SS) effectors in *Salmonella* and the discovery of a novel family of lipid-targeting antibacterial toxins.
 
+## 🧬 Summary
+
+- Analyzed **10,000 *Salmonella* genomes** to identify T6SS-encoded effectors.
+- Identified **128 effector groups**, including **47 novel (shared hits <= 25%) or highly divergent domains (shared hits <= 75%) (Figure 2B)**.
+- Biochemically validated **Tox-Act1**, a phospholipase effector secreted by T6SS.
+- Tox-Act1 confers **competitive advantage** in the mouse gut and represents the **first lipid-targeting NlpC/P60 toxin** described in this context.
+
+---
+
+## 📰 Citation
+
+Nicastro, G.G., Sibinelli-Sousa, S., Hespanhol, J.T., et al. (2025)  
+**Genome-directed study reveals the diversity of *Salmonella* T6SS effectors and identifies a novel family of lipid-targeting antibacterial toxins**. *bioRxiv*. https://doi.org/10.1101/2024.09.27.615498
+
+---
+
 ### Note on large files
 
 This repository contains files larger than 100MB. Downloading these files requires Git LFS support.
@@ -22,22 +38,6 @@ conda activate <env-name>
 ```
 
 These two commands re‑create the software environment needed to run scripts in this repository.
-
-## 📰 Citation
-
-Nicastro, G.G., Sibinelli-Sousa, S., Hespanhol, J.T., et al. (2025)  
-**Genome-directed study reveals the diversity of *Salmonella* T6SS effectors and identifies a novel family of lipid-targeting antibacterial toxins**. *bioRxiv*. https://doi.org/10.1101/2024.09.27.615498
-
----
-
-## 🧬 Summary
-
-- Analyzed **10,000 *Salmonella* genomes** to identify T6SS-encoded effectors.
-- Identified **128 effector groups**, including **47 novel (shared hits <= 25%) or highly divergent domains (shared hits <= 75%) (Figure 2B)**.
-- Biochemically validated **Tox-Act1**, a phospholipase effector secreted by T6SS.
-- Tox-Act1 confers **competitive advantage** in the mouse gut and represents the **first lipid-targeting NlpC/P60 toxin** described in this context.
-
----
 
 ## 🔬 Repository Contents
 
