@@ -7,11 +7,13 @@ Each file generates one or more figures, loads a dataset or performs some analys
 
 ## Source Structure
 
-- `genomes.py`: this script loads all genome annotations, MMseqs2 protein clusters and merges the resulting table with domain annotations identified using from different Hidden Markov Model databases: [Pfam](https://www.ebi.ac.uk/interpro/), [CDD](https://www.ncbi.nlm.nih.gov/cdd), [TXSScan](https://github.com/macsy-models) and models by [Zhang *et al.* (2012)].(https://ftp.ncbi.nlm.nih.gov/pub/aravind/TOXIMM/)
-- `filter_t6ss_neighbors.py`: Script to remove results from the T6SSiii_tssH model (which retrieves many non-T6SS proteins) and fetch 10 genes upstream and downstream of the identified T6SS components.
-- `jaccard.py`: Script that uses the filtered data and classifies T6SS clusters using Jaccard's distance and the Louvain community detection algorithm.
-- `working_dfs.py`: Script that loads multiple dataframes and merges this data with manually curated annotations. These dataframes encompasses all data needed for figure generation and statistical analyses.
-- `fig_<figure number/item>.py`: Scripts used to generate the figures for the final manuscript. In the manuscript, some figures may have been edited with image software to enhance their quality and add other informative elements.
+- Code that requires changing file paths and/or download of publicily available data
+  - `genomes.py`: this script loads all genome annotations, MMseqs2 protein clusters and merges the resulting table with domain annotations identified using from different Hidden Markov Model databases: [Pfam](https://www.ebi.ac.uk/interpro/), [CDD](https://www.ncbi.nlm.nih.gov/cdd), [TXSScan](https://github.com/macsy-models) and models by [Zhang *et al.* (2012)].(https://ftp.ncbi.nlm.nih.gov/pub/aravind/TOXIMM/)
+  - `filter_t6ss_neighbors.py`: Script to remove results from the T6SSiii_tssH model (which retrieves many non-T6SS proteins) and fetch 10 genes upstream and downstream of the identified T6SS components.
+  - `jaccard.py`: Script that uses the filtered data and classifies T6SS clusters using Jaccard's distance and the Louvain community detection algorithm.
+  - `working_dfs.py`: Script that loads multiple dataframes and merges this data with manually curated annotations. These dataframes encompasses all data needed for figure generation and statistical analyses.
+- Code that can be executed as soon as [the environment is setup](../README.md)
+  - `fig_<figure number/item>.py`: Scripts used to generate the figures for the final manuscript. In the manuscript, some figures may have been edited with image software to enhance their quality and add other informative elements.
 
 ## Notes
 
