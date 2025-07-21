@@ -8,12 +8,13 @@ from matplotlib import pyplot as plt
 from mpl_toolkits.axes_grid1.inset_locator import inset_axes
 
 data_path = "../data"
-output = "Figure_1E"
+output = "figure_1E"
 input_table = f'''{os.path.join(data_path,output)}.tsv'''
 
 # Load, concatenate and filter
 overlap = pd.read_csv(input_table, sep="\t")
 overlap.sort_values(['pshamax','model','pshared','overlap'], ascending=False, inplace=True)
+print("Here!")
 
 # Start drawinf panels and histogramsi
 #sns.set(rc={'text.usetex' : True})
@@ -31,9 +32,9 @@ found = overlap.query('pshared > 0').copy()
 #sns.regplot(x=found.pshared, y=found.levdiff, scatter=False, ci=90, line_kws=dict(color='black', linewidth=0.5, linestyle='dashed'))
 
 # Add scatter plot
-sc = g.ax_joint.scatter(found.pshared, found.levdiff, c='black', edgecolor='black', marker="o", alpha=0.7)
-g.ax_joint.scatter(missing.pshared, missing.levdiff, edgecolor='black', color='yellow', marker="o", alpha=0.7)
-g.ax_joint.scatter(missing.query('model == "STox_15.1"').pshared, missing.query('model == "STox_15.1"').levdiff, edgecolor='black', color='red', marker="o", alpha=0.7)
+sc = g.ax_joint.scatter(found.pshared, found.levdiff, c='white', edgecolor='black', marker="o", s=70, alpha=0.7)
+g.ax_joint.scatter(missing.pshared, missing.levdiff, edgecolor='black', color='yellow', marker="o", s=70, alpha=0.7)
+g.ax_joint.scatter(missing.query('model == "STox_15.1"').pshared, missing.query('model == "STox_15.1"').levdiff, edgecolor='black', color='red', marker="o", s=70, alpha=0.7)
 
 # Vertical lines at pshared == 25% and pshared == 75%
 g.ax_joint.axvline(x=0.25, c="gray", ls=':', linewidth=0.8, zorder=0, clip_on=False)
