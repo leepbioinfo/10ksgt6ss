@@ -20,4 +20,5 @@ Each file corresponds to a specific dataset or intermediate result, and serves a
 - `meta_s3.xlsx`: Metadata table for genomes used in the study; sourced from [Perez-Sepulveda et al., 2021](https://doi.org/10.1186/s13059-021-02536-3).
 - `model2function.yaml`: YAML file mapping each HMM toxin model to a thematic function (e.g., peptidoglycan, nuclease, pore-forming) used in this study..
 - `rename_model_name.yaml`:  YAML file used to rename selected models during the final analysis stage.
+- Excel file containing the HMM models used for the detection of components of the Type 6 Secretion System, along with a mapping for renaming them.
 - `toxdist4.xlsx`: Excel table with references, statistics, and supporting information used to manually infer the function of toxin models.
