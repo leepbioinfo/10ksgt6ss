@@ -9,7 +9,8 @@ from rotifer.genome.data import NeighborhoodDF
 
 ### Data loading and preparation
 # Before execution, the merged2.tsv and ssg.tsv files must be downloaded
-# from the Zenodo repository referred in the paper and placed in ../data
+# from the Zenodo repository at https://zenodo.org/records/16358274
+# and placed in ../data
 
 # Loading genome annotations
 if os.path.exists("genome.pkl"):
