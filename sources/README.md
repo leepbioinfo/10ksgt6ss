@@ -10,7 +10,7 @@ Each file generates one or more figures, loads a dataset or performs some analys
 To be able to reproduce the results available in this repository, input datasets should be retrieved from three different sources:
 
 1. This repository's [data](../data) directory.
-2. The [Zenodo repository](https://zenodo.org/records/16066565) associated with this work, were very large files  (> 500Gb) are provided.
+2. The [Zenodo repository](https://zenodo.org/records/16358274) associated with this work, were very large files  (> 500Gb) are provided.
 3. The genome assemblies from BioProjects PRJEB35182 and PRJEB47910, available at [NCBI](https://www.ncbi.nlm.nih.gov/) website.
 
 ## Source Structure
