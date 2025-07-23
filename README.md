@@ -22,6 +22,11 @@ This repository contains the data, scripts, and resources associated with our st
 - **Effector & Structure Browser**:  
   https://leepbioinfo.github.io/10ksgt6ss  
   Includes novel STox families, alignments, and AlphaFold structures.
+- **Zenodo repository**
+
+  Includes very large (>500GB) data files used in the analysis, such as genome annotation and protein domain architecture tables.
+  
+  [![Zenodo](https://about.zenodo.org/static/img/logos/zenodo-gradient-200.png)](https://zenodo.org/records/16066565)
 
 ---
 
