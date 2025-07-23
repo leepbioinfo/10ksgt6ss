@@ -26,7 +26,7 @@ This repository contains the data, scripts, and resources associated with our st
 
   Includes very large (>500GB) data files used in the analysis, such as genome annotation and protein domain architecture tables.
   
-  [![Zenodo](https://about.zenodo.org/static/img/logos/zenodo-gradient-200.png)](https://zenodo.org/records/16066565)
+  [![Zenodo](https://about.zenodo.org/static/img/logos/zenodo-gradient-200.png)](https://zenodo.org/records/16358274)
 
 ---
 
