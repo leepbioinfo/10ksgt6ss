@@ -1,12 +1,24 @@
 import yaml
 import pandas as pd
 import numpy as np
+import os
+
+
+def find_project_root(target_folder='10ksgt6ss'):
+    current = os.path.abspath(os.getcwd())
+    while True:
+        if os.path.basename(current) == target_folder:
+            return current
+        parent = os.path.dirname(current)
+        if parent == current:
+            raise FileNotFoundError(f"'{target_folder}' not found in path hierarchy.")
+        current = parent
+
+project_root = find_project_root('10ksgt6ss')
 
 
 
-
-
-data_path = "../data/"
+data_path = f"{project_root}/data/"
 
 meta = pd.read_excel(f'{data_path}/meta_s3.xlsx')
 serovar_dict = meta[['Barcode', 'Calculated Salmonella serovar']].set_index('Barcode')['Calculated Salmonella serovar'].fillna('unknown').to_dict()
