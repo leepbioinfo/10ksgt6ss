@@ -7,28 +7,8 @@ import seaborn as sns
 from matplotlib import pyplot as plt
 from mpl_toolkits.axes_grid1.inset_locator import inset_axes
 
-def find_project_root(target_folder='10ksgt6ss'):
-    current = os.path.abspath(os.getcwd())
-    while True:
-        if os.path.basename(current) == target_folder:
-            return current
-        parent = os.path.dirname(current)
-        if parent == current:
-            raise FileNotFoundError(f"'{target_folder}' not found in path hierarchy.")
-        current = parent
-
-# Encontra a raiz do projeto
-project_root = find_project_root('10ksgt6ss')
-
-# Adiciona a pasta /sources ao sys.path
-sources_path = os.path.join(project_root, 'sources')
-sys.path.insert(0, sources_path)
-
-
-
-data_path = f"{project_root}/data"
-output = "figure_1E"
-input_table = f'''{os.path.join(data_path,output)}.tsv'''
+output = "Fig1E"
+input_table = 'figure_1E.tsv'
 
 # Load, concatenate and filter
 overlap = pd.read_csv(input_table, sep="\t")
