@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 # coding: utf-8
 
 import pandas as pd
@@ -19,26 +19,29 @@ sources_path = os.path.join(project_root, 'sources')
 sys.path.insert(0, sources_path)
 from working_dfs import j1, j2
 
-phagemodels = pd.read_csv("phagemodels.tsv", header=None)[0].tolist()
+# Loading genomic sites
 vndf = pd.read_table("10k_vizinho_novo_df_jaccard.tsv", low_memory=False)
 vndf = vndf.query('assembly.str.startswith("FD")').copy()
 
-t6ss = pd.read_excel("t6ss.xlsx","all")
-t6ssdict = t6ss.set_index('model')['replace'].to_dict()
+# Loading HMM annotations
+t6ss = pd.read_excel("t6ss.xlsx","t6ss")
+phage = pd.read_excel("t6ss.xlsx","phage")
 
 # Processing all models
 df = vndf.filter(['nei_c','assembly','block_id','cdd','rocha','pfam','aravind'])
 df = df.melt(id_vars=['assembly','nei_c','block_id'], value_vars=['cdd','rocha','pfam','aravind'], value_name='arch')
 df.arch = df.arch.fillna("").str.split("+")
 df = df.explode('arch')
-df['arch2'] = df.arch.replace(t6ssdict)
 
 # Processing phage models
+phagemodels = phage.model.drop_duplicates().tolist()
 phagedf = df.query('arch in @phagemodels')
 phagedf = phagedf.drop_duplicates(['block_id','arch'])
 phagedist = phagedf.pivot_table(index='nei_c', columns='arch', values='block_id', aggfunc='nunique', fill_value=0, dropna=False)
 
 # Processing T6SS models
+t6ssdict = t6ss.set_index('model')['replace'].to_dict()
+df['arch2'] = df.arch.replace(t6ssdict)
 t6ssmodels = t6ss['replace'].drop_duplicates().to_list()
 t6ssdf = df.copy()
 t6ssdf = t6ssdf.query('arch2 in @t6ssmodels')
@@ -51,8 +54,7 @@ locistats = vndf.groupby('nei_c').agg(genomes=('assembly','nunique'), loci=('blo
 stats = locistats.join(modeldist, how='left').fillna(0).astype(int).reset_index()
 stats.insert(1, 'revised', stats.nei_c.map(j1).tolist())
 stats.insert(2, 'final', stats.revised.map(j2).tolist())
-stats.loc[stats.nei_c.isin([24,30,36]),'final'] = 'Phage / Tailocin'
-stats.loc[stats.nei_c.isin([1,6,11]),'final'] = 'Phage / Tailocin'
+stats.loc[stats.nei_c.isin([1,6,11,24,30,36]),'final'] = 'Phage / Tailocin'
 stats.final.replace("-","Orphan",inplace=True)
 stats.sort_values(['final','genomes'], ascending=[False,False], inplace=True)
 

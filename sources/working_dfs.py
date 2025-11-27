@@ -46,7 +46,7 @@ df10.nei_c = df10.nei_c.replace(j2)
 
 
 #Adding a  rule to classify the T6SS (It must have at least two identified component)
-sf = df10.groupby('block_id').agg(t6 = ('t6ss', 'sum'), nei_c = ('nei_c', 'unique')).explode(['nei_c'])
+sf = df10.groupby('block_id').agg(t6 = ('t6ss', 'sum'), nei_c = ('nei_c', 'unique')).explode('nei_c')
 sf['keep'] =  np.where(sf.nei_c =='Orphan','Orphan', np.where(sf.t6 >2, sf.nei_c, "Orphan"))
 df10.nei_c = df10.block_id.map(sf.keep.to_dict())
 
