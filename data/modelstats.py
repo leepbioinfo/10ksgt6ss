@@ -58,6 +58,6 @@ stats.sort_values(['final','genomes'], ascending=[False,False], inplace=True)
 
 # Convert to percentual
 percent = (stats.set_index('nei_c').drop(['genomes','loci','revised','final'], axis=1).div(stats.loci, axis=0) * 100).reset_index()
-percent = stats.filter(['nei_c','genomes','loci','revised','final'], axis=1).merge(percent, on='nei_c', how='left')
-percent.insert(5,'T6SS',(percent.set_index('nei_c').loc[:,t6ss.query('core == 1 and replace != "ClpV"')['replace'].drop_duplicates().tolist()] >= 50).sum(axis=1).to_list())
+percent = stats.filter(['nei_c','revised','final','genomes','loci'], axis=1).merge(percent, on='nei_c', how='left')
+percent.insert(5,'T6SS',(percent.set_index('nei_c').loc[:,t6ss.query('core == 1')['replace'].drop_duplicates().tolist()] >= 50).sum(axis=1).to_list())
 

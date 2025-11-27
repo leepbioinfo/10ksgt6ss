@@ -726,3 +726,11 @@ get_ipython().system("grep PAAR /net/bkp/data/backup/haldane/projects/salmonella
 get_ipython().run_line_magic('who', '')
 get_ipython().run_line_magic('page', 'percent')
 get_ipython().run_line_magic('page', 'percent')
+get_ipython().run_line_magic('page', 'percent')
+get_ipython().run_line_magic('run', 'modelstats.py')
+get_ipython().run_line_magic('page', 'percent')
+get_ipython().run_line_magic('run', 'modelstats.py')
+get_ipython().run_line_magic('page', 'percent')
+get_ipython().run_line_magic('page', 'percent')
+phagemodels
+get_ipython().run_line_magic('page', '')
