@@ -16,16 +16,17 @@ def find_project_root(target_folder='10ksgt6ss'):
         current = parent
 project_root = find_project_root('10ksgt6ss')
 sources_path = os.path.join(project_root, 'sources')
+data_path = os.path.join(project_root, 'data')
 sys.path.insert(0, sources_path)
 from working_dfs import j1, j2
 
 # Loading genomic sites
-vndf = pd.read_table("10k_vizinho_novo_df_jaccard.tsv", low_memory=False)
+vndf = pd.read_table(os.path.join(data_path,"10k_vizinho_novo_df_jaccard.tsv"), low_memory=False)
 vndf = vndf.query('assembly.str.startswith("FD")').copy()
 
 # Loading HMM annotations
-t6ss = pd.read_excel("t6ss.xlsx","t6ss")
-phage = pd.read_excel("t6ss.xlsx","phage")
+t6ss = pd.read_excel(os.path.join(data_path,"t6ss.xlsx"),"t6ss")
+phage = pd.read_excel(os.path.join(data_path,"t6ss.xlsx"),"phage")
 
 # Processing all models
 df = vndf.filter(['nei_c','assembly','block_id','cdd','rocha','pfam','aravind'])
@@ -61,7 +62,7 @@ stats.sort_values(['final','genomes'], ascending=[False,False], inplace=True)
 # Convert to percentual
 percent = (stats.set_index('nei_c').drop(['genomes','loci','revised','final'], axis=1).div(stats.loci, axis=0) * 100).reset_index()
 percent = stats.filter(['nei_c','revised','final','genomes','loci'], axis=1).merge(percent, on='nei_c', how='left')
-percent.insert(5,'T6SS',(percent.set_index('nei_c').loc[:,t6ss.query('core == 1')['replace'].drop_duplicates().tolist()] >= 50).sum(axis=1).to_list())
+percent.insert(5,'T6SS',(percent.set_index('nei_c').loc[:,t6ss.query('marker == 1')['replace'].drop_duplicates().tolist()] >= 50).sum(axis=1).to_list())
 percent.insert(6,'Phage Tail',(percent.set_index('nei_c').loc[:,phage.query('firstrow == "Phage tail components"').model.drop_duplicates().tolist()] >= 50).sum(axis=1).to_list())
 percent.insert(7,'Phage Other',(percent.set_index('nei_c').loc[:,phage.query('firstrow == "Other phage components"').model.drop_duplicates().tolist()] >= 50).sum(axis=1).to_list())
 
