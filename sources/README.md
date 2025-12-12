@@ -23,6 +23,8 @@ To be able to reproduce the results available in this repository, input datasets
   2. `filter_t6ss_neighbors.py`: Script to filter false positive hits of the T6SSiii_tssH model (which retrieves many non-T6SS proteins) and fetch 10 genes upstream and downstream of the identified T6SS components.
   3. `jaccard.py`: Script that uses `filter_t6ss_neighbors.py`'s output and classifies T6SS clusters using Jaccard's distance and the Louvain community detection algorithm.
   4. `working_dfs.py`: Script that loads multiple dataframes and merges this data with manually curated annotations. These dataframes encompass all data needed for figure generation and statistical analyses.
+  5. `fdevolvedcargo1.py`: prepare info.pkl and coord.pkl for fdevolvedcargo2.py.
+  6. `fdevolvedcargo2.py`: routine to identify matches to toxins and T6SS.
 - Code that can be executed as soon as [the environment is setup](../README.md)
   - `fig_<figure number/item>.py`: Scripts used to generate the figures for the final manuscript. In the manuscript, some figures may have been edited with image software to enhance their quality and add other informative elements.
 
