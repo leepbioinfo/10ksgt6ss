@@ -7,21 +7,12 @@ import numpy as np
 import pandas as pd
 from glob import glob
 import rotifer
-from rotifer.genome import data as rgd
-from rotifer.interval import utils as riu
-from rotifer.pandas import functions as rpf
-from rotifer.devel.beta import sequence as rdbs
 from rotifer.devel.alpha import gian_func as gf
-from rotifer.devel.alpha import collection as rdac
 from other_functions import *
 
 # Setup
 today = "20240211"
 reuse = False
-
-# Load annotated neighborhoods
-rotifer.logger.warning("Loading Gian results...")
-dfj = pickle.load(open("../10k_vizinho_novo_df_jaccard.pk","rb"))
 
 # Load model annotations
 rotifer.logger.warning("Loading model annotations...")

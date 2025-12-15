@@ -2,7 +2,7 @@
 
 import community
 import networkx as nx
-df = pd.read_pickle('./vizinhos_t6_novo.pkl')
+df = pd.read_pickle('../data/vizinhos_t6_novo.pkl')
 viz = df.groupby('block_id').agg(vizi = ('c80e3', lambda x: set(pd.Series(x).dropna().drop_duplicates().sort_values().to_list())), vc = ('c80e3', 'nunique')).reset_index()
 viz2 = viz.query('vc >= 3')
 viz2 = viz2[~viz2.vizi.astype(str).duplicated(keep='first')]
@@ -28,4 +28,5 @@ cc = [c  for c in sorted(nx.connected_components(G2), key=len, reverse=True)]
 ncc = pd.Series(cc).reset_index().explode([0]).rename({'index':'ncc', 0: 'block_id'}, axis=1)
 v4 = v3.merge(ncc, how='left')
 v5 = viz.merge(v4[['vizi', 'nei_c', 'ncc']], how='left')
-df.to_pickle('./10k_vizinho_novo_df_jaccard.pk')
+df.to_pickle('../data/10k_vizinho_novo_df_jaccard.pk')
+df.to_csv('../data/10k_vizinho_novo_df_jaccard.tsv', sep="\t", index=False)

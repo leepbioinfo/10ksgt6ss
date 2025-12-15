@@ -11,10 +11,15 @@ from rotifer.genome.data import NeighborhoodDF
 # Before execution, the merged2.tsv and ssg.tsv files must be downloaded
 # from the Zenodo repository at https://zenodo.org/records/16358274
 # and placed in ../data
+#
+# merged2.tsv:
+# - Table 0f gene annotations for all contigs from the 10.000 Salmonella Genomes Project
+# ssg.tsv:
+# - Table of protein sequence similarity clusters and domain annotations
 
 # Loading genome annotations
-if os.path.exists("genome.pkl"):
-    genome = pickle.load(open("genome.pkl","rb"))
+if os.path.exists("../data/genome.pkl"):
+    genome = pickle.load(open("../data/genome.pkl","rb"))
 else:
     # Importing MMseqs clusters: (100% id, 100% cov, clusthash) and (80% cov, 0.001 e-value, easy-clust)
     # ssg: sequence similarity groups
@@ -31,4 +36,4 @@ else:
 
     # Save genome annotation
     genome = genome.query('type != "gene"')
-    pickle.dump(genome, open("genome.pkl",'wb'))
+    pickle.dump(genome, open("../data/genome.pkl",'wb'))

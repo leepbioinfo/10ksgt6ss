@@ -13,15 +13,32 @@ from rotifer.interval import utils as riu
 from rotifer.pandas import functions as rpf
 from rotifer.devel.beta import sequence as rdbs
 from rotifer.devel.alpha import gian_func as gf
-from rotifer.devel.alpha import collection as rdac
 import models as mparser
 import sql
 from other_functions import *
 
+def find_project_root(target_folder='10ksgt6ss'):
+    current = os.path.abspath(os.getcwd())
+    while True:
+        if os.path.basename(current) == target_folder:
+            return current
+        parent = os.path.dirname(current)
+        if parent == current:
+            raise FileNotFoundError(f"'{target_folder}' not found in path hierarchy.")
+        current = parent
+
+# Encontra a raiz do projeto
+project_root = find_project_root('10ksgt6ss')
+
+# Adiciona a pasta /sources ao sys.path
+sources_path = os.path.join(project_root, 'sources')
+data_path = os.path.join(project_root, 'data')
+sys.path.insert(0, sources_path)
+
 #get_ipython().run_line_magic('logstart', 'source4.py')
 rotifer.logger.warning("Starting...")
 today = "20240211"
-reuse = True # Load some pre-calculated data, instead of recalculting (e.g. toxnei)
+reuse = True # Load some pre-calculated data, instead of recalculting
 save = True # False # Do not save output files
 
 # Connect to SQLite3 database: full genome annotation and c100i100 clusters
@@ -29,54 +46,34 @@ rotifer.logger.warning("Connecting to the Salmonella database...")
 
 # Load annotated neighborhoods
 rotifer.logger.warning("Loading Gian results...")
-dfj = pd.read_csv("../data/10k_vizinho_novo_df_jaccard.tsv", sep="\t")
-merged2 = pd.read_csv("merged2.tsv", sep="\t")
+dfj = pd.read_csv(os.path.join(data_path,"10k_vizinho_novo_df_jaccard.tsv"), sep="\t")
 
 # Load model annotations
 rotifer.logger.warning("Loading model annotations...")
 #cdd = pd.read_csv("/databases/cdd/cddid_all.tbl", sep="\t", names=["id","basename","name","description","length"])
-models = pd.read_excel("models.xlsx")
-xlsx = pd.ExcelFile("control.xlsx")
+models = pd.read_excel(os.path.join(data_path,"models.xlsx"))
+xlsx = pd.ExcelFile(os.path.join(data_path,"control.xlsx"))
 t6ssmap = pd.read_excel(xlsx, "t6ssmap")
 toxann = pd.read_excel(xlsx, "toxann")
 t6loci = pd.read_excel(xlsx, "t6loci")
-modex = pd.read_csv("modex.tsv", names=['modex']).modex.tolist()
+modex = pd.read_csv(os.path.join(data_path,"modex.tsv"), names=['modex']).modex.tolist()
 
 # Load architectures
 rotifer.logger.warning("Loading cluster, architectures and coordinates...")
-info = pd.read_pickle("info.pkl")
-coord = pd.read_pickle("coord.pkl")
+info = pd.read_pickle(os.path.join(data_path,"info.pkl"))
+coord = pd.read_pickle(os.path.join(data_path,"coord.pkl"))
 
 # Laod clusters
-ssg = pd.read_csv("ssg.tsv")
+ssg = pd.read_csv(os.path.join(data_path,"ssg.tsv"))
 
 # Load genomic locations
 rotifer.logger.warning("Loading genomic locations...")
 if reuse and os.path.exists("toxnei.pkl"):
     toxnei = pd.read_pickle("toxnei.pkl")
 else:
-    toxnei = merged2.neighbors(coord.ID.drop_duplicates().tolist(), before=20, after=20, min_block_distance=5)
-    toxnei = merged2.merge(ssg, on='pid', how='left')
+    toxnei = genome[genome.c100i100.isin(coord.ID.to_list())]
     toxnei.to_pickle("toxnei.pkl")
-toxnei['block_id'] = ((toxnei.nucleotide != toxnei.nucleotide.shift(1)) | (toxnei.feature_order - toxnei.feature_order.shift(1) > 5)).cumsum()
-
-# Identifying unknown N-terminal regions
-rotifer.logger.warning("Identifying unannotated C-terminal regions...")
-if reuse and os.path.basename("cterm.xlsx"):
-    cterm = pd.read_excel("cterm.xlsx")
-else:
-    t6fused = coord.basename.isin(t6ssmap.query('Evolved == 1').basename)
-    t6fused = coord.ID.isin(coord[t6fused].ID)
-    cterm = coord[t6fused].rename({'ID':'c100i100'}, axis=1)
-    cterm = cterm.groupby('c100i100').agg(start=('end','max')).eval('start = start + 1').reset_index()
-    cterm['end'] = cterm.c100i100.map(rdbs.sequence(cterm.c100i100.tolist()).df.set_index('id').length.to_dict())
-    cterm = cterm.query('end - start >= 40') # Keep only N-terminal regions >= 40 aa
-    cterm['ctlen'] = cterm.end - cterm.start
-    cterm.start += 1
-    cterm = cterm.merge(info.filter([ x for x in info.columns if x not in ["c80i0","c80e3","c80i70","pid","function"] ]).drop_duplicates(), on="c100i100", how="left")
-    cterm.sort_values(['ctlen'], ascending=False, inplace=True)
-    cterm.to_excel("cterm.xlsx", index=False)
-    del(t6fused)
+toxnei['block_id'] = ((toxnei.nucleotide != toxnei.nucleotide.shift(1)) | (toxnei.feature_order - toxnei.feature_order.shift(1) > 10)).cumsum()
 
 # Selecting toxins
 rotifer.logger.warning("Identifying toxins...")
@@ -109,37 +106,15 @@ toxins.function.replace("toxin","Toxin", inplace=True)
 toxins = toxins[toxins.function.isin(['Toxin','Fused_to'])] # This important filter removes noise using domain2architecture's best models!
 t6fused = toxins.query('function == "Fused_to"').copy()
 toxins = toxins.query('function == "Toxin"').copy()
-t6fused = t6fused.merge(sql.fetch_identical(gnc, t6fused.c100i100.tolist()), on='c100i100', how='left')
+t6fused = t6fused.merge(ssg, on='c100i100', how='left')
 t6fused = t6fused.filter(['c100i100','pid','Toxin','source'], axis=1)
 t6fused.rename({'Toxin':'Fused_to','source':'EvolvedStrategy'}, axis=1, inplace=True)
 t6fused.drop_duplicates(inplace=True)
 t6fused.Fused_to = t6fused.Fused_to.fillna("") + ":" + t6fused.pid.fillna("")
 
-# Identifying overlapping toxin models
-rotifer.logger.warning("Identifying overlapping toxin models...")
-modelmatch = toxins.reset_index().rename({'index':'oid'}, axis=1)
-modelmatch.sort_values(['c100i100','evalue'], ascending=True, inplace=True)
-modelmatch = modelmatch.merge(modelmatch, on="c100i100", how="inner")
-modelmatch = modelmatch.query('not (start_x > end_y or end_x < start_y)')
-modelmatch['overlap'] = np.minimum(modelmatch.end_x,modelmatch.end_y) - np.maximum(modelmatch.start_x,modelmatch.start_y) + 1
-modelmatch['overlap'] = modelmatch['overlap'] / (np.maximum(modelmatch.end_x,modelmatch.end_y) - np.minimum(modelmatch.start_x,modelmatch.start_y) + 1)
-modelmatch = modelmatch.query('overlap >= 0.4')
-modelmatch = modelmatch.merge(sql.fetch_identical(gnc, modelmatch.c100i100.tolist()), on='c100i100', how='left')
-tmp = modelmatch.source_y.drop_duplicates().sort_values().tolist()
-for x in tmp:
-    modelmatch[x] = np.where(modelmatch.source_y == x, modelmatch.pid, np.NaN)
-modelmatch = modelmatch.filter(['source_x','source_y','basename_x','basename_y','Toxin_x','Toxin_y','pid'] + tmp)
-modelmatch = modelmatch.drop_duplicates()
-tmp = { x:'nunique' for x in tmp }
-tmp = { 'pid':'nunique', **tmp, 'basename_y':gf.count_series }
-modelmatch = modelmatch.groupby(['source_x','basename_x','Toxin_x']).agg(tmp)
-modelmatch = modelmatch.reset_index().sort_values(['source_x','basename_x','Toxin_x'])
-modelmatch.to_excel("modelmatch.xlsx", index=False)
-del(tmp)
-
 # Finding identical proteins
 rotifer.logger.warning("Load identical proteins and identify best toxin models...")
-toxins = toxins.merge(sql.fetch_identical(gnc, toxins.c100i100.tolist()), on='c100i100', how='left')
+toxins = toxins.merge(ssg, on='c100i100', how='left')
 toxins['score'] = toxins.source.map({'st':1, 'aravind':1, 'pfam':1, 'cdd':3, 'rocha':4})
 toxins = riu.filter_nonoverlapping_regions(toxins, reference=['pid'], start='start', end='end', criteria={'score':True, 'evalue':True, 'region_length':False})
 
