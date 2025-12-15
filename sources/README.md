@@ -23,7 +23,7 @@ To be able to reproduce the results available in this repository, input datasets
   2. `step2.sh`: run HMMscan to annotate the proteomes and HMMsearch to identify putative homologs of T6SS components. Generates [t6ss.acc](../data/t6ss.acc).
   3. `step3.py`: load and merge `step1.sh` and `step2.sh` results. Generates the file ssg.tsv that is available in our Zenodo repository.
   4. `step4.py`: load the genome features table and merges it with MMseqs2 protein clusters and domain annotations.
-  5. `step5.py`: filter false positive hits of the T6SSiii_tssH model, which retrieves too many non-T6SS proteins, and then define genomic sites by selecting up to 10 genes upstream and downstream of the identified T6SS components.
+  5. `step5.py`: define genomic sites by selecting up to 10 genes upstream and downstream of the identified T6SS components. This action is performed after removal of false positive hits of the T6SSiii_tssH model, which retrieves too many non-T6SS proteins.
   6. `step6.py`: process genomic sites using Jaccard's distance and the Louvain community detection algorithm.
   7. `step7.py`: build a preliminary set of putative new toxins by processing C-terminal unknown regions in proteins of genomic sites that are associated by fusion or neighborhood to T6SS markers.
   8. `step8.sh`: run our new toxin models against the 10KSG proteomes.

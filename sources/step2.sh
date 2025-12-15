@@ -60,7 +60,7 @@ hmmer2table ${target}.pfam.*.hmmsearch.out > ${target}.pfam.hmmsearch.tsv
 domain2architecture -e 0.1 ${target}.pfam.hmmsearch.tsv > ${target}.pfam.hmmsearch.arch
 
 # Searching homologs of CDD MIX and FIX models
-tfilter -f '$F[2]=~/MIX|FIX-like/' -f 'use File::Basename;$F[1]=dirname($H{"current_file"})."/$F[1].hmm"' ../../data/models/cdd/cddid_all.t6ss.tsv -i 1 \
+tfilter -f '$F[2]=~/MIX|FIX-like/' -f 'use File::Basename;$F[1]=dirname($H{"current_file"})."/$F[1].hmm"' ../data/models/cdd/cddid_all.t6ss.tsv -i 1 \
 | parallel -N1 hmmsearch -o ${target}.cdd.{/.}.hmmsearch.out {} ${input}
 hmmer2table ${target}.cdd.*.hmmsearch.out > ${target}.cdd.hmmsearch.tsv
 domain2architecture -e 1 ${target}.cdd.hmmsearch.tsv > ${target}.cdd.hmmsearch.arch
