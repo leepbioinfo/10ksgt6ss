@@ -26,7 +26,7 @@ This repository contains the data, scripts, and resources associated with our st
 
   Includes very large (>500GB) data files used in the analysis, such as genome annotation and protein domain architecture tables.
   
-  [![Zenodo](https://about.zenodo.org/static/img/logos/zenodo-gradient-200.png)](https://zenodo.org/records/17080338)
+  [![Zenodo](https://about.zenodo.org/static/img/logos/zenodo-gradient-200.png)](https://zenodo.org/records/10.5281/zenodo.17968970)
 
 ---
 
@@ -64,12 +64,13 @@ See `environment.yml`.
 
 ## 🔬 Repository Contents
 
-- `hmm/` – HMM profiles used in this study
-- `sources/` – Python scripts for T6SS detection, clustering, figure production and annotation
-- `html/` – Sequence alignment files in HTML format, used in the interactive supplementary data.
-- `alns/` –Raw alignments in FASTA format for each model generated in this study, along with corresponding HHpred results in both .hhr (text) and HTML formats.
-- `pdbs/` –Mol* sessions with AlphaFold-predicted structures for each toxic domain model created in this study.
+- `alns/` – Raw alignments in FASTA format for each model generated in this study, along with corresponding HHpred results in both .hhr (text) and HTML formats.
 - `data/` – Data folder containing Python pickle objects, Excel tables, and YAML files used in both manual analyses and automated scripts from the `source` folder.
+- `genome_context/` - gene neighborhoods for each toxin.
+- `hmm/` – HMM profiles used in this study.
+- `html/` – Sequence alignment files in HTML format, used in the interactive supplementary data.
+- `pdbs/` – Mol* sessions with AlphaFold-predicted structures for each toxic domain model created in this study.
+- `sources/` – Python scripts for T6SS detection, clustering, figure production and annotation
 
 ---
 
