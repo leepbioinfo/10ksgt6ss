@@ -11,7 +11,7 @@ To be able to reproduce the results available in this repository, input datasets
 
 1. This repository's [data](../data) directory.
 2. The [Zenodo repository](https://zenodo.org/records/17968970) associated with this work, includes some very large files used by the script `genomes.py` (see below):
-	1. 10ksgt6ss-3.zip: latest copy of our GitHub repository.
+	1. 10ksgt6ss-8.zip: latest copy of our GitHub repository.
 	2. merge2.tsv.gz: 10KSGs genome annotations in a tabular format.
 	3. ssg.tsv: comma-separated table of sequence similarity groups and protein domain architectures for putative T6SS components and nearby genes.
 	4. merged2.faa.gz: all protein sequences of 10K Salmonella genomes.
