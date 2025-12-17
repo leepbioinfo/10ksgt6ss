@@ -76,3 +76,6 @@ cut -f 1 ${target}.*.hmmsearch.arch | sort -u | grep -v ^ID > ../data/t6ss.acc
 
 # Remove empty files
 find . -size 0c -exec rm -f \{\} \;
+
+# Merging results from different model databases
+tfilter --configfile concatarchtsv.conf ${target}.*.scan.arch.tsv > merged2.scan.arch.tsv
